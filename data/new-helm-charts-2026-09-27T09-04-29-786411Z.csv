@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-09-27T08:32:31Z,backup-stack,quench-backup-stack,0.0.1,"Hardened Kubernetes backup: Velero with its AWS plugin, backing up to SeaweedFS over S3 in the same install, with generated keys, a bucket created at install and the backup location already configured. All QuenchWorks images are nonroot, 0-CVE, pinned by digest and cosign-signed."
