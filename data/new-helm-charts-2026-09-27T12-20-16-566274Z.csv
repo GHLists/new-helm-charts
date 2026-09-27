@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-09-27T12:01:57Z,fauxgpu,fauxgpu,0.2.2,"Simulate a real GPU datacenter with zero GPUs — real Kubernetes GPU-resource scheduling (a fake device-plugin or run-ai/fake-gpu-operator), a real training/inference API and Next.js UI, and a real Prometheus/Grafana/ Langfuse observability stack, so anyone can learn distributed training/inference i…"
+2026-09-27T12:09:51Z,proxysql,quench-proxysql,0.0.2,"ProxySQL, the MySQL-protocol proxy: connection pooling, read/write splitting, query routing and backend failover for MySQL and MariaDB. Hardened by QuenchWorks as a minimal, nonroot, 0-CVE image, cosign-signed and pinned by digest."
+2026-09-27T12:09:51Z,squid,quench-squid,0.0.1,"Squid, the caching forward proxy for HTTP and HTTPS (CONNECT). Pods reach the outside through it, and it caches repeat fetches in memory. Hardened by QuenchWorks as a minimal, nonroot, 0-CVE image, cosign-signed and pinned by digest."
