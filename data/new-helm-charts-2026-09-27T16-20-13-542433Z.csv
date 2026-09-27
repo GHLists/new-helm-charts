@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-09-27T15:32:59Z,powerdns-recursor,quench-powerdns-recursor,0.0.2,"PowerDNS Recursor, the caching DNS resolver, built from source. Resolves for private-network clients only, with DNSSEC validation, forward zones and local auth zones. Hardened by QuenchWorks as a minimal, nonroot, 0-CVE image, cosign-signed and pinned by digest."
