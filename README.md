@@ -14,17 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 12:20 UTC
+## Latest list — 2026-09-27 13:22 UTC
 
-New charts added between 2026-09-27 11:20 UTC and 2026-09-27 12:20 UTC.
+New charts added between 2026-09-27 12:20 UTC and 2026-09-27 13:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-27T12-20-16-566274Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-27T13-22-05-020707Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-27 12:01:57 | [fauxgpu](https://artifacthub.io/packages/helm/fauxgpu/fauxgpu) | fauxgpu | 0.2.2 | Simulate a real GPU datacenter with zero GPUs — real Kubernetes GPU-resource sc… |
-| 2026-09-27 12:09:51 | [proxysql](https://artifacthub.io/packages/helm/quench-proxysql/proxysql) | quench-proxysql | 0.0.2 | ProxySQL, the MySQL-protocol proxy: connection pooling, read/write splitting, q… |
-| 2026-09-27 12:09:51 | [squid](https://artifacthub.io/packages/helm/quench-squid/squid) | quench-squid | 0.0.1 | Squid, the caching forward proxy for HTTP and HTTPS (CONNECT). Pods reach the o… |
+| 2026-09-27 13:09:40 | [powerdns](https://artifacthub.io/packages/helm/quench-powerdns/powerdns) | quench-powerdns | 0.0.1 | PowerDNS Authoritative Server, built from source. Serves zones from LMDB on a p… |
 
 ## Data source
 
