@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 13:22 UTC
+## Latest list — 2026-09-27 14:21 UTC
 
-New charts added between 2026-09-27 12:20 UTC and 2026-09-27 13:22 UTC.
+New charts added between 2026-09-27 13:22 UTC and 2026-09-27 14:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-27T13-22-05-020707Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-27T14-21-28-04137Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-27 13:09:40 | [powerdns](https://artifacthub.io/packages/helm/quench-powerdns/powerdns) | quench-powerdns | 0.0.1 | PowerDNS Authoritative Server, built from source. Serves zones from LMDB on a p… |
+| 2026-09-27 13:32:26 | [dns-stack](https://artifacthub.io/packages/helm/quench-dns-stack/dns-stack) | quench-dns-stack | 0.0.2 | Self-hosted DNS for Kubernetes: PowerDNS Authoritative serves the zones and ext… |
 
 ## Data source
 

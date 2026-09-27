@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-09-27T13:32:26Z,dns-stack,quench-dns-stack,0.0.2,"Self-hosted DNS for Kubernetes: PowerDNS Authoritative serves the zones and external-dns writes records into it from annotated Services and Ingresses, through the PowerDNS API with a key the stack generates. All QuenchWorks images are nonroot, 0-CVE, pinned by digest and cosign-signed."
