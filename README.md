@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 10:21 UTC
+## Latest list — 2026-09-27 11:20 UTC
 
-New charts added between 2026-09-27 09:22 UTC and 2026-09-27 10:21 UTC.
+New charts added between 2026-09-27 10:21 UTC and 2026-09-27 11:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-27T10-21-31-601144Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-27T11-20-04-977659Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-27 10:09:35 | [ingress-stack](https://artifacthub.io/packages/helm/quench-ingress-stack/ingress-stack) | quench-ingress-stack | 0.0.2 | Hardened ingress with TLS out of the box: ingress-nginx as the default IngressC… |
+| 2026-09-27 10:38:33 | [supply-chain-stack](https://artifacthub.io/packages/helm/quench-supply-chain-stack/supply-chain-stack) | quench-supply-chain-sta… | 0.0.1 | Admission-time supply-chain control: Kyverno admits only QuenchWorks images sig… |
 
 ## Data source
 

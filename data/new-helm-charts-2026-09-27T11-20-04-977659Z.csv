@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-09-27T10:38:33Z,supply-chain-stack,quench-supply-chain-stack,0.0.1,"Admission-time supply-chain control: Kyverno admits only QuenchWorks images signed by the QuenchWorks build workflows (cosign keyless, checked against Sigstore) in the namespaces you label, and trivy-operator scans what runs. All QuenchWorks images are nonroot, 0-CVE, pinned by digest and cosign-si…"
