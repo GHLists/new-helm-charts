@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-09-27T10:09:35Z,ingress-stack,quench-ingress-stack,0.0.2,"Hardened ingress with TLS out of the box: ingress-nginx as the default IngressClass and cert-manager with a cluster CA issuer the stack creates, so an Ingress gets a certificate from a single annotation. Bring your own ACME issuer for public certificates. All QuenchWorks images are nonroot, 0-CVE,…"

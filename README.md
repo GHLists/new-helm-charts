@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 09:04 UTC
+## Latest list — 2026-09-27 10:21 UTC
 
-New charts added between 2026-09-27 08:04 UTC and 2026-09-27 09:04 UTC.
+New charts added between 2026-09-27 09:22 UTC and 2026-09-27 10:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-27T09-04-29-786411Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-27T10-21-31-601144Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-27 08:32:31 | [backup-stack](https://artifacthub.io/packages/helm/quench-backup-stack/backup-stack) | quench-backup-stack | 0.0.1 | Hardened Kubernetes backup: Velero with its AWS plugin, backing up to SeaweedFS… |
+| 2026-09-27 10:09:35 | [ingress-stack](https://artifacthub.io/packages/helm/quench-ingress-stack/ingress-stack) | quench-ingress-stack | 0.0.2 | Hardened ingress with TLS out of the box: ingress-nginx as the default IngressC… |
 
 ## Data source
 
