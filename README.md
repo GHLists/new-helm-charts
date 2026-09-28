@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 16:20 UTC
+## Latest list — 2026-09-28 00:21 UTC
 
-New charts added between 2026-09-27 15:21 UTC and 2026-09-27 16:20 UTC.
+New charts added between 2026-09-27 23:21 UTC and 2026-09-28 00:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-27T16-20-13-542433Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-28T00-21-25-344518Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-27 15:32:59 | [powerdns-recursor](https://artifacthub.io/packages/helm/quench-powerdns-recursor/powerdns-recursor) | quench-powerdns-recursor | 0.0.2 | PowerDNS Recursor, the caching DNS resolver, built from source. Resolves for pr… |
+| 2026-09-27 23:38:41 | [quetzal](https://artifacthub.io/packages/helm/quetzal/quetzal) | quetzal | 0.5.0 | Game servers, run by Kubernetes. A self-hosted panel for Minecraft, Valheim and… |
+| 2026-09-27 23:46:10 | [system-upgrade-controller](https://artifacthub.io/packages/helm/this-is-tobi-helm-charts/system-upgrade-controller) | this-is-tobi-helm-charts | 0.1.0 | Secure, plug-and-play Helm chart for the Rancher system-upgrade-controller, wit… |
 
 ## Data source
 
