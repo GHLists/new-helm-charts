@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-09-28T13:43:23Z,admiral-k8s-agent,admiral,0.5.0,Connects a Kubernetes cluster to Admiral.
