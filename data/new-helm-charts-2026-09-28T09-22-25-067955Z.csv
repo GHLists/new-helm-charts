@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-09-28T09:04:02Z,homepage,quench-homepage,0.0.2,"Homepage, a services and bookmarks dashboard with live widgets for hundreds of self-hosted apps, configured from values and able to discover services from Kubernetes. Hardened by QuenchWorks, built from source, 0-CVE, cosign-signed and pinned by digest."
