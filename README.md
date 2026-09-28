@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 11:21 UTC
+## Latest list — 2026-09-28 12:20 UTC
 
-New charts added between 2026-09-28 10:25 UTC and 2026-09-28 11:21 UTC.
+New charts added between 2026-09-28 11:21 UTC and 2026-09-28 12:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-28T11-21-09-981027Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-28T12-20-43-367092Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-28 11:02:33 | [kubefacet](https://artifacthub.io/packages/helm/kubefacet/kubefacet) | kubefacet | 0.2.1 | Kubernetes operator for building typed, aggregated views of Kubernetes resource… |
+| 2026-09-28 12:04:27 | [odoo](https://artifacthub.io/packages/helm/quench-odoo/odoo) | quench-odoo | 0.0.2 | Odoo Community Edition, the Python ERP and business apps suite (CRM, sales, inv… |
 
 ## Data source
 
