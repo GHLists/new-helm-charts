@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-09-28T21:55:34Z,voicestudio,obeone,0.1.0,"VoiceStudio (formerly OmniVoice Studio) — an open-source, fully local ElevenLabs alternative: voice cloning, voice design, dubbing, dictation, transcription and audiobook creation. This Helm chart runs the headless server image (API + web UI on a single port), CPU by default with optional NVIDIA or…"
