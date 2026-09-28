@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-09-28T20:31:03Z,github-oidc-exchange,github-oidc-exchange,0.3.4,Platform OIDC exchange issuer for GitHub and Kubernetes workload identity
+2026-09-28T20:45:09Z,steward-run-arc,steward-run,0.6.0,Installable steward-run adapter for the upstream ARC runner scale set
+2026-09-28T20:45:11Z,steward,steward,0.1.7,Governance control plane for policy-bound coding-agent workloads

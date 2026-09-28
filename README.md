@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 19:21 UTC
+## Latest list — 2026-09-28 21:22 UTC
 
-New charts added between 2026-09-28 18:19 UTC and 2026-09-28 19:21 UTC.
+New charts added between 2026-09-28 20:19 UTC and 2026-09-28 21:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-28T19-21-10-391344Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-28T21-22-42-994409Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-28 18:56:01 | [rainstone](https://artifacthub.io/packages/helm/cloudve/rainstone) | cloudve | 0.3.0 | Galaxy compute cost reporting, deployed alongside Galaxy |
+| 2026-09-28 20:31:03 | [github-oidc-exchange](https://artifacthub.io/packages/helm/github-oidc-exchange/github-oidc-exchange) | github-oidc-exchange | 0.3.4 | Platform OIDC exchange issuer for GitHub and Kubernetes workload identity |
+| 2026-09-28 20:45:09 | [steward-run-arc](https://artifacthub.io/packages/helm/steward-run/steward-run-arc) | steward-run | 0.6.0 | Installable steward-run adapter for the upstream ARC runner scale set |
+| 2026-09-28 20:45:11 | [steward](https://artifacthub.io/packages/helm/steward/steward) | steward | 0.1.7 | Governance control plane for policy-bound coding-agent workloads |
 
 ## Data source
 
