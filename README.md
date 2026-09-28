@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 10:25 UTC
+## Latest list — 2026-09-28 11:21 UTC
 
-New charts added between 2026-09-28 09:22 UTC and 2026-09-28 10:25 UTC.
+New charts added between 2026-09-28 10:25 UTC and 2026-09-28 11:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-28T10-25-50-328301Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-28T11-21-09-981027Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-28 09:33:04 | [metabase](https://artifacthub.io/packages/helm/quench-metabase/metabase) | quench-metabase | 0.0.1 | Metabase open-source edition: self-service BI and dashboards, with its applicat… |
-| 2026-09-28 10:04:00 | [activemq-artemis](https://artifacthub.io/packages/helm/quench-activemq-artemis/activemq-artemis) | quench-activemq-artemis | 0.0.1 | Apache Artemis (formerly ActiveMQ Artemis), the multi-protocol Java message bro… |
+| 2026-09-28 11:02:33 | [kubefacet](https://artifacthub.io/packages/helm/kubefacet/kubefacet) | kubefacet | 0.2.1 | Kubernetes operator for building typed, aggregated views of Kubernetes resource… |
 
 ## Data source
 

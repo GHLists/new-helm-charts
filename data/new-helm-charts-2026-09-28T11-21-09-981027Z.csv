@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-09-28T11:02:33Z,kubefacet,kubefacet,0.2.1,"Kubernetes operator for building typed, aggregated views of Kubernetes resources across namespaces"
