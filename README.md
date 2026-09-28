@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 00:21 UTC
+## Latest list — 2026-09-28 07:21 UTC
 
-New charts added between 2026-09-27 23:21 UTC and 2026-09-28 00:21 UTC.
+New charts added between 2026-09-28 06:21 UTC and 2026-09-28 07:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-28T00-21-25-344518Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-28T07-21-29-916664Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-27 23:38:41 | [quetzal](https://artifacthub.io/packages/helm/quetzal/quetzal) | quetzal | 0.5.0 | Game servers, run by Kubernetes. A self-hosted panel for Minecraft, Valheim and… |
-| 2026-09-27 23:46:10 | [system-upgrade-controller](https://artifacthub.io/packages/helm/this-is-tobi-helm-charts/system-upgrade-controller) | this-is-tobi-helm-charts | 0.1.0 | Secure, plug-and-play Helm chart for the Rancher system-upgrade-controller, wit… |
+| 2026-09-28 07:09:39 | [tetragon](https://artifacthub.io/packages/helm/quench-tetragon/tetragon) | quench-tetragon | 0.0.1 | Tetragon eBPF runtime security: an agent on every node that sees process execut… |
 
 ## Data source
 

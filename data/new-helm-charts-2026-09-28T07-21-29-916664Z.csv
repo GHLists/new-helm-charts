@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-09-28T07:09:39Z,tetragon,quench-tetragon,0.0.1,"Tetragon eBPF runtime security: an agent on every node that sees process execution, file access and network activity in the kernel, with TracingPolicy CRDs for custom hooks and enforcement. Hardened by QuenchWorks, images built from source, 0-CVE, cosign-signed and pinned by digest."
