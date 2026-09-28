@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 07:21 UTC
+## Latest list — 2026-09-28 08:20 UTC
 
-New charts added between 2026-09-28 06:21 UTC and 2026-09-28 07:21 UTC.
+New charts added between 2026-09-28 07:21 UTC and 2026-09-28 08:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-28T07-21-29-916664Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-28T08-20-07-841362Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-28 07:09:39 | [tetragon](https://artifacthub.io/packages/helm/quench-tetragon/tetragon) | quench-tetragon | 0.0.1 | Tetragon eBPF runtime security: an agent on every node that sees process execut… |
+| 2026-09-28 08:04:22 | [pillar-csi](https://artifacthub.io/packages/helm/pillar-csi/pillar-csi) | pillar-csi | 0.2.0 | A Helm chart for deploying pillar-csi — a Kubernetes CSI plugin with pluggable… |
 
 ## Data source
 
