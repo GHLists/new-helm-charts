@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 16:21 UTC
+## Latest list — 2026-09-28 19:21 UTC
 
-New charts added between 2026-09-28 15:20 UTC and 2026-09-28 16:21 UTC.
+New charts added between 2026-09-28 18:19 UTC and 2026-09-28 19:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-28T16-21-20-47234Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-28T19-21-10-391344Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-28 15:40:22 | [ibm-text2sql](https://artifacthub.io/packages/helm/ibm-helm/ibm-text2sql) | ibm-helm | 4.3.0 | A Helm chart for IBM Text2SQL |
+| 2026-09-28 18:56:01 | [rainstone](https://artifacthub.io/packages/helm/cloudve/rainstone) | cloudve | 0.3.0 | Galaxy compute cost reporting, deployed alongside Galaxy |
 
 ## Data source
 
