@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 14:25 UTC
+## Latest list — 2026-09-28 16:21 UTC
 
-New charts added between 2026-09-28 13:23 UTC and 2026-09-28 14:25 UTC.
+New charts added between 2026-09-28 15:20 UTC and 2026-09-28 16:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-28T14-25-11-800228Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-28T16-21-20-47234Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-28 13:43:23 | [admiral-k8s-agent](https://artifacthub.io/packages/helm/admiral/admiral-k8s-agent) | admiral | 0.5.0 | Connects a Kubernetes cluster to Admiral. |
+| 2026-09-28 15:40:22 | [ibm-text2sql](https://artifacthub.io/packages/helm/ibm-helm/ibm-text2sql) | ibm-helm | 4.3.0 | A Helm chart for IBM Text2SQL |
 
 ## Data source
 
