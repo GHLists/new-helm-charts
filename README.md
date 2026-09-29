@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 08:28 UTC
+## Latest list — 2026-09-29 09:19 UTC
 
-New charts added between 2026-09-29 07:19 UTC and 2026-09-29 08:28 UTC.
+New charts added between 2026-09-29 08:28 UTC and 2026-09-29 09:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-29T08-28-05-961403Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-29T09-19-40-63408Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-29 07:58:11 | [jupyter-imagepuller](https://artifacthub.io/packages/helm/jupyter-jsc/jupyter-imagepuller) | jupyter-jsc | 1.0.0 | A Helm chart for Kubernetes |
+| 2026-09-29 08:32:27 | [observability-extras](https://artifacthub.io/packages/helm/observability-extras/observability-extras) | observability-extras | 0.1.1 | Content pack for the observability stack — dashboards, contracts and alert rule… |
+| 2026-09-29 08:32:28 | [observability-core](https://artifacthub.io/packages/helm/observability-core/observability-core) | observability-core | 0.1.0 | Umbrella chart for the observability storage core (VictoriaMetrics / VictoriaLo… |
+| 2026-09-29 08:32:29 | [observability-collect](https://artifacthub.io/packages/helm/observability-collect/observability-collect) | observability-collect | 0.1.0 | Umbrella chart for the observability collection core (vmagent / vlagent / vtage… |
 
 ## Data source
 

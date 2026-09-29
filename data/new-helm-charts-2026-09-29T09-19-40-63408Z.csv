@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-09-29T08:32:27Z,observability-extras,observability-extras,0.1.1,"Content pack for the observability stack — dashboards, contracts and alert rules. Ships the platform tier only, the content of a particular installation is handed in through values, so the chart can be vendored or pulled from a registry as it is. Deliberately separate from observability-core, which…"
+2026-09-29T08:32:28Z,observability-core,observability-core,0.1.0,"Umbrella chart for the observability storage core (VictoriaMetrics / VictoriaLogs / VictoriaTraces, metrics contracts, disk autoscaling, deadman switch)"
+2026-09-29T08:32:29Z,observability-collect,observability-collect,0.1.0,"Umbrella chart for the observability collection core (vmagent / vlagent / vtagent, scrape sources, exporters) shipping metrics, logs and traces to an external storage core"
