@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 22:21 UTC
+## Latest list — 2026-09-29 00:22 UTC
 
-New charts added between 2026-09-28 21:22 UTC and 2026-09-28 22:21 UTC.
+New charts added between 2026-09-28 23:19 UTC and 2026-09-29 00:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-28T22-21-20-46254Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-29T00-22-10-420609Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-28 21:55:34 | [voicestudio](https://artifacthub.io/packages/helm/obeone/voicestudio) | obeone | 0.1.0 | VoiceStudio (formerly OmniVoice Studio) — an open-source, fully local ElevenLab… |
+| 2026-09-28 23:48:53 | [bulwark-mail](https://artifacthub.io/packages/helm/helmforge/bulwark-mail) | helmforge | 1.0.0 | Production-ready Helm chart for the Bulwark JMAP webmail client |
 
 ## Data source
 
