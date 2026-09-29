@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 12:22 UTC
+## Latest list — 2026-09-29 13:22 UTC
 
-New charts added between 2026-09-29 11:19 UTC and 2026-09-29 12:22 UTC.
+New charts added between 2026-09-29 12:22 UTC and 2026-09-29 13:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-29T12-22-26-474269Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-29T13-22-30-099602Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-29 12:01:56 | [daos-operator](https://artifacthub.io/packages/helm/daos-operator/daos-operator) | daos-operator | 0.1.0 | DAOS on Kubernetes - operator (DaosSystem/DaosPool/DaosContainer), host prepara… |
+| 2026-09-29 13:02:08 | [daos-operator](https://artifacthub.io/packages/helm/gluesys/daos-operator) | gluesys | 0.1.0 | DAOS on Kubernetes - operator (DaosSystem/DaosPool/DaosContainer), host prepara… |
+| 2026-09-29 13:02:40 | [loop-csi-provisioner](https://artifacthub.io/packages/helm/loop-oci-provisioner/loop-csi-provisioner) | loop-oci-provisioner | 0.1.1 | CSI driver providing ext4 volumes backed by image files in a local directory or… |
 
 ## Data source
 
