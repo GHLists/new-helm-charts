@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 14:23 UTC
+## Latest list — 2026-09-29 15:21 UTC
 
-New charts added between 2026-09-29 13:22 UTC and 2026-09-29 14:23 UTC.
+New charts added between 2026-09-29 14:23 UTC and 2026-09-29 15:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-29T14-23-24-471335Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-29T15-21-08-656685Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-29 14:02:02 | [dex](https://artifacthub.io/packages/helm/dex/dex) | dex | 0.25.2 | OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors. |
+| 2026-09-29 14:49:16 | [attic](https://artifacthub.io/packages/helm/helmforge/attic) | helmforge | 1.0.0 | Production-ready Helm chart for the Attic Nix binary cache server |
 
 ## Data source
 

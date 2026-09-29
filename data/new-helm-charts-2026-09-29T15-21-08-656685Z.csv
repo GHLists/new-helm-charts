@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-09-29T14:49:16Z,attic,helmforge,1.0.0,Production-ready Helm chart for the Attic Nix binary cache server
