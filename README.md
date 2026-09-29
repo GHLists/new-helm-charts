@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 16:19 UTC
+## Latest list — 2026-09-29 17:20 UTC
 
-New charts added between 2026-09-29 15:21 UTC and 2026-09-29 16:19 UTC.
+New charts added between 2026-09-29 16:19 UTC and 2026-09-29 17:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-29T16-19-45-98834Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-29T17-20-11-178086Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-29 16:04:35 | [mastodon](https://artifacthub.io/packages/helm/quench-mastodon/mastodon) | quench-mastodon | 0.0.1 | Mastodon, the federated social network server: web, sidekiq and streaming on Qu… |
+| 2026-09-29 17:06:24 | [w8s-agent](https://artifacthub.io/packages/helm/w8s-agent/w8s-agent) | w8s-agent | 0.22.1 | w8s Kubernetes agent for QUIC control-plane connectivity and in-cluster reconci… |
 
 ## Data source
 
