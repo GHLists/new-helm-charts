@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 10:19 UTC
+## Latest list — 2026-09-29 11:19 UTC
 
-New charts added between 2026-09-29 09:19 UTC and 2026-09-29 10:19 UTC.
+New charts added between 2026-09-29 10:19 UTC and 2026-09-29 11:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-29T10-19-29-381527Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-29T11-19-12-867516Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-29 09:30:14 | [azimuth](https://artifacthub.io/packages/helm/azimuth/azimuth) | azimuth | 0.25.0 | Helm chart for deploying the Azimuth Portal. |
-| 2026-09-29 10:05:11 | [redmine](https://artifacthub.io/packages/helm/quench-redmine/redmine) | quench-redmine | 0.0.1 | Redmine, the Ruby on Rails project management and issue tracker (issues, wikis,… |
+| 2026-09-29 11:01:11 | [apowerb-chart](https://artifacthub.io/packages/helm/apowerb/apowerb-chart) | apowerb | 0.4.3 | apowerb, its interface, PostgreSQL, the th2etl orchestrator, the th2pulse log s… |
 
 ## Data source
 

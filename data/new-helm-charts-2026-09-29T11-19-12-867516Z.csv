@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-09-29T11:01:11Z,apowerb-chart,apowerb,0.4.3,"apowerb, its interface, PostgreSQL, the th2etl orchestrator, the th2pulse log store and an OpenTelemetry collector"
