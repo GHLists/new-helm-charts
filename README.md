@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 00:22 UTC
+## Latest list — 2026-09-29 03:22 UTC
 
-New charts added between 2026-09-28 23:19 UTC and 2026-09-29 00:22 UTC.
+New charts added between 2026-09-29 02:22 UTC and 2026-09-29 03:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-29T00-22-10-420609Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-29T03-22-39-843663Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-28 23:48:53 | [bulwark-mail](https://artifacthub.io/packages/helm/helmforge/bulwark-mail) | helmforge | 1.0.0 | Production-ready Helm chart for the Bulwark JMAP webmail client |
+| 2026-09-29 02:23:13 | [kodbox](https://artifacthub.io/packages/helm/kodbox/kodbox) | kodbox | 0.2.0 | Kodbox web file manager with MariaDB, Redis, KodOffice and Imaginary |
+| 2026-09-29 02:31:15 | [helm-guestbook](https://artifacthub.io/packages/helm/helm-guestbook-demo/helm-guestbook) | helm-guestbook-demo | 0.1.0 | A Helm chart for Kubernetes |
+| 2026-09-29 02:39:34 | [conversor-temperatura](https://artifacthub.io/packages/helm/conversor-temperatura/conversor-temperatura) | conversor-temperatura | 0.1.0 | A Helm chart for Kubernetes |
 
 ## Data source
 
