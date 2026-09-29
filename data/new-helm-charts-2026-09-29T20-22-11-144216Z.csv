@@ -1,0 +1,7 @@
+created_at,chart,repository,version,description
+2026-09-29T19:30:48Z,cnpg-drill,cnpg-drill,0.1.1,Verify CloudNativePG Barman backups with disposable restores and read-only SQL checks
+2026-09-29T19:49:25Z,qrcode-generator,qrcode-generator,0.1.0,A Helm chart for Kubernetes
+2026-09-29T19:49:31Z,conversor-temperatura,conversor-temperatura,0.1.0,A Helm chart for Kubernetes
+2026-09-29T19:49:37Z,db-connection-test,db-connection-test,0.1.0,A Helm chart for Kubernetes
+2026-09-29T19:49:43Z,app-movies-series,app-movies-series,0.1.0,A Helm chart for Kubernetes
+2026-09-29T19:49:52Z,landing-page,landing-page,0.1.0,A Helm chart for Kubernetes
