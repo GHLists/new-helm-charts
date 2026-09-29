@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 11:19 UTC
+## Latest list — 2026-09-29 12:22 UTC
 
-New charts added between 2026-09-29 10:19 UTC and 2026-09-29 11:19 UTC.
+New charts added between 2026-09-29 11:19 UTC and 2026-09-29 12:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-29T11-19-12-867516Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-29T12-22-26-474269Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-29 11:01:11 | [apowerb-chart](https://artifacthub.io/packages/helm/apowerb/apowerb-chart) | apowerb | 0.4.3 | apowerb, its interface, PostgreSQL, the th2etl orchestrator, the th2pulse log s… |
+| 2026-09-29 12:01:56 | [daos-operator](https://artifacthub.io/packages/helm/daos-operator/daos-operator) | daos-operator | 0.1.0 | DAOS on Kubernetes - operator (DaosSystem/DaosPool/DaosContainer), host prepara… |
 
 ## Data source
 

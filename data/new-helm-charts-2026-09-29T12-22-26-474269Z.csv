@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-09-29T12:01:56Z,daos-operator,daos-operator,0.1.0,"DAOS on Kubernetes - operator (DaosSystem/DaosPool/DaosContainer), host preparation, telemetry, Grafana dashboard"
