@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 15:21 UTC
+## Latest list — 2026-09-29 16:19 UTC
 
-New charts added between 2026-09-29 14:23 UTC and 2026-09-29 15:21 UTC.
+New charts added between 2026-09-29 15:21 UTC and 2026-09-29 16:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-29T15-21-08-656685Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-29T16-19-45-98834Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-29 14:49:16 | [attic](https://artifacthub.io/packages/helm/helmforge/attic) | helmforge | 1.0.0 | Production-ready Helm chart for the Attic Nix binary cache server |
+| 2026-09-29 16:04:35 | [mastodon](https://artifacthub.io/packages/helm/quench-mastodon/mastodon) | quench-mastodon | 0.0.1 | Mastodon, the federated social network server: web, sidekiq and streaming on Qu… |
 
 ## Data source
 
