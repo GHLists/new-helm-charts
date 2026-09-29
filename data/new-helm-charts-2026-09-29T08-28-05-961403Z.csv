@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-09-29T07:58:11Z,jupyter-imagepuller,jupyter-jsc,1.0.0,A Helm chart for Kubernetes
