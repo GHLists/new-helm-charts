@@ -14,17 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 09:19 UTC
+## Latest list — 2026-09-29 10:19 UTC
 
-New charts added between 2026-09-29 08:28 UTC and 2026-09-29 09:19 UTC.
+New charts added between 2026-09-29 09:19 UTC and 2026-09-29 10:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-29T09-19-40-63408Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-29T10-19-29-381527Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-29 08:32:27 | [observability-extras](https://artifacthub.io/packages/helm/observability-extras/observability-extras) | observability-extras | 0.1.1 | Content pack for the observability stack — dashboards, contracts and alert rule… |
-| 2026-09-29 08:32:28 | [observability-core](https://artifacthub.io/packages/helm/observability-core/observability-core) | observability-core | 0.1.0 | Umbrella chart for the observability storage core (VictoriaMetrics / VictoriaLo… |
-| 2026-09-29 08:32:29 | [observability-collect](https://artifacthub.io/packages/helm/observability-collect/observability-collect) | observability-collect | 0.1.0 | Umbrella chart for the observability collection core (vmagent / vlagent / vtage… |
+| 2026-09-29 09:30:14 | [azimuth](https://artifacthub.io/packages/helm/azimuth/azimuth) | azimuth | 0.25.0 | Helm chart for deploying the Azimuth Portal. |
+| 2026-09-29 10:05:11 | [redmine](https://artifacthub.io/packages/helm/quench-redmine/redmine) | quench-redmine | 0.0.1 | Redmine, the Ruby on Rails project management and issue tracker (issues, wikis,… |
 
 ## Data source
 

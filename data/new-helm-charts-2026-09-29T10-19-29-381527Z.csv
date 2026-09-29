@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-09-29T09:30:14Z,azimuth,azimuth,0.25.0,Helm chart for deploying the Azimuth Portal.
+2026-09-29T10:05:11Z,redmine,quench-redmine,0.0.1,"Redmine, the Ruby on Rails project management and issue tracker (issues, wikis, time tracking, Gantt, REST API), with the bundled PostgreSQL, attachments on a PVC, the schema migrated and default data loaded on first start, and a generated admin password. Hardened by QuenchWorks, nonroot, 0-CVE, co…"
