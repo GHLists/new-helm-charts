@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 12:18 UTC
+## Latest list — 2026-09-30 16:22 UTC
 
-New charts added between 2026-09-30 11:20 UTC and 2026-09-30 12:18 UTC.
+New charts added between 2026-09-30 15:21 UTC and 2026-09-30 16:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-30T12-18-46-617121Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-30T16-22-51-49869Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-30 11:32:45 | [joomla](https://artifacthub.io/packages/helm/quench-joomla/joomla) | quench-joomla | 0.0.1 | Hardened Joomla CMS (PHP-FPM + nginx) on a 0-CVE nonroot image, installed by it… |
+| 2026-09-30 15:36:23 | [seowebchecker](https://artifacthub.io/packages/helm/seowebchecker/seowebchecker) | seowebchecker | 1.0.0 | Enterprise Kubernetes Helm Chart for automated continuous technical SEO auditin… |
+| 2026-09-30 15:37:02 | [victoria-traces-mcp](https://artifacthub.io/packages/helm/victoriametrics/victoria-traces-mcp) | victoriametrics | 0.1.0 | A Helm chart for VictoriaTraces MCP server |
 
 ## Data source
 
