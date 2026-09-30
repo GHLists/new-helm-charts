@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-09-30T03:20:22Z,kb-cloud-bootstrapper,kubeblocks,2.4.0-alpha.70,A Helm chart for bootstrapping the Kubeblocks Cloud.
