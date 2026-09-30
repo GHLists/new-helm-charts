@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-09-30T19:30:41Z,cmangos,cmangos,0.1.1,"CMaNGOS Classic (World of Warcraft 1.12.1 private server): realmd, mangosd, MySQL, database installation, and client-data extraction. Playerbots and the auction house bot are compiled into the images and off by default."

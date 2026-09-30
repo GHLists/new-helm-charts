@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 18:19 UTC
+## Latest list — 2026-09-30 20:22 UTC
 
-New charts added between 2026-09-30 17:22 UTC and 2026-09-30 18:19 UTC.
+New charts added between 2026-09-30 19:20 UTC and 2026-09-30 20:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-30T18-19-46-668355Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-30T20-22-07-900781Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-30 17:25:59 | [atuin](https://artifacthub.io/packages/helm/helmforge/atuin) | helmforge | 1.0.0 | Production-ready Helm chart for the Atuin shell history sync server |
+| 2026-09-30 19:30:41 | [cmangos](https://artifacthub.io/packages/helm/cmangos/cmangos) | cmangos | 0.1.1 | CMaNGOS Classic (World of Warcraft 1.12.1 private server): realmd, mangosd, MyS… |
 
 ## Data source
 
