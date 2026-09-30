@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-09-30T10:30:39Z,certmate,certmate,2.25.4,"Self-hosted SSL/TLS certificate lifecycle management — issuance, renewal, discovery, inventory and deployment"
+2026-09-30T10:52:56Z,manyfold,ideaplexus,0.1.0,"Manyfold is a self-hosted digital asset manager for 3D print files, organising models, their files and metadata into browsable libraries."
+2026-09-30T11:02:47Z,loop-csi-provisioner,loop-csi-provisioner,0.1.1,CSI driver providing ext4 volumes backed by image files in a local directory or an NFS export
