@@ -14,17 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 11:20 UTC
+## Latest list — 2026-09-30 12:18 UTC
 
-New charts added between 2026-09-30 10:21 UTC and 2026-09-30 11:20 UTC.
+New charts added between 2026-09-30 11:20 UTC and 2026-09-30 12:18 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-30T11-20-28-219424Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-30T12-18-46-617121Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-30 10:30:39 | [certmate](https://artifacthub.io/packages/helm/certmate/certmate) | certmate | 2.25.4 | Self-hosted SSL/TLS certificate lifecycle management — issuance, renewal, disco… |
-| 2026-09-30 10:52:56 | [manyfold](https://artifacthub.io/packages/helm/ideaplexus/manyfold) | ideaplexus | 0.1.0 | Manyfold is a self-hosted digital asset manager for 3D print files, organising… |
-| 2026-09-30 11:02:47 | [loop-csi-provisioner](https://artifacthub.io/packages/helm/loop-csi-provisioner/loop-csi-provisioner) | loop-csi-provisioner | 0.1.1 | CSI driver providing ext4 volumes backed by image files in a local directory or… |
+| 2026-09-30 11:32:45 | [joomla](https://artifacthub.io/packages/helm/quench-joomla/joomla) | quench-joomla | 0.0.1 | Hardened Joomla CMS (PHP-FPM + nginx) on a 0-CVE nonroot image, installed by it… |
 
 ## Data source
 
