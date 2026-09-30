@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-09-30T17:25:59Z,atuin,helmforge,1.0.0,Production-ready Helm chart for the Atuin shell history sync server

@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 16:22 UTC
+## Latest list — 2026-09-30 18:19 UTC
 
-New charts added between 2026-09-30 15:21 UTC and 2026-09-30 16:22 UTC.
+New charts added between 2026-09-30 17:22 UTC and 2026-09-30 18:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-09-30T16-22-51-49869Z.csv)
+[Full CSV](data/new-helm-charts-2026-09-30T18-19-46-668355Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-09-30 15:36:23 | [seowebchecker](https://artifacthub.io/packages/helm/seowebchecker/seowebchecker) | seowebchecker | 1.0.0 | Enterprise Kubernetes Helm Chart for automated continuous technical SEO auditin… |
-| 2026-09-30 15:37:02 | [victoria-traces-mcp](https://artifacthub.io/packages/helm/victoriametrics/victoria-traces-mcp) | victoriametrics | 0.1.0 | A Helm chart for VictoriaTraces MCP server |
+| 2026-09-30 17:25:59 | [atuin](https://artifacthub.io/packages/helm/helmforge/atuin) | helmforge | 1.0.0 | Production-ready Helm chart for the Atuin shell history sync server |
 
 ## Data source
 
