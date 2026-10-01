@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 14:19 UTC
+## Latest list — 2026-10-01 15:21 UTC
 
-New charts added between 2026-10-01 13:21 UTC and 2026-10-01 14:19 UTC.
+New charts added between 2026-10-01 14:19 UTC and 2026-10-01 15:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-01T14-19-34-322173Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-01T15-21-44-791684Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-01 13:38:47 | [kafka-exporter](https://artifacthub.io/packages/helm/quench-kafka-exporter/kafka-exporter) | quench-kafka-exporter | 0.0.1 | kafka_exporter, the Prometheus exporter for Kafka: brokers, topics, partition o… |
+| 2026-10-01 15:04:02 | [vertical-pod-autoscaler](https://artifacthub.io/packages/helm/quench-vertical-pod-autoscaler/vertical-pod-autoscaler) | quench-vertical-pod-aut… | 0.0.1 | Vertical Pod Autoscaler: sizes pod CPU and memory requests from observed usage,… |
 
 ## Data source
 
