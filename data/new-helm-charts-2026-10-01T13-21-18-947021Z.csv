@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-10-01T12:57:59Z,victoria-traces-agent,victoriametrics,0.1.0,VictoriaTraces Agent - accepts trace spans via OpenTelemetry protocol and replicates them across multiple VictoriaTraces instances.
+2026-10-01T13:03:59Z,kured,quench-kured,0.0.2,"kured, the Kubernetes reboot daemon: a DaemonSet that watches each node for a reboot-required sentinel and reboots nodes one at a time behind a lock, cordoning and draining first. Hardened by QuenchWorks as a minimal 0-CVE image, cosign-signed and pinned by digest."
+2026-10-01T13:04:01Z,vcluster,quench-vcluster,0.0.1,"vCluster runs a virtual Kubernetes cluster inside a namespace of a host cluster: its own API server and controller manager, with workloads synced to the host. Hardened by QuenchWorks as a nonroot, 0-CVE image with the 1.36 control plane built from source, cosign-signed and pinned by digest."

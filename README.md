@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 12:21 UTC
+## Latest list — 2026-10-01 13:21 UTC
 
-New charts added between 2026-10-01 11:20 UTC and 2026-10-01 12:21 UTC.
+New charts added between 2026-10-01 12:21 UTC and 2026-10-01 13:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-01T12-21-32-846329Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-01T13-21-18-947021Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-01 11:32:47 | [reloader](https://artifacthub.io/packages/helm/quench-reloader/reloader) | quench-reloader | 0.0.2 | Stakater Reloader watches ConfigMaps and Secrets and rolls the Deployments, Sta… |
+| 2026-10-01 12:57:59 | [victoria-traces-agent](https://artifacthub.io/packages/helm/victoriametrics/victoria-traces-agent) | victoriametrics | 0.1.0 | VictoriaTraces Agent - accepts trace spans via OpenTelemetry protocol and repli… |
+| 2026-10-01 13:03:59 | [kured](https://artifacthub.io/packages/helm/quench-kured/kured) | quench-kured | 0.0.2 | kured, the Kubernetes reboot daemon: a DaemonSet that watches each node for a r… |
+| 2026-10-01 13:04:01 | [vcluster](https://artifacthub.io/packages/helm/quench-vcluster/vcluster) | quench-vcluster | 0.0.1 | vCluster runs a virtual Kubernetes cluster inside a namespace of a host cluster… |
 
 ## Data source
 
