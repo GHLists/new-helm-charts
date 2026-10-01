@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 04:21 UTC
+## Latest list — 2026-10-01 09:23 UTC
 
-New charts added between 2026-10-01 03:22 UTC and 2026-10-01 04:21 UTC.
+New charts added between 2026-10-01 08:22 UTC and 2026-10-01 09:23 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-01T04-21-50-930998Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-01T09-23-20-264068Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-01 04:02:58 | [lapilli](https://artifacthub.io/packages/helm/lapilli/lapilli) | lapilli | 0.1.0 | A flight recorder for Kubernetes incidents — captures the incident window into… |
+| 2026-10-01 09:02:12 | [ethora-core](https://artifacthub.io/packages/helm/ethora/ethora-core) | ethora | 26.10.0 | Ethora Core, a self-hosted chat and messaging server: API, web chat and admin p… |
 
 ## Data source
 
