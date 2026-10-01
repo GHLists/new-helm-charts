@@ -1,0 +1,5 @@
+created_at,chart,repository,version,description
+2026-10-01T15:33:07Z,bind,quench-bind,0.0.1,"ISC BIND 9 (named): an authoritative or caching recursive DNS server, configured from named.conf and zone files in values. Hardened by QuenchWorks as a nonroot, 0-CVE image, cosign-signed and pinned by digest."
+2026-10-01T15:33:24Z,kube-vip,quench-kube-vip,0.0.1,"kube-vip: virtual IPs and load balancing for Services of type LoadBalancer and for the Kubernetes control plane, announced by ARP or BGP from a DaemonSet. Hardened by QuenchWorks as a minimal 0-CVE image, cosign-signed and pinned by digest."
+2026-10-01T15:55:18Z,stunner-dev,stunner,1.2.1,STUNner Kubernetes Gateway Operator
+2026-10-01T16:02:34Z,kratix,syntasso,0.0.1,A Helm chart for installing Kratix (https://kratix.io)
