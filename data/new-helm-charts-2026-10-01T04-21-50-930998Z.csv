@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-01T04:02:58Z,lapilli,lapilli,0.1.0,"A flight recorder for Kubernetes incidents — captures the incident window into one portable, verifiable .ieb file when an alert fires."
