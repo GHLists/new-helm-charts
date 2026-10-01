@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-01T11:32:47Z,reloader,quench-reloader,0.0.2,"Stakater Reloader watches ConfigMaps and Secrets and rolls the Deployments, StatefulSets and DaemonSets that use them, so a config change reaches running pods without a manual restart. Hardened by QuenchWorks as a minimal, nonroot, 0-CVE image, cosign-signed and pinned by digest."
