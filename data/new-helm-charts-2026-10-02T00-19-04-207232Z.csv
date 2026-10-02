@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-02T00:05:46Z,telark,telark,0.0.2,"A protection gate for your Kubernetes applications. Decide what can change an app, and when; see every change that got through and why an app broke."
