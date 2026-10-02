@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 14:20 UTC
+## Latest list — 2026-10-02 15:22 UTC
 
-New charts added between 2026-10-02 13:21 UTC and 2026-10-02 14:20 UTC.
+New charts added between 2026-10-02 14:20 UTC and 2026-10-02 15:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-02T14-20-54-632915Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-02T15-22-55-249921Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-02 13:32:57 | [lago-data-agent](https://artifacthub.io/packages/helm/lago/lago-data-agent) | lago | 0.5.7 | A Helm chart for Kubernetes |
+| 2026-10-02 14:47:39 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
 
 ## Data source
 
