@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 11:21 UTC
+## Latest list — 2026-10-02 13:21 UTC
 
-New charts added between 2026-10-02 10:22 UTC and 2026-10-02 11:21 UTC.
+New charts added between 2026-10-02 12:21 UTC and 2026-10-02 13:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-02T11-21-38-010614Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-02T13-21-13-127635Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-02 11:02:41 | [jwcalendar-temporal-engine](https://artifacthub.io/packages/helm/jwcalendar-temporal-engine/jwcalendar-temporal-engine) | jwcalendar-temporal-eng… | 0.2.0 | A stateless date and calendar metadata API for Kubernetes. |
+| 2026-10-02 12:31:59 | [lago-data-agent](https://artifacthub.io/packages/helm/lago/lago-data-agent) | lago | 0.5.7 | A Helm chart for Kubernetes |
 
 ## Data source
 
