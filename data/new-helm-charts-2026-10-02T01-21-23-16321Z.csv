@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-02T00:25:11Z,headplane,headplane-helm,0.0.4,"Helm chart for Headplane, the web UI for Headscale"
+2026-10-02T00:27:30Z,nostalgiatv,nostalgiatv-helm,0.1.1,"Helm chart for the NostalgiaTV companion server (schedules, Jellyfin/Plex/Emby, HDHR)"

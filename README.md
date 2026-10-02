@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 00:19 UTC
+## Latest list — 2026-10-02 01:21 UTC
 
-New charts added between 2026-10-01 23:19 UTC and 2026-10-02 00:19 UTC.
+New charts added between 2026-10-02 00:19 UTC and 2026-10-02 01:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-02T00-19-04-207232Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-02T01-21-23-16321Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-02 00:05:46 | [telark](https://artifacthub.io/packages/helm/telark/telark) | telark | 0.0.2 | A protection gate for your Kubernetes applications. Decide what can change an a… |
+| 2026-10-02 00:25:11 | [headplane](https://artifacthub.io/packages/helm/headplane-helm/headplane) | headplane-helm | 0.0.4 | Helm chart for Headplane, the web UI for Headscale |
+| 2026-10-02 00:27:30 | [nostalgiatv](https://artifacthub.io/packages/helm/nostalgiatv-helm/nostalgiatv) | nostalgiatv-helm | 0.1.1 | Helm chart for the NostalgiaTV companion server (schedules, Jellyfin/Plex/Emby,… |
 
 ## Data source
 
