@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 09:19 UTC
+## Latest list — 2026-10-02 11:21 UTC
 
-New charts added between 2026-10-02 08:20 UTC and 2026-10-02 09:19 UTC.
+New charts added between 2026-10-02 10:22 UTC and 2026-10-02 11:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-02T09-19-28-731406Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-02T11-21-38-010614Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-02 08:52:31 | [uptimy-agent](https://artifacthub.io/packages/helm/uptimy-agent/uptimy-agent) | uptimy-agent | 0.1.3 | Self-hosted uptime monitoring with status pages, running inside your cluster. |
+| 2026-10-02 11:02:41 | [jwcalendar-temporal-engine](https://artifacthub.io/packages/helm/jwcalendar-temporal-engine/jwcalendar-temporal-engine) | jwcalendar-temporal-eng… | 0.2.0 | A stateless date and calendar metadata API for Kubernetes. |
 
 ## Data source
 
