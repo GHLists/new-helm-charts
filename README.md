@@ -14,17 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 21:21 UTC
+## Latest list — 2026-10-03 22:21 UTC
 
-New charts added between 2026-10-03 20:20 UTC and 2026-10-03 21:21 UTC.
+New charts added between 2026-10-03 21:21 UTC and 2026-10-03 22:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-03T21-21-23-390759Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-03T22-21-03-226742Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-03 20:31:35 | [recon](https://artifacthub.io/packages/helm/projecthelena/recon) | projecthelena | 0.1.0 | Helm chart for deploying the Recon dashboard component |
-| 2026-10-03 20:31:35 | [recon-agent](https://artifacthub.io/packages/helm/projecthelena/recon-agent) | projecthelena | 0.1.0 | Recon Kubernetes cost visibility agent |
-| 2026-10-03 20:31:35 | [warden](https://artifacthub.io/packages/helm/projecthelena/warden) | projecthelena | 0.3.3 | Uptime monitoring with adaptive latency alerts and status pages |
+| 2026-10-03 22:04:29 | [mqtt-explorer](https://artifacthub.io/packages/helm/mqtt-explorer/mqtt-explorer) | mqtt-explorer | 0.1.1 | Deploy MQTT Explorer browser mode on Kubernetes. |
 
 ## Data source
 
