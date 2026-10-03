@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 09:21 UTC
+## Latest list — 2026-10-03 18:20 UTC
 
-New charts added between 2026-10-03 08:20 UTC and 2026-10-03 09:21 UTC.
+New charts added between 2026-10-03 17:20 UTC and 2026-10-03 18:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-03T09-21-21-620331Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-03T18-20-12-327834Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-03 08:32:42 | [cobbler-http-sd](https://artifacthub.io/packages/helm/cobbler/cobbler-http-sd) | cobbler | 0.1.0 | A Helm chart for the Cobbler Prometheus HTTP service discovery adapter. |
+| 2026-10-03 17:30:39 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
 
 ## Data source
 
