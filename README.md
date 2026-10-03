@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 18:20 UTC
+## Latest list — 2026-10-03 21:21 UTC
 
-New charts added between 2026-10-03 17:20 UTC and 2026-10-03 18:20 UTC.
+New charts added between 2026-10-03 20:20 UTC and 2026-10-03 21:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-03T18-20-12-327834Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-03T21-21-23-390759Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-03 17:30:39 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
+| 2026-10-03 20:31:35 | [recon](https://artifacthub.io/packages/helm/projecthelena/recon) | projecthelena | 0.1.0 | Helm chart for deploying the Recon dashboard component |
+| 2026-10-03 20:31:35 | [recon-agent](https://artifacthub.io/packages/helm/projecthelena/recon-agent) | projecthelena | 0.1.0 | Recon Kubernetes cost visibility agent |
+| 2026-10-03 20:31:35 | [warden](https://artifacthub.io/packages/helm/projecthelena/warden) | projecthelena | 0.3.3 | Uptime monitoring with adaptive latency alerts and status pages |
 
 ## Data source
 

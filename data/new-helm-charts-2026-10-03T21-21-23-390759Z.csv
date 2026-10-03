@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-10-03T20:31:35Z,recon,projecthelena,0.1.0,Helm chart for deploying the Recon dashboard component
+2026-10-03T20:31:35Z,recon-agent,projecthelena,0.1.0,Recon Kubernetes cost visibility agent
+2026-10-03T20:31:35Z,warden,projecthelena,0.3.3,Uptime monitoring with adaptive latency alerts and status pages
