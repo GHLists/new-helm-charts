@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-03T08:32:42Z,cobbler-http-sd,cobbler,0.1.0,A Helm chart for the Cobbler Prometheus HTTP service discovery adapter.
