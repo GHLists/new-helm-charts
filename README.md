@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 03:20 UTC
+## Latest list — 2026-10-04 12:22 UTC
 
-New charts added between 2026-10-04 02:19 UTC and 2026-10-04 03:20 UTC.
+New charts added between 2026-10-04 11:20 UTC and 2026-10-04 12:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-04T03-20-13-19502Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-04T12-22-01-17745Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-04 02:31:25 | [karpenter-provider-hetzner](https://artifacthub.io/packages/helm/karpenter-provider-hetzner/karpenter-provider-hetzner) | karpenter-provider-hetz… | 3.0.1 | Karpenter cloud provider for Hetzner Cloud |
+| 2026-10-04 11:44:27 | [tika](https://artifacthub.io/packages/helm/quench-tika/tika) | quench-tika | 0.0.1 | Apache Tika server: text and metadata extraction from PDF, Office, HTML and ove… |
 
 ## Data source
 
