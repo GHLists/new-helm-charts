@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 12:22 UTC
+## Latest list — 2026-10-04 15:22 UTC
 
-New charts added between 2026-10-04 11:20 UTC and 2026-10-04 12:22 UTC.
+New charts added between 2026-10-04 14:18 UTC and 2026-10-04 15:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-04T12-22-01-17745Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-04T15-22-12-521998Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-04 11:44:27 | [tika](https://artifacthub.io/packages/helm/quench-tika/tika) | quench-tika | 0.0.1 | Apache Tika server: text and metadata extraction from PDF, Office, HTML and ove… |
+| 2026-10-04 14:26:17 | [rainstone](https://artifacthub.io/packages/helm/cloudve/rainstone) | cloudve | 0.3.0 | Galaxy compute cost reporting, deployed alongside Galaxy |
 
 ## Data source
 
