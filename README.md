@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 22:21 UTC
+## Latest list — 2026-10-04 03:20 UTC
 
-New charts added between 2026-10-03 21:21 UTC and 2026-10-03 22:21 UTC.
+New charts added between 2026-10-04 02:19 UTC and 2026-10-04 03:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-03T22-21-03-226742Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-04T03-20-13-19502Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-03 22:04:29 | [mqtt-explorer](https://artifacthub.io/packages/helm/mqtt-explorer/mqtt-explorer) | mqtt-explorer | 0.1.1 | Deploy MQTT Explorer browser mode on Kubernetes. |
+| 2026-10-04 02:31:25 | [karpenter-provider-hetzner](https://artifacthub.io/packages/helm/karpenter-provider-hetzner/karpenter-provider-hetzner) | karpenter-provider-hetz… | 3.0.1 | Karpenter cloud provider for Hetzner Cloud |
 
 ## Data source
 
