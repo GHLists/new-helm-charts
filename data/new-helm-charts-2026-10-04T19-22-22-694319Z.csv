@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-04T18:44:46Z,zabbix,quench-zabbix,0.0.1,"Zabbix, the enterprise monitoring platform: the server, the web frontend and PostgreSQL in one install. Hardened by QuenchWorks as minimal, nonroot, 0-CVE images, cosign-signed and pinned by digest."
+2026-10-04T18:49:42Z,ms-filestorage-grpc,codedesignplus-charts,0.0.24,This is a Helm chart for the ms-filestorage-gRPC service
