@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 19:22 UTC
+## Latest list — 2026-10-04 21:20 UTC
 
-New charts added between 2026-10-04 18:20 UTC and 2026-10-04 19:22 UTC.
+New charts added between 2026-10-04 20:20 UTC and 2026-10-04 21:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-04T19-22-22-694319Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-04T21-20-32-611188Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-04 18:44:46 | [zabbix](https://artifacthub.io/packages/helm/quench-zabbix/zabbix) | quench-zabbix | 0.0.1 | Zabbix, the enterprise monitoring platform: the server, the web frontend and Po… |
-| 2026-10-04 18:49:42 | [ms-filestorage-grpc](https://artifacthub.io/packages/helm/codedesignplus-charts/ms-filestorage-grpc) | codedesignplus-charts | 0.0.24 | This is a Helm chart for the ms-filestorage-gRPC service |
+| 2026-10-04 20:28:54 | [rancherresourcescanner](https://artifacthub.io/packages/helm/supporttools/rancherresourcescanner) | supporttools | 3.0.0 | A Helm chart for Kubernetes |
 
 ## Data source
 
