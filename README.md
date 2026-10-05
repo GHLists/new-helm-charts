@@ -14,17 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 15:20 UTC
+## Latest list — 2026-10-05 16:22 UTC
 
-New charts added between 2026-10-05 14:21 UTC and 2026-10-05 15:20 UTC.
+New charts added between 2026-10-05 15:20 UTC and 2026-10-05 16:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-05T15-20-07-877519Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-05T16-22-08-394531Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-05 14:33:39 | [mongo-express](https://artifacthub.io/packages/helm/quench-mongo-express/mongo-express) | quench-mongo-express | 0.0.1 | Mongo Express, the web admin UI for MongoDB and FerretDB, behind generated basi… |
-| 2026-10-05 14:33:40 | [profiling-stack](https://artifacthub.io/packages/helm/quench-profiling-stack/profiling-stack) | quench-profiling-stack | 0.0.2 | Hardened continuous profiling stack: Grafana Pyroscope (profile store and query… |
-| 2026-10-05 15:10:53 | [trust-manager](https://artifacthub.io/packages/helm/quench-trust-manager/trust-manager) | quench-trust-manager | 0.0.2 | trust-manager, cert-manager's trust bundle distributor: a Bundle gathers CA cer… |
+| 2026-10-05 15:33:30 | [step-issuer](https://artifacthub.io/packages/helm/quench-step-issuer/step-issuer) | quench-step-issuer | 0.0.2 | step-issuer, smallstep's cert-manager external issuer: StepIssuer and StepClust… |
+| 2026-10-05 15:33:31 | [pki-stack](https://artifacthub.io/packages/helm/quench-pki-stack/pki-stack) | quench-pki-stack | 0.0.1 | Hardened internal PKI in one install: step-ca (your own certificate authority)… |
 
 ## Data source
 

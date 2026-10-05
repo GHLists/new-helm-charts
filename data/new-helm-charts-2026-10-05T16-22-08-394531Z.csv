@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-05T15:33:30Z,step-issuer,quench-step-issuer,0.0.2,"step-issuer, smallstep's cert-manager external issuer: StepIssuer and StepClusterIssuer resources sign certificate requests through a step-ca JWK provisioner. Hardened by QuenchWorks as a minimal, nonroot, 0-CVE image, cosign-signed and pinned by digest."
+2026-10-05T15:33:31Z,pki-stack,quench-pki-stack,0.0.1,"Hardened internal PKI in one install: step-ca (your own certificate authority) + cert-manager (certificate lifecycle) + step-issuer (cert-manager signs through step-ca) + trust-manager (the CA root distributed to every namespace). A post-install Job wires a StepClusterIssuer and a trust Bundle, so…"
