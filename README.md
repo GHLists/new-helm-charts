@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 14:21 UTC
+## Latest list — 2026-10-05 15:20 UTC
 
-New charts added between 2026-10-05 13:22 UTC and 2026-10-05 14:21 UTC.
+New charts added between 2026-10-05 14:21 UTC and 2026-10-05 15:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-05T14-21-02-136398Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-05T15-20-07-877519Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-05 14:17:07 | [yourls](https://artifacthub.io/packages/helm/quench-yourls/yourls) | quench-yourls | 0.0.1 | YOURLS, the self-hosted URL shortener with click statistics, an admin UI and an… |
+| 2026-10-05 14:33:39 | [mongo-express](https://artifacthub.io/packages/helm/quench-mongo-express/mongo-express) | quench-mongo-express | 0.0.1 | Mongo Express, the web admin UI for MongoDB and FerretDB, behind generated basi… |
+| 2026-10-05 14:33:40 | [profiling-stack](https://artifacthub.io/packages/helm/quench-profiling-stack/profiling-stack) | quench-profiling-stack | 0.0.2 | Hardened continuous profiling stack: Grafana Pyroscope (profile store and query… |
+| 2026-10-05 15:10:53 | [trust-manager](https://artifacthub.io/packages/helm/quench-trust-manager/trust-manager) | quench-trust-manager | 0.0.2 | trust-manager, cert-manager's trust bundle distributor: a Bundle gathers CA cer… |
 
 ## Data source
 
