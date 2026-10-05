@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 16:22 UTC
+## Latest list — 2026-10-05 19:22 UTC
 
-New charts added between 2026-10-05 15:20 UTC and 2026-10-05 16:22 UTC.
+New charts added between 2026-10-05 18:21 UTC and 2026-10-05 19:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-05T16-22-08-394531Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-05T19-22-08-966101Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-05 15:33:30 | [step-issuer](https://artifacthub.io/packages/helm/quench-step-issuer/step-issuer) | quench-step-issuer | 0.0.2 | step-issuer, smallstep's cert-manager external issuer: StepIssuer and StepClust… |
-| 2026-10-05 15:33:31 | [pki-stack](https://artifacthub.io/packages/helm/quench-pki-stack/pki-stack) | quench-pki-stack | 0.0.1 | Hardened internal PKI in one install: step-ca (your own certificate authority)… |
+| 2026-10-05 18:31:35 | [krm-foyer](https://artifacthub.io/packages/helm/krm-foyer/krm-foyer) | krm-foyer | 0.2.0 | Browser login, Kubernetes API access and live resources on one origin, with eve… |
+| 2026-10-05 19:16:28 | [subnet-operator](https://artifacthub.io/packages/helm/subnet-operator/subnet-operator) | subnet-operator | 2.0.0 | Kubernetes operator that discovers cloud networks and subnets (AWS and Google C… |
 
 ## Data source
 
