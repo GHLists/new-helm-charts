@@ -14,16 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 21:20 UTC
+## Latest list — 2026-10-05 23:20 UTC
 
-New charts added between 2026-10-05 20:20 UTC and 2026-10-05 21:20 UTC.
+New charts added between 2026-10-05 22:21 UTC and 2026-10-05 23:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-05T21-20-58-998448Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-05T23-20-27-992564Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-05 21:15:53 | [argo-cd-crds](https://artifacthub.io/packages/helm/spnngl-argo-cd-crds/argo-cd-crds) | spnngl-argo-cd-crds | 3.5.3 | CustomResourceDefinitions for Argo CD (Applications, ApplicationSets, AppProjec… |
-| 2026-10-05 21:15:53 | [chaos-mesh-crds](https://artifacthub.io/packages/helm/spnngl-chaos-mesh-crds/chaos-mesh-crds) | spnngl-chaos-mesh-crds | 2.8.4 | CustomResourceDefinitions for Chaos Mesh (chaos experiments, schedules, workflo… |
+| 2026-10-05 23:16:00 | [cert-manager-crds](https://artifacthub.io/packages/helm/spnngl-cert-manager-crds/cert-manager-crds) | spnngl-cert-manager-crds | 1.21.2 | CustomResourceDefinitions for cert-manager (certificates, issuers, ACME orders… |
+| 2026-10-05 23:16:00 | [traefik-crds](https://artifacthub.io/packages/helm/spnngl-traefik-crds/traefik-crds) | spnngl-traefik-crds | 3.7.13 | CustomResourceDefinitions for Traefik Proxy (IngressRoutes, Middlewares, TLS op… |
+| 2026-10-05 23:16:00 | [vertical-pod-autoscaler-crds](https://artifacthub.io/packages/helm/spnngl-vertical-pod-autoscaler-crds/vertical-pod-autoscaler-crds) | spnngl-vertical-pod-aut… | 1.8.0 | CustomResourceDefinitions for the Kubernetes Vertical Pod Autoscaler (VerticalP… |
 
 ## Data source
 

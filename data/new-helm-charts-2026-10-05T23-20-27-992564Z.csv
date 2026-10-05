@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-10-05T23:16:00Z,cert-manager-crds,spnngl-cert-manager-crds,1.21.2,"CustomResourceDefinitions for cert-manager (certificates, issuers, ACME orders and challenges)"
+2026-10-05T23:16:00Z,traefik-crds,spnngl-traefik-crds,3.7.13,"CustomResourceDefinitions for Traefik Proxy (IngressRoutes, Middlewares, TLS options, transports)"
+2026-10-05T23:16:00Z,vertical-pod-autoscaler-crds,spnngl-vertical-pod-autoscaler-crds,1.8.0,"CustomResourceDefinitions for the Kubernetes Vertical Pod Autoscaler (VerticalPodAutoscaler, checkpoints)"
