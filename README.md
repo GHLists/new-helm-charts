@@ -14,15 +14,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 21:20 UTC
+## Latest list — 2026-10-05 10:19 UTC
 
-New charts added between 2026-10-04 20:20 UTC and 2026-10-04 21:20 UTC.
+New charts added between 2026-10-05 09:22 UTC and 2026-10-05 10:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-04T21-20-32-611188Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-05T10-19-03-677083Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-04 20:28:54 | [rancherresourcescanner](https://artifacthub.io/packages/helm/supporttools/rancherresourcescanner) | supporttools | 3.0.0 | A Helm chart for Kubernetes |
+| 2026-10-05 09:34:09 | [convertigo](https://artifacthub.io/packages/helm/convertigo/convertigo) | convertigo | 8.4.5 | The Convertigo Low Code / No Code Platform running on Kubernetes |
+| 2026-10-05 09:38:40 | [polaris](https://artifacthub.io/packages/helm/quench-polaris/polaris) | quench-polaris | 0.0.2 | Fairwinds Polaris, the Kubernetes configuration validator: a dashboard that aud… |
+| 2026-10-05 09:38:41 | [versitygw](https://artifacthub.io/packages/helm/quench-versitygw/versitygw) | quench-versitygw | 0.0.1 | Versity S3 Gateway, an S3-compatible API server over a POSIX filesystem (or ano… |
+| 2026-10-05 09:54:18 | [ansibleforms](https://artifacthub.io/packages/helm/ansibleforms/ansibleforms) | ansibleforms | 6.2.0 | A Helm chart for AnsibleForms, a web front end that turns Ansible playbooks int… |
 
 ## Data source
 

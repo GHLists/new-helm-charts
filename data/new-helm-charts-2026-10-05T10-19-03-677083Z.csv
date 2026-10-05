@@ -1,0 +1,5 @@
+created_at,chart,repository,version,description
+2026-10-05T09:34:09Z,convertigo,convertigo,8.4.5,The Convertigo Low Code / No Code Platform running on Kubernetes
+2026-10-05T09:38:40Z,polaris,quench-polaris,0.0.2,"Fairwinds Polaris, the Kubernetes configuration validator: a dashboard that audits running workloads against best-practice checks for security contexts, probes, resources and image tags. Hardened by QuenchWorks as a minimal, nonroot, 0-CVE image, cosign-signed and pinned by digest."
+2026-10-05T09:38:41Z,versitygw,quench-versitygw,0.0.1,"Versity S3 Gateway, an S3-compatible API server over a POSIX filesystem (or another S3 service or Azure Blob), with IAM accounts and a web UI. Hardened by QuenchWorks as a minimal, nonroot, 0-CVE image, cosign-signed and pinned by digest."
+2026-10-05T09:54:18Z,ansibleforms,ansibleforms,6.2.0,"A Helm chart for AnsibleForms, a web front end that turns Ansible playbooks into forms"
