@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 19:22 UTC
+## Latest list — 2026-10-05 21:20 UTC
 
-New charts added between 2026-10-05 18:21 UTC and 2026-10-05 19:22 UTC.
+New charts added between 2026-10-05 20:20 UTC and 2026-10-05 21:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-05T19-22-08-966101Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-05T21-20-58-998448Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-05 18:31:35 | [krm-foyer](https://artifacthub.io/packages/helm/krm-foyer/krm-foyer) | krm-foyer | 0.2.0 | Browser login, Kubernetes API access and live resources on one origin, with eve… |
-| 2026-10-05 19:16:28 | [subnet-operator](https://artifacthub.io/packages/helm/subnet-operator/subnet-operator) | subnet-operator | 2.0.0 | Kubernetes operator that discovers cloud networks and subnets (AWS and Google C… |
+| 2026-10-05 21:15:53 | [argo-cd-crds](https://artifacthub.io/packages/helm/spnngl-argo-cd-crds/argo-cd-crds) | spnngl-argo-cd-crds | 3.5.3 | CustomResourceDefinitions for Argo CD (Applications, ApplicationSets, AppProjec… |
+| 2026-10-05 21:15:53 | [chaos-mesh-crds](https://artifacthub.io/packages/helm/spnngl-chaos-mesh-crds/chaos-mesh-crds) | spnngl-chaos-mesh-crds | 2.8.4 | CustomResourceDefinitions for Chaos Mesh (chaos experiments, schedules, workflo… |
 
 ## Data source
 

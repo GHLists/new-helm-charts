@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-05T21:15:53Z,argo-cd-crds,spnngl-argo-cd-crds,3.5.3,"CustomResourceDefinitions for Argo CD (Applications, ApplicationSets, AppProjects)"
+2026-10-05T21:15:53Z,chaos-mesh-crds,spnngl-chaos-mesh-crds,2.8.4,"CustomResourceDefinitions for Chaos Mesh (chaos experiments, schedules, workflows)"
