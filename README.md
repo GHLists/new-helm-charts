@@ -14,18 +14,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 10:19 UTC
+## Latest list — 2026-10-05 11:21 UTC
 
-New charts added between 2026-10-05 09:22 UTC and 2026-10-05 10:19 UTC.
+New charts added between 2026-10-05 10:19 UTC and 2026-10-05 11:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-05T10-19-03-677083Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-05T11-21-01-621914Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-05 09:34:09 | [convertigo](https://artifacthub.io/packages/helm/convertigo/convertigo) | convertigo | 8.4.5 | The Convertigo Low Code / No Code Platform running on Kubernetes |
-| 2026-10-05 09:38:40 | [polaris](https://artifacthub.io/packages/helm/quench-polaris/polaris) | quench-polaris | 0.0.2 | Fairwinds Polaris, the Kubernetes configuration validator: a dashboard that aud… |
-| 2026-10-05 09:38:41 | [versitygw](https://artifacthub.io/packages/helm/quench-versitygw/versitygw) | quench-versitygw | 0.0.1 | Versity S3 Gateway, an S3-compatible API server over a POSIX filesystem (or ano… |
-| 2026-10-05 09:54:18 | [ansibleforms](https://artifacthub.io/packages/helm/ansibleforms/ansibleforms) | ansibleforms | 6.2.0 | A Helm chart for AnsibleForms, a web front end that turns Ansible playbooks int… |
+| 2026-10-05 10:30:49 | [decision-model-operator](https://artifacthub.io/packages/helm/decision-model-operator/decision-model-operator) | decision-model-operator | 0.1.1 | Kubernetes Operator for Ollaya-served System-1 decision models (DecisionModel C… |
+| 2026-10-05 10:38:56 | [betacalendars-calendar-boundary-lab](https://artifacthub.io/packages/helm/betacalendars-calendar-boundary-lab/betacalendars-calendar-boundary-lab) | betacalendars-calendar-… | 0.1.1 | Helm chart for a deterministic Gregorian calendar boundary and month-grid confo… |
+| 2026-10-05 10:45:42 | [cluster-autoscaler](https://artifacthub.io/packages/helm/quench-cluster-autoscaler/cluster-autoscaler) | quench-cluster-autoscal… | 0.0.2 | Kubernetes Cluster Autoscaler, the SIG Autoscaling controller that adds nodes w… |
+| 2026-10-05 11:03:43 | [connaisseur](https://artifacthub.io/packages/helm/quench-connaisseur/connaisseur) | quench-connaisseur | 0.0.1 | Connaisseur, the Kubernetes admission controller that verifies container image… |
 
 ## Data source
 

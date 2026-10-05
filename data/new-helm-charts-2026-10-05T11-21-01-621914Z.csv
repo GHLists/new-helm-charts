@@ -1,0 +1,5 @@
+created_at,chart,repository,version,description
+2026-10-05T10:30:49Z,decision-model-operator,decision-model-operator,0.1.1,Kubernetes Operator for Ollaya-served System-1 decision models (DecisionModel CRD).
+2026-10-05T10:38:56Z,betacalendars-calendar-boundary-lab,betacalendars-calendar-boundary-lab,0.1.1,Helm chart for a deterministic Gregorian calendar boundary and month-grid conformance service.
+2026-10-05T10:45:42Z,cluster-autoscaler,quench-cluster-autoscaler,0.0.2,"Kubernetes Cluster Autoscaler, the SIG Autoscaling controller that adds nodes when pods cannot be scheduled and removes underused ones, for every supported cloud provider. Hardened by QuenchWorks as a minimal, nonroot, 0-CVE image, cosign-signed and pinned by digest."
+2026-10-05T11:03:43Z,connaisseur,quench-connaisseur,0.0.1,"Connaisseur, the Kubernetes admission controller that verifies container image signatures (Cosign/Sigstore, Notary v1 and v2) against your trust roots before workloads are admitted. Hardened by QuenchWorks as a minimal, nonroot, 0-CVE image, cosign-signed and pinned by digest."
