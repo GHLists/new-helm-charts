@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-05T12:03:45Z,emissary,quench-emissary,0.0.1,"Emissary-ingress, the CNCF Kubernetes API gateway built on Envoy: Listener, Host and Mapping resources for routing, TLS, auth and rate limiting. Ships its v3alpha1 CRDs. Hardened by QuenchWorks as a minimal, nonroot, 0-CVE image, cosign-signed and pinned by digest."
