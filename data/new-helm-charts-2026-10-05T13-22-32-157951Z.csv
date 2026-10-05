@@ -1,0 +1,11 @@
+created_at,chart,repository,version,description
+2026-10-05T13:17:02Z,agentgateway-crds,spnngl-agentgateway-crds,1.5.0,"CustomResourceDefinitions for agentgateway (backends, models, parameters, policies)"
+2026-10-05T13:17:02Z,cilium-crds,spnngl-cilium-crds,1.20.2,CustomResourceDefinitions for Cilium (cilium.io v2 and v2alpha1)
+2026-10-05T13:17:02Z,cluster-api-crds,spnngl-cluster-api-crds,1.14.2,"CustomResourceDefinitions for Cluster API core (clusters, machines, ClusterClass, IPAM, runtime extensions)"
+2026-10-05T13:17:02Z,external-dns-crds,spnngl-external-dns-crds,0.23.0,"CustomResourceDefinitions for ExternalDNS (DNSEndpoint, DNSRecord)"
+2026-10-05T13:17:02Z,external-secrets-crds,spnngl-external-secrets-crds,2.11.0,"CustomResourceDefinitions for External Secrets Operator (stores, external/push secrets, generators)"
+2026-10-05T13:17:02Z,gateway-api-crds,spnngl-gateway-api-crds,1.6.2,"CustomResourceDefinitions for Kubernetes Gateway API, standard channel"
+2026-10-05T13:17:02Z,gateway-api-exp-crds,spnngl-gateway-api-exp-crds,1.6.2,"CustomResourceDefinitions for Kubernetes Gateway API, experimental channel"
+2026-10-05T13:17:02Z,orc-crds,spnngl-orc-crds,2.6.0,CustomResourceDefinitions for the OpenStack Resource Controller (ORC)
+2026-10-05T13:17:02Z,topolvm-crds,spnngl-topolvm-crds,0.41.1,"CustomResourceDefinitions for TopoLVM (LogicalVolume, topolvm.io and legacy topolvm.cybozu.com groups)"
+2026-10-05T13:17:02Z,velero-crds,spnngl-velero-crds,1.18.4,"CustomResourceDefinitions for Velero (backups, restores, schedules, locations, data movers)"
