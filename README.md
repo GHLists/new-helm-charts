@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 01:19 UTC
+## Latest list — 2026-10-06 02:19 UTC
 
-New charts added between 2026-10-06 00:19 UTC and 2026-10-06 01:19 UTC.
+New charts added between 2026-10-06 01:19 UTC and 2026-10-06 02:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-06T01-19-59-284847Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-06T02-19-43-712845Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-06 00:45:42 | [kyverno-crds](https://artifacthub.io/packages/helm/spnngl-kyverno-crds/kyverno-crds) | spnngl-kyverno-crds | 1.19.1 | CustomResourceDefinitions for Kyverno (policies, CEL policies, exceptions, poli… |
+| 2026-10-06 01:46:50 | [nodevitals](https://artifacthub.io/packages/helm/keiailab/nodevitals) | keiailab | 0.9.4 | Unified hardware telemetry agent for Kubernetes nodes |
 
 ## Data source
 
