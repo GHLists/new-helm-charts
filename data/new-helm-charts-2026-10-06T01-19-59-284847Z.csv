@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-06T00:45:42Z,kyverno-crds,spnngl-kyverno-crds,1.19.1,"CustomResourceDefinitions for Kyverno (policies, CEL policies, exceptions, policy reports)"

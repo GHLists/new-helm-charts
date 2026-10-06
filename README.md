@@ -14,17 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 23:20 UTC
+## Latest list — 2026-10-06 01:19 UTC
 
-New charts added between 2026-10-05 22:21 UTC and 2026-10-05 23:20 UTC.
+New charts added between 2026-10-06 00:19 UTC and 2026-10-06 01:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-05T23-20-27-992564Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-06T01-19-59-284847Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-05 23:16:00 | [cert-manager-crds](https://artifacthub.io/packages/helm/spnngl-cert-manager-crds/cert-manager-crds) | spnngl-cert-manager-crds | 1.21.2 | CustomResourceDefinitions for cert-manager (certificates, issuers, ACME orders… |
-| 2026-10-05 23:16:00 | [traefik-crds](https://artifacthub.io/packages/helm/spnngl-traefik-crds/traefik-crds) | spnngl-traefik-crds | 3.7.13 | CustomResourceDefinitions for Traefik Proxy (IngressRoutes, Middlewares, TLS op… |
-| 2026-10-05 23:16:00 | [vertical-pod-autoscaler-crds](https://artifacthub.io/packages/helm/spnngl-vertical-pod-autoscaler-crds/vertical-pod-autoscaler-crds) | spnngl-vertical-pod-aut… | 1.8.0 | CustomResourceDefinitions for the Kubernetes Vertical Pod Autoscaler (VerticalP… |
+| 2026-10-06 00:45:42 | [kyverno-crds](https://artifacthub.io/packages/helm/spnngl-kyverno-crds/kyverno-crds) | spnngl-kyverno-crds | 1.19.1 | CustomResourceDefinitions for Kyverno (policies, CEL policies, exceptions, poli… |
 
 ## Data source
 
