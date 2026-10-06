@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 03:20 UTC
+## Latest list — 2026-10-06 04:18 UTC
 
-New charts added between 2026-10-06 02:19 UTC and 2026-10-06 03:20 UTC.
+New charts added between 2026-10-06 03:20 UTC and 2026-10-06 04:18 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-06T03-20-37-203915Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-06T04-18-56-227551Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-06 02:50:24 | [mongodb-operator](https://artifacthub.io/packages/helm/keiailab/mongodb-operator) | keiailab | 1.16.10 | A Kubernetes Operator for MongoDB — ReplicaSets, Sharded Clusters with auto sca… |
-| 2026-10-06 02:50:24 | [qdrant-operator](https://artifacthub.io/packages/helm/keiailab/qdrant-operator) | keiailab | 0.10.2 | A Kubernetes Operator for the Qdrant vector database — declarative QdrantCluste… |
+| 2026-10-06 03:41:40 | [valkey-operator](https://artifacthub.io/packages/helm/keiailab/valkey-operator) | keiailab | 1.5.4 | A Kubernetes Operator for managing Valkey instances and Clusters (Redis OSS for… |
 
 ## Data source
 
