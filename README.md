@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 04:18 UTC
+## Latest list — 2026-10-06 10:22 UTC
 
-New charts added between 2026-10-06 03:20 UTC and 2026-10-06 04:18 UTC.
+New charts added between 2026-10-06 09:20 UTC and 2026-10-06 10:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-06T04-18-56-227551Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-06T10-22-26-76426Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-06 03:41:40 | [valkey-operator](https://artifacthub.io/packages/helm/keiailab/valkey-operator) | keiailab | 1.5.4 | A Kubernetes Operator for managing Valkey instances and Clusters (Redis OSS for… |
+| 2026-10-06 10:04:23 | [policy-reporter](https://artifacthub.io/packages/helm/quench-policy-reporter/policy-reporter) | quench-policy-reporter | 0.0.1 | Policy Reporter, Kyverno's PolicyReport aggregator: reads PolicyReport results… |
 
 ## Data source
 

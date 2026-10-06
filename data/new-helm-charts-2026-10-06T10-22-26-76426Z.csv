@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-06T10:04:23Z,policy-reporter,quench-policy-reporter,0.0.1,"Policy Reporter, Kyverno's PolicyReport aggregator: reads PolicyReport results from Kyverno and other engines, serves them over a REST API and Prometheus metrics, and pushes new violations to Slack, Loki, Elasticsearch, webhooks and more. Hardened by QuenchWorks as a minimal, nonroot, 0-CVE image,…"
