@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 16:22 UTC
+## Latest list — 2026-10-06 19:20 UTC
 
-New charts added between 2026-10-06 15:19 UTC and 2026-10-06 16:22 UTC.
+New charts added between 2026-10-06 18:20 UTC and 2026-10-06 19:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-06T16-22-35-449934Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-06T19-20-15-935942Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-06 16:01:36 | [casdoor](https://artifacthub.io/packages/helm/casdoor/casdoor) | casdoor | 4.16.0 | An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agen… |
+| 2026-10-06 18:23:02 | [openunison-k8s-cluster-management-by-group](https://artifacthub.io/packages/helm/tremolo/openunison-k8s-cluster-management-by-group) | tremolo | 0.1.0 | A Helm chart for Kubernetes |
+| 2026-10-06 18:23:02 | [openunison-vcluster-admins](https://artifacthub.io/packages/helm/tremolo/openunison-vcluster-admins) | tremolo | 0.1.0 | Generates cluster-admins for vclusters |
+| 2026-10-06 18:28:42 | [cerberus-robot-proxy](https://artifacthub.io/packages/helm/cerberus-robot-proxy/cerberus-robot-proxy) | cerberus-robot-proxy | 1.5.0-SNAPSHOT | A Helm chart for Kubernetes |
 
 ## Data source
 
