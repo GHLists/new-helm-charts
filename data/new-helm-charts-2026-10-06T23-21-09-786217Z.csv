@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-06T23:16:35Z,w8s-agent,w8s-agent,0.41.1,w8s Kubernetes agent for QUIC control-plane connectivity and in-cluster reconciliation
