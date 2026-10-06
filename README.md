@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 10:22 UTC
+## Latest list — 2026-10-06 12:19 UTC
 
-New charts added between 2026-10-06 09:20 UTC and 2026-10-06 10:22 UTC.
+New charts added between 2026-10-06 11:20 UTC and 2026-10-06 12:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-06T10-22-26-76426Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-06T12-19-31-841668Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-06 10:04:23 | [policy-reporter](https://artifacthub.io/packages/helm/quench-policy-reporter/policy-reporter) | quench-policy-reporter | 0.0.1 | Policy Reporter, Kyverno's PolicyReport aggregator: reads PolicyReport results… |
+| 2026-10-06 12:07:49 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
 
 ## Data source
 
