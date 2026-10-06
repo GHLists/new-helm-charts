@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 12:19 UTC
+## Latest list — 2026-10-06 13:21 UTC
 
-New charts added between 2026-10-06 11:20 UTC and 2026-10-06 12:19 UTC.
+New charts added between 2026-10-06 12:19 UTC and 2026-10-06 13:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-06T12-19-31-841668Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-06T13-21-56-793749Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-06 12:07:49 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-10-06 12:44:43 | [reef-server](https://artifacthub.io/packages/helm/reef-server/reef-server) | reef-server | 0.2.1 | Serves versioned Airflow DAG bundles, so DAGs can be swapped without restarting… |
 
 ## Data source
 
