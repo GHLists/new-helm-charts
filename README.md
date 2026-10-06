@@ -14,17 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 19:20 UTC
+## Latest list — 2026-10-06 21:21 UTC
 
-New charts added between 2026-10-06 18:20 UTC and 2026-10-06 19:20 UTC.
+New charts added between 2026-10-06 20:20 UTC and 2026-10-06 21:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-06T19-20-15-935942Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-06T21-21-06-900236Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-06 18:23:02 | [openunison-k8s-cluster-management-by-group](https://artifacthub.io/packages/helm/tremolo/openunison-k8s-cluster-management-by-group) | tremolo | 0.1.0 | A Helm chart for Kubernetes |
-| 2026-10-06 18:23:02 | [openunison-vcluster-admins](https://artifacthub.io/packages/helm/tremolo/openunison-vcluster-admins) | tremolo | 0.1.0 | Generates cluster-admins for vclusters |
-| 2026-10-06 18:28:42 | [cerberus-robot-proxy](https://artifacthub.io/packages/helm/cerberus-robot-proxy/cerberus-robot-proxy) | cerberus-robot-proxy | 1.5.0-SNAPSHOT | A Helm chart for Kubernetes |
+| 2026-10-06 21:15:33 | [rocket-chat](https://artifacthub.io/packages/helm/rocket-chat/rocket-chat) | rocket-chat | 0.1.0 | Production Helm chart for Rocket Chat - Autonomous AI Pair Programming Platform |
 
 ## Data source
 
