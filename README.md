@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 13:21 UTC
+## Latest list — 2026-10-06 14:20 UTC
 
-New charts added between 2026-10-06 12:19 UTC and 2026-10-06 13:21 UTC.
+New charts added between 2026-10-06 13:21 UTC and 2026-10-06 14:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-06T13-21-56-793749Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-06T14-20-15-133384Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-06 12:44:43 | [reef-server](https://artifacthub.io/packages/helm/reef-server/reef-server) | reef-server | 0.2.1 | Serves versioned Airflow DAG bundles, so DAGs can be swapped without restarting… |
+| 2026-10-06 13:31:27 | [juice-shop](https://artifacthub.io/packages/helm/juice-shop/juice-shop) | juice-shop | 4.1.0 | OWASP Juice Shop: Probably the most modern and sophisticated insecure web appli… |
 
 ## Data source
 
