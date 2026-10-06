@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 15:19 UTC
+## Latest list — 2026-10-06 16:22 UTC
 
-New charts added between 2026-10-06 14:20 UTC and 2026-10-06 15:19 UTC.
+New charts added between 2026-10-06 15:19 UTC and 2026-10-06 16:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-06T15-19-35-738847Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-06T16-22-35-449934Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-06 14:50:42 | [matomo](https://artifacthub.io/packages/helm/wikimedia/matomo) | wikimedia | 0.0.1 | A Helm chart for Kubernetes |
-| 2026-10-06 14:59:28 | [lago-data-agent](https://artifacthub.io/packages/helm/lago/lago-data-agent) | lago | 0.5.7 | A Helm chart for Kubernetes |
+| 2026-10-06 16:01:36 | [casdoor](https://artifacthub.io/packages/helm/casdoor/casdoor) | casdoor | 4.16.0 | An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agen… |
 
 ## Data source
 
