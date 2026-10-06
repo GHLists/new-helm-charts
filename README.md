@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 21:21 UTC
+## Latest list — 2026-10-06 22:21 UTC
 
-New charts added between 2026-10-06 20:20 UTC and 2026-10-06 21:21 UTC.
+New charts added between 2026-10-06 21:21 UTC and 2026-10-06 22:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-06T21-21-06-900236Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-06T22-21-47-195773Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-06 21:15:33 | [rocket-chat](https://artifacthub.io/packages/helm/rocket-chat/rocket-chat) | rocket-chat | 0.1.0 | Production Helm chart for Rocket Chat - Autonomous AI Pair Programming Platform |
+| 2026-10-06 21:32:19 | [p10logs](https://artifacthub.io/packages/helm/p10logs/p10logs) | p10logs | 1.1.0 | Lightweight, persistent, multi-cluster Kubernetes pod-log aggregation. Logs onl… |
 
 ## Data source
 
