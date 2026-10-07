@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-07T20:37:30Z,regression-logging,osc,0.1.0,Helm chart for regression logging and visualization
+2026-10-07T20:44:31Z,tomee,quench-tomee,0.0.1,"Apache TomEE, Tomcat plus the Jakarta EE Web Profile stack (OpenEJB, OpenWebBeans, MyFaces, CXF), for running Jakarta EE applications and WARs. Hardened by QuenchWorks as a minimal, nonroot, read-only-rootfs, 0-CVE image built from source on Wolfi (openjdk-21-jre), cosign-signed and pinned by diges…"

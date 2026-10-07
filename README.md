@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 19:20 UTC
+## Latest list — 2026-10-07 21:21 UTC
 
-New charts added between 2026-10-07 18:19 UTC and 2026-10-07 19:20 UTC.
+New charts added between 2026-10-07 20:20 UTC and 2026-10-07 21:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-07T19-20-37-299053Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-07T21-21-18-253227Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-07 18:30:04 | [ai-k8s-agent](https://artifacthub.io/packages/helm/ai-k8s-agent/ai-k8s-agent) | ai-k8s-agent | 0.1.0 | AI-powered Kubernetes troubleshooting agent. Collects read-only cluster evidenc… |
+| 2026-10-07 20:37:30 | [regression-logging](https://artifacthub.io/packages/helm/osc/regression-logging) | osc | 0.1.0 | Helm chart for regression logging and visualization |
+| 2026-10-07 20:44:31 | [tomee](https://artifacthub.io/packages/helm/quench-tomee/tomee) | quench-tomee | 0.0.1 | Apache TomEE, Tomcat plus the Jakarta EE Web Profile stack (OpenEJB, OpenWebBea… |
 
 ## Data source
 
