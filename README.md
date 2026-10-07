@@ -14,16 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 10:20 UTC
+## Latest list — 2026-10-07 12:23 UTC
 
-New charts added between 2026-10-07 09:22 UTC and 2026-10-07 10:20 UTC.
+New charts added between 2026-10-07 11:20 UTC and 2026-10-07 12:23 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-07T10-20-45-605207Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-07T12-23-02-961Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-07 09:32:40 | [policy-stack](https://artifacthub.io/packages/helm/quench-policy-stack/policy-stack) | quench-policy-stack | 0.0.4 | Hardened Kubernetes policy in one install: Kyverno (admission policies and back… |
-| 2026-10-07 09:56:23 | [visa-k8s-controller](https://artifacthub.io/packages/helm/alba-visa-helm-charts/visa-k8s-controller) | alba-visa-helm-charts | 1.0.0 | A Helm chart for deploying VISA's kubernetes cloud provider controller |
+| 2026-10-07 11:43:25 | [panopticum](https://artifacthub.io/packages/helm/panopticum/panopticum) | panopticum | 1.0.11 | A tool for developers and QA — web interface for viewing and managing database… |
+| 2026-10-07 11:44:41 | [opensearch-dashboards](https://artifacthub.io/packages/helm/quench-opensearch-dashboards/opensearch-dashboards) | quench-opensearch-dashb… | 0.0.1 | OpenSearch Dashboards, the web UI for OpenSearch search, dashboards and visuali… |
+| 2026-10-07 12:03:43 | [search-stack](https://artifacthub.io/packages/helm/quench-search-stack/search-stack) | quench-search-stack | 0.0.2 | Hardened search with a UI in one install: OpenSearch (search and analytics engi… |
 
 ## Data source
 

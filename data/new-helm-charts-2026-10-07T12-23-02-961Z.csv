@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-10-07T11:43:25Z,panopticum,panopticum,1.0.11,A tool for developers and QA — web interface for viewing and managing database connections
+2026-10-07T11:44:41Z,opensearch-dashboards,quench-opensearch-dashboards,0.0.1,"OpenSearch Dashboards, the web UI for OpenSearch search, dashboards and visualizations. Hardened by QuenchWorks as a minimal, nonroot, 0-CVE image, cosign-signed and pinned by digest."
+2026-10-07T12:03:43Z,search-stack,quench-search-stack,0.0.2,"Hardened search with a UI in one install: OpenSearch (search and analytics engine, HA cluster or one node) + OpenSearch Dashboards (Discover, dashboards, visualizations, Dev Tools) wired to it. Every image is QuenchWorks-hardened, nonroot, 0-CVE, pinned by digest and cosign-signed."
