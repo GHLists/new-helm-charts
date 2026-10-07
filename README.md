@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 00:20 UTC
+## Latest list — 2026-10-07 02:22 UTC
 
-New charts added between 2026-10-06 23:21 UTC and 2026-10-07 00:20 UTC.
+New charts added between 2026-10-07 01:19 UTC and 2026-10-07 02:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-07T00-20-03-9679Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-07T02-22-31-985295Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-06 23:30:34 | [camunda-operator](https://artifacthub.io/packages/helm/camunda-operator/camunda-operator) | camunda-operator | 0.1.1 | Core Kubernetes operator for the Camunda platform |
+| 2026-10-07 01:32:23 | [otelcol-genai-sketches](https://artifacthub.io/packages/helm/otelcol-genai-sketches/otelcol-genai-sketches) | otelcol-genai-sketches | 0.3.1 | OpenTelemetry Collector distribution for bounded GenAI accounting and sketch me… |
 
 ## Data source
 

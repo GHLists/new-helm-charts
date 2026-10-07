@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-07T01:32:23Z,otelcol-genai-sketches,otelcol-genai-sketches,0.3.1,OpenTelemetry Collector distribution for bounded GenAI accounting and sketch metrics
