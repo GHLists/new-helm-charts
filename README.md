@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 17:18 UTC
+## Latest list — 2026-10-07 18:19 UTC
 
-New charts added between 2026-10-07 16:23 UTC and 2026-10-07 17:18 UTC.
+New charts added between 2026-10-07 17:18 UTC and 2026-10-07 18:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-07T17-18-45-763209Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-07T18-19-46-28651Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-07 16:27:48 | [cerberus-robot-proxy](https://artifacthub.io/packages/helm/cerberus-robot-proxy/cerberus-robot-proxy) | cerberus-robot-proxy | 1.5.0-SNAPSHOT | A Helm chart for Kubernetes |
-| 2026-10-07 16:43:05 | [multica-runtime-controller](https://artifacthub.io/packages/helm/korioinc/multica-runtime-controller) | korioinc | 2.0.0 | Run Multica agent tasks in dedicated Kubernetes Pods with shared workspace stor… |
+| 2026-10-07 17:59:23 | [regression-logging](https://artifacthub.io/packages/helm/osc/regression-logging) | osc | 0.1.0 | Helm chart for regression logging and visualization |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-07T17:59:23Z,regression-logging,osc,0.1.0,Helm chart for regression logging and visualization
