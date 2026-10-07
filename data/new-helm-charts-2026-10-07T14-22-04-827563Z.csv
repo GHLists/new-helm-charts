@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-07T13:22:38Z,registry-stack,quench-registry-stack,0.0.1,"One self-hosted artifact registry in one install: Harbor (container images and OCI Helm charts, with Trivy scanning) + Terralist (a private Terraform/OpenTofu module and provider registry). Every image is QuenchWorks-hardened, nonroot, 0-CVE, pinned by digest and cosign-signed."
+2026-10-07T13:32:43Z,cnpg-stack,quench-cnpg-stack,0.0.1,"Operator-managed HA PostgreSQL in one install: the CloudNativePG operator + a replicated Cluster (streaming replication, automated failover, built-in metrics) + a PgBouncer Pooler in front of the primary. Every image is QuenchWorks-hardened, nonroot, 0-CVE, pinned by digest and cosign-signed."
