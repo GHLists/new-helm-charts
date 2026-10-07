@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 21:21 UTC
+## Latest list — 2026-10-07 22:22 UTC
 
-New charts added between 2026-10-07 20:20 UTC and 2026-10-07 21:21 UTC.
+New charts added between 2026-10-07 21:21 UTC and 2026-10-07 22:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-07T21-21-18-253227Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-07T22-22-18-00666Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-07 20:37:30 | [regression-logging](https://artifacthub.io/packages/helm/osc/regression-logging) | osc | 0.1.0 | Helm chart for regression logging and visualization |
-| 2026-10-07 20:44:31 | [tomee](https://artifacthub.io/packages/helm/quench-tomee/tomee) | quench-tomee | 0.0.1 | Apache TomEE, Tomcat plus the Jakarta EE Web Profile stack (OpenEJB, OpenWebBea… |
+| 2026-10-07 21:44:30 | [rook-ceph](https://artifacthub.io/packages/helm/quench-rook-ceph/rook-ceph) | quench-rook-ceph | 0.0.1 | The Rook Ceph operator: runs Ceph clusters on Kubernetes through CRDs (CephClus… |
+| 2026-10-07 21:44:53 | [cloudflared](https://artifacthub.io/packages/helm/spnngl-cloudflared/cloudflared) | spnngl-cloudflared | 0.1.0 | Cloudflare Tunnel connector (cloudflared) running as a hardened, highly availab… |
 
 ## Data source
 
