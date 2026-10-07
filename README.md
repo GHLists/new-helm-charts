@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 05:20 UTC
+## Latest list — 2026-10-07 08:21 UTC
 
-New charts added between 2026-10-07 04:19 UTC and 2026-10-07 05:20 UTC.
+New charts added between 2026-10-07 07:21 UTC and 2026-10-07 08:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-07T05-20-13-882815Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-07T08-21-03-959047Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-07 05:02:37 | [lumovi](https://artifacthub.io/packages/helm/lumovi/lumovi) | lumovi | 1.6.0 | A fast, beautiful Kubernetes dashboard, served from your cluster to everyone wh… |
+| 2026-10-07 07:29:10 | [contextcrate](https://artifacthub.io/packages/helm/jfwenisch/contextcrate) | jfwenisch | 0.9.16 | Self-hosted crawling and indexing platform |
+| 2026-10-07 07:47:01 | [adapterfs](https://artifacthub.io/packages/helm/jfwenisch/adapterfs) | jfwenisch | 0.1.4 | Expose mounted Kubernetes filesystems through web, WebDAV, SFTP, FTP and S3 |
 
 ## Data source
 

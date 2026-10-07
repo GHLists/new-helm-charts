@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-07T07:29:10Z,contextcrate,jfwenisch,0.9.16,Self-hosted crawling and indexing platform
+2026-10-07T07:47:01Z,adapterfs,jfwenisch,0.1.4,"Expose mounted Kubernetes filesystems through web, WebDAV, SFTP, FTP and S3"
