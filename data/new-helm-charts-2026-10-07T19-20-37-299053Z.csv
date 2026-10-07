@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-07T18:30:04Z,ai-k8s-agent,ai-k8s-agent,0.1.0,AI-powered Kubernetes troubleshooting agent. Collects read-only cluster evidence and explains root causes and fixes.

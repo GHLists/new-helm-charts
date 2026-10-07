@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 18:19 UTC
+## Latest list — 2026-10-07 19:20 UTC
 
-New charts added between 2026-10-07 17:18 UTC and 2026-10-07 18:19 UTC.
+New charts added between 2026-10-07 18:19 UTC and 2026-10-07 19:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-07T18-19-46-28651Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-07T19-20-37-299053Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-07 17:59:23 | [regression-logging](https://artifacthub.io/packages/helm/osc/regression-logging) | osc | 0.1.0 | Helm chart for regression logging and visualization |
+| 2026-10-07 18:30:04 | [ai-k8s-agent](https://artifacthub.io/packages/helm/ai-k8s-agent/ai-k8s-agent) | ai-k8s-agent | 0.1.0 | AI-powered Kubernetes troubleshooting agent. Collects read-only cluster evidenc… |
 
 ## Data source
 
