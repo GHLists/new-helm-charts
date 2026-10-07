@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 23:21 UTC
+## Latest list — 2026-10-07 00:20 UTC
 
-New charts added between 2026-10-06 22:21 UTC and 2026-10-06 23:21 UTC.
+New charts added between 2026-10-06 23:21 UTC and 2026-10-07 00:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-06T23-21-09-786217Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-07T00-20-03-9679Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-06 23:16:35 | [w8s-agent](https://artifacthub.io/packages/helm/w8s-agent/w8s-agent) | w8s-agent | 0.41.1 | w8s Kubernetes agent for QUIC control-plane connectivity and in-cluster reconci… |
+| 2026-10-06 23:30:34 | [camunda-operator](https://artifacthub.io/packages/helm/camunda-operator/camunda-operator) | camunda-operator | 0.1.1 | Core Kubernetes operator for the Camunda platform |
 
 ## Data source
 
