@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 08:21 UTC
+## Latest list — 2026-10-07 10:20 UTC
 
-New charts added between 2026-10-07 07:21 UTC and 2026-10-07 08:21 UTC.
+New charts added between 2026-10-07 09:22 UTC and 2026-10-07 10:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-07T08-21-03-959047Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-07T10-20-45-605207Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-07 07:29:10 | [contextcrate](https://artifacthub.io/packages/helm/jfwenisch/contextcrate) | jfwenisch | 0.9.16 | Self-hosted crawling and indexing platform |
-| 2026-10-07 07:47:01 | [adapterfs](https://artifacthub.io/packages/helm/jfwenisch/adapterfs) | jfwenisch | 0.1.4 | Expose mounted Kubernetes filesystems through web, WebDAV, SFTP, FTP and S3 |
+| 2026-10-07 09:32:40 | [policy-stack](https://artifacthub.io/packages/helm/quench-policy-stack/policy-stack) | quench-policy-stack | 0.0.4 | Hardened Kubernetes policy in one install: Kyverno (admission policies and back… |
+| 2026-10-07 09:56:23 | [visa-k8s-controller](https://artifacthub.io/packages/helm/alba-visa-helm-charts/visa-k8s-controller) | alba-visa-helm-charts | 1.0.0 | A Helm chart for deploying VISA's kubernetes cloud provider controller |
 
 ## Data source
 
