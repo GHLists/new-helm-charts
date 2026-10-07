@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 22:22 UTC
+## Latest list — 2026-10-07 23:20 UTC
 
-New charts added between 2026-10-07 21:21 UTC and 2026-10-07 22:22 UTC.
+New charts added between 2026-10-07 22:22 UTC and 2026-10-07 23:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-07T22-22-18-00666Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-07T23-20-36-58097Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-07 21:44:30 | [rook-ceph](https://artifacthub.io/packages/helm/quench-rook-ceph/rook-ceph) | quench-rook-ceph | 0.0.1 | The Rook Ceph operator: runs Ceph clusters on Kubernetes through CRDs (CephClus… |
-| 2026-10-07 21:44:53 | [cloudflared](https://artifacthub.io/packages/helm/spnngl-cloudflared/cloudflared) | spnngl-cloudflared | 0.1.0 | Cloudflare Tunnel connector (cloudflared) running as a hardened, highly availab… |
+| 2026-10-07 22:46:22 | [governance-policy-propagator](https://artifacthub.io/packages/helm/ocm-helm-charts/governance-policy-propagator) | ocm-helm-charts | 0.20.1 | The Governance Policy Propagator is a policy framework hub controller and is pa… |
+| 2026-10-07 23:15:54 | [storm](https://artifacthub.io/packages/helm/quench-storm/storm) | quench-storm | 0.0.1 | Apache Storm, distributed real-time stream processing: Nimbus, supervisors and… |
 
 ## Data source
 

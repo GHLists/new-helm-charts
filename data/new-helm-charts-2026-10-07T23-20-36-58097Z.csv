@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-07T22:46:22Z,governance-policy-propagator,ocm-helm-charts,0.20.1,The Governance Policy Propagator is a policy framework hub controller and is part of the Open Cluster Management project. It syncs policies defined in user namespaces with managed cluster namespaces according to the managed cluster placement configurations to which each policy is bound.
+2026-10-07T23:15:54Z,storm,quench-storm,0.0.1,"Apache Storm, distributed real-time stream processing: Nimbus, supervisors and the UI from one image, with a bundled ZooKeeper. Hardened by QuenchWorks as a minimal, nonroot, 0-CVE image on Wolfi (openjdk-25-jre), cosign-signed and pinned by digest."
