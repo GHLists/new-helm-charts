@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 02:22 UTC
+## Latest list — 2026-10-07 05:20 UTC
 
-New charts added between 2026-10-07 01:19 UTC and 2026-10-07 02:22 UTC.
+New charts added between 2026-10-07 04:19 UTC and 2026-10-07 05:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-07T02-22-31-985295Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-07T05-20-13-882815Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-07 01:32:23 | [otelcol-genai-sketches](https://artifacthub.io/packages/helm/otelcol-genai-sketches/otelcol-genai-sketches) | otelcol-genai-sketches | 0.3.1 | OpenTelemetry Collector distribution for bounded GenAI accounting and sketch me… |
+| 2026-10-07 05:02:37 | [lumovi](https://artifacthub.io/packages/helm/lumovi/lumovi) | lumovi | 1.6.0 | A fast, beautiful Kubernetes dashboard, served from your cluster to everyone wh… |
 
 ## Data source
 
