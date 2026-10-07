@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-10-07T15:32:44Z,mysql-ha-stack,quench-mysql-ha-stack,0.0.2,"Operator-managed HA MySQL-compatible database in one install: MariaDB Operator + a 3-node Galera cluster (synchronous multi-primary replication, automatic recovery of failed nodes). Every image is QuenchWorks-hardened, nonroot, 0-CVE, pinned by digest and cosign-signed."
+2026-10-07T15:56:10Z,smtp2x,jfwenisch,0.5.3,SMTP notifications to GitLab issues and webhooks
+2026-10-07T15:59:18Z,signal-cli-rest-api,leprechaun-charts,0.1.3,A Helm chart for Kubernetes
