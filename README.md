@@ -14,17 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 16:23 UTC
+## Latest list — 2026-10-07 17:18 UTC
 
-New charts added between 2026-10-07 15:19 UTC and 2026-10-07 16:23 UTC.
+New charts added between 2026-10-07 16:23 UTC and 2026-10-07 17:18 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-07T16-23-07-693049Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-07T17-18-45-763209Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-07 15:32:44 | [mysql-ha-stack](https://artifacthub.io/packages/helm/quench-mysql-ha-stack/mysql-ha-stack) | quench-mysql-ha-stack | 0.0.2 | Operator-managed HA MySQL-compatible database in one install: MariaDB Operator… |
-| 2026-10-07 15:56:10 | [smtp2x](https://artifacthub.io/packages/helm/jfwenisch/smtp2x) | jfwenisch | 0.5.3 | SMTP notifications to GitLab issues and webhooks |
-| 2026-10-07 15:59:18 | [signal-cli-rest-api](https://artifacthub.io/packages/helm/leprechaun-charts/signal-cli-rest-api) | leprechaun-charts | 0.1.3 | A Helm chart for Kubernetes |
+| 2026-10-07 16:27:48 | [cerberus-robot-proxy](https://artifacthub.io/packages/helm/cerberus-robot-proxy/cerberus-robot-proxy) | cerberus-robot-proxy | 1.5.0-SNAPSHOT | A Helm chart for Kubernetes |
+| 2026-10-07 16:43:05 | [multica-runtime-controller](https://artifacthub.io/packages/helm/korioinc/multica-runtime-controller) | korioinc | 2.0.0 | Run Multica agent tasks in dedicated Kubernetes Pods with shared workspace stor… |
 
 ## Data source
 
