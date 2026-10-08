@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-08T08:54:08Z,alertmanager-mqtt-bridge,janip81-helm-charts,0.1.0,"Bridges Prometheus Alertmanager to MQTT so Home Assistant sees homelab alerts (MQTT discovery sensors, push events, dead-man's-switch heartbeat)"
