@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 10:19 UTC
+## Latest list — 2026-10-08 12:21 UTC
 
-New charts added between 2026-10-08 09:21 UTC and 2026-10-08 10:19 UTC.
+New charts added between 2026-10-08 11:20 UTC and 2026-10-08 12:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-08T10-19-40-22122Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-08T12-21-14-787768Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-08 09:52:12 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-10-08 11:38:34 | [kubescape-operator](https://artifacthub.io/packages/helm/quench-kubescape-operator/kubescape-operator) | quench-kubescape-operat… | 0.0.1 | Kubescape in-cluster: the operator, the configuration scanner (ksserver), the i… |
+| 2026-10-08 12:03:59 | [cilium](https://artifacthub.io/packages/helm/quench-cilium/cilium) | quench-cilium | 0.0.2 | Cilium networking for Kubernetes: the eBPF agent DaemonSet (CNI, IPAM through C… |
 
 ## Data source
 

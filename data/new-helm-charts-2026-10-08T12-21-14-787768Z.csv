@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-08T11:38:34Z,kubescape-operator,quench-kubescape-operator,0.0.1,"Kubescape in-cluster: the operator, the configuration scanner (ksserver), the image vulnerability scanner (kubevuln) and the storage API server that keeps the results as Kubernetes objects. Hardened by QuenchWorks: every component built from source on Wolfi, 0-CVE, cosign-signed and pinned by diges…"
+2026-10-08T12:03:59Z,cilium,quench-cilium,0.0.2,"Cilium networking for Kubernetes: the eBPF agent DaemonSet (CNI, IPAM through CiliumNodes, network policy, VXLAN overlay) with the QuenchWorks Cilium Operator as a dependency. Hardened by QuenchWorks: the agent built from source on Wolfi, 0-CVE, cosign-signed and pinned by digest."
