@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-08T05:15:55Z,secrets-store-csi-driver,quench-secrets-store-csi-driver,0.0.2,"Secrets Store CSI Driver: mounts secrets from external stores (Vault, cloud KMS, through their providers) into pods as volumes, and optionally syncs them to Kubernetes Secrets. Hardened by QuenchWorks: built from source on Wolfi, 0-CVE, cosign-signed and pinned by digest."

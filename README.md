@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 04:19 UTC
+## Latest list — 2026-10-08 05:21 UTC
 
-New charts added between 2026-10-08 03:20 UTC and 2026-10-08 04:19 UTC.
+New charts added between 2026-10-08 04:19 UTC and 2026-10-08 05:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-08T04-19-28-370765Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-08T05-21-53-64067Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-08 03:43:50 | [panopticum](https://artifacthub.io/packages/helm/panopticum/panopticum) | panopticum | 1.0.12 | A tool for developers and QA — web interface for viewing and managing database… |
-| 2026-10-08 04:03:57 | [calico](https://artifacthub.io/packages/helm/quench-calico/calico) | quench-calico | 0.0.2 | Project Calico networking and network policy, installed by the Tigera operator.… |
+| 2026-10-08 05:15:55 | [secrets-store-csi-driver](https://artifacthub.io/packages/helm/quench-secrets-store-csi-driver/secrets-store-csi-driver) | quench-secrets-store-cs… | 0.0.2 | Secrets Store CSI Driver: mounts secrets from external stores (Vault, cloud KMS… |
 
 ## Data source
 
