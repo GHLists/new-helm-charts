@@ -14,17 +14,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 15:19 UTC
+## Latest list — 2026-10-08 16:21 UTC
 
-New charts added between 2026-10-08 14:24 UTC and 2026-10-08 15:19 UTC.
+New charts added between 2026-10-08 15:19 UTC and 2026-10-08 16:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-08T15-19-48-195236Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-08T16-21-57-798851Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-08 14:32:39 | [linkerd-cni](https://artifacthub.io/packages/helm/quench-linkerd-cni/linkerd-cni) | quench-linkerd-cni | 0.0.1 | Linkerd CNI plugin: a DaemonSet that chains the linkerd-cni plugin into each no… |
-| 2026-10-08 14:38:54 | [rainstone](https://artifacthub.io/packages/helm/cloudve/rainstone) | cloudve | 0.3.0 | Galaxy compute cost reporting, deployed alongside Galaxy |
-| 2026-10-08 15:01:16 | [azimuth-schedule-operator](https://artifacthub.io/packages/helm/azimuth-schedule-operator-chart/azimuth-schedule-operator) | azimuth-schedule-operat… | 0.12.0 | Helm chart for deploying the Azimuth schedule operator. |
+| 2026-10-08 16:00:41 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-10-08 16:04:03 | [mongodb-exporter](https://artifacthub.io/packages/helm/quench-mongodb-exporter/mongodb-exporter) | quench-mongodb-exporter | 0.0.1 | Prometheus exporter for MongoDB (Percona's): server status, replica set, databa… |
+| 2026-10-08 16:04:03 | [mysqld-exporter](https://artifacthub.io/packages/helm/quench-mysqld-exporter/mysqld-exporter) | quench-mysqld-exporter | 0.0.2 | Prometheus exporter for MySQL and MariaDB: server status, InnoDB, replication a… |
+| 2026-10-08 16:04:03 | [node-exporter](https://artifacthub.io/packages/helm/quench-node-exporter/node-exporter) | quench-node-exporter | 0.0.2 | Prometheus node_exporter as a DaemonSet: CPU, memory, disk, filesystem, network… |
+| 2026-10-08 16:04:05 | [postgres-exporter](https://artifacthub.io/packages/helm/quench-postgres-exporter/postgres-exporter) | quench-postgres-exporter | 0.0.1 | Prometheus exporter for PostgreSQL: server, database, replication, lock and sta… |
+| 2026-10-08 16:04:05 | [redis-exporter](https://artifacthub.io/packages/helm/quench-redis-exporter/redis-exporter) | quench-redis-exporter | 0.0.2 | Prometheus exporter for Redis and Valkey: memory, clients, keyspace, replicatio… |
 
 ## Data source
 
