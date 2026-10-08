@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 01:22 UTC
+## Latest list — 2026-10-08 04:19 UTC
 
-New charts added between 2026-10-08 00:19 UTC and 2026-10-08 01:22 UTC.
+New charts added between 2026-10-08 03:20 UTC and 2026-10-08 04:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-08T01-22-08-55992Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-08T04-19-28-370765Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-08 00:22:00 | [flyte-devbox](https://artifacthub.io/packages/helm/flyte/flyte-devbox) | flyte | 0.1.0 | A Helm chart for the Flyte local demo cluster |
+| 2026-10-08 03:43:50 | [panopticum](https://artifacthub.io/packages/helm/panopticum/panopticum) | panopticum | 1.0.12 | A tool for developers and QA — web interface for viewing and managing database… |
+| 2026-10-08 04:03:57 | [calico](https://artifacthub.io/packages/helm/quench-calico/calico) | quench-calico | 0.0.2 | Project Calico networking and network policy, installed by the Tigera operator.… |
 
 ## Data source
 
