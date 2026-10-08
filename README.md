@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 23:20 UTC
+## Latest list — 2026-10-08 01:22 UTC
 
-New charts added between 2026-10-07 22:22 UTC and 2026-10-07 23:20 UTC.
+New charts added between 2026-10-08 00:19 UTC and 2026-10-08 01:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-07T23-20-36-58097Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-08T01-22-08-55992Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-07 22:46:22 | [governance-policy-propagator](https://artifacthub.io/packages/helm/ocm-helm-charts/governance-policy-propagator) | ocm-helm-charts | 0.20.1 | The Governance Policy Propagator is a policy framework hub controller and is pa… |
-| 2026-10-07 23:15:54 | [storm](https://artifacthub.io/packages/helm/quench-storm/storm) | quench-storm | 0.0.1 | Apache Storm, distributed real-time stream processing: Nimbus, supervisors and… |
+| 2026-10-08 00:22:00 | [flyte-devbox](https://artifacthub.io/packages/helm/flyte/flyte-devbox) | flyte | 0.1.0 | A Helm chart for the Flyte local demo cluster |
 
 ## Data source
 
