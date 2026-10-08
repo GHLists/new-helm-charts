@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-08T16:32:49Z,linkerd-viz,quench-linkerd-viz,0.0.1,"Linkerd Viz (edge release line) without the web dashboard: metrics-api (the Prometheus-backed API behind linkerd viz stat), tap and the tap injector, so linkerd viz stat, top, routes and tap work against your own Prometheus. Runs meshed, on the QuenchWorks linkerd chart. Hardened by QuenchWorks: bu…"
+2026-10-08T16:32:50Z,prometheus-nats-exporter,quench-prometheus-nats-exporter,0.0.1,"Prometheus exporter for NATS: server (varz), connection, route, subscription and JetStream metrics read from a NATS server's HTTP monitoring port, as a standalone Deployment. Hardened by QuenchWorks: built from source on Wolfi, nonroot, 0-CVE, cosign-signed and pinned by digest."
