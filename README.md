@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 20:19 UTC
+## Latest list — 2026-10-09 21:21 UTC
 
-New charts added between 2026-10-09 19:21 UTC and 2026-10-09 20:19 UTC.
+New charts added between 2026-10-09 20:19 UTC and 2026-10-09 21:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-09T20-19-35-881739Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-09T21-21-21-433643Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-09 19:38:36 | [nautilus-trader](https://artifacthub.io/packages/helm/helmforge/nautilus-trader) | helmforge | 1.0.0 | Production-ready singleton runtime for NautilusTrader live nodes and backtests |
+| 2026-10-09 20:34:15 | [sutura](https://artifacthub.io/packages/helm/sutura/sutura) | sutura | 0.6.1 | Identity-aware semantic data runtime, served over HTTP. One Deployment running… |
 
 ## Data source
 

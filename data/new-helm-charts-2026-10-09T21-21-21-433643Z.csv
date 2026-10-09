@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-09T20:34:15Z,sutura,sutura,0.6.1,"Identity-aware semantic data runtime, served over HTTP. One Deployment running the published `sutura serve` image over a settings tree - the same directory-plus-env-vars layering `sutura-config` reads everywhere else, so this chart configures nothing the binary itself does not."
