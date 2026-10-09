@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-09T14:33:47Z,cs-firewall-bouncer,spnngl-cs-firewall-bouncer,0.1.0,CrowdSec firewall bouncer (nftables mode) running as a hardened DaemonSet that bans CrowdSec decisions in every node's netfilter
+2026-10-09T14:45:44Z,domain-locker,domain-locker,0.3.3,A Helm chart for deploying Domain Locker

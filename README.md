@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 14:20 UTC
+## Latest list — 2026-10-09 15:20 UTC
 
-New charts added between 2026-10-09 13:22 UTC and 2026-10-09 14:20 UTC.
+New charts added between 2026-10-09 14:20 UTC and 2026-10-09 15:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-09T14-20-57-455546Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-09T15-20-13-374704Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-09 13:26:45 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-10-09 14:33:47 | [cs-firewall-bouncer](https://artifacthub.io/packages/helm/spnngl-cs-firewall-bouncer/cs-firewall-bouncer) | spnngl-cs-firewall-boun… | 0.1.0 | CrowdSec firewall bouncer (nftables mode) running as a hardened DaemonSet that… |
+| 2026-10-09 14:45:44 | [domain-locker](https://artifacthub.io/packages/helm/domain-locker/domain-locker) | domain-locker | 0.3.3 | A Helm chart for deploying Domain Locker |
 
 ## Data source
 
