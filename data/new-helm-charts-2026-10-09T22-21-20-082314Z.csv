@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-09T21:54:38Z,ghostfolio,helmforge,1.0.0,"Production-ready Ghostfolio wealth management with PostgreSQL, Redis, OIDC, and immutable secrets"
