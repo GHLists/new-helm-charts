@@ -14,15 +14,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 08:21 UTC
+## Latest list — 2026-10-09 12:19 UTC
 
-New charts added between 2026-10-09 07:18 UTC and 2026-10-09 08:21 UTC.
+New charts added between 2026-10-09 11:21 UTC and 2026-10-09 12:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-09T08-21-04-953083Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-09T12-19-33-64972Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-09 08:10:33 | [ripple](https://artifacthub.io/packages/helm/ripple/ripple) | ripple | 0.1.0 | Scheduled ConfigMap and Secret reference checks for Kubernetes |
+| 2026-10-09 11:28:16 | [mo-backup](https://artifacthub.io/packages/helm/mogenius/mo-backup) | mogenius | 1.0.29 | This is the mogenius backup script. |
+| 2026-10-09 11:42:42 | [mo-backup-mysql](https://artifacthub.io/packages/helm/mogenius/mo-backup-mysql) | mogenius | 1.0.29 | This is the mogenius backup script. |
+| 2026-10-09 11:59:24 | [domain-locker](https://artifacthub.io/packages/helm/domain-locker/domain-locker) | domain-locker | 0.3.2 | A Helm chart for deploying Domain Locker |
+| 2026-10-09 12:01:12 | [arith](https://artifacthub.io/packages/helm/arith/arith) | arith | 1.0.0 | Integer arithmetic over HTTP. Four endpoints, a page, metrics, traces and logs. |
 
 ## Data source
 
