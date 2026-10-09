@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-09T08:10:33Z,ripple,ripple,0.1.0,Scheduled ConfigMap and Secret reference checks for Kubernetes
