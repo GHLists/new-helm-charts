@@ -1,0 +1,6 @@
+created_at,chart,repository,version,description
+2026-10-09T15:34:38Z,kimistore,loafoe,0.1.0,Kafka-compatible streaming agent that keeps its durable log in object storage
+2026-10-09T15:50:36Z,kamaji-crds,clastix,0.0.0+latest,Kamaji is the Hosted Control Plane Manager for Kubernetes.
+2026-10-09T16:01:14Z,arith-ruby,arith-ruby,1.0.0,"Integer arithmetic over HTTP. Four endpoints, a page, metrics, traces and logs."
+2026-10-09T16:01:14Z,arith-rust,arith-rust,1.1.0,"Integer arithmetic over HTTP. Four endpoints, a page, metrics, traces and logs."
+2026-10-09T16:01:14Z,arith-ts,arith-ts,1.0.0,"Integer arithmetic over HTTP. Four endpoints, a page, metrics, traces and logs."

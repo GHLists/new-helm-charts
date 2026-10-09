@@ -14,16 +14,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 15:20 UTC
+## Latest list — 2026-10-09 16:20 UTC
 
-New charts added between 2026-10-09 14:20 UTC and 2026-10-09 15:20 UTC.
+New charts added between 2026-10-09 15:20 UTC and 2026-10-09 16:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-09T15-20-13-374704Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-09T16-20-47-203441Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-09 14:33:47 | [cs-firewall-bouncer](https://artifacthub.io/packages/helm/spnngl-cs-firewall-bouncer/cs-firewall-bouncer) | spnngl-cs-firewall-boun… | 0.1.0 | CrowdSec firewall bouncer (nftables mode) running as a hardened DaemonSet that… |
-| 2026-10-09 14:45:44 | [domain-locker](https://artifacthub.io/packages/helm/domain-locker/domain-locker) | domain-locker | 0.3.3 | A Helm chart for deploying Domain Locker |
+| 2026-10-09 15:34:38 | [kimistore](https://artifacthub.io/packages/helm/loafoe/kimistore) | loafoe | 0.1.0 | Kafka-compatible streaming agent that keeps its durable log in object storage |
+| 2026-10-09 15:50:36 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
+| 2026-10-09 16:01:14 | [arith-ruby](https://artifacthub.io/packages/helm/arith-ruby/arith-ruby) | arith-ruby | 1.0.0 | Integer arithmetic over HTTP. Four endpoints, a page, metrics, traces and logs. |
+| 2026-10-09 16:01:14 | [arith-rust](https://artifacthub.io/packages/helm/arith-rust/arith-rust) | arith-rust | 1.1.0 | Integer arithmetic over HTTP. Four endpoints, a page, metrics, traces and logs. |
+| 2026-10-09 16:01:14 | [arith-ts](https://artifacthub.io/packages/helm/arith-ts/arith-ts) | arith-ts | 1.0.0 | Integer arithmetic over HTTP. Four endpoints, a page, metrics, traces and logs. |
 
 ## Data source
 
