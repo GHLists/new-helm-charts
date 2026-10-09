@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-09T18:32:31Z,paguro,paguro,0.1.1,"Live migration of running Kubernetes pods with CRIU: memory, open files, emptyDirs and PVCs move to another node while TCP connections and UDP flows continue. Evictions (kubectl drain, Karpenter, Cluster Autoscaler) become migrations."

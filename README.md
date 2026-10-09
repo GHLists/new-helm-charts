@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 18:20 UTC
+## Latest list — 2026-10-09 19:21 UTC
 
-New charts added between 2026-10-09 17:20 UTC and 2026-10-09 18:20 UTC.
+New charts added between 2026-10-09 18:20 UTC and 2026-10-09 19:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-09T18-20-26-174776Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-09T19-21-20-46235Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-09 17:45:28 | [wuflow](https://artifacthub.io/packages/helm/wuflow/wuflow) | wuflow | 1.4.2 | wuFlow is a modern and lightweight issue tracking and planning application. |
+| 2026-10-09 18:32:31 | [paguro](https://artifacthub.io/packages/helm/paguro/paguro) | paguro | 0.1.1 | Live migration of running Kubernetes pods with CRIU: memory, open files, emptyD… |
 
 ## Data source
 
