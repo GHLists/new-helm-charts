@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-09T19:38:36Z,nautilus-trader,helmforge,1.0.0,Production-ready singleton runtime for NautilusTrader live nodes and backtests
