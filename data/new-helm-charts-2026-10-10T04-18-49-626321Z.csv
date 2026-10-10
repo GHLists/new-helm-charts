@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-10T03:43:27Z,rustfs-tenant,operator,0.0.8,A RustFS Tenant with optional S3 and Console ingress resources

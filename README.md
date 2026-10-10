@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 02:21 UTC
+## Latest list — 2026-10-10 04:18 UTC
 
-New charts added between 2026-10-10 01:19 UTC and 2026-10-10 02:21 UTC.
+New charts added between 2026-10-10 03:19 UTC and 2026-10-10 04:18 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-10T02-21-45-044963Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-10T04-18-49-626321Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-10 01:30:38 | [cgroupguard](https://artifacthub.io/packages/helm/cgroupguard/cgroupguard) | cgroupguard | 0.1.0 | Optional in-cluster controller for cgroup v1 to v2 readiness scans. Read-only t… |
+| 2026-10-10 03:43:27 | [rustfs-tenant](https://artifacthub.io/packages/helm/operator/rustfs-tenant) | operator | 0.0.8 | A RustFS Tenant with optional S3 and Console ingress resources |
 
 ## Data source
 
