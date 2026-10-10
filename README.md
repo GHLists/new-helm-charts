@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 20:18 UTC
+## Latest list — 2026-10-10 22:19 UTC
 
-New charts added between 2026-10-10 19:21 UTC and 2026-10-10 20:18 UTC.
+New charts added between 2026-10-10 21:21 UTC and 2026-10-10 22:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-10T20-18-44-234467Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-10T22-19-41-397476Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-10 19:26:58 | [kafka](https://artifacthub.io/packages/helm/leprechaun-charts/kafka) | leprechaun-charts | 0.1.2 | A Helm chart for Kafka |
+| 2026-10-10 21:48:38 | [ansibleforms](https://artifacthub.io/packages/helm/ansibleforms/ansibleforms) | ansibleforms | 6.0.2 | A Helm chart for AnsibleForms, a web front end that turns Ansible playbooks int… |
 
 ## Data source
 
