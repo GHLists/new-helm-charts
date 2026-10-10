@@ -1,0 +1,14 @@
+created_at,chart,repository,version,description
+2026-10-10T08:32:09Z,kamaji-crds,clastix,0.0.0+latest,Kamaji is the Hosted Control Plane Manager for Kubernetes.
+2026-10-10T08:41:51Z,feishin,kubernetes-homelab-helm-charts,0.1.0,Deploys Feishin music streaming client on Kubernetes
+2026-10-10T08:41:51Z,homepage,kubernetes-homelab-helm-charts,0.1.0,Deploys Homepage dashboard on Kubernetes.
+2026-10-10T08:41:51Z,k8s-debug-pod,kubernetes-homelab-helm-charts,0.1.0,Deploys an Ubuntu-based Kubernetes troubleshooting pod
+2026-10-10T08:41:51Z,navidrome,kubernetes-homelab-helm-charts,0.1.0,Deploys Navidrome music streaming server on Kubernetes
+2026-10-10T08:41:51Z,owncloud,kubernetes-homelab-helm-charts,0.1.0,Deploys ownCloud Server with MariaDB and Redis on Kubernetes
+2026-10-10T08:41:51Z,pocket-id,kubernetes-homelab-helm-charts,0.1.0,Deploys Pocket ID passkey-based OIDC provider on Kubernetes
+2026-10-10T08:41:51Z,portfolio-next,kubernetes-homelab-helm-charts,0.1.0,Static Astro portfolio served by unprivileged NGINX
+2026-10-10T08:41:51Z,portfolio-tracker,kubernetes-homelab-helm-charts,0.1.0,Deploys the self-hosted Portfolio Tracker with PostgreSQL
+2026-10-10T08:41:51Z,pve-exporter,kubernetes-homelab-helm-charts,0.1.0,Deploys the prometheus-pve-exporter for scraping Proxmox VE metrics
+2026-10-10T08:41:51Z,qbittorrent-exporter,kubernetes-homelab-helm-charts,0.1.0,Deploys the martabal qBittorrent Prometheus exporter on Kubernetes
+2026-10-10T08:41:51Z,syncthing,kubernetes-homelab-helm-charts,0.1.0,Deploys Syncthing continuous file synchronization on Kubernetes
+2026-10-10T08:41:51Z,umami,kubernetes-homelab-helm-charts,0.1.0,"A Helm chart for Umami, a privacy-focused web analytics platform"
