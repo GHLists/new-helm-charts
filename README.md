@@ -14,26 +14,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 10:20 UTC
+## Latest list — 2026-10-10 15:19 UTC
 
-New charts added between 2026-10-10 09:19 UTC and 2026-10-10 10:20 UTC.
+New charts added between 2026-10-10 14:19 UTC and 2026-10-10 15:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-10T10-20-01-13858Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-10T15-19-33-616596Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-10 09:51:52 | [feishin](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/feishin) | kubernetes-homelab-helm… | 0.1.0 | Deploys Feishin music streaming client on Kubernetes |
-| 2026-10-10 09:51:52 | [homepage](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/homepage) | kubernetes-homelab-helm… | 0.1.0 | Deploys Homepage dashboard on Kubernetes. |
-| 2026-10-10 09:51:52 | [k8s-debug-pod](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/k8s-debug-pod) | kubernetes-homelab-helm… | 0.1.0 | Deploys an Ubuntu-based Kubernetes troubleshooting pod |
-| 2026-10-10 09:51:52 | [navidrome](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/navidrome) | kubernetes-homelab-helm… | 0.1.0 | Deploys Navidrome music streaming server on Kubernetes |
-| 2026-10-10 09:51:52 | [owncloud](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/owncloud) | kubernetes-homelab-helm… | 0.1.0 | Deploys ownCloud Server with MariaDB and Redis on Kubernetes |
-| 2026-10-10 09:51:52 | [pocket-id](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/pocket-id) | kubernetes-homelab-helm… | 0.1.0 | Deploys Pocket ID passkey-based OIDC provider on Kubernetes |
-| 2026-10-10 09:51:52 | [portfolio-next](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/portfolio-next) | kubernetes-homelab-helm… | 0.1.0 | Static Astro portfolio served by unprivileged NGINX |
-| 2026-10-10 09:51:52 | [portfolio-tracker](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/portfolio-tracker) | kubernetes-homelab-helm… | 0.1.0 | Deploys the self-hosted Portfolio Tracker with PostgreSQL |
-| 2026-10-10 09:51:52 | [pve-exporter](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/pve-exporter) | kubernetes-homelab-helm… | 0.1.0 | Deploys the prometheus-pve-exporter for scraping Proxmox VE metrics |
-| 2026-10-10 09:51:52 | [qbittorrent-exporter](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/qbittorrent-exporter) | kubernetes-homelab-helm… | 0.1.0 | Deploys the martabal qBittorrent Prometheus exporter on Kubernetes |
-| 2026-10-10 09:51:52 | [syncthing](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/syncthing) | kubernetes-homelab-helm… | 0.1.0 | Deploys Syncthing continuous file synchronization on Kubernetes |
-| 2026-10-10 09:51:52 | [umami](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/umami) | kubernetes-homelab-helm… | 0.1.0 | A Helm chart for Umami, a privacy-focused web analytics platform |
+| 2026-10-10 14:22:16 | [feishin](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/feishin) | kubernetes-homelab-helm… | 0.1.0 | Deploys Feishin music streaming client on Kubernetes |
+| 2026-10-10 14:22:16 | [homepage](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/homepage) | kubernetes-homelab-helm… | 0.1.0 | Deploys Homepage dashboard on Kubernetes. |
+| 2026-10-10 14:22:16 | [k8s-debug-pod](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/k8s-debug-pod) | kubernetes-homelab-helm… | 0.1.0 | Deploys an Ubuntu-based Kubernetes troubleshooting pod |
+| 2026-10-10 14:22:16 | [navidrome](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/navidrome) | kubernetes-homelab-helm… | 0.1.0 | Deploys Navidrome music streaming server on Kubernetes |
+| 2026-10-10 14:22:16 | [owncloud](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/owncloud) | kubernetes-homelab-helm… | 0.1.0 | Deploys ownCloud Server with MariaDB and Redis on Kubernetes |
+| 2026-10-10 14:22:16 | [pocket-id](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/pocket-id) | kubernetes-homelab-helm… | 0.1.0 | Deploys Pocket ID passkey-based OIDC provider on Kubernetes |
+| 2026-10-10 14:22:16 | [portfolio-next](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/portfolio-next) | kubernetes-homelab-helm… | 0.1.0 | Static Astro portfolio served by unprivileged NGINX |
+| 2026-10-10 14:22:16 | [portfolio-tracker](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/portfolio-tracker) | kubernetes-homelab-helm… | 0.1.0 | Deploys the self-hosted Portfolio Tracker with PostgreSQL |
+| 2026-10-10 14:22:16 | [pve-exporter](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/pve-exporter) | kubernetes-homelab-helm… | 0.1.0 | Deploys the prometheus-pve-exporter for scraping Proxmox VE metrics |
+| 2026-10-10 14:22:16 | [qbittorrent-exporter](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/qbittorrent-exporter) | kubernetes-homelab-helm… | 0.1.0 | Deploys the martabal qBittorrent Prometheus exporter on Kubernetes |
+| 2026-10-10 14:22:16 | [syncthing](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/syncthing) | kubernetes-homelab-helm… | 0.1.0 | Deploys Syncthing continuous file synchronization on Kubernetes |
+| 2026-10-10 14:22:16 | [umami](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/umami) | kubernetes-homelab-helm… | 0.1.0 | A Helm chart for Umami, a privacy-focused web analytics platform |
+| 2026-10-10 15:01:48 | [searxng](https://artifacthub.io/packages/helm/this-is-tobi-helm-charts/searxng) | this-is-tobi-helm-charts | 0.1.0 | Secure, plug-and-play Helm chart for SearXNG, the privacy-respecting metasearch… |
 
 ## Data source
 

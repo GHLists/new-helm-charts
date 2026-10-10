@@ -1,0 +1,14 @@
+created_at,chart,repository,version,description
+2026-10-10T14:22:16Z,feishin,kubernetes-homelab-helm-charts,0.1.0,Deploys Feishin music streaming client on Kubernetes
+2026-10-10T14:22:16Z,homepage,kubernetes-homelab-helm-charts,0.1.0,Deploys Homepage dashboard on Kubernetes.
+2026-10-10T14:22:16Z,k8s-debug-pod,kubernetes-homelab-helm-charts,0.1.0,Deploys an Ubuntu-based Kubernetes troubleshooting pod
+2026-10-10T14:22:16Z,navidrome,kubernetes-homelab-helm-charts,0.1.0,Deploys Navidrome music streaming server on Kubernetes
+2026-10-10T14:22:16Z,owncloud,kubernetes-homelab-helm-charts,0.1.0,Deploys ownCloud Server with MariaDB and Redis on Kubernetes
+2026-10-10T14:22:16Z,pocket-id,kubernetes-homelab-helm-charts,0.1.0,Deploys Pocket ID passkey-based OIDC provider on Kubernetes
+2026-10-10T14:22:16Z,portfolio-next,kubernetes-homelab-helm-charts,0.1.0,Static Astro portfolio served by unprivileged NGINX
+2026-10-10T14:22:16Z,portfolio-tracker,kubernetes-homelab-helm-charts,0.1.0,Deploys the self-hosted Portfolio Tracker with PostgreSQL
+2026-10-10T14:22:16Z,pve-exporter,kubernetes-homelab-helm-charts,0.1.0,Deploys the prometheus-pve-exporter for scraping Proxmox VE metrics
+2026-10-10T14:22:16Z,qbittorrent-exporter,kubernetes-homelab-helm-charts,0.1.0,Deploys the martabal qBittorrent Prometheus exporter on Kubernetes
+2026-10-10T14:22:16Z,syncthing,kubernetes-homelab-helm-charts,0.1.0,Deploys Syncthing continuous file synchronization on Kubernetes
+2026-10-10T14:22:16Z,umami,kubernetes-homelab-helm-charts,0.1.0,"A Helm chart for Umami, a privacy-focused web analytics platform"
+2026-10-10T15:01:48Z,searxng,this-is-tobi-helm-charts,0.1.0,"Secure, plug-and-play Helm chart for SearXNG, the privacy-respecting metasearch engine, with optional Valkey for its limiter."
