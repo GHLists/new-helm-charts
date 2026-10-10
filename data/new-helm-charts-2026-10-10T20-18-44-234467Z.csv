@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-10T19:26:58Z,kafka,leprechaun-charts,0.1.2,A Helm chart for Kafka
