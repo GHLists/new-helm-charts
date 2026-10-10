@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 22:21 UTC
+## Latest list — 2026-10-10 02:21 UTC
 
-New charts added between 2026-10-09 21:21 UTC and 2026-10-09 22:21 UTC.
+New charts added between 2026-10-10 01:19 UTC and 2026-10-10 02:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-09T22-21-20-082314Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-10T02-21-45-044963Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-09 21:54:38 | [ghostfolio](https://artifacthub.io/packages/helm/helmforge/ghostfolio) | helmforge | 1.0.0 | Production-ready Ghostfolio wealth management with PostgreSQL, Redis, OIDC, and… |
+| 2026-10-10 01:30:38 | [cgroupguard](https://artifacthub.io/packages/helm/cgroupguard/cgroupguard) | cgroupguard | 0.1.0 | Optional in-cluster controller for cgroup v1 to v2 readiness scans. Read-only t… |
 
 ## Data source
 
