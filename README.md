@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 21:19 UTC
+## Latest list — 2026-10-11 22:20 UTC
 
-New charts added between 2026-10-11 20:21 UTC and 2026-10-11 21:19 UTC.
+New charts added between 2026-10-11 21:19 UTC and 2026-10-11 22:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-11T21-19-19-74403Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-11T22-20-58-828239Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-11 20:26:47 | [petri](https://artifacthub.io/packages/helm/jfwenisch/petri) | jfwenisch | 0.1.0 | Self-hosted agentic coding harness, multi-agent orchestrator and development en… |
-| 2026-10-11 21:16:50 | [stunner-dev](https://artifacthub.io/packages/helm/stunner/stunner-dev) | stunner | 1.2.1 | STUNner Kubernetes Gateway Operator |
+| 2026-10-11 21:27:51 | [kubevault-crd-manager](https://artifacthub.io/packages/helm/appscode/kubevault-crd-manager) | appscode | 2026.10.12 | KubeVault CRD Manager by AppsCode |
+| 2026-10-11 22:01:51 | [decdn-node](https://artifacthub.io/packages/helm/decdn-node/decdn-node) | decdn-node | 0.1.0 | A deCDN node (decdn-node daemon) on Kubernetes: public QUIC over UDP, a persist… |
 
 ## Data source
 

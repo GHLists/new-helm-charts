@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-11T21:27:51Z,kubevault-crd-manager,appscode,2026.10.12,KubeVault CRD Manager by AppsCode
+2026-10-11T22:01:51Z,decdn-node,decdn-node,0.1.0,"A deCDN node (decdn-node daemon) on Kubernetes: public QUIC over UDP, a persistent data dir holding the operator-provisioned node identity, and a ClusterIP-only metrics endpoint behind a NetworkPolicy."
