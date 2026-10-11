@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 00:21 UTC
+## Latest list — 2026-10-11 01:19 UTC
 
-New charts added between 2026-10-10 23:19 UTC and 2026-10-11 00:21 UTC.
+New charts added between 2026-10-11 00:21 UTC and 2026-10-11 01:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-11T00-21-36-199369Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-11T01-19-53-815335Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-10 23:30:48 | [dagster-authkit](https://artifacthub.io/packages/helm/dagster-authkit/dagster-authkit) | dagster-authkit | 1.2.0 | Community authentication wrapper for self-hosted Dagster OSS |
+| 2026-10-11 00:30:14 | [arith-ruby](https://artifacthub.io/packages/helm/arith-ruby/arith-ruby) | arith-ruby | 1.1.0 | Integer arithmetic over HTTP. Four endpoints, a page, metrics, traces and logs. |
+| 2026-10-11 00:30:14 | [arith-rust](https://artifacthub.io/packages/helm/arith-rust/arith-rust) | arith-rust | 1.2.0 | Integer arithmetic over HTTP. Four endpoints, a page, metrics, traces and logs. |
 
 ## Data source
 
