@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-11T07:31:56Z,nilchela,nilchela,0.0.0,"Deploy nilchela — a thin, opinionated ZeroClaw dev image that installs mise-managed toolchains at runtime instead of baking them into the image."

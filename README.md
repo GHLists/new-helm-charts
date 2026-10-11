@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 03:19 UTC
+## Latest list — 2026-10-11 08:20 UTC
 
-New charts added between 2026-10-11 02:20 UTC and 2026-10-11 03:19 UTC.
+New charts added between 2026-10-11 07:21 UTC and 2026-10-11 08:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-11T03-19-23-529053Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-11T08-20-48-354046Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-11 03:02:02 | [gentleman](https://artifacthub.io/packages/helm/gentleman/gentleman) | gentleman | 0.1.0 | Declarative AI agent server — MCP for tools, A2A for agents, AG-UI for humans |
+| 2026-10-11 07:31:56 | [nilchela](https://artifacthub.io/packages/helm/nilchela/nilchela) | nilchela | 0.0.0 | Deploy nilchela — a thin, opinionated ZeroClaw dev image that installs mise-man… |
 
 ## Data source
 
