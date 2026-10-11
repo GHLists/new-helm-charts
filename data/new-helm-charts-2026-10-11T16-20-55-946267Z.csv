@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-11T15:31:38Z,leantime,maarlo-leantime,0.1.0,Project management for the non-project manager
+2026-10-11T16:06:09Z,strimzi-operator,quench-strimzi-operator,0.0.2,"Strimzi cluster operator: run Apache Kafka on Kubernetes from CRDs (Kafka, KafkaNodePool, KafkaTopic, KafkaUser, KafkaConnect, KafkaMirrorMaker2). The CRDs ship with the chart; brokers, controllers, Connect and Kafka Exporter run on the QuenchWorks strimzi-kafka image. Cruise Control is not support…"
