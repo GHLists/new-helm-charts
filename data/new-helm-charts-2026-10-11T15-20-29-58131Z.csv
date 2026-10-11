@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-10-11T14:30:51Z,teslamate,dcardozoo,0.1.0,"TeslaMate data logger with Grafana dashboards, Mosquitto MQTT broker and a highly available CloudNativePG PostgreSQL cluster. Requires the CloudNativePG operator (and the Barman Cloud plugin for backups) to be installed separately."
+2026-10-11T14:56:46Z,openunison-k8s-cluster-management-by-group,tremolo,0.1.0,A Helm chart for Kubernetes
+2026-10-11T14:56:46Z,openunison-vcluster-admins,tremolo,0.1.0,Generates cluster-admins for vclusters

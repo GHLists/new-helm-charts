@@ -14,16 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 11:20 UTC
+## Latest list — 2026-10-11 15:20 UTC
 
-New charts added between 2026-10-11 10:20 UTC and 2026-10-11 11:20 UTC.
+New charts added between 2026-10-11 14:19 UTC and 2026-10-11 15:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-11T11-20-49-764799Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-11T15-20-29-58131Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-11 10:29:16 | [jupyter-imagepuller](https://artifacthub.io/packages/helm/jupyter-jsc/jupyter-imagepuller) | jupyter-jsc | 1.0.0 | A Helm chart for Kubernetes |
-| 2026-10-11 10:36:17 | [node-red](https://artifacthub.io/packages/helm/k8sonlab/node-red) | k8sonlab | 1.0.2 | Node-Red helmchart, based on nodered image. A nice web ui flow tool |
+| 2026-10-11 14:30:51 | [teslamate](https://artifacthub.io/packages/helm/dcardozoo/teslamate) | dcardozoo | 0.1.0 | TeslaMate data logger with Grafana dashboards, Mosquitto MQTT broker and a high… |
+| 2026-10-11 14:56:46 | [openunison-k8s-cluster-management-by-group](https://artifacthub.io/packages/helm/tremolo/openunison-k8s-cluster-management-by-group) | tremolo | 0.1.0 | A Helm chart for Kubernetes |
+| 2026-10-11 14:56:46 | [openunison-vcluster-admins](https://artifacthub.io/packages/helm/tremolo/openunison-vcluster-admins) | tremolo | 0.1.0 | Generates cluster-admins for vclusters |
 
 ## Data source
 
