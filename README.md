@@ -14,16 +14,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 22:20 UTC
+## Latest list — 2026-10-11 23:20 UTC
 
-New charts added between 2026-10-11 21:19 UTC and 2026-10-11 22:20 UTC.
+New charts added between 2026-10-11 22:20 UTC and 2026-10-11 23:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-11T22-20-58-828239Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-11T23-20-07-270457Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-11 21:27:51 | [kubevault-crd-manager](https://artifacthub.io/packages/helm/appscode/kubevault-crd-manager) | appscode | 2026.10.12 | KubeVault CRD Manager by AppsCode |
-| 2026-10-11 22:01:51 | [decdn-node](https://artifacthub.io/packages/helm/decdn-node/decdn-node) | decdn-node | 0.1.0 | A deCDN node (decdn-node daemon) on Kubernetes: public QUIC over UDP, a persist… |
+| 2026-10-11 22:27:26 | [llm-mitm](https://artifacthub.io/packages/helm/leprechaun-charts/llm-mitm) | leprechaun-charts | 0.1.1 | Minimal OpenAI-compatible proxy for Bedrock and Ollama with per-API-key cost tr… |
+| 2026-10-11 22:36:39 | [mo-backup](https://artifacthub.io/packages/helm/mogenius/mo-backup) | mogenius | 1.0.29 | This is the mogenius backup script. |
+| 2026-10-11 22:36:39 | [mo-backup-mysql](https://artifacthub.io/packages/helm/mogenius/mo-backup-mysql) | mogenius | 1.0.29 | This is the mogenius backup script. |
+| 2026-10-11 23:15:47 | [stunner-dev](https://artifacthub.io/packages/helm/stunner/stunner-dev) | stunner | 1.2.1 | STUNner Kubernetes Gateway Operator |
 
 ## Data source
 

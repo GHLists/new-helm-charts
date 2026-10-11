@@ -1,0 +1,5 @@
+created_at,chart,repository,version,description
+2026-10-11T22:27:26Z,llm-mitm,leprechaun-charts,0.1.1,Minimal OpenAI-compatible proxy for Bedrock and Ollama with per-API-key cost tracking
+2026-10-11T22:36:39Z,mo-backup,mogenius,1.0.29,This is the mogenius backup script.
+2026-10-11T22:36:39Z,mo-backup-mysql,mogenius,1.0.29,This is the mogenius backup script.
+2026-10-11T23:15:47Z,stunner-dev,stunner,1.2.1,STUNner Kubernetes Gateway Operator
