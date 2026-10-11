@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 01:19 UTC
+## Latest list — 2026-10-11 03:19 UTC
 
-New charts added between 2026-10-11 00:21 UTC and 2026-10-11 01:19 UTC.
+New charts added between 2026-10-11 02:20 UTC and 2026-10-11 03:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-11T01-19-53-815335Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-11T03-19-23-529053Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-11 00:30:14 | [arith-ruby](https://artifacthub.io/packages/helm/arith-ruby/arith-ruby) | arith-ruby | 1.1.0 | Integer arithmetic over HTTP. Four endpoints, a page, metrics, traces and logs. |
-| 2026-10-11 00:30:14 | [arith-rust](https://artifacthub.io/packages/helm/arith-rust/arith-rust) | arith-rust | 1.2.0 | Integer arithmetic over HTTP. Four endpoints, a page, metrics, traces and logs. |
+| 2026-10-11 03:02:02 | [gentleman](https://artifacthub.io/packages/helm/gentleman/gentleman) | gentleman | 0.1.0 | Declarative AI agent server — MCP for tools, A2A for agents, AG-UI for humans |
 
 ## Data source
 
