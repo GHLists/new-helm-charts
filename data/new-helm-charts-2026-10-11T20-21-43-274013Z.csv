@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-10-11T19:40:20Z,cloudflare-operator,ankra-charts,0.2.0,"Helm chart for the community Cloudflare Operator (adyanth/cloudflare-operator) that reconciles Tunnel, ClusterTunnel, AccessTunnel and TunnelBinding CRDs against Cloudflare Zero Trust / Cloudflare Tunnel. Optionally renders a ClusterOriginIssuer for use with the cert-manager origin-ca-issuer."
+2026-10-11T19:40:20Z,isms-builder,ankra-charts,0.1.0,"ISMS Builder on Kubernetes - the open-source ISO 27001 / NIS2 ISMS template builder, digest-pinned, non-root, persistent, network-restricted by default, with managed-secret guardrails."
+2026-10-11T20:17:44Z,sillytavern,sillytavern,0.1.13,A local interface for text generation LLMs.

@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 19:18 UTC
+## Latest list — 2026-10-11 20:21 UTC
 
-New charts added between 2026-10-11 18:20 UTC and 2026-10-11 19:18 UTC.
+New charts added between 2026-10-11 19:18 UTC and 2026-10-11 20:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-11T19-18-41-401157Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-11T20-21-43-274013Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-11 19:03:27 | [nilchela](https://artifacthub.io/packages/helm/nilchela-charts/nilchela) | nilchela-charts | 0.0.0 | Deploy nilchela — a thin, opinionated ZeroClaw dev image that installs mise-man… |
+| 2026-10-11 19:40:20 | [cloudflare-operator](https://artifacthub.io/packages/helm/ankra-charts/cloudflare-operator) | ankra-charts | 0.2.0 | Helm chart for the community Cloudflare Operator (adyanth/cloudflare-operator)… |
+| 2026-10-11 19:40:20 | [isms-builder](https://artifacthub.io/packages/helm/ankra-charts/isms-builder) | ankra-charts | 0.1.0 | ISMS Builder on Kubernetes - the open-source ISO 27001 / NIS2 ISMS template bui… |
+| 2026-10-11 20:17:44 | [sillytavern](https://artifacthub.io/packages/helm/sillytavern/sillytavern) | sillytavern | 0.1.13 | A local interface for text generation LLMs. |
 
 ## Data source
 
