@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 18:20 UTC
+## Latest list — 2026-10-11 19:18 UTC
 
-New charts added between 2026-10-11 17:22 UTC and 2026-10-11 18:20 UTC.
+New charts added between 2026-10-11 18:20 UTC and 2026-10-11 19:18 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-11T18-20-45-219046Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-11T19-18-41-401157Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-11 17:24:59 | [paperless-gpt](https://artifacthub.io/packages/helm/taskmedia/paperless-gpt) | taskmedia | 0.3.0 | A Helm chart for paperless-gpt, an LLM-powered OCR and metadata assistant for p… |
-| 2026-10-11 18:19:08 | [upgradescope](https://artifacthub.io/packages/helm/upgradescope/upgradescope) | upgradescope | 0.2.0 | Continuous Kubernetes upgrade-readiness scanner — read-only agent publishing a… |
+| 2026-10-11 19:03:27 | [nilchela](https://artifacthub.io/packages/helm/nilchela-charts/nilchela) | nilchela-charts | 0.0.0 | Deploy nilchela — a thin, opinionated ZeroClaw dev image that installs mise-man… |
 
 ## Data source
 
