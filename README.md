@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 08:20 UTC
+## Latest list — 2026-10-11 10:20 UTC
 
-New charts added between 2026-10-11 07:21 UTC and 2026-10-11 08:20 UTC.
+New charts added between 2026-10-11 09:18 UTC and 2026-10-11 10:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-11T08-20-48-354046Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-11T10-20-30-754758Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-11 07:31:56 | [nilchela](https://artifacthub.io/packages/helm/nilchela/nilchela) | nilchela | 0.0.0 | Deploy nilchela — a thin, opinionated ZeroClaw dev image that installs mise-man… |
+| 2026-10-11 09:55:01 | [postgres](https://artifacthub.io/packages/helm/leprechaun-charts/postgres) | leprechaun-charts | 0.1.2 | A Helm chart for Kubernetes |
 
 ## Data source
 
