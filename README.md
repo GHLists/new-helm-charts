@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 22:19 UTC
+## Latest list — 2026-10-11 00:21 UTC
 
-New charts added between 2026-10-10 21:21 UTC and 2026-10-10 22:19 UTC.
+New charts added between 2026-10-10 23:19 UTC and 2026-10-11 00:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-10T22-19-41-397476Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-11T00-21-36-199369Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-10 21:48:38 | [ansibleforms](https://artifacthub.io/packages/helm/ansibleforms/ansibleforms) | ansibleforms | 6.0.2 | A Helm chart for AnsibleForms, a web front end that turns Ansible playbooks int… |
+| 2026-10-10 23:30:48 | [dagster-authkit](https://artifacthub.io/packages/helm/dagster-authkit/dagster-authkit) | dagster-authkit | 1.2.0 | Community authentication wrapper for self-hosted Dagster OSS |
 
 ## Data source
 

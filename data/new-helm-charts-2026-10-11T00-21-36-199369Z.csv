@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-10T23:30:48Z,dagster-authkit,dagster-authkit,1.2.0,Community authentication wrapper for self-hosted Dagster OSS
