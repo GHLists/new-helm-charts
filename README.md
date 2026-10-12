@@ -14,17 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 16:18 UTC
+## Latest list — 2026-10-12 18:21 UTC
 
-New charts added between 2026-10-12 15:19 UTC and 2026-10-12 16:18 UTC.
+New charts added between 2026-10-12 17:21 UTC and 2026-10-12 18:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-12T16-18-54-254963Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-12T18-21-36-024832Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-12 16:18:20 | [external-snapshotter-crds](https://artifacthub.io/packages/helm/spnngl-external-snapshotter-crds/external-snapshotter-crds) | spnngl-external-snapsho… | 8.6.0 | CustomResourceDefinitions for the Kubernetes CSI external-snapshotter (VolumeSn… |
-| 2026-10-12 16:18:20 | [kubemod-crds](https://artifacthub.io/packages/helm/spnngl-kubemod-crds/kubemod-crds) | spnngl-kubemod-crds | 0.21.0 | CustomResourceDefinitions for KubeMod (ModRule) |
-| 2026-10-12 16:18:20 | [trivy-operator-crds](https://artifacthub.io/packages/helm/spnngl-trivy-operator-crds/trivy-operator-crds) | spnngl-trivy-operator-c… | 0.35.0 | CustomResourceDefinitions for Trivy Operator (VulnerabilityReport, ConfigAuditR… |
+| 2026-10-12 17:50:53 | [ib-gateway](https://artifacthub.io/packages/helm/helmforge/ib-gateway) | helmforge | 1.0.0 | Secure singleton deployment of Interactive Brokers Gateway and IBC |
+| 2026-10-12 18:05:17 | [platform-bom](https://artifacthub.io/packages/helm/platform-bom/platform-bom) | platform-bom | 0.3.0 | Read-only Kubernetes platform inventory with an embedded web UI |
 
 ## Data source
 
