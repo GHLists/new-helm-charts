@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-10-12T16:18:20Z,external-snapshotter-crds,spnngl-external-snapshotter-crds,8.6.0,CustomResourceDefinitions for the Kubernetes CSI external-snapshotter (VolumeSnapshot and VolumeGroupSnapshot APIs)
+2026-10-12T16:18:20Z,kubemod-crds,spnngl-kubemod-crds,0.21.0,CustomResourceDefinitions for KubeMod (ModRule)
+2026-10-12T16:18:20Z,trivy-operator-crds,spnngl-trivy-operator-crds,0.35.0,"CustomResourceDefinitions for Trivy Operator (VulnerabilityReport, ConfigAuditReport, SbomReport and other security reports)"

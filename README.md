@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 15:19 UTC
+## Latest list — 2026-10-12 16:18 UTC
 
-New charts added between 2026-10-12 14:22 UTC and 2026-10-12 15:19 UTC.
+New charts added between 2026-10-12 15:19 UTC and 2026-10-12 16:18 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-12T15-19-11-221674Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-12T16-18-54-254963Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-12 14:22:39 | [stunner-dev](https://artifacthub.io/packages/helm/stunner/stunner-dev) | stunner | 1.2.1 | STUNner Kubernetes Gateway Operator |
+| 2026-10-12 16:18:20 | [external-snapshotter-crds](https://artifacthub.io/packages/helm/spnngl-external-snapshotter-crds/external-snapshotter-crds) | spnngl-external-snapsho… | 8.6.0 | CustomResourceDefinitions for the Kubernetes CSI external-snapshotter (VolumeSn… |
+| 2026-10-12 16:18:20 | [kubemod-crds](https://artifacthub.io/packages/helm/spnngl-kubemod-crds/kubemod-crds) | spnngl-kubemod-crds | 0.21.0 | CustomResourceDefinitions for KubeMod (ModRule) |
+| 2026-10-12 16:18:20 | [trivy-operator-crds](https://artifacthub.io/packages/helm/spnngl-trivy-operator-crds/trivy-operator-crds) | spnngl-trivy-operator-c… | 0.35.0 | CustomResourceDefinitions for Trivy Operator (VulnerabilityReport, ConfigAuditR… |
 
 ## Data source
 
