@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-12T11:21:38Z,kamaji-crds,clastix,0.0.0+latest,Kamaji is the Hosted Control Plane Manager for Kubernetes.
+2026-10-12T12:06:02Z,backdrop,quench-backdrop,0.0.1,"Hardened Backdrop CMS (PHP-FPM + nginx) on a 0-CVE nonroot image, installed by its CLI installer into a bundled MySQL."

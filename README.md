@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 11:19 UTC
+## Latest list — 2026-10-12 12:20 UTC
 
-New charts added between 2026-10-12 10:20 UTC and 2026-10-12 11:19 UTC.
+New charts added between 2026-10-12 11:19 UTC and 2026-10-12 12:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-12T11-19-29-589509Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-12T12-20-56-328993Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-12 11:06:10 | [concourse](https://artifacthub.io/packages/helm/quench-concourse/concourse) | quench-concourse | 0.0.7 | Hardened Concourse CI (web node and privileged containerd worker) on a 0-CVE im… |
+| 2026-10-12 11:21:38 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
+| 2026-10-12 12:06:02 | [backdrop](https://artifacthub.io/packages/helm/quench-backdrop/backdrop) | quench-backdrop | 0.0.1 | Hardened Backdrop CMS (PHP-FPM + nginx) on a 0-CVE nonroot image, installed by… |
 
 ## Data source
 
