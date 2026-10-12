@@ -14,16 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 18:21 UTC
+## Latest list — 2026-10-12 19:20 UTC
 
-New charts added between 2026-10-12 17:21 UTC and 2026-10-12 18:21 UTC.
+New charts added between 2026-10-12 18:21 UTC and 2026-10-12 19:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-12T18-21-36-024832Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-12T19-20-31-204486Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-12 17:50:53 | [ib-gateway](https://artifacthub.io/packages/helm/helmforge/ib-gateway) | helmforge | 1.0.0 | Secure singleton deployment of Interactive Brokers Gateway and IBC |
-| 2026-10-12 18:05:17 | [platform-bom](https://artifacthub.io/packages/helm/platform-bom/platform-bom) | platform-bom | 0.3.0 | Read-only Kubernetes platform inventory with an embedded web UI |
+| 2026-10-12 18:25:52 | [stunner-dev](https://artifacthub.io/packages/helm/stunner/stunner-dev) | stunner | 1.2.1 | STUNner Kubernetes Gateway Operator |
+| 2026-10-12 18:30:16 | [galaxy-k8s-monitor](https://artifacthub.io/packages/helm/cloudve/galaxy-k8s-monitor) | cloudve | 0.1.1 | Real-time Kubernetes pod resource monitor for Galaxy namespaces |
+| 2026-10-12 18:46:30 | [openhuman](https://artifacthub.io/packages/helm/helmforge/openhuman) | helmforge | 1.0.0 | Persistent OpenHuman Core with authenticated RPC, secure runtime defaults and r… |
 
 ## Data source
 
