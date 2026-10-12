@@ -14,17 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 19:20 UTC
+## Latest list — 2026-10-12 20:19 UTC
 
-New charts added between 2026-10-12 18:21 UTC and 2026-10-12 19:20 UTC.
+New charts added between 2026-10-12 19:20 UTC and 2026-10-12 20:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-12T19-20-31-204486Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-12T20-19-53-674198Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-12 18:25:52 | [stunner-dev](https://artifacthub.io/packages/helm/stunner/stunner-dev) | stunner | 1.2.1 | STUNner Kubernetes Gateway Operator |
-| 2026-10-12 18:30:16 | [galaxy-k8s-monitor](https://artifacthub.io/packages/helm/cloudve/galaxy-k8s-monitor) | cloudve | 0.1.1 | Real-time Kubernetes pod resource monitor for Galaxy namespaces |
-| 2026-10-12 18:46:30 | [openhuman](https://artifacthub.io/packages/helm/helmforge/openhuman) | helmforge | 1.0.0 | Persistent OpenHuman Core with authenticated RPC, secure runtime defaults and r… |
+| 2026-10-12 19:40:47 | [questdb](https://artifacthub.io/packages/helm/helmforge/questdb) | helmforge | 1.0.0 | Production-ready standalone QuestDB with secure authentication, persistence and… |
 
 ## Data source
 
