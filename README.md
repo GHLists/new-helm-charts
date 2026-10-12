@@ -14,16 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 12:20 UTC
+## Latest list — 2026-10-12 13:21 UTC
 
-New charts added between 2026-10-12 11:19 UTC and 2026-10-12 12:20 UTC.
+New charts added between 2026-10-12 12:20 UTC and 2026-10-12 13:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-12T12-20-56-328993Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-12T13-21-36-505267Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-12 11:21:38 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
-| 2026-10-12 12:06:02 | [backdrop](https://artifacthub.io/packages/helm/quench-backdrop/backdrop) | quench-backdrop | 0.0.1 | Hardened Backdrop CMS (PHP-FPM + nginx) on a 0-CVE nonroot image, installed by… |
+| 2026-10-12 12:49:23 | [calendarops-api](https://artifacthub.io/packages/helm/calendarops/calendarops-api) | calendarops | 0.1.0 | REST API and browser preview for date-only calendars, business schedules, fisca… |
+| 2026-10-12 12:49:23 | [calendarops-jobs](https://artifacthub.io/packages/helm/calendarops/calendarops-jobs) | calendarops | 0.1.0 | Kubernetes CronJobs that generate calendar, federal holiday, fiscal, CSV, JSON,… |
+| 2026-10-12 12:49:23 | [calendarops-suite](https://artifacthub.io/packages/helm/calendarops/calendarops-suite) | calendarops | 0.1.0 | Umbrella chart composing the CalendarOps REST API and scheduled export CronJobs. |
 
 ## Data source
 

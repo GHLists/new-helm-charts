@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-10-12T12:49:23Z,calendarops-api,calendarops,0.1.0,"REST API and browser preview for date-only calendars, business schedules, fiscal periods, and exports."
+2026-10-12T12:49:23Z,calendarops-jobs,calendarops,0.1.0,"Kubernetes CronJobs that generate calendar, federal holiday, fiscal, CSV, JSON, SVG, and iCalendar reports."
+2026-10-12T12:49:23Z,calendarops-suite,calendarops,0.1.0,Umbrella chart composing the CalendarOps REST API and scheduled export CronJobs.
