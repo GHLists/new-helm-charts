@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 10:20 UTC
+## Latest list — 2026-10-12 11:19 UTC
 
-New charts added between 2026-10-12 09:23 UTC and 2026-10-12 10:20 UTC.
+New charts added between 2026-10-12 10:20 UTC and 2026-10-12 11:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-12T10-20-20-806331Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-12T11-19-29-589509Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-12 09:44:42 | [stunner-dev](https://artifacthub.io/packages/helm/stunner/stunner-dev) | stunner | 1.2.1 | STUNner Kubernetes Gateway Operator |
+| 2026-10-12 11:06:10 | [concourse](https://artifacthub.io/packages/helm/quench-concourse/concourse) | quench-concourse | 0.0.7 | Hardened Concourse CI (web node and privileged containerd worker) on a 0-CVE im… |
 
 ## Data source
 

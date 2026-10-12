@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-12T11:06:10Z,concourse,quench-concourse,0.0.7,"Hardened Concourse CI (web node and privileged containerd worker) on a 0-CVE image, with a bundled PostgreSQL."
