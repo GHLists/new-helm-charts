@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 15:21 UTC
+## Latest list — 2026-10-13 17:21 UTC
 
-New charts added between 2026-10-13 14:21 UTC and 2026-10-13 15:21 UTC.
+New charts added between 2026-10-13 16:22 UTC and 2026-10-13 17:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-13T15-21-45-489476Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-13T17-21-38-981783Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-13 14:45:41 | [twigex](https://artifacthub.io/packages/helm/twigex/twigex) | twigex | 0.0.36 | A Helm chart for deploying Twigex — the unified workspace for modern businesses. |
+| 2026-10-13 17:00:05 | [stunner-dev](https://artifacthub.io/packages/helm/stunner/stunner-dev) | stunner | 1.2.1 | STUNner Kubernetes Gateway Operator |
 
 ## Data source
 
