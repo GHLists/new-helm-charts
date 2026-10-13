@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-13T09:33:58Z,flux-crds,spnngl-flux-crds,2.9.6,"CustomResourceDefinitions for Flux (sources, kustomizations, Helm releases, notifications, image automation, artifact generators)"
+2026-10-13T09:43:39Z,cosmotech-kubernetes-workload-scaler,cosmotech-api,0.0.0,A Helm chart for Cosmo Tech Kubernetes workload scaler

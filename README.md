@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 08:22 UTC
+## Latest list — 2026-10-13 10:21 UTC
 
-New charts added between 2026-10-13 07:19 UTC and 2026-10-13 08:22 UTC.
+New charts added between 2026-10-13 09:20 UTC and 2026-10-13 10:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-13T08-22-40-922689Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-13T10-21-25-557533Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-13 07:49:20 | [convertigo](https://artifacthub.io/packages/helm/convertigo/convertigo) | convertigo | 8.4.6 | The Convertigo Low Code / No Code Platform running on Kubernetes |
-| 2026-10-13 08:11:37 | [grist](https://artifacthub.io/packages/helm/quench-grist/grist) | quench-grist | 0.0.2 | Grist, the self-hosted spreadsheet-database with Python formulas run in a pyodi… |
+| 2026-10-13 09:33:58 | [flux-crds](https://artifacthub.io/packages/helm/spnngl-flux-crds/flux-crds) | spnngl-flux-crds | 2.9.6 | CustomResourceDefinitions for Flux (sources, kustomizations, Helm releases, not… |
+| 2026-10-13 09:43:39 | [cosmotech-kubernetes-workload-scaler](https://artifacthub.io/packages/helm/cosmotech-api/cosmotech-kubernetes-workload-scaler) | cosmotech-api | 0.0.0 | A Helm chart for Cosmo Tech Kubernetes workload scaler |
 
 ## Data source
 
