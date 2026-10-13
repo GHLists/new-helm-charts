@@ -14,18 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 14:21 UTC
+## Latest list — 2026-10-13 15:21 UTC
 
-New charts added between 2026-10-13 13:19 UTC and 2026-10-13 14:21 UTC.
+New charts added between 2026-10-13 14:21 UTC and 2026-10-13 15:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-13T14-21-56-156399Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-13T15-21-45-489476Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-13 13:30:08 | [anychart](https://artifacthub.io/packages/helm/anychart/anychart) | anychart | 1.0.0 | A configurable Helm chart for application workloads and supporting Kubernetes r… |
-| 2026-10-13 13:42:45 | [csi-driver-ipfs](https://artifacthub.io/packages/helm/csi-driver-ipfs/csi-driver-ipfs) | csi-driver-ipfs | 0.2.0 | CSI driver for IPFS volumes in Kubernetes |
-| 2026-10-13 13:42:45 | [ipfs-cluster](https://artifacthub.io/packages/helm/csi-driver-ipfs/ipfs-cluster) | csi-driver-ipfs | 0.2.0 | IPFS Cluster - orchestrated pinning and replication for IPFS |
-| 2026-10-13 14:00:03 | [domain-locker](https://artifacthub.io/packages/helm/domain-locker/domain-locker) | domain-locker | 0.3.4 | A Helm chart for deploying Domain Locker |
+| 2026-10-13 14:45:41 | [twigex](https://artifacthub.io/packages/helm/twigex/twigex) | twigex | 0.0.36 | A Helm chart for deploying Twigex — the unified workspace for modern businesses. |
 
 ## Data source
 
