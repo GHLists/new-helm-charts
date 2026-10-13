@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 20:19 UTC
+## Latest list — 2026-10-13 08:22 UTC
 
-New charts added between 2026-10-12 19:20 UTC and 2026-10-12 20:19 UTC.
+New charts added between 2026-10-13 07:19 UTC and 2026-10-13 08:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-12T20-19-53-674198Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-13T08-22-40-922689Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-12 19:40:47 | [questdb](https://artifacthub.io/packages/helm/helmforge/questdb) | helmforge | 1.0.0 | Production-ready standalone QuestDB with secure authentication, persistence and… |
+| 2026-10-13 07:49:20 | [convertigo](https://artifacthub.io/packages/helm/convertigo/convertigo) | convertigo | 8.4.6 | The Convertigo Low Code / No Code Platform running on Kubernetes |
+| 2026-10-13 08:11:37 | [grist](https://artifacthub.io/packages/helm/quench-grist/grist) | quench-grist | 0.0.2 | Grist, the self-hosted spreadsheet-database with Python formulas run in a pyodi… |
 
 ## Data source
 
