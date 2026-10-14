@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 08:19 UTC
+## Latest list — 2026-10-14 09:21 UTC
 
-New charts added between 2026-10-14 07:20 UTC and 2026-10-14 08:19 UTC.
+New charts added between 2026-10-14 08:19 UTC and 2026-10-14 09:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-14T08-19-27-088943Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-14T09-21-12-407779Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-14 08:01:09 | [anychart](https://artifacthub.io/packages/helm/anychart/anychart) | anychart | 1.0.0 | A configurable Helm chart for application workloads and supporting Kubernetes r… |
+| 2026-10-14 09:04:18 | [friendica](https://artifacthub.io/packages/helm/quench-friendica/friendica) | quench-friendica | 0.0.1 | Hardened Friendica federated social network (PHP-FPM + nginx + worker daemon) o… |
 
 ## Data source
 

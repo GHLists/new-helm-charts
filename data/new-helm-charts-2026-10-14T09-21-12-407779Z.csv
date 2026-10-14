@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-14T09:04:18Z,friendica,quench-friendica,0.0.1,"Hardened Friendica federated social network (PHP-FPM + nginx + worker daemon) on a 0-CVE nonroot image, installed by its CLI installer into a bundled MariaDB."
