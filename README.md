@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 23:20 UTC
+## Latest list — 2026-10-14 00:19 UTC
 
-New charts added between 2026-10-13 22:19 UTC and 2026-10-13 23:20 UTC.
+New charts added between 2026-10-13 23:20 UTC and 2026-10-14 00:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-13T23-20-08-594201Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-14T00-19-52-454236Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-13 22:26:55 | [mo-backup](https://artifacthub.io/packages/helm/mogenius/mo-backup) | mogenius | 1.0.29 | This is the mogenius backup script. |
-| 2026-10-13 22:26:55 | [mo-backup-mysql](https://artifacthub.io/packages/helm/mogenius/mo-backup-mysql) | mogenius | 1.0.29 | This is the mogenius backup script. |
+| 2026-10-13 23:43:33 | [galaxy-k8s-monitor](https://artifacthub.io/packages/helm/cloudve/galaxy-k8s-monitor) | cloudve | 0.1.1 | Real-time Kubernetes pod resource monitor for Galaxy namespaces |
 
 ## Data source
 
