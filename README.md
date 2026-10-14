@@ -14,16 +14,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 11:21 UTC
+## Latest list — 2026-10-14 12:21 UTC
 
-New charts added between 2026-10-14 10:21 UTC and 2026-10-14 11:21 UTC.
+New charts added between 2026-10-14 11:21 UTC and 2026-10-14 12:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-14T11-21-55-936474Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-14T12-21-03-241479Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-14 10:34:45 | [krevo-local-storage](https://artifacthub.io/packages/helm/krevopilot/krevo-local-storage) | krevopilot | 0.1.0 | Optional customer-hosted logs and Kubernetes events for KrevoPilot (pilot) |
-| 2026-10-14 10:39:13 | [plone](https://artifacthub.io/packages/helm/quench-plone/plone) | quench-plone | 0.0.2 | The Plone 6 backend (Zope with the plone.restapi REST API that Volto talks to),… |
+| 2026-10-14 11:42:36 | [castai-publish-poc](https://artifacthub.io/packages/helm/castai/castai-publish-poc) | castai | 0.0.1-test-29466063… | Throwaway chart for the "publish publicly from GitHub Actions" POC |
+| 2026-10-14 11:46:01 | [mo-backup](https://artifacthub.io/packages/helm/mogenius/mo-backup) | mogenius | 1.0.29 | This is the mogenius backup script. |
+| 2026-10-14 11:46:01 | [mo-backup-mysql](https://artifacthub.io/packages/helm/mogenius/mo-backup-mysql) | mogenius | 1.0.29 | This is the mogenius backup script. |
+| 2026-10-14 12:00:40 | [generic_service](https://artifacthub.io/packages/helm/loeken-at-home/generic_service) | loeken-at-home | 1.0.0 | a helm chart to install sinusbot |
+| 2026-10-14 12:00:40 | [home-assistant](https://artifacthub.io/packages/helm/loeken-at-home/home-assistant) | loeken-at-home | 2026.9.2 | home-assistant - a free and open-source software for home automation designed t… |
+| 2026-10-14 12:00:40 | [jellyfin](https://artifacthub.io/packages/helm/loeken-at-home/jellyfin) | loeken-at-home | 10.11.8 | a helm chart to install jellyfin |
+| 2026-10-14 12:00:40 | [jellyseerr](https://artifacthub.io/packages/helm/loeken-at-home/jellyseerr) | loeken-at-home | 3.1.0 | a helm chart to install jellyseer |
+| 2026-10-14 12:00:40 | [nzbget](https://artifacthub.io/packages/helm/loeken-at-home/nzbget) | loeken-at-home | 26.1.0-ls241 | nzbget - efficient usenet downloader. |
+| 2026-10-14 12:00:40 | [prowlarr](https://artifacthub.io/packages/helm/loeken-at-home/prowlarr) | loeken-at-home | 1.37.0 | prowlarr - Prowlarr is an indexer manager/proxy built on the popular *arr softw… |
+| 2026-10-14 12:00:40 | [radarr](https://artifacthub.io/packages/helm/loeken-at-home/radarr) | loeken-at-home | 5.27.0-nightly | a helm chart to install radarr |
+| 2026-10-14 12:00:40 | [sinusbot](https://artifacthub.io/packages/helm/loeken-at-home/sinusbot) | loeken-at-home | 2.3.0 | a helm chart to install sinusbot |
+| 2026-10-14 12:00:40 | [sonarr](https://artifacthub.io/packages/helm/loeken-at-home/sonarr) | loeken-at-home | 4.0.19 | sonarr - an internet PVR for Usenet and Torrents. |
+| 2026-10-14 12:00:40 | [uptime-kuma](https://artifacthub.io/packages/helm/loeken-at-home/uptime-kuma) | loeken-at-home | 2.3.2 | a helm chart to install uptime-kuma |
+| 2026-10-14 12:00:40 | [vaultwarden](https://artifacthub.io/packages/helm/loeken-at-home/vaultwarden) | loeken-at-home | 1.37.3-alpine | vaultwarden - unofficial bitwarden compatible server written in rust, formerly… |
+| 2026-10-14 12:11:09 | [stunner-dev](https://artifacthub.io/packages/helm/stunner/stunner-dev) | stunner | 1.2.1 | STUNner Kubernetes Gateway Operator |
 
 ## Data source
 
