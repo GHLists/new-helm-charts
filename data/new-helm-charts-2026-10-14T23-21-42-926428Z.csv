@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-14T22:34:44Z,rocketchat-livekit,rocketchat-server,0.1.1,A Helm Chart for deploying a LiveKit server for Rocket.Chat's native video conference
