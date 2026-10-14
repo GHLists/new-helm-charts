@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 13:22 UTC
+## Latest list — 2026-10-14 14:23 UTC
 
-New charts added between 2026-10-14 12:21 UTC and 2026-10-14 13:22 UTC.
+New charts added between 2026-10-14 13:22 UTC and 2026-10-14 14:23 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-14T13-22-40-472349Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-14T14-23-25-337283Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-14 12:53:37 | [stunner-dev](https://artifacthub.io/packages/helm/stunner/stunner-dev) | stunner | 1.2.1 | STUNner Kubernetes Gateway Operator |
+| 2026-10-14 13:57:25 | [cerberus-robot-proxy](https://artifacthub.io/packages/helm/cerberus-robot-proxy/cerberus-robot-proxy) | cerberus-robot-proxy | 1.5.0-SNAPSHOT | A Helm chart for Kubernetes |
 
 ## Data source
 

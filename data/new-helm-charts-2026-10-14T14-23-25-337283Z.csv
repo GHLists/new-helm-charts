@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-14T13:57:25Z,cerberus-robot-proxy,cerberus-robot-proxy,1.5.0-SNAPSHOT,A Helm chart for Kubernetes
