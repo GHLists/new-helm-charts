@@ -1,0 +1,5 @@
+created_at,chart,repository,version,description
+2026-10-14T14:50:19Z,mo-sandbox-agent-hub-dev,mogenius,0.1.0-dev.2,The Sandbox Agent Hub: coding agents in mogenius sandboxes that turn a task into a pull request. Needs nothing but its own namespace.
+2026-10-14T15:13:34Z,kamaji-crds,clastix,0.0.0+latest,Kamaji is the Hosted Control Plane Manager for Kubernetes.
+2026-10-14T15:57:02Z,kratix,syntasso,0.0.1,A Helm chart for installing Kratix (https://kratix.io)
+2026-10-14T16:11:33Z,stunner-dev,stunner,1.2.1,STUNner Kubernetes Gateway Operator
