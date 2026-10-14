@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 09:21 UTC
+## Latest list — 2026-10-14 10:21 UTC
 
-New charts added between 2026-10-14 08:19 UTC and 2026-10-14 09:21 UTC.
+New charts added between 2026-10-14 09:21 UTC and 2026-10-14 10:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-14T09-21-12-407779Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-14T10-21-30-848565Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-14 09:04:18 | [friendica](https://artifacthub.io/packages/helm/quench-friendica/friendica) | quench-friendica | 0.0.1 | Hardened Friendica federated social network (PHP-FPM + nginx + worker daemon) o… |
+| 2026-10-14 09:28:07 | [mo-backup](https://artifacthub.io/packages/helm/mogenius/mo-backup) | mogenius | 1.0.29 | This is the mogenius backup script. |
+| 2026-10-14 09:28:07 | [mo-backup-mysql](https://artifacthub.io/packages/helm/mogenius/mo-backup-mysql) | mogenius | 1.0.29 | This is the mogenius backup script. |
 
 ## Data source
 
