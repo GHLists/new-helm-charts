@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 10:21 UTC
+## Latest list — 2026-10-14 11:21 UTC
 
-New charts added between 2026-10-14 09:21 UTC and 2026-10-14 10:21 UTC.
+New charts added between 2026-10-14 10:21 UTC and 2026-10-14 11:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-14T10-21-30-848565Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-14T11-21-55-936474Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-14 09:28:07 | [mo-backup](https://artifacthub.io/packages/helm/mogenius/mo-backup) | mogenius | 1.0.29 | This is the mogenius backup script. |
-| 2026-10-14 09:28:07 | [mo-backup-mysql](https://artifacthub.io/packages/helm/mogenius/mo-backup-mysql) | mogenius | 1.0.29 | This is the mogenius backup script. |
+| 2026-10-14 10:34:45 | [krevo-local-storage](https://artifacthub.io/packages/helm/krevopilot/krevo-local-storage) | krevopilot | 0.1.0 | Optional customer-hosted logs and Kubernetes events for KrevoPilot (pilot) |
+| 2026-10-14 10:39:13 | [plone](https://artifacthub.io/packages/helm/quench-plone/plone) | quench-plone | 0.0.2 | The Plone 6 backend (Zope with the plone.restapi REST API that Volto talks to),… |
 
 ## Data source
 
