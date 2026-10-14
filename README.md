@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 07:20 UTC
+## Latest list — 2026-10-14 08:19 UTC
 
-New charts added between 2026-10-14 06:19 UTC and 2026-10-14 07:20 UTC.
+New charts added between 2026-10-14 07:20 UTC and 2026-10-14 08:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-14T07-20-51-705957Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-14T08-19-27-088943Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-14 06:33:06 | [satosa](https://artifacthub.io/packages/helm/quench-satosa/satosa) | quench-satosa | 0.0.2 | SATOSA, the IdentityPython proxy that translates between SAML2 and OpenID Conne… |
+| 2026-10-14 08:01:09 | [anychart](https://artifacthub.io/packages/helm/anychart/anychart) | anychart | 1.0.0 | A configurable Helm chart for application workloads and supporting Kubernetes r… |
 
 ## Data source
 
