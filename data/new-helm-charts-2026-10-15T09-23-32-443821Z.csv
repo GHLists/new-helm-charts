@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-15T08:31:49Z,resource-permits,projectcapsule,0.0.1,Kubernetes approval workflows and managed resource lifecycles
+2026-10-15T09:03:18Z,vistergy-agent-server,openshift,0.1.25,"Vistergy governed AI agent server for asset-intensive critical infrastructure. Serves governed agents grounded in engineering and asset-management standards (international, domain, or the owner's own), with an optional read connection to IBM Maximo as the system of record. Answers cite their ground…"

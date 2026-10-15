@@ -14,17 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 07:22 UTC
+## Latest list — 2026-10-15 09:23 UTC
 
-New charts added between 2026-10-15 06:20 UTC and 2026-10-15 07:22 UTC.
+New charts added between 2026-10-15 08:22 UTC and 2026-10-15 09:23 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-15T07-22-29-689631Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-15T09-23-32-443821Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-15 06:32:22 | [orc](https://artifacthub.io/packages/helm/orc/orc) | orc | 3.0.0-pre1 | OpenStack Resource Controller (ORC) - manage OpenStack resources declaratively… |
-| 2026-10-15 06:32:22 | [orc-crds](https://artifacthub.io/packages/helm/orc-crds/orc-crds) | orc-crds | 3.0.0-pre1 | CRDs for the OpenStack Resource Controller (ORC) |
-| 2026-10-15 06:51:29 | [mqtt-to-stuff](https://artifacthub.io/packages/helm/leprechaun-charts/mqtt-to-stuff) | leprechaun-charts | 0.1.47 | A Helm chart for Kubernetes |
+| 2026-10-15 08:31:49 | [resource-permits](https://artifacthub.io/packages/helm/projectcapsule/resource-permits) | projectcapsule | 0.0.1 | Kubernetes approval workflows and managed resource lifecycles |
+| 2026-10-15 09:03:18 | [vistergy-agent-server](https://artifacthub.io/packages/helm/openshift/vistergy-agent-server) | openshift | 0.1.25 | Vistergy governed AI agent server for asset-intensive critical infrastructure.… |
 
 ## Data source
 
