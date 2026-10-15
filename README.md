@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 14:21 UTC
+## Latest list — 2026-10-15 16:21 UTC
 
-New charts added between 2026-10-15 13:19 UTC and 2026-10-15 14:21 UTC.
+New charts added between 2026-10-15 15:20 UTC and 2026-10-15 16:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-15T14-21-35-134639Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-15T16-21-31-392703Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-15 13:21:37 | [cerberus-robot-proxy](https://artifacthub.io/packages/helm/cerberus-robot-proxy/cerberus-robot-proxy) | cerberus-robot-proxy | 1.5.0-SNAPSHOT | A Helm chart for Kubernetes |
-| 2026-10-15 13:50:33 | [kron-aapm-agent](https://artifacthub.io/packages/helm/kron-pam-aapm-helmcharts/kron-aapm-agent) | kron-pam-aapm-helmcharts | 1.2.8 | Kron Aapm Agent for Kubernetes |
+| 2026-10-15 15:23:38 | [regioninfo](https://artifacthub.io/packages/helm/trisacrypto/regioninfo) | trisacrypto | 1.1.0 | Adds region information to the cluster for geographic debugging |
+| 2026-10-15 15:37:26 | [krci-env-daemon](https://artifacthub.io/packages/helm/epmdedp-dev/krci-env-daemon) | epmdedp-dev | 0.1.0-SNAPSHOT.4 | A Helm chart for krci-env-daemon, which wakes KubeRocketCI environments that KE… |
 
 ## Data source
 

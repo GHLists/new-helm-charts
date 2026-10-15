@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-15T15:23:38Z,regioninfo,trisacrypto,1.1.0,Adds region information to the cluster for geographic debugging
+2026-10-15T15:37:26Z,krci-env-daemon,epmdedp-dev,0.1.0-SNAPSHOT.4,"A Helm chart for krci-env-daemon, which wakes KubeRocketCI environments that KEDA scaled to zero when they are accessed"
