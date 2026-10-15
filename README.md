@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 09:23 UTC
+## Latest list — 2026-10-15 10:22 UTC
 
-New charts added between 2026-10-15 08:22 UTC and 2026-10-15 09:23 UTC.
+New charts added between 2026-10-15 09:23 UTC and 2026-10-15 10:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-15T09-23-32-443821Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-15T10-22-53-201431Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-15 08:31:49 | [resource-permits](https://artifacthub.io/packages/helm/projectcapsule/resource-permits) | projectcapsule | 0.0.1 | Kubernetes approval workflows and managed resource lifecycles |
-| 2026-10-15 09:03:18 | [vistergy-agent-server](https://artifacthub.io/packages/helm/openshift/vistergy-agent-server) | openshift | 0.1.25 | Vistergy governed AI agent server for asset-intensive critical infrastructure.… |
+| 2026-10-15 10:01:56 | [kure](https://artifacthub.io/packages/helm/kure-monitor/kure) | kure-monitor | 2.5.0 | Kubernetes AI observability platform with proactive AI Advice, security scannin… |
 
 ## Data source
 
