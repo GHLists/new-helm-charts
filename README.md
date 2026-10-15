@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 13:19 UTC
+## Latest list — 2026-10-15 14:21 UTC
 
-New charts added between 2026-10-15 12:21 UTC and 2026-10-15 13:19 UTC.
+New charts added between 2026-10-15 13:19 UTC and 2026-10-15 14:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-15T13-19-42-045708Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-15T14-21-35-134639Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-15 12:45:16 | [foundry-vtt](https://artifacthub.io/packages/helm/foundry-vtt/foundry-vtt) | foundry-vtt | 0.1.6 | Foundry Virtual Tabletop |
+| 2026-10-15 13:21:37 | [cerberus-robot-proxy](https://artifacthub.io/packages/helm/cerberus-robot-proxy/cerberus-robot-proxy) | cerberus-robot-proxy | 1.5.0-SNAPSHOT | A Helm chart for Kubernetes |
+| 2026-10-15 13:50:33 | [kron-aapm-agent](https://artifacthub.io/packages/helm/kron-pam-aapm-helmcharts/kron-aapm-agent) | kron-pam-aapm-helmcharts | 1.2.8 | Kron Aapm Agent for Kubernetes |
 
 ## Data source
 
