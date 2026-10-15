@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 16:21 UTC
+## Latest list — 2026-10-15 21:19 UTC
 
-New charts added between 2026-10-15 15:20 UTC and 2026-10-15 16:21 UTC.
+New charts added between 2026-10-15 20:21 UTC and 2026-10-15 21:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-15T16-21-31-392703Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-15T21-19-48-577522Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-15 15:23:38 | [regioninfo](https://artifacthub.io/packages/helm/trisacrypto/regioninfo) | trisacrypto | 1.1.0 | Adds region information to the cluster for geographic debugging |
-| 2026-10-15 15:37:26 | [krci-env-daemon](https://artifacthub.io/packages/helm/epmdedp-dev/krci-env-daemon) | epmdedp-dev | 0.1.0-SNAPSHOT.4 | A Helm chart for krci-env-daemon, which wakes KubeRocketCI environments that KE… |
+| 2026-10-15 20:22:08 | [secchio](https://artifacthub.io/packages/helm/secchio/secchio) | secchio | 0.4.0 | A Kubernetes PVC backup operator |
+| 2026-10-15 20:47:56 | [galaxy-k8s-monitor](https://artifacthub.io/packages/helm/cloudve/galaxy-k8s-monitor) | cloudve | 0.1.1 | Real-time Kubernetes pod resource monitor for Galaxy namespaces |
 
 ## Data source
 
