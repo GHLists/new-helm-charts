@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 23:21 UTC
+## Latest list — 2026-10-15 07:22 UTC
 
-New charts added between 2026-10-14 22:22 UTC and 2026-10-14 23:21 UTC.
+New charts added between 2026-10-15 06:20 UTC and 2026-10-15 07:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-14T23-21-42-926428Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-15T07-22-29-689631Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-14 22:34:44 | [rocketchat-livekit](https://artifacthub.io/packages/helm/rocketchat-server/rocketchat-livekit) | rocketchat-server | 0.1.1 | A Helm Chart for deploying a LiveKit server for Rocket.Chat's native video conf… |
+| 2026-10-15 06:32:22 | [orc](https://artifacthub.io/packages/helm/orc/orc) | orc | 3.0.0-pre1 | OpenStack Resource Controller (ORC) - manage OpenStack resources declaratively… |
+| 2026-10-15 06:32:22 | [orc-crds](https://artifacthub.io/packages/helm/orc-crds/orc-crds) | orc-crds | 3.0.0-pre1 | CRDs for the OpenStack Resource Controller (ORC) |
+| 2026-10-15 06:51:29 | [mqtt-to-stuff](https://artifacthub.io/packages/helm/leprechaun-charts/mqtt-to-stuff) | leprechaun-charts | 0.1.47 | A Helm chart for Kubernetes |
 
 ## Data source
 
