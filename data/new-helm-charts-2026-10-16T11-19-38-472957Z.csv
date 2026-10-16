@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-16T10:45:34Z,coral-agent,zoorik,20261016.75339.0,"The Zoorik Coral agent, which connects a Kubernetes cluster to Zoorik for Kubernetes cost optimization."
