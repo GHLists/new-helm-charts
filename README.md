@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 21:19 UTC
+## Latest list — 2026-10-16 04:21 UTC
 
-New charts added between 2026-10-15 20:21 UTC and 2026-10-15 21:19 UTC.
+New charts added between 2026-10-16 03:19 UTC and 2026-10-16 04:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-15T21-19-48-577522Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-16T04-21-26-404424Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-15 20:22:08 | [secchio](https://artifacthub.io/packages/helm/secchio/secchio) | secchio | 0.4.0 | A Kubernetes PVC backup operator |
-| 2026-10-15 20:47:56 | [galaxy-k8s-monitor](https://artifacthub.io/packages/helm/cloudve/galaxy-k8s-monitor) | cloudve | 0.1.1 | Real-time Kubernetes pod resource monitor for Galaxy namespaces |
+| 2026-10-16 04:16:22 | [workload](https://artifacthub.io/packages/helm/workload/workload) | workload | 1.0.0 | Generic Helm chart for any Kubernetes workload: Deployment, Service, Ingress or… |
 
 ## Data source
 

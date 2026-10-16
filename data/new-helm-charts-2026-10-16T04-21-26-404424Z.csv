@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-16T04:16:22Z,workload,workload,1.0.0,"Generic Helm chart for any Kubernetes workload: Deployment, Service, Ingress or Gateway API HTTPRoute, HPA and ServiceAccount. One chart for web apps, APIs, workers and stateful services."
