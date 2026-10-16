@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 13:20 UTC
+## Latest list — 2026-10-16 15:20 UTC
 
-New charts added between 2026-10-16 12:23 UTC and 2026-10-16 13:20 UTC.
+New charts added between 2026-10-16 14:20 UTC and 2026-10-16 15:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-16T13-20-28-827248Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-16T15-20-54-534405Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-16 12:26:16 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-10-16 14:28:32 | [nemo-guardrails](https://artifacthub.io/packages/helm/upstreamyard/nemo-guardrails) | upstreamyard | 0.1.0 | NeMo Guardrails Helm chart for Kubernetes. NVIDIA NeMo Guardrails server, an Op… |
+| 2026-10-16 14:31:20 | [hugegraph-helm](https://artifacthub.io/packages/helm/hugegraph-helm/hugegraph-helm) | hugegraph-helm | 0.2.0-dev.2 | Helm chart for Apache HugeGraph HStore cluster (PD + Store + Server) |
+| 2026-10-16 15:01:43 | [automq](https://artifacthub.io/packages/helm/upstreamyard/automq) | upstreamyard | 0.1.0 | AutoMQ Helm chart for Kubernetes. Kafka-compatible streaming with messages stor… |
 
 ## Data source
 

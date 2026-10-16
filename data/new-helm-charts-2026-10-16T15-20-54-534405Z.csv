@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-10-16T14:28:32Z,nemo-guardrails,upstreamyard,0.1.0,"NeMo Guardrails Helm chart for Kubernetes. NVIDIA NeMo Guardrails server, an OpenAI-compatible LLM guardrails API with input, output and dialog rails, your configurations from values or ConfigMaps, a config check before rollout, autoscaling, NetworkPolicy and OpenTelemetry. Community chart by upstr…"
+2026-10-16T14:31:20Z,hugegraph-helm,hugegraph-helm,0.2.0-dev.2,Helm chart for Apache HugeGraph HStore cluster (PD + Store + Server)
+2026-10-16T15:01:43Z,automq,upstreamyard,0.1.0,"AutoMQ Helm chart for Kubernetes. Kafka-compatible streaming with messages stored in S3 (diskless Kafka) on the open-source AutoMQ edition, with combined or separate KRaft controllers, scalable stateless brokers, SASL authentication by default and Prometheus metrics. Replaces the Bitnami Kafka char…"
