@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 11:19 UTC
+## Latest list — 2026-10-16 13:20 UTC
 
-New charts added between 2026-10-16 10:20 UTC and 2026-10-16 11:19 UTC.
+New charts added between 2026-10-16 12:23 UTC and 2026-10-16 13:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-16T11-19-38-472957Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-16T13-20-28-827248Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-16 10:45:34 | [coral-agent](https://artifacthub.io/packages/helm/zoorik/coral-agent) | zoorik | 20261016.75339.0 | The Zoorik Coral agent, which connects a Kubernetes cluster to Zoorik for Kuber… |
+| 2026-10-16 12:26:16 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
 
 ## Data source
 
