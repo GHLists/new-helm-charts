@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-16T17:34:21Z,galaxy-k8s-monitor,cloudve,0.1.1,Real-time Kubernetes pod resource monitor for Galaxy namespaces
+2026-10-16T18:02:45Z,stackradar,lockdep,0.1.0,"StackRadar Community Edition: what is running in your Kubernetes cluster, which of it is vulnerable, and what to move to. Installs the server, the UI, a bundled Postgres and the scanner, already scanning the cluster it lands in."

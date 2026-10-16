@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 16:21 UTC
+## Latest list — 2026-10-16 18:20 UTC
 
-New charts added between 2026-10-16 15:20 UTC and 2026-10-16 16:21 UTC.
+New charts added between 2026-10-16 17:20 UTC and 2026-10-16 18:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-16T16-21-26-399653Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-16T18-20-19-52474Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-16 15:21:41 | [magpie](https://artifacthub.io/packages/helm/korioinc/magpie) | korioinc | 0.1.0 | Magpie model gateway with a local management UI and persistent credentials. Set… |
+| 2026-10-16 17:34:21 | [galaxy-k8s-monitor](https://artifacthub.io/packages/helm/cloudve/galaxy-k8s-monitor) | cloudve | 0.1.1 | Real-time Kubernetes pod resource monitor for Galaxy namespaces |
+| 2026-10-16 18:02:45 | [stackradar](https://artifacthub.io/packages/helm/lockdep/stackradar) | lockdep | 0.1.0 | StackRadar Community Edition: what is running in your Kubernetes cluster, which… |
 
 ## Data source
 
