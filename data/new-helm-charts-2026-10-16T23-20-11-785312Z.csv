@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-16T22:47:59Z,galaxy-k8s-monitor,cloudve,0.1.1,Real-time Kubernetes pod resource monitor for Galaxy namespaces
