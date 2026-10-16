@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-16T15:21:41Z,magpie,korioinc,0.1.0,"Magpie model gateway with a local management UI and persistent credentials. Set the application version directly with image.tag in values.yaml (for example, 0.1.1275); defaults to latest."
