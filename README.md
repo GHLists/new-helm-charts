@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 09:20 UTC
+## Latest list — 2026-10-17 11:20 UTC
 
-New charts added between 2026-10-17 08:20 UTC and 2026-10-17 09:20 UTC.
+New charts added between 2026-10-17 10:19 UTC and 2026-10-17 11:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-17T09-20-07-981333Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-17T11-20-32-843182Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-17 08:44:26 | [retycfs-csi](https://artifacthub.io/packages/helm/retycfs-csi/retycfs-csi) | retycfs-csi | 0.2.0 | Kubernetes CSI driver for Retyc datarooms - ReadWriteMany volumes with end-to-e… |
+| 2026-10-17 10:46:15 | [activemq](https://artifacthub.io/packages/helm/upstreamyard/activemq) | upstreamyard | 0.1.0 | Apache ActiveMQ Classic Helm chart for Kubernetes. Secure JMS, AMQP, STOMP and… |
+| 2026-10-17 11:07:20 | [conductor](https://artifacthub.io/packages/helm/upstreamyard/conductor) | upstreamyard | 0.1.0 | Conductor OSS, the open-source workflow orchestration engine originally built a… |
 
 ## Data source
 
