@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 07:21 UTC
+## Latest list — 2026-10-17 09:20 UTC
 
-New charts added between 2026-10-17 06:19 UTC and 2026-10-17 07:21 UTC.
+New charts added between 2026-10-17 08:20 UTC and 2026-10-17 09:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-17T07-21-57-897303Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-17T09-20-07-981333Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-17 06:30:29 | [blindbucket](https://artifacthub.io/packages/helm/blindbucket/blindbucket) | blindbucket | 0.1.6 | A transparent S3 encryption gateway, run as a shared service behind TLS. |
-| 2026-10-17 06:32:08 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
+| 2026-10-17 08:44:26 | [retycfs-csi](https://artifacthub.io/packages/helm/retycfs-csi/retycfs-csi) | retycfs-csi | 0.2.0 | Kubernetes CSI driver for Retyc datarooms - ReadWriteMany volumes with end-to-e… |
 
 ## Data source
 
