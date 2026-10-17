@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-17T05:45:40Z,rustfs,helmforge,1.0.0,"RustFS S3-compatible object storage with standalone, distributed cluster, and bucket/site replication support"

@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 00:20 UTC
+## Latest list — 2026-10-17 06:19 UTC
 
-New charts added between 2026-10-16 23:20 UTC and 2026-10-17 00:20 UTC.
+New charts added between 2026-10-17 05:21 UTC and 2026-10-17 06:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-17T00-20-53-796534Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-17T06-19-34-544112Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-16 23:31:34 | [life-dashboard](https://artifacthub.io/packages/helm/life-dashboard/life-dashboard) | life-dashboard | 1.0.1 | The Life Dashboard Stack on Kubernetes: the receiver for the Life Dashboard Com… |
+| 2026-10-17 05:45:40 | [rustfs](https://artifacthub.io/packages/helm/helmforge/rustfs) | helmforge | 1.0.0 | RustFS S3-compatible object storage with standalone, distributed cluster, and b… |
 
 ## Data source
 
