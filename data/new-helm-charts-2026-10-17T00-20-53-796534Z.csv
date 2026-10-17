@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-16T23:31:34Z,life-dashboard,life-dashboard,1.0.1,"The Life Dashboard Stack on Kubernetes: the receiver for the Life Dashboard Companion apps, Postgres (CloudNativePG, a bundled StatefulSet or your own), Grafana with six dashboards, and an optional read-only MCP server."
