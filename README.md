@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 06:19 UTC
+## Latest list — 2026-10-17 07:21 UTC
 
-New charts added between 2026-10-17 05:21 UTC and 2026-10-17 06:19 UTC.
+New charts added between 2026-10-17 06:19 UTC and 2026-10-17 07:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-17T06-19-34-544112Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-17T07-21-57-897303Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-17 05:45:40 | [rustfs](https://artifacthub.io/packages/helm/helmforge/rustfs) | helmforge | 1.0.0 | RustFS S3-compatible object storage with standalone, distributed cluster, and b… |
+| 2026-10-17 06:30:29 | [blindbucket](https://artifacthub.io/packages/helm/blindbucket/blindbucket) | blindbucket | 0.1.6 | A transparent S3 encryption gateway, run as a shared service behind TLS. |
+| 2026-10-17 06:32:08 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
 
 ## Data source
 
