@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 15:19 UTC
+## Latest list — 2026-10-17 16:19 UTC
 
-New charts added between 2026-10-17 14:21 UTC and 2026-10-17 15:19 UTC.
+New charts added between 2026-10-17 15:19 UTC and 2026-10-17 16:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-17T15-19-17-941444Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-17T16-19-45-835668Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-17 14:47:50 | [k8s-dummy-lb](https://artifacthub.io/packages/helm/k8s-dummy-lb/k8s-dummy-lb) | k8s-dummy-lb | 0.0.1 | A Helm chart for k8s dummy lb |
+| 2026-10-17 16:00:40 | [common](https://artifacthub.io/packages/helm/ideaplexus/common) | ideaplexus | 1.0.0 | Library chart with the naming, labelling, image and templating helpers shared b… |
 
 ## Data source
 

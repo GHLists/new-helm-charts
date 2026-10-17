@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-17T16:00:40Z,common,ideaplexus,1.0.0,"Library chart with the naming, labelling, image and templating helpers shared by the ideaplexus charts. A dependency-free replacement for the subset of bitnami/common they use."
