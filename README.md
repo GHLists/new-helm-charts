@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 16:19 UTC
+## Latest list — 2026-10-17 17:19 UTC
 
-New charts added between 2026-10-17 15:19 UTC and 2026-10-17 16:19 UTC.
+New charts added between 2026-10-17 16:19 UTC and 2026-10-17 17:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-17T16-19-45-835668Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-17T17-19-29-506484Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-17 16:00:40 | [common](https://artifacthub.io/packages/helm/ideaplexus/common) | ideaplexus | 1.0.0 | Library chart with the naming, labelling, image and templating helpers shared b… |
+| 2026-10-17 16:22:37 | [matomo](https://artifacthub.io/packages/helm/ideaplexus/matomo) | ideaplexus | 0.1.0 | Matomo is a self-hosted web analytics platform. This chart runs the ideaplexus/… |
 
 ## Data source
 

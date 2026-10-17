@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-17T16:22:37Z,matomo,ideaplexus,0.1.0,"Matomo is a self-hosted web analytics platform. This chart runs the ideaplexus/matomo image, which installs and migrates Matomo unattended, and supports single pods, replicas on a shared volume and replicas without one."
