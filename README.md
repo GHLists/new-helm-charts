@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 03:21 UTC
+## Latest list — 2026-10-18 14:19 UTC
 
-New charts added between 2026-10-18 02:21 UTC and 2026-10-18 03:21 UTC.
+New charts added between 2026-10-18 13:19 UTC and 2026-10-18 14:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-18T03-21-18-23057Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-18T14-19-36-698503Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-18 02:39:48 | [sonarqube-exporter](https://artifacthub.io/packages/helm/ideaplexus/sonarqube-exporter) | ideaplexus | 0.1.0 | Exports the measures of every SonarQube project as Prometheus gauges, with the… |
-| 2026-10-18 03:02:58 | [omniroute-operator](https://artifacthub.io/packages/helm/omniroute-operator/omniroute-operator) | omniroute-operator | 0.1.0 | Kubernetes operator for managing OmniRoute AI gateway instances |
+| 2026-10-18 13:48:15 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
 
 ## Data source
 
