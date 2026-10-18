@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 01:19 UTC
+## Latest list — 2026-10-18 03:21 UTC
 
-New charts added between 2026-10-18 00:19 UTC and 2026-10-18 01:19 UTC.
+New charts added between 2026-10-18 02:21 UTC and 2026-10-18 03:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-18T01-19-31-520324Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-18T03-21-18-23057Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-18 00:32:22 | [primedns-webhook](https://artifacthub.io/packages/helm/primedns-webhook/primedns-webhook) | primedns-webhook | 0.1.0 | cert-manager DNS-01 webhook solver for PrimeDNS |
+| 2026-10-18 02:39:48 | [sonarqube-exporter](https://artifacthub.io/packages/helm/ideaplexus/sonarqube-exporter) | ideaplexus | 0.1.0 | Exports the measures of every SonarQube project as Prometheus gauges, with the… |
+| 2026-10-18 03:02:58 | [omniroute-operator](https://artifacthub.io/packages/helm/omniroute-operator/omniroute-operator) | omniroute-operator | 0.1.0 | Kubernetes operator for managing OmniRoute AI gateway instances |
 
 ## Data source
 
