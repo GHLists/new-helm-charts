@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 17:19 UTC
+## Latest list — 2026-10-18 01:19 UTC
 
-New charts added between 2026-10-17 16:19 UTC and 2026-10-17 17:19 UTC.
+New charts added between 2026-10-18 00:19 UTC and 2026-10-18 01:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-17T17-19-29-506484Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-18T01-19-31-520324Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-17 16:22:37 | [matomo](https://artifacthub.io/packages/helm/ideaplexus/matomo) | ideaplexus | 0.1.0 | Matomo is a self-hosted web analytics platform. This chart runs the ideaplexus/… |
+| 2026-10-18 00:32:22 | [primedns-webhook](https://artifacthub.io/packages/helm/primedns-webhook/primedns-webhook) | primedns-webhook | 0.1.0 | cert-manager DNS-01 webhook solver for PrimeDNS |
 
 ## Data source
 
