@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 22:20 UTC
+## Latest list — 2026-10-19 06:19 UTC
 
-New charts added between 2026-10-18 21:21 UTC and 2026-10-18 22:20 UTC.
+New charts added between 2026-10-19 05:22 UTC and 2026-10-19 06:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-18T22-20-46-206147Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-19T06-19-04-532854Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-18 21:33:56 | [stunner-dev](https://artifacthub.io/packages/helm/stunner/stunner-dev) | stunner | 1.2.1 | STUNner Kubernetes Gateway Operator |
+| 2026-10-19 05:26:00 | [sqs-consumer](https://artifacthub.io/packages/helm/somaz94/sqs-consumer) | somaz94 | 0.1.0 | KEDA-scaled AWS SQS consumer that scales to zero — Deployment + ServiceAccount… |
 
 ## Data source
 

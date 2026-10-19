@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-19T05:26:00Z,sqs-consumer,somaz94,0.1.0,KEDA-scaled AWS SQS consumer that scales to zero — Deployment + ServiceAccount (IRSA / EKS Pod Identity) + KEDA ScaledObject (aws-sqs-queue trigger) + TriggerAuthentication (podIdentity provider aws). Renders a plain Deployment when KEDA is disabled.
