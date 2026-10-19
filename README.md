@@ -14,18 +14,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 14:22 UTC
+## Latest list — 2026-10-19 15:23 UTC
 
-New charts added between 2026-10-19 13:19 UTC and 2026-10-19 14:22 UTC.
+New charts added between 2026-10-19 14:22 UTC and 2026-10-19 15:23 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-19T14-22-00-568936Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-19T15-23-25-22417Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-19 13:21:03 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
-| 2026-10-19 13:46:16 | [ibm-opencontent-flink-migration](https://artifacthub.io/packages/helm/ibm-helm/ibm-opencontent-flink-migration) | ibm-helm | 0.0.2022 | A Helm chart for migrating the IBM OpenContent Flink Operator from OLM to Helm |
-| 2026-10-19 14:03:41 | [camel-k](https://artifacthub.io/packages/helm/quench-camel-k/camel-k) | quench-camel-k | 0.0.1 | Apache Camel K operator: build and run Camel integrations on Kubernetes from CR… |
-| 2026-10-19 14:09:42 | [selenium-grid](https://artifacthub.io/packages/helm/quench-selenium-grid/selenium-grid) | quench-selenium-grid | 0.0.2 | Selenium Grid 4, the WebDriver grid for browser automation: a hub (router, dist… |
+| 2026-10-19 14:52:10 | [galaxy-k8s-monitor](https://artifacthub.io/packages/helm/cloudve/galaxy-k8s-monitor) | cloudve | 0.1.1 | Real-time Kubernetes pod resource monitor for Galaxy namespaces |
+| 2026-10-19 14:57:00 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-10-19 15:03:15 | [hvi-alert](https://artifacthub.io/packages/helm/openshift/hvi-alert) | openshift | 0.1.3 | Human Voice speaker verification candidate; external PostgreSQL required |
+| 2026-10-19 15:03:45 | [orientdb](https://artifacthub.io/packages/helm/quench-orientdb/orientdb) | quench-orientdb | 0.0.2 | Multi-model graph and document database with an SQL dialect, a binary protocol… |
 
 ## Data source
 
