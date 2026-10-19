@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 06:19 UTC
+## Latest list — 2026-10-19 09:19 UTC
 
-New charts added between 2026-10-19 05:22 UTC and 2026-10-19 06:19 UTC.
+New charts added between 2026-10-19 08:21 UTC and 2026-10-19 09:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-19T06-19-04-532854Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-19T09-19-30-228665Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-19 05:26:00 | [sqs-consumer](https://artifacthub.io/packages/helm/somaz94/sqs-consumer) | somaz94 | 0.1.0 | KEDA-scaled AWS SQS consumer that scales to zero — Deployment + ServiceAccount… |
+| 2026-10-19 09:13:34 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
 
 ## Data source
 
