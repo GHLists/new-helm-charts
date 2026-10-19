@@ -14,18 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 15:23 UTC
+## Latest list — 2026-10-19 16:22 UTC
 
-New charts added between 2026-10-19 14:22 UTC and 2026-10-19 15:23 UTC.
+New charts added between 2026-10-19 15:23 UTC and 2026-10-19 16:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-19T15-23-25-22417Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-19T16-22-29-680031Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-19 14:52:10 | [galaxy-k8s-monitor](https://artifacthub.io/packages/helm/cloudve/galaxy-k8s-monitor) | cloudve | 0.1.1 | Real-time Kubernetes pod resource monitor for Galaxy namespaces |
-| 2026-10-19 14:57:00 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
-| 2026-10-19 15:03:15 | [hvi-alert](https://artifacthub.io/packages/helm/openshift/hvi-alert) | openshift | 0.1.3 | Human Voice speaker verification candidate; external PostgreSQL required |
-| 2026-10-19 15:03:45 | [orientdb](https://artifacthub.io/packages/helm/quench-orientdb/orientdb) | quench-orientdb | 0.0.2 | Multi-model graph and document database with an SQL dialect, a binary protocol… |
+| 2026-10-19 15:44:39 | [netdata](https://artifacthub.io/packages/helm/quench-netdata/netdata) | quench-netdata | 0.0.1 | Netdata agent as a DaemonSet: per-second CPU, memory, disk, network, cgroup and… |
 
 ## Data source
 

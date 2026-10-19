@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-19T15:44:39Z,netdata,quench-netdata,0.0.1,"Netdata agent as a DaemonSet: per-second CPU, memory, disk, network, cgroup and process metrics for every node, read from the host's /proc and /sys, served over the Netdata REST API and a Prometheus endpoint. Headless build without the Cloud UI. Hardened by QuenchWorks: built from source on Wolfi,…"
