@@ -1,0 +1,5 @@
+created_at,chart,repository,version,description
+2026-10-19T11:03:37Z,cost-stack,quench-cost-stack,0.0.2,"Hardened Kubernetes cost monitoring stack: OpenCost (the CNCF cost model) reading cluster metrics from a bundled Prometheus, plus Grafana with that Prometheus provisioned as a datasource. Prometheus scrapes container usage from the kubelet (cAdvisor) and OpenCost's own pricing and allocation metric…"
+2026-10-19T11:04:13Z,agent-substrate-crds,spnngl-agent-substrate-crds,0.5.0,"CustomResourceDefinitions for Agent Substrate (sandbox configs, worker pools, CSI driver configs)"
+2026-10-19T11:04:13Z,kagent-crds,spnngl-kagent-crds,0.10.3,"CustomResourceDefinitions for kagent (agents, model configs, memories, tool and MCP servers)"
+2026-10-19T11:04:13Z,kmcp-crds,spnngl-kmcp-crds,0.3.0,"CustomResourceDefinitions for kmcp (MCPServer, used by kagent)"
