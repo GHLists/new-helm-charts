@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-20T07:24:52Z,mongodb-community,christianhuth,1.0.0,MongoDB Community replica sets managed by the MongoDB Controllers for Kubernetes (mongodb-kubernetes)

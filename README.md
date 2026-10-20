@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 00:20 UTC
+## Latest list — 2026-10-20 08:20 UTC
 
-New charts added between 2026-10-19 23:20 UTC and 2026-10-20 00:20 UTC.
+New charts added between 2026-10-20 07:20 UTC and 2026-10-20 08:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-20T00-20-05-112535Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-20T08-20-08-345364Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-19 23:45:29 | [yarilo](https://artifacthub.io/packages/helm/yarilo/yarilo) | yarilo | 2.4.4 | Production-grade IMAP/POP3/Submission mail server |
+| 2026-10-20 07:24:52 | [mongodb-community](https://artifacthub.io/packages/helm/christianhuth/mongodb-community) | christianhuth | 1.0.0 | MongoDB Community replica sets managed by the MongoDB Controllers for Kubernete… |
 
 ## Data source
 
