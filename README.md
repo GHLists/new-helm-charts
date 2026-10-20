@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 19:19 UTC
+## Latest list — 2026-10-20 20:21 UTC
 
-New charts added between 2026-10-20 18:22 UTC and 2026-10-20 19:19 UTC.
+New charts added between 2026-10-20 19:19 UTC and 2026-10-20 20:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-20T19-19-40-974703Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-20T20-21-07-596693Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-20 18:33:14 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
-| 2026-10-20 18:44:32 | [rainstone](https://artifacthub.io/packages/helm/cloudve/rainstone) | cloudve | 0.3.0 | Galaxy compute cost reporting, deployed alongside Galaxy |
+| 2026-10-20 19:50:01 | [galaxy-k8s-monitor](https://artifacthub.io/packages/helm/cloudve/galaxy-k8s-monitor) | cloudve | 0.1.1 | Real-time Kubernetes pod resource monitor for Galaxy namespaces |
+| 2026-10-20 20:02:26 | [powerdns](https://artifacthub.io/packages/helm/unxwares/powerdns) | unxwares | 2026.10.1 | PowerDNS Authoritative Server with its REST API, SQLite/PostgreSQL/MySQL backen… |
 
 ## Data source
 
