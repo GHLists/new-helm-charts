@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 15:21 UTC
+## Latest list — 2026-10-20 16:22 UTC
 
-New charts added between 2026-10-20 14:22 UTC and 2026-10-20 15:21 UTC.
+New charts added between 2026-10-20 15:21 UTC and 2026-10-20 16:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-20T15-21-48-224375Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-20T16-22-03-337758Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-20 14:36:11 | [galaxy-k8s-monitor](https://artifacthub.io/packages/helm/cloudve/galaxy-k8s-monitor) | cloudve | 0.1.1 | Real-time Kubernetes pod resource monitor for Galaxy namespaces |
+| 2026-10-20 15:27:33 | [fhirsmith](https://artifacthub.io/packages/helm/fhirsmith/fhirsmith) | fhirsmith | 0.4.0 | A Helm chart for deploying FHIRsmith as a FHIR terminology (tx) server |
+| 2026-10-20 15:54:51 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
 
 ## Data source
 
