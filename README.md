@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 09:21 UTC
+## Latest list — 2026-10-20 10:20 UTC
 
-New charts added between 2026-10-20 08:20 UTC and 2026-10-20 09:21 UTC.
+New charts added between 2026-10-20 09:21 UTC and 2026-10-20 10:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-20T09-21-06-578239Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-20T10-20-51-312066Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-20 08:51:39 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
+| 2026-10-20 09:37:59 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-10-20 09:59:33 | [kure](https://artifacthub.io/packages/helm/kure-monitor/kure) | kure-monitor | 2.6.0 | Kubernetes AI observability platform with proactive AI Advice, security scannin… |
 
 ## Data source
 
