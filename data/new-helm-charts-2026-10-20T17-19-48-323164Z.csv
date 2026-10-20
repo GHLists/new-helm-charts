@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-10-20T16:28:48Z,transmute,helmforge,1.0.0,"Production-ready Helm chart for Transmute, a self-hosted audio and video transcoding service with queue management, hardware acceleration, and OIDC."
+2026-10-20T16:36:29Z,paperless-ngx,cfi2017,0.1.0,A document management system that transforms physical documents into a searchable online archive.
+2026-10-20T16:53:48Z,kamaji-crds,clastix,0.0.0+latest,Kamaji is the Hosted Control Plane Manager for Kubernetes.
