@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-20T12:09:47Z,datahub,quench-datahub,0.0.1,"Hardened DataHub metadata platform (GMS, React frontend and the SystemUpdate setup job) on 0-CVE nonroot images, with bundled MySQL, Kafka and Elasticsearch."
