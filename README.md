@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 12:20 UTC
+## Latest list — 2026-10-20 15:21 UTC
 
-New charts added between 2026-10-20 11:19 UTC and 2026-10-20 12:20 UTC.
+New charts added between 2026-10-20 14:22 UTC and 2026-10-20 15:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-20T12-20-17-81867Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-20T15-21-48-224375Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-20 12:09:47 | [datahub](https://artifacthub.io/packages/helm/quench-datahub/datahub) | quench-datahub | 0.0.1 | Hardened DataHub metadata platform (GMS, React frontend and the SystemUpdate se… |
+| 2026-10-20 14:36:11 | [galaxy-k8s-monitor](https://artifacthub.io/packages/helm/cloudve/galaxy-k8s-monitor) | cloudve | 0.1.1 | Real-time Kubernetes pod resource monitor for Galaxy namespaces |
 
 ## Data source
 
