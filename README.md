@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 18:22 UTC
+## Latest list — 2026-10-20 19:19 UTC
 
-New charts added between 2026-10-20 17:19 UTC and 2026-10-20 18:22 UTC.
+New charts added between 2026-10-20 18:22 UTC and 2026-10-20 19:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-20T18-22-56-280714Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-20T19-19-40-974703Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-20 18:05:31 | [synclet](https://artifacthub.io/packages/helm/synclet/synclet) | synclet | 0.2.0 | Data synchronization platform with Airbyte connector compatibility |
+| 2026-10-20 18:33:14 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
+| 2026-10-20 18:44:32 | [rainstone](https://artifacthub.io/packages/helm/cloudve/rainstone) | cloudve | 0.3.0 | Galaxy compute cost reporting, deployed alongside Galaxy |
 
 ## Data source
 
