@@ -14,17 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 17:19 UTC
+## Latest list — 2026-10-20 18:22 UTC
 
-New charts added between 2026-10-20 16:22 UTC and 2026-10-20 17:19 UTC.
+New charts added between 2026-10-20 17:19 UTC and 2026-10-20 18:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-20T17-19-48-323164Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-20T18-22-56-280714Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-20 16:28:48 | [transmute](https://artifacthub.io/packages/helm/helmforge/transmute) | helmforge | 1.0.0 | Production-ready Helm chart for Transmute, a self-hosted audio and video transc… |
-| 2026-10-20 16:36:29 | [paperless-ngx](https://artifacthub.io/packages/helm/cfi2017/paperless-ngx) | cfi2017 | 0.1.0 | A document management system that transforms physical documents into a searchab… |
-| 2026-10-20 16:53:48 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
+| 2026-10-20 18:05:31 | [synclet](https://artifacthub.io/packages/helm/synclet/synclet) | synclet | 0.2.0 | Data synchronization platform with Airbyte connector compatibility |
 
 ## Data source
 
