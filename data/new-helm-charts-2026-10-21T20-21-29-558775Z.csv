@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-21T19:31:34Z,kflare,kflare,0.1.0,"A Kubernetes operator that manages Cloudflare through custom resources: zones, DNS records, tunnels, Workers and their storage, WAF rules and the Rules products."

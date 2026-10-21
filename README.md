@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 19:19 UTC
+## Latest list — 2026-10-21 20:21 UTC
 
-New charts added between 2026-10-21 18:20 UTC and 2026-10-21 19:19 UTC.
+New charts added between 2026-10-21 19:19 UTC and 2026-10-21 20:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-21T19-19-15-503181Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-21T20-21-29-558775Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-21 18:31:54 | [muster](https://artifacthub.io/packages/helm/muster/muster) | muster | 0.1.0-rc.1 | Self-hosted alert grouping and on-call service |
+| 2026-10-21 19:31:34 | [kflare](https://artifacthub.io/packages/helm/kflare/kflare) | kflare | 0.1.0 | A Kubernetes operator that manages Cloudflare through custom resources: zones,… |
 
 ## Data source
 
