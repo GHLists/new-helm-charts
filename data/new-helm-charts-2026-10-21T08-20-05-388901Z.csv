@@ -1,0 +1,5 @@
+created_at,chart,repository,version,description
+2026-10-21T07:33:10Z,github-exporter,spnngl-github-exporter,0.1.0,"Prometheus exporter for GitHub repository, organization and build status metrics (github-exporter) running as a hardened Deployment"
+2026-10-21T07:47:19Z,documenso,helmforge,1.0.0,"Production-ready Documenso document signing with PostgreSQL, BullMQ, object storage, and immutable secrets"
+2026-10-21T07:47:19Z,docuseal,helmforge,1.0.0,"Production-ready DocuSeal electronic signatures with PostgreSQL, Redis, and durable attachments"
+2026-10-21T08:00:03Z,ibm-odm-metering,ibm-odm-metering,1.0.0,IBM Operational Decision Manager for Developers License By installing this product you accept the following license terms: https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-DHWR-YJBM3D
