@@ -14,17 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 14:21 UTC
+## Latest list — 2026-10-21 16:21 UTC
 
-New charts added between 2026-10-21 13:19 UTC and 2026-10-21 14:21 UTC.
+New charts added between 2026-10-21 15:22 UTC and 2026-10-21 16:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-21T14-21-10-116255Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-21T16-21-28-821374Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-21 13:25:25 | [portfolio-next](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/portfolio-next) | kubernetes-homelab-helm… | 0.1.0 | Static Astro portfolio served by unprivileged NGINX |
-| 2026-10-21 13:25:25 | [qbittorrent-exporter](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/qbittorrent-exporter) | kubernetes-homelab-helm… | 0.1.0 | Deploys the martabal qBittorrent Prometheus exporter on Kubernetes |
-| 2026-10-21 14:01:09 | [advanced-fabric](https://artifacthub.io/packages/helm/advanced-fabric/advanced-fabric) | advanced-fabric | 1.0.0-rc.2 | Public, observe-first Cilium and FRR fabric control and network evidence API |
+| 2026-10-21 15:36:03 | [daybreak](https://artifacthub.io/packages/helm/trisacrypto/daybreak) | trisacrypto | 0.1.1 | Management system for counterparty email addresses used for the Sunrise protoco… |
 
 ## Data source
 
