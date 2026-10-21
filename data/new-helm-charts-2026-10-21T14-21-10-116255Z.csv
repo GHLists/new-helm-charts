@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-10-21T13:25:25Z,portfolio-next,kubernetes-homelab-helm-charts,0.1.0,Static Astro portfolio served by unprivileged NGINX
+2026-10-21T13:25:25Z,qbittorrent-exporter,kubernetes-homelab-helm-charts,0.1.0,Deploys the martabal qBittorrent Prometheus exporter on Kubernetes
+2026-10-21T14:01:09Z,advanced-fabric,advanced-fabric,1.0.0-rc.2,"Public, observe-first Cilium and FRR fabric control and network evidence API"
