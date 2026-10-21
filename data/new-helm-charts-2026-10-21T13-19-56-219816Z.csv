@@ -1,0 +1,14 @@
+created_at,chart,repository,version,description
+2026-10-21T12:21:02Z,kratix,syntasso,0.0.1,A Helm chart for installing Kratix (https://kratix.io)
+2026-10-21T12:45:34Z,feishin,kubernetes-homelab-helm-charts,0.1.0,Deploys Feishin music streaming client on Kubernetes
+2026-10-21T12:45:34Z,homepage,kubernetes-homelab-helm-charts,0.1.0,Deploys Homepage dashboard on Kubernetes.
+2026-10-21T12:45:34Z,k8s-debug-pod,kubernetes-homelab-helm-charts,0.1.0,Deploys an Ubuntu-based Kubernetes troubleshooting pod
+2026-10-21T12:45:34Z,navidrome,kubernetes-homelab-helm-charts,0.1.0,Deploys Navidrome music streaming server on Kubernetes
+2026-10-21T12:45:34Z,pocket-id,kubernetes-homelab-helm-charts,0.1.0,Deploys Pocket ID passkey-based OIDC provider on Kubernetes
+2026-10-21T12:45:34Z,portfolio-next,kubernetes-homelab-helm-charts,0.1.0,Static Astro portfolio served by unprivileged NGINX
+2026-10-21T12:45:34Z,portfolio-tracker,kubernetes-homelab-helm-charts,0.1.0,Deploys the self-hosted Portfolio Tracker with PostgreSQL
+2026-10-21T12:45:34Z,pve-exporter,kubernetes-homelab-helm-charts,0.1.0,Deploys the prometheus-pve-exporter for scraping Proxmox VE metrics
+2026-10-21T12:45:34Z,qbittorrent-exporter,kubernetes-homelab-helm-charts,0.1.0,Deploys the martabal qBittorrent Prometheus exporter on Kubernetes
+2026-10-21T12:45:34Z,syncthing,kubernetes-homelab-helm-charts,0.1.0,Deploys Syncthing continuous file synchronization on Kubernetes
+2026-10-21T12:45:34Z,umami,kubernetes-homelab-helm-charts,0.1.0,"A Helm chart for Umami, a privacy-focused web analytics platform"
+2026-10-21T13:01:53Z,dbmanager,dbmanager,0.15.1,"DBManager — unified administration, monitoring, performance, security and backup for heterogeneous relational database fleets"
