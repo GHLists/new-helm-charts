@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 16:21 UTC
+## Latest list — 2026-10-21 17:19 UTC
 
-New charts added between 2026-10-21 15:22 UTC and 2026-10-21 16:21 UTC.
+New charts added between 2026-10-21 16:21 UTC and 2026-10-21 17:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-21T16-21-28-821374Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-21T17-19-47-930401Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-21 15:36:03 | [daybreak](https://artifacthub.io/packages/helm/trisacrypto/daybreak) | trisacrypto | 0.1.1 | Management system for counterparty email addresses used for the Sunrise protoco… |
+| 2026-10-21 16:44:09 | [galaxy-k8s-monitor](https://artifacthub.io/packages/helm/cloudve/galaxy-k8s-monitor) | cloudve | 0.1.1 | Real-time Kubernetes pod resource monitor for Galaxy namespaces |
 
 ## Data source
 
