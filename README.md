@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 09:23 UTC
+## Latest list — 2026-10-21 10:20 UTC
 
-New charts added between 2026-10-21 08:20 UTC and 2026-10-21 09:23 UTC.
+New charts added between 2026-10-21 09:23 UTC and 2026-10-21 10:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-21T09-23-09-230292Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-21T10-20-34-626288Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-21 08:20:22 | [opensign](https://artifacthub.io/packages/helm/helmforge/opensign) | helmforge | 1.0.0 | Production-ready OpenSign electronic signature platform with MongoDB and durabl… |
+| 2026-10-21 09:51:44 | [openartifact](https://artifacthub.io/packages/helm/openartifact/openartifact) | openartifact | 0.1.0 | Enterprise-grade, free-as-in-freedom artifact repository manager: Maven, npm, P… |
 
 ## Data source
 
