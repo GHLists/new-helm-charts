@@ -14,17 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 10:20 UTC
+## Latest list — 2026-10-22 11:19 UTC
 
-New charts added between 2026-10-22 09:20 UTC and 2026-10-22 10:20 UTC.
+New charts added between 2026-10-22 10:20 UTC and 2026-10-22 11:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-22T10-20-53-320341Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-22T11-19-41-137759Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-22 09:40:05 | [otel-fleet-collector](https://artifacthub.io/packages/helm/openobserve/otel-fleet-collector) | openobserve | 0.1.0 | OpenTelemetry Collector managed by OpenObserve Fleet management (OpAMP supervis… |
-| 2026-10-22 09:44:57 | [resource-permits](https://artifacthub.io/packages/helm/resource-permits/resource-permits) | resource-permits | 0.0.2 | Kubernetes approval workflows and managed resource lifecycles |
-| 2026-10-22 10:01:38 | [change-windows](https://artifacthub.io/packages/helm/change-windows/change-windows) | change-windows | 0.1.1 | Scheduled resource actions and admission maintenance windows for Kubernetes. |
+| 2026-10-22 11:01:54 | [stunner-dev](https://artifacthub.io/packages/helm/stunner/stunner-dev) | stunner | 1.2.1 | STUNner Kubernetes Gateway Operator |
 
 ## Data source
 
