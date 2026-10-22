@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-10-22T13:33:05Z,gravitee-apim,quench-gravitee-apim,0.0.4,"Hardened Gravitee API Management (APIM) community edition on 0-CVE nonroot images. The gateway, the management API and the console, with a bundled MongoDB. Enterprise plugins are not included."
+2026-10-22T13:33:20Z,runtime-security-stack,quench-runtime-security-stack,0.0.4,"Hardened runtime security in one install: Falco (syscall rules with the modern eBPF probe, JSON alerts naming the container) + Tetragon (kernel-level process, file and network events with TracingPolicy hooks and enforcement). Every image is QuenchWorks-hardened, built from source, 0-CVE, pinned by…"
+2026-10-22T13:51:00Z,kamaji-crds,clastix,0.0.0+latest,Kamaji is the Hosted Control Plane Manager for Kubernetes.
