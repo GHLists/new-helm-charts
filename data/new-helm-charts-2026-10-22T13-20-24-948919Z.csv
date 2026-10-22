@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-22T12:50:02Z,soika,pw,0.1.2,Lightweight Sentry-compatible error tracker with SQLite or PostgreSQL storage
