@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 19:19 UTC
+## Latest list — 2026-10-22 22:20 UTC
 
-New charts added between 2026-10-22 18:22 UTC and 2026-10-22 19:19 UTC.
+New charts added between 2026-10-22 21:20 UTC and 2026-10-22 22:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-22T19-19-26-276749Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-22T22-20-42-88372Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-22 18:28:41 | [qbittorrent-exporter](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/qbittorrent-exporter) | kubernetes-homelab-helm… | 0.1.0 | Deploys the martabal qBittorrent Prometheus exporter on Kubernetes |
+| 2026-10-22 21:31:58 | [mon-asso-chart](https://artifacthub.io/packages/helm/mon-asso/mon-asso-chart) | mon-asso | 0.44.0 | MonAsso, logiciel de gestion pour les associations (adhérents, trésorerie, paie… |
 
 ## Data source
 
