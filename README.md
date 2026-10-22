@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 18:22 UTC
+## Latest list — 2026-10-22 19:19 UTC
 
-New charts added between 2026-10-22 17:21 UTC and 2026-10-22 18:22 UTC.
+New charts added between 2026-10-22 18:22 UTC and 2026-10-22 19:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-22T18-22-21-536293Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-22T19-19-26-276749Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-22 17:57:12 | [montralog](https://artifacthub.io/packages/helm/montralog/montralog) | montralog | 0.5.0-rc.1 | Montralog gateway, durable OpenTelemetry collector, and optional metrics backen… |
+| 2026-10-22 18:28:41 | [qbittorrent-exporter](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/qbittorrent-exporter) | kubernetes-homelab-helm… | 0.1.0 | Deploys the martabal qBittorrent Prometheus exporter on Kubernetes |
 
 ## Data source
 
