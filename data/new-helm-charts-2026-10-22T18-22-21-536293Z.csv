@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-22T17:57:12Z,montralog,montralog,0.5.0-rc.1,"Montralog gateway, durable OpenTelemetry collector, and optional metrics backends"

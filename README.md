@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 17:21 UTC
+## Latest list — 2026-10-22 18:22 UTC
 
-New charts added between 2026-10-22 16:19 UTC and 2026-10-22 17:21 UTC.
+New charts added between 2026-10-22 17:21 UTC and 2026-10-22 18:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-22T17-21-30-869037Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-22T18-22-21-536293Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-22 16:19:59 | [mysql-innodbcluster](https://artifacthub.io/packages/helm/mysql-operator/mysql-innodbcluster) | mysql-operator | 2.3.1 | MySQL InnoDB Cluster Helm Chart for deploying MySQL InnoDB Cluster in Kubernetes |
-| 2026-10-22 16:19:59 | [mysql-operator](https://artifacthub.io/packages/helm/mysql-operator/mysql-operator) | mysql-operator | 2.3.1 | MySQL Operator Helm Chart for deploying MySQL InnoDB Cluster in Kubernetes |
+| 2026-10-22 17:57:12 | [montralog](https://artifacthub.io/packages/helm/montralog/montralog) | montralog | 0.5.0-rc.1 | Montralog gateway, durable OpenTelemetry collector, and optional metrics backen… |
 
 ## Data source
 
