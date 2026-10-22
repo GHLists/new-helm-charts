@@ -14,17 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 14:19 UTC
+## Latest list — 2026-10-22 16:19 UTC
 
-New charts added between 2026-10-22 13:20 UTC and 2026-10-22 14:19 UTC.
+New charts added between 2026-10-22 15:20 UTC and 2026-10-22 16:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-22T14-19-47-972955Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-22T16-19-40-41091Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-22 13:33:05 | [gravitee-apim](https://artifacthub.io/packages/helm/quench-gravitee-apim/gravitee-apim) | quench-gravitee-apim | 0.0.4 | Hardened Gravitee API Management (APIM) community edition on 0-CVE nonroot imag… |
-| 2026-10-22 13:33:20 | [runtime-security-stack](https://artifacthub.io/packages/helm/quench-runtime-security-stack/runtime-security-stack) | quench-runtime-security… | 0.0.4 | Hardened runtime security in one install: Falco (syscall rules with the modern… |
-| 2026-10-22 13:51:00 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
+| 2026-10-22 15:33:47 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-10-22 15:54:28 | [domain-locker](https://artifacthub.io/packages/helm/domain-locker/domain-locker) | domain-locker | 0.3.5 | A Helm chart for deploying Domain Locker |
 
 ## Data source
 
