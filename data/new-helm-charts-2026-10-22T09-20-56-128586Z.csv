@@ -1,0 +1,6 @@
+created_at,chart,repository,version,description
+2026-10-22T08:54:38Z,cluster-cloudnativedb,startx,21.3.300,"Helm chart used to configure highly available PostgreSQL clusters using the CloudNativePG operator (community build certified by EDB, or EDB Postgres for Kubernetes), with S3 backups, restore, monitoring and network policies"
+2026-10-22T08:54:39Z,cluster-etcdbackup,startx,21.3.300,Helm chart used to deploy a CronJob that backs up OpenShift etcd to an S3-compatible object store at the cluster level
+2026-10-22T08:54:41Z,cluster-kasten,startx,21.3.300,"Helm chart used to configure Kasten K10 data management platform (operator, K10 instance, policies, profiles) at the cluster level"
+2026-10-22T08:54:42Z,cluster-qdrant,startx,21.3.300,Helm chart used to deploy Qdrant vector database at the cluster level
+2026-10-22T08:54:42Z,cluster-trident,startx,21.3.300,"Helm chart used to configure NetApp Trident CSI (operator, orchestrator, backends, storage classes) at the cluster level"
