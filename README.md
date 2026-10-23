@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 22:22 UTC
+## Latest list — 2026-10-23 23:22 UTC
 
-New charts added between 2026-10-23 21:19 UTC and 2026-10-23 22:22 UTC.
+New charts added between 2026-10-23 22:22 UTC and 2026-10-23 23:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-23T22-22-20-027501Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-23T23-22-13-905093Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-23 22:16:41 | [tilegate](https://artifacthub.io/packages/helm/tilegate/tilegate) | tilegate | 0.1.0 | A self-hosted "My Apps" launcher that shows each user only the apps their roles… |
+| 2026-10-23 23:16:45 | [kargo-crds](https://artifacthub.io/packages/helm/spnngl-kargo-crds/kargo-crds) | spnngl-kargo-crds | 1.12.4 | CustomResourceDefinitions for Kargo (Projects, Warehouses, Freight, Stages, Pro… |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-23T23:16:45Z,kargo-crds,spnngl-kargo-crds,1.12.4,"CustomResourceDefinitions for Kargo (Projects, Warehouses, Freight, Stages, Promotions)"
