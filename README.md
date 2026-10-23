@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 14:19 UTC
+## Latest list — 2026-10-23 15:19 UTC
 
-New charts added between 2026-10-23 13:21 UTC and 2026-10-23 14:19 UTC.
+New charts added between 2026-10-23 14:19 UTC and 2026-10-23 15:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-23T14-19-50-495286Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-23T15-19-18-030168Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-23 14:02:45 | [kora](https://artifacthub.io/packages/helm/kora/kora) | kora | 0.10.0-rc.2 | kora's control plane runs the operator, the cluster-scoped identity and gateway… |
-| 2026-10-23 14:02:45 | [kora-crds](https://artifacthub.io/packages/helm/kora-crds/kora-crds) | kora-crds | 0.10.0-rc.2 | Defines the KoraTenant, Connection, OAuthClient, MCPServer, InferenceProvider a… |
+| 2026-10-23 14:28:35 | [federation-agent-sap-api-management](https://artifacthub.io/packages/helm/graviteeio/federation-agent-sap-api-management) | graviteeio | 4.13.0 | Official Gravitee.io Helm chart for API Management agent federation |
 
 ## Data source
 
