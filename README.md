@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 13:21 UTC
+## Latest list — 2026-10-23 14:19 UTC
 
-New charts added between 2026-10-23 12:20 UTC and 2026-10-23 13:21 UTC.
+New charts added between 2026-10-23 13:21 UTC and 2026-10-23 14:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-23T13-21-25-524552Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-23T14-19-50-495286Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-23 12:37:31 | [qbittorrent-exporter](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/qbittorrent-exporter) | kubernetes-homelab-helm… | 0.1.0 | Deploys the martabal qBittorrent Prometheus exporter on Kubernetes |
+| 2026-10-23 14:02:45 | [kora](https://artifacthub.io/packages/helm/kora/kora) | kora | 0.10.0-rc.2 | kora's control plane runs the operator, the cluster-scoped identity and gateway… |
+| 2026-10-23 14:02:45 | [kora-crds](https://artifacthub.io/packages/helm/kora-crds/kora-crds) | kora-crds | 0.10.0-rc.2 | Defines the KoraTenant, Connection, OAuthClient, MCPServer, InferenceProvider a… |
 
 ## Data source
 
