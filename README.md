@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 11:21 UTC
+## Latest list — 2026-10-23 13:21 UTC
 
-New charts added between 2026-10-23 10:19 UTC and 2026-10-23 11:21 UTC.
+New charts added between 2026-10-23 12:20 UTC and 2026-10-23 13:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-23T11-21-52-701235Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-23T13-21-25-524552Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-23 10:39:40 | [proxy-helm](https://artifacthub.io/packages/helm/uyuni-proxy/proxy-helm) | uyuni-proxy | 2026.10.0 | Uyuni proxy containers. |
-| 2026-10-23 10:39:40 | [server-helm](https://artifacthub.io/packages/helm/uyuni-server/server-helm) | uyuni-server | 2026.10.0 | Uyuni server |
+| 2026-10-23 12:37:31 | [qbittorrent-exporter](https://artifacthub.io/packages/helm/kubernetes-homelab-helm-charts/qbittorrent-exporter) | kubernetes-homelab-helm… | 0.1.0 | Deploys the martabal qBittorrent Prometheus exporter on Kubernetes |
 
 ## Data source
 

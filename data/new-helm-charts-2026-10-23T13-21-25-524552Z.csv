@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-23T12:37:31Z,qbittorrent-exporter,kubernetes-homelab-helm-charts,0.1.0,Deploys the martabal qBittorrent Prometheus exporter on Kubernetes
