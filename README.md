@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 22:20 UTC
+## Latest list — 2026-10-23 01:22 UTC
 
-New charts added between 2026-10-22 21:20 UTC and 2026-10-22 22:20 UTC.
+New charts added between 2026-10-23 00:22 UTC and 2026-10-23 01:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-22T22-20-42-88372Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-23T01-22-19-003642Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-22 21:31:58 | [mon-asso-chart](https://artifacthub.io/packages/helm/mon-asso/mon-asso-chart) | mon-asso | 0.44.0 | MonAsso, logiciel de gestion pour les associations (adhérents, trésorerie, paie… |
+| 2026-10-23 00:32:04 | [mokey](https://artifacthub.io/packages/helm/mokey/mokey) | mokey | 2.4.0 | FreeIPA self-service account management portal |
 
 ## Data source
 
