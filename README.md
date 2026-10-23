@@ -14,15 +14,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 17:21 UTC
+## Latest list — 2026-10-23 20:19 UTC
 
-New charts added between 2026-10-23 16:19 UTC and 2026-10-23 17:21 UTC.
+New charts added between 2026-10-23 19:19 UTC and 2026-10-23 20:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-23T17-21-34-680643Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-23T20-19-45-50651Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-23 16:34:33 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
+| 2026-10-23 19:30:43 | [codesynapse](https://artifacthub.io/packages/helm/codesynapse/codesynapse) | codesynapse | 0.0.1 | CodeSynapse indexes code, docs, configuration and dependencies into a graph and… |
+| 2026-10-23 19:31:30 | [gateway-auto-listener](https://artifacthub.io/packages/helm/itsh-gateway-auto-listener/gateway-auto-listener) | itsh-gateway-auto-liste… | 0.2.5 | Kubernetes controller that auto-creates Gateway HTTPS listeners from HTTPRoutes |
+| 2026-10-23 19:31:30 | [karpenter-provider-hcloud](https://artifacthub.io/packages/helm/itsh-karpenter-provider-hcloud/karpenter-provider-hcloud) | itsh-karpenter-provider… | 0.1.0-alpha.1 | Karpenter cloud provider for Hetzner Cloud |
+| 2026-10-23 19:31:30 | [stalwart](https://artifacthub.io/packages/helm/itsh-stalwart/stalwart) | itsh-stalwart | 0.4.0 | Helm chart for Stalwart Mail Server (0.16+ datastore config model) |
+| 2026-10-23 19:41:25 | [rowflare](https://artifacthub.io/packages/helm/rowflare/rowflare) | rowflare | 0.1.0 | Rowflare, an open-source Airtable alternative. Runs the Rowflare Docker image w… |
 
 ## Data source
 

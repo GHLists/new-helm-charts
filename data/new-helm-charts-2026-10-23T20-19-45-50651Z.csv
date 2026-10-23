@@ -1,0 +1,6 @@
+created_at,chart,repository,version,description
+2026-10-23T19:30:43Z,codesynapse,codesynapse,0.0.1,"CodeSynapse indexes code, docs, configuration and dependencies into a graph and serves precise answers to AI agents (MCP) and a dashboard."
+2026-10-23T19:31:30Z,gateway-auto-listener,itsh-gateway-auto-listener,0.2.5,Kubernetes controller that auto-creates Gateway HTTPS listeners from HTTPRoutes
+2026-10-23T19:31:30Z,karpenter-provider-hcloud,itsh-karpenter-provider-hcloud,0.1.0-alpha.1,Karpenter cloud provider for Hetzner Cloud
+2026-10-23T19:31:30Z,stalwart,itsh-stalwart,0.4.0,Helm chart for Stalwart Mail Server (0.16+ datastore config model)
+2026-10-23T19:41:25Z,rowflare,rowflare,0.1.0,"Rowflare, an open-source Airtable alternative. Runs the Rowflare Docker image with a persistent volume for its data."
