@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-23T08:02:17Z,hangar,hangar,1.0.0,"Hangar, a self-hosted home for your arsenal of models. A Hugging Face Hub-compatible model and dataset hub with git, Ollama and LM Studio support."
