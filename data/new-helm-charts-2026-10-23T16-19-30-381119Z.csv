@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-23T16:00:59Z,kratix,syntasso,0.0.1,A Helm chart for installing Kratix (https://kratix.io)
+2026-10-23T16:02:58Z,maintenant,maintenant,1.10.0,Self-discovering infrastructure monitoring for Docker and Kubernetes

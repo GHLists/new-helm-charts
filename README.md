@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 15:19 UTC
+## Latest list — 2026-10-23 16:19 UTC
 
-New charts added between 2026-10-23 14:19 UTC and 2026-10-23 15:19 UTC.
+New charts added between 2026-10-23 15:19 UTC and 2026-10-23 16:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-23T15-19-18-030168Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-23T16-19-30-381119Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-23 14:28:35 | [federation-agent-sap-api-management](https://artifacthub.io/packages/helm/graviteeio/federation-agent-sap-api-management) | graviteeio | 4.13.0 | Official Gravitee.io Helm chart for API Management agent federation |
+| 2026-10-23 16:00:59 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-10-23 16:02:58 | [maintenant](https://artifacthub.io/packages/helm/maintenant/maintenant) | maintenant | 1.10.0 | Self-discovering infrastructure monitoring for Docker and Kubernetes |
 
 ## Data source
 
