@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 10:19 UTC
+## Latest list — 2026-10-23 11:21 UTC
 
-New charts added between 2026-10-23 09:22 UTC and 2026-10-23 10:19 UTC.
+New charts added between 2026-10-23 10:19 UTC and 2026-10-23 11:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-23T10-19-55-97898Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-23T11-21-52-701235Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-23 10:10:31 | [cryptgeon](https://artifacthub.io/packages/helm/spnngl-cryptgeon/cryptgeon) | spnngl-cryptgeon | 0.1.0 | Cryptgeon, a secure self-destructing notes and files service, as a hardened sin… |
+| 2026-10-23 10:39:40 | [proxy-helm](https://artifacthub.io/packages/helm/uyuni-proxy/proxy-helm) | uyuni-proxy | 2026.10.0 | Uyuni proxy containers. |
+| 2026-10-23 10:39:40 | [server-helm](https://artifacthub.io/packages/helm/uyuni-server/server-helm) | uyuni-server | 2026.10.0 | Uyuni server |
 
 ## Data source
 

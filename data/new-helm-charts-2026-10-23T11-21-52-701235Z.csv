@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-23T10:39:40Z,proxy-helm,uyuni-proxy,2026.10.0,Uyuni proxy containers.
+2026-10-23T10:39:40Z,server-helm,uyuni-server,2026.10.0,Uyuni server
