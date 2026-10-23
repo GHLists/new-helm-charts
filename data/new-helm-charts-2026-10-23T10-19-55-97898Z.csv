@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-23T10:10:31Z,cryptgeon,spnngl-cryptgeon,0.1.0,"Cryptgeon, a secure self-destructing notes and files service, as a hardened single-replica Deployment on an external Redis"
