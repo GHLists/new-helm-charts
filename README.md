@@ -14,17 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 14:19 UTC
+## Latest list — 2026-10-24 15:21 UTC
 
-New charts added between 2026-10-24 13:19 UTC and 2026-10-24 14:19 UTC.
+New charts added between 2026-10-24 14:19 UTC and 2026-10-24 15:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-24T14-19-12-990249Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-24T15-21-30-7652Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-24 14:01:40 | [ci-accelerator](https://artifacthub.io/packages/helm/ci-accelerator/ci-accelerator) | ci-accelerator | 0.1.0-rc.2 | A self-hosted fast CI runner for GitLab: persistent BuildKit daemons with a sha… |
-| 2026-10-24 14:01:40 | [buildkit](https://artifacthub.io/packages/helm/ci-accelerator-buildkit/buildkit) | ci-accelerator-buildkit | 0.1.0-rc.1 | Persistent BuildKit daemons as a shared build service for CI, with probe and ga… |
-| 2026-10-24 14:01:40 | [console](https://artifacthub.io/packages/helm/ci-accelerator-console/console) | ci-accelerator-console | 0.2.0-rc.1 | Collects the build history of BuildKit daemons and the CI jobs around it, and e… |
+| 2026-10-24 15:16:04 | [artifacthub-exporter](https://artifacthub.io/packages/helm/spnngl-artifacthub-exporter/artifacthub-exporter) | spnngl-artifacthub-expo… | 0.1.0 | Prometheus exporter for Artifact Hub package and repository metrics (stars, ver… |
 
 ## Data source
 

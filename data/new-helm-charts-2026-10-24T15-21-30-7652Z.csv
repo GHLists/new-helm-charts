@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-24T15:16:04Z,artifacthub-exporter,spnngl-artifacthub-exporter,0.1.0,"Prometheus exporter for Artifact Hub package and repository metrics (stars, versions, views, vulnerabilities, tracking status) running as a hardened Deployment"
