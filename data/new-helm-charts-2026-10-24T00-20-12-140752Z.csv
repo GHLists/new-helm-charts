@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-23T23:31:38Z,kividb-operator-chart,kividb-operator,0.5.1,"Kubernetes operator for KiviDB, a Redis-RESP-compatible data store: manages single-master/N-replica KividbCluster StatefulSets, ACL/auth, automatic failover via a per-pod agent sidecar, scheduled S3-compatible backups, and (optionally) a management web GUI."

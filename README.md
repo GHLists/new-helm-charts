@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 23:22 UTC
+## Latest list — 2026-10-24 00:20 UTC
 
-New charts added between 2026-10-23 22:22 UTC and 2026-10-23 23:22 UTC.
+New charts added between 2026-10-23 23:22 UTC and 2026-10-24 00:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-23T23-22-13-905093Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-24T00-20-12-140752Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-23 23:16:45 | [kargo-crds](https://artifacthub.io/packages/helm/spnngl-kargo-crds/kargo-crds) | spnngl-kargo-crds | 1.12.4 | CustomResourceDefinitions for Kargo (Projects, Warehouses, Freight, Stages, Pro… |
+| 2026-10-23 23:31:38 | [kividb-operator-chart](https://artifacthub.io/packages/helm/kividb-operator/kividb-operator-chart) | kividb-operator | 0.5.1 | Kubernetes operator for KiviDB, a Redis-RESP-compatible data store: manages sin… |
 
 ## Data source
 
