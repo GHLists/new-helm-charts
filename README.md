@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 04:21 UTC
+## Latest list — 2026-10-24 05:21 UTC
 
-New charts added between 2026-10-24 03:21 UTC and 2026-10-24 04:21 UTC.
+New charts added between 2026-10-24 04:21 UTC and 2026-10-24 05:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-24T04-21-31-874097Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-24T05-21-23-108368Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-24 03:59:06 | [libredb-platform](https://artifacthub.io/packages/helm/libredb-platform/libredb-platform) | libredb-platform | 1.1.1 | LibreDB Platform, database access governance, with LibreDB Studio, on Kubernete… |
-| 2026-10-24 04:02:54 | [libredb-platform](https://artifacthub.io/packages/helm/libredb-platform-oci/libredb-platform) | libredb-platform-oci | 1.1.1 | LibreDB Platform, database access governance, with LibreDB Studio, on Kubernete… |
+| 2026-10-24 05:02:09 | [wordpress-alpine](https://artifacthub.io/packages/helm/wordpress-alpine/wordpress-alpine) | wordpress-alpine | 1.4.12 | WordPress FPM + Nginx + Init + MariaDB (alpine) |
 
 ## Data source
 
