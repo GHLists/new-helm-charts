@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 05:21 UTC
+## Latest list — 2026-10-24 08:21 UTC
 
-New charts added between 2026-10-24 04:21 UTC and 2026-10-24 05:21 UTC.
+New charts added between 2026-10-24 07:19 UTC and 2026-10-24 08:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-24T05-21-23-108368Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-24T08-21-40-649893Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-24 05:02:09 | [wordpress-alpine](https://artifacthub.io/packages/helm/wordpress-alpine/wordpress-alpine) | wordpress-alpine | 1.4.12 | WordPress FPM + Nginx + Init + MariaDB (alpine) |
+| 2026-10-24 07:44:55 | [scrobster](https://artifacthub.io/packages/helm/scrobster/scrobster) | scrobster | 0.4.0 | Listens to a microphone or a camera, identifies the music with Shazam, and scro… |
 
 ## Data source
 

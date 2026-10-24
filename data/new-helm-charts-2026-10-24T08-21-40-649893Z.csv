@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-24T07:44:55Z,scrobster,scrobster,0.4.0,"Listens to a microphone or a camera, identifies the music with Shazam, and scrobbles it to Last.fm, Libre.fm, ListenBrainz or Maloja."
