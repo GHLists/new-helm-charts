@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-24T20:47:38Z,admiral-infra-agent,admiral,0.1.0,Runs an Admiral agent in Kubernetes that plans and applies Terraform and OpenTofu components over an outbound-only connection.
+2026-10-24T21:16:01Z,mailpit,spnngl-mailpit,0.1.0,"Mailpit, an email and SMTP testing tool with a web UI and an API, as a hardened single-replica Deployment"
