@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 11:21 UTC
+## Latest list — 2026-10-24 13:19 UTC
 
-New charts added between 2026-10-24 10:20 UTC and 2026-10-24 11:21 UTC.
+New charts added between 2026-10-24 12:19 UTC and 2026-10-24 13:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-24T11-21-08-617632Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-24T13-19-41-280713Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-24 11:15:57 | [agent-router-crds](https://artifacthub.io/packages/helm/spnngl-agent-router-crds/agent-router-crds) | spnngl-agent-router-crds | 1.2.0 | CustomResourceDefinitions for Agent Router, formerly Envoy AI Gateway (AI gatew… |
+| 2026-10-24 13:15:57 | [tuwunel](https://artifacthub.io/packages/helm/spnngl-tuwunel/tuwunel) | spnngl-tuwunel | 0.1.0 | Tuwunel Matrix homeserver as a hardened single-replica StatefulSet, with an opt… |
 
 ## Data source
 
