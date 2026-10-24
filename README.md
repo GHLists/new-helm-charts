@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 00:20 UTC
+## Latest list — 2026-10-24 04:21 UTC
 
-New charts added between 2026-10-23 23:22 UTC and 2026-10-24 00:20 UTC.
+New charts added between 2026-10-24 03:21 UTC and 2026-10-24 04:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-24T00-20-12-140752Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-24T04-21-31-874097Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-23 23:31:38 | [kividb-operator-chart](https://artifacthub.io/packages/helm/kividb-operator/kividb-operator-chart) | kividb-operator | 0.5.1 | Kubernetes operator for KiviDB, a Redis-RESP-compatible data store: manages sin… |
+| 2026-10-24 03:59:06 | [libredb-platform](https://artifacthub.io/packages/helm/libredb-platform/libredb-platform) | libredb-platform | 1.1.1 | LibreDB Platform, database access governance, with LibreDB Studio, on Kubernete… |
+| 2026-10-24 04:02:54 | [libredb-platform](https://artifacthub.io/packages/helm/libredb-platform-oci/libredb-platform) | libredb-platform-oci | 1.1.1 | LibreDB Platform, database access governance, with LibreDB Studio, on Kubernete… |
 
 ## Data source
 
