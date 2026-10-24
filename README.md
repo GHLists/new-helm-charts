@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 13:19 UTC
+## Latest list — 2026-10-24 14:19 UTC
 
-New charts added between 2026-10-24 12:19 UTC and 2026-10-24 13:19 UTC.
+New charts added between 2026-10-24 13:19 UTC and 2026-10-24 14:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-24T13-19-41-280713Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-24T14-19-12-990249Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-24 13:15:57 | [tuwunel](https://artifacthub.io/packages/helm/spnngl-tuwunel/tuwunel) | spnngl-tuwunel | 0.1.0 | Tuwunel Matrix homeserver as a hardened single-replica StatefulSet, with an opt… |
+| 2026-10-24 14:01:40 | [ci-accelerator](https://artifacthub.io/packages/helm/ci-accelerator/ci-accelerator) | ci-accelerator | 0.1.0-rc.2 | A self-hosted fast CI runner for GitLab: persistent BuildKit daemons with a sha… |
+| 2026-10-24 14:01:40 | [buildkit](https://artifacthub.io/packages/helm/ci-accelerator-buildkit/buildkit) | ci-accelerator-buildkit | 0.1.0-rc.1 | Persistent BuildKit daemons as a shared build service for CI, with probe and ga… |
+| 2026-10-24 14:01:40 | [console](https://artifacthub.io/packages/helm/ci-accelerator-console/console) | ci-accelerator-console | 0.2.0-rc.1 | Collects the build history of BuildKit daemons and the CI jobs around it, and e… |
 
 ## Data source
 

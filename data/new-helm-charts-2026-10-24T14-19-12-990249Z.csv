@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-10-24T14:01:40Z,ci-accelerator,ci-accelerator,0.1.0-rc.2,"A self-hosted fast CI runner for GitLab: persistent BuildKit daemons with a shared cache on dedicated build nodes, and a gitlab-runner that sends CI jobs to them."
+2026-10-24T14:01:40Z,buildkit,ci-accelerator-buildkit,0.1.0-rc.1,"Persistent BuildKit daemons as a shared build service for CI, with probe and garbage-collection defaults derived from a production setup."
+2026-10-24T14:01:40Z,console,ci-accelerator-console,0.2.0-rc.1,"Collects the build history of BuildKit daemons and the CI jobs around it, and explains every build: what came from cache, what came from another job, and why a step was rebuilt."
