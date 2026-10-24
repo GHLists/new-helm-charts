@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-10-24T17:39:36Z,cloudnative-pg-crds,spnngl-cloudnative-pg-crds,1.30.1,"CustomResourceDefinitions for CloudNativePG (PostgreSQL clusters, backups, poolers, databases, publications, subscriptions, image catalogs)"
+2026-10-24T17:39:40Z,jupyter-imagepuller,jupyter-jsc,1.0.0,A Helm chart for Kubernetes
+2026-10-24T18:02:18Z,hankoshell-operator,hankoshell-operator,1.0.0,"Manage Keycloak realms, applications and access declaratively from Kubernetes"

@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 15:21 UTC
+## Latest list — 2026-10-24 18:19 UTC
 
-New charts added between 2026-10-24 14:19 UTC and 2026-10-24 15:21 UTC.
+New charts added between 2026-10-24 17:27 UTC and 2026-10-24 18:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-24T15-21-30-7652Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-24T18-19-56-444794Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-24 15:16:04 | [artifacthub-exporter](https://artifacthub.io/packages/helm/spnngl-artifacthub-exporter/artifacthub-exporter) | spnngl-artifacthub-expo… | 0.1.0 | Prometheus exporter for Artifact Hub package and repository metrics (stars, ver… |
+| 2026-10-24 17:39:36 | [cloudnative-pg-crds](https://artifacthub.io/packages/helm/spnngl-cloudnative-pg-crds/cloudnative-pg-crds) | spnngl-cloudnative-pg-c… | 1.30.1 | CustomResourceDefinitions for CloudNativePG (PostgreSQL clusters, backups, pool… |
+| 2026-10-24 17:39:40 | [jupyter-imagepuller](https://artifacthub.io/packages/helm/jupyter-jsc/jupyter-imagepuller) | jupyter-jsc | 1.0.0 | A Helm chart for Kubernetes |
+| 2026-10-24 18:02:18 | [hankoshell-operator](https://artifacthub.io/packages/helm/hankoshell-operator/hankoshell-operator) | hankoshell-operator | 1.0.0 | Manage Keycloak realms, applications and access declaratively from Kubernetes |
 
 ## Data source
 
