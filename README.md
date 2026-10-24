@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 08:21 UTC
+## Latest list — 2026-10-24 11:21 UTC
 
-New charts added between 2026-10-24 07:19 UTC and 2026-10-24 08:21 UTC.
+New charts added between 2026-10-24 10:20 UTC and 2026-10-24 11:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-24T08-21-40-649893Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-24T11-21-08-617632Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-24 07:44:55 | [scrobster](https://artifacthub.io/packages/helm/scrobster/scrobster) | scrobster | 0.4.0 | Listens to a microphone or a camera, identifies the music with Shazam, and scro… |
+| 2026-10-24 11:15:57 | [agent-router-crds](https://artifacthub.io/packages/helm/spnngl-agent-router-crds/agent-router-crds) | spnngl-agent-router-crds | 1.2.0 | CustomResourceDefinitions for Agent Router, formerly Envoy AI Gateway (AI gatew… |
 
 ## Data source
 
