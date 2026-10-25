@@ -1,0 +1,9 @@
+created_at,chart,repository,version,description
+2026-10-25T11:31:37Z,kates,kates,0.13.5,Kates — Kafka Advanced Testing & Engineering Suite
+2026-10-25T12:01:48Z,connect-cluster,connect-cluster,2.1.14,A Helm chart for deploying Strimzi Kafka Connect clusters
+2026-10-25T12:02:35Z,kafka-cluster,kafka-cluster,1.0.18,"A Strimzi Kafka cluster in KRaft mode — node pools, topics, users, rebalancing, tiered storage, network policy and observability"
+2026-10-25T12:02:36Z,kates-chaos,kates-chaos,2.3.4,"Kates Chaos Engineering — wraps the LitmusChaos execution plane (operator, exporter, CRDs) with Kafka-specific RBAC, experiment/engine templating, and monitoring"
+2026-10-25T12:02:36Z,kates-monitoring,kates-monitoring,1.7.1,Kates Monitoring — wraps kube-prometheus-stack with Kates-specific dashboards and configuration
+2026-10-25T12:02:36Z,kates-platform,kates-platform,0.8.4,"Umbrella chart for the full Kates platform — Kafka, Kates, and supporting infrastructure"
+2026-10-25T12:02:57Z,mirror-maker2,mirror-maker2,0.11.12,"Strimzi KafkaMirrorMaker2 — cross-cluster replication, DR, and cross-version migration (2.x/3.x → 4.x)"
+2026-10-25T12:16:18Z,strimzi-operator,strimzi-operator,0.4.4,"The Strimzi Kafka Operator — wraps the upstream chart with pinned kates defaults, an owned CRD-upgrade hook, and a strict values schema"
