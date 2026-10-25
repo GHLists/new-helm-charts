@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 20:19 UTC
+## Latest list — 2026-10-25 23:22 UTC
 
-New charts added between 2026-10-25 19:21 UTC and 2026-10-25 20:19 UTC.
+New charts added between 2026-10-25 22:21 UTC and 2026-10-25 23:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-25T20-19-20-195006Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-25T23-22-11-624379Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-25 19:58:28 | [localai](https://artifacthub.io/packages/helm/upstreamyard/localai) | upstreamyard | 0.1.0 | LocalAI Helm chart for Kubernetes. Self-hosted OpenAI-compatible API for LLMs,… |
-| 2026-10-25 20:03:10 | [napwake](https://artifacthub.io/packages/helm/napwake/napwake) | napwake | 0.2.0-rc.9 | Kubernetes operator that pauses idle workloads and wakes them when used — idle… |
+| 2026-10-25 22:22:35 | [mo-backup](https://artifacthub.io/packages/helm/mogenius/mo-backup) | mogenius | 1.0.29 | This is the mogenius backup script. |
+| 2026-10-25 22:22:35 | [mo-backup-mysql](https://artifacthub.io/packages/helm/mogenius/mo-backup-mysql) | mogenius | 1.0.29 | This is the mogenius backup script. |
 
 ## Data source
 
