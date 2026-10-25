@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 16:21 UTC
+## Latest list — 2026-10-25 18:19 UTC
 
-New charts added between 2026-10-25 15:20 UTC and 2026-10-25 16:21 UTC.
+New charts added between 2026-10-25 17:20 UTC and 2026-10-25 18:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-25T16-21-36-079154Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-25T18-19-27-760977Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-25 15:51:45 | [cloudflare-tunnel](https://artifacthub.io/packages/helm/sinextra/cloudflare-tunnel) | sinextra | 0.0.2 | Cloudflared tunnel deployment |
+| 2026-10-25 18:14:50 | [stunner-dev](https://artifacthub.io/packages/helm/stunner/stunner-dev) | stunner | 1.2.1 | STUNner Kubernetes Gateway Operator |
 
 ## Data source
 
