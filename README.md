@@ -14,22 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 12:22 UTC
+## Latest list — 2026-10-25 14:19 UTC
 
-New charts added between 2026-10-25 11:20 UTC and 2026-10-25 12:22 UTC.
+New charts added between 2026-10-25 13:22 UTC and 2026-10-25 14:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-25T12-22-09-154896Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-25T14-19-20-782479Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-25 11:31:37 | [kates](https://artifacthub.io/packages/helm/kates/kates) | kates | 0.13.5 | Kates — Kafka Advanced Testing & Engineering Suite |
-| 2026-10-25 12:01:48 | [connect-cluster](https://artifacthub.io/packages/helm/connect-cluster/connect-cluster) | connect-cluster | 2.1.14 | A Helm chart for deploying Strimzi Kafka Connect clusters |
-| 2026-10-25 12:02:35 | [kafka-cluster](https://artifacthub.io/packages/helm/kafka-cluster/kafka-cluster) | kafka-cluster | 1.0.18 | A Strimzi Kafka cluster in KRaft mode — node pools, topics, users, rebalancing,… |
-| 2026-10-25 12:02:36 | [kates-chaos](https://artifacthub.io/packages/helm/kates-chaos/kates-chaos) | kates-chaos | 2.3.4 | Kates Chaos Engineering — wraps the LitmusChaos execution plane (operator, expo… |
-| 2026-10-25 12:02:36 | [kates-monitoring](https://artifacthub.io/packages/helm/kates-monitoring/kates-monitoring) | kates-monitoring | 1.7.1 | Kates Monitoring — wraps kube-prometheus-stack with Kates-specific dashboards a… |
-| 2026-10-25 12:02:36 | [kates-platform](https://artifacthub.io/packages/helm/kates-platform/kates-platform) | kates-platform | 0.8.4 | Umbrella chart for the full Kates platform — Kafka, Kates, and supporting infra… |
-| 2026-10-25 12:02:57 | [mirror-maker2](https://artifacthub.io/packages/helm/mirror-maker2/mirror-maker2) | mirror-maker2 | 0.11.12 | Strimzi KafkaMirrorMaker2 — cross-cluster replication, DR, and cross-version mi… |
-| 2026-10-25 12:16:18 | [strimzi-operator](https://artifacthub.io/packages/helm/strimzi-operator/strimzi-operator) | strimzi-operator | 0.4.4 | The Strimzi Kafka Operator — wraps the upstream chart with pinned kates default… |
+| 2026-10-25 14:04:34 | [stunner-dev](https://artifacthub.io/packages/helm/stunner/stunner-dev) | stunner | 1.2.1 | STUNner Kubernetes Gateway Operator |
 
 ## Data source
 
