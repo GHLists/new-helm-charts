@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-25T19:58:28Z,localai,upstreamyard,0.1.0,"LocalAI Helm chart for Kubernetes. Self-hosted OpenAI-compatible API for LLMs, embeddings, images, speech and agents on CPU or GPU (NVIDIA CUDA, AMD ROCm, Intel, Vulkan), as a single server or in distributed mode with scalable frontends and GPU workers on PostgreSQL and NATS. API key by default, ad…"
+2026-10-25T20:03:10Z,napwake,napwake,0.2.0-rc.9,"Kubernetes operator that pauses idle workloads and wakes them when used — idle detection, wake on request, forecasting, and cost tracking."

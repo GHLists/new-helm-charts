@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 18:19 UTC
+## Latest list — 2026-10-25 20:19 UTC
 
-New charts added between 2026-10-25 17:20 UTC and 2026-10-25 18:19 UTC.
+New charts added between 2026-10-25 19:21 UTC and 2026-10-25 20:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-25T18-19-27-760977Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-25T20-19-20-195006Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-25 18:14:50 | [stunner-dev](https://artifacthub.io/packages/helm/stunner/stunner-dev) | stunner | 1.2.1 | STUNner Kubernetes Gateway Operator |
+| 2026-10-25 19:58:28 | [localai](https://artifacthub.io/packages/helm/upstreamyard/localai) | upstreamyard | 0.1.0 | LocalAI Helm chart for Kubernetes. Self-hosted OpenAI-compatible API for LLMs,… |
+| 2026-10-25 20:03:10 | [napwake](https://artifacthub.io/packages/helm/napwake/napwake) | napwake | 0.2.0-rc.9 | Kubernetes operator that pauses idle workloads and wakes them when used — idle… |
 
 ## Data source
 
