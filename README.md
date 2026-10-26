@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 17:22 UTC
+## Latest list — 2026-10-26 18:22 UTC
 
-New charts added between 2026-10-26 16:20 UTC and 2026-10-26 17:22 UTC.
+New charts added between 2026-10-26 17:22 UTC and 2026-10-26 18:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-26T17-22-07-151639Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-26T18-22-01-791472Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-26 16:33:32 | [music-assistant](https://artifacthub.io/packages/helm/charts-derwitt-dev/music-assistant) | charts-derwitt-dev | 1.0.1 | Helm chart for Music Assistant server |
+| 2026-10-26 18:17:56 | [numa-dns](https://artifacthub.io/packages/helm/spnngl-numa-dns/numa-dns) | spnngl-numa-dns | 0.1.0 | Numa DNS resolver (ad blocking, local zones, DoT and DoH behind an ingress) run… |
 
 ## Data source
 

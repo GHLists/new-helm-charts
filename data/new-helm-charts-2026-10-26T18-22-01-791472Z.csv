@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-26T18:17:56Z,numa-dns,spnngl-numa-dns,0.1.0,"Numa DNS resolver (ad blocking, local zones, DoT and DoH behind an ingress) running as a hardened, highly available Deployment"
