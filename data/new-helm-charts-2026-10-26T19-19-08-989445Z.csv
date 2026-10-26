@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-26T18:31:47Z,workload,kickr-workload,0.1.0,Helm library chart for rendering workloads and their related Kubernetes resources from values
+2026-10-26T18:58:19Z,bayplan,bayplan,0.1.0,"Lightweight, self-hosted multi-cluster Kubernetes management. One binary (Go + React) plus Postgres."
