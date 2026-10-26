@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 20:21 UTC
+## Latest list — 2026-10-26 22:19 UTC
 
-New charts added between 2026-10-26 19:19 UTC and 2026-10-26 20:21 UTC.
+New charts added between 2026-10-26 21:19 UTC and 2026-10-26 22:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-26T20-21-22-143665Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-26T22-19-47-911716Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-26 19:58:25 | [bayplan](https://artifacthub.io/packages/helm/bayplan/bayplan) | bayplan | 0.1.0 | Lightweight, self-hosted multi-cluster Kubernetes management. One binary (Go +… |
+| 2026-10-26 21:32:08 | [observecraft](https://artifacthub.io/packages/helm/observecraft/observecraft) | observecraft | 0.2.0 | ObserveCraft, a self-hosted observability platform (logs, APM, metrics, Kuberne… |
 
 ## Data source
 

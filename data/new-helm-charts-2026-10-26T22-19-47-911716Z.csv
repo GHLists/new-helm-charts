@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-26T21:32:08Z,observecraft,observecraft,0.2.0,"ObserveCraft, a self-hosted observability platform (logs, APM, metrics, Kubernetes, monitors) with a multi-tenant intake."
