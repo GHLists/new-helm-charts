@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 16:20 UTC
+## Latest list — 2026-10-26 17:22 UTC
 
-New charts added between 2026-10-26 15:21 UTC and 2026-10-26 16:20 UTC.
+New charts added between 2026-10-26 16:20 UTC and 2026-10-26 17:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-26T16-20-26-831556Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-26T17-22-07-151639Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-26 15:33:30 | [fluffychat](https://artifacthub.io/packages/helm/spnngl-fluffychat/fluffychat) | spnngl-fluffychat | 0.1.0 | FluffyChat, a Matrix web client, as a hardened Deployment serving static files |
-| 2026-10-26 15:33:31 | [mjolnir](https://artifacthub.io/packages/helm/spnngl-mjolnir/mjolnir) | spnngl-mjolnir | 0.1.0 | Mjolnir Matrix moderation bot as a hardened single-replica StatefulSet |
+| 2026-10-26 16:33:32 | [music-assistant](https://artifacthub.io/packages/helm/charts-derwitt-dev/music-assistant) | charts-derwitt-dev | 1.0.1 | Helm chart for Music Assistant server |
 
 ## Data source
 
