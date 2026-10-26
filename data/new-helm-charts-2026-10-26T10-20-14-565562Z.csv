@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-26T09:24:50Z,nvd-mirror,ideaplexus,0.1.0,"Mirrors the CVE data of the NIST National Vulnerability Database and serves it as JSON data feed for OWASP dependency-check, with the ideaplexus/go-nvd-mirror image. A single pod keeps the feed current with incremental syncs."
+2026-10-26T09:34:38Z,backup,k8ssandra,0.26.0,Creates a CassandraBackup custom resource instance. This chart should be used in conjunction with the Medusa Operator chart.
