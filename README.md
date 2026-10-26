@@ -14,16 +14,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 10:20 UTC
+## Latest list — 2026-10-26 14:20 UTC
 
-New charts added between 2026-10-26 09:20 UTC and 2026-10-26 10:20 UTC.
+New charts added between 2026-10-26 13:22 UTC and 2026-10-26 14:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-26T10-20-14-565562Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-26T14-20-25-080545Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-26 09:24:50 | [nvd-mirror](https://artifacthub.io/packages/helm/ideaplexus/nvd-mirror) | ideaplexus | 0.1.0 | Mirrors the CVE data of the NIST National Vulnerability Database and serves it… |
-| 2026-10-26 09:34:38 | [backup](https://artifacthub.io/packages/helm/k8ssandra/backup) | k8ssandra | 0.26.0 | Creates a CassandraBackup custom resource instance. This chart should be used i… |
+| 2026-10-26 13:38:55 | [eck-operator](https://artifacthub.io/packages/helm/adeptia-automate-eck-operator/eck-operator) | adeptia-automate-eck-op… | 3.5.0 | Elastic Cloud on Kubernetes (ECK) operator |
+| 2026-10-26 13:38:59 | [opentelemetry-operator](https://artifacthub.io/packages/helm/adeptia-automate-opentelemetry-operator/opentelemetry-operator) | adeptia-automate-opente… | 0.122.0 | OpenTelemetry Operator Helm chart for Kubernetes |
+| 2026-10-26 13:39:03 | [kube-prometheus-stack](https://artifacthub.io/packages/helm/adeptia-automate-prometheus-stack/kube-prometheus-stack) | adeptia-automate-promet… | 88.6.2 | kube-prometheus-stack collects Kubernetes manifests, Grafana dashboards, and Pr… |
+| 2026-10-26 13:46:06 | [bayplan](https://artifacthub.io/packages/helm/bayplan/bayplan) | bayplan | 0.1.0 | Lightweight, self-hosted multi-cluster Kubernetes management. One binary (Go +… |
 
 ## Data source
 

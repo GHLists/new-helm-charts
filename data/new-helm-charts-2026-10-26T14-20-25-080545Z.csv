@@ -1,0 +1,5 @@
+created_at,chart,repository,version,description
+2026-10-26T13:38:55Z,eck-operator,adeptia-automate-eck-operator,3.5.0,Elastic Cloud on Kubernetes (ECK) operator
+2026-10-26T13:38:59Z,opentelemetry-operator,adeptia-automate-opentelemetry-operator,0.122.0,OpenTelemetry Operator Helm chart for Kubernetes
+2026-10-26T13:39:03Z,kube-prometheus-stack,adeptia-automate-prometheus-stack,88.6.2,"kube-prometheus-stack collects Kubernetes manifests, Grafana dashboards, and Prometheus rules combined with documentation and scripts to provide easy to operate end-to-end Kubernetes cluster monitoring with Prometheus using the Prometheus Operator."
+2026-10-26T13:46:06Z,bayplan,bayplan,0.1.0,"Lightweight, self-hosted multi-cluster Kubernetes management. One binary (Go + React) plus Postgres."
