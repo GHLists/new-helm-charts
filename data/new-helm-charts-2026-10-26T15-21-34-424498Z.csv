@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-10-26T14:22:41Z,mo-platform-tests,mogenius,1.0.0,The mo-platform-tests operator with its UI. Needs nothing but its own namespace.
+2026-10-26T14:44:57Z,cinny,spnngl-cinny,0.1.0,"Cinny, a Matrix web client, as a hardened stateless Deployment serving its static app"
+2026-10-26T15:04:33Z,sable-next,spnngl-sable-next,0.1.0,"Sable, a Matrix web client, as a hardened stateless Deployment serving its static app"

@@ -14,18 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 14:20 UTC
+## Latest list — 2026-10-26 15:21 UTC
 
-New charts added between 2026-10-26 13:22 UTC and 2026-10-26 14:20 UTC.
+New charts added between 2026-10-26 14:20 UTC and 2026-10-26 15:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-26T14-20-25-080545Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-26T15-21-34-424498Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-26 13:38:55 | [eck-operator](https://artifacthub.io/packages/helm/adeptia-automate-eck-operator/eck-operator) | adeptia-automate-eck-op… | 3.5.0 | Elastic Cloud on Kubernetes (ECK) operator |
-| 2026-10-26 13:38:59 | [opentelemetry-operator](https://artifacthub.io/packages/helm/adeptia-automate-opentelemetry-operator/opentelemetry-operator) | adeptia-automate-opente… | 0.122.0 | OpenTelemetry Operator Helm chart for Kubernetes |
-| 2026-10-26 13:39:03 | [kube-prometheus-stack](https://artifacthub.io/packages/helm/adeptia-automate-prometheus-stack/kube-prometheus-stack) | adeptia-automate-promet… | 88.6.2 | kube-prometheus-stack collects Kubernetes manifests, Grafana dashboards, and Pr… |
-| 2026-10-26 13:46:06 | [bayplan](https://artifacthub.io/packages/helm/bayplan/bayplan) | bayplan | 0.1.0 | Lightweight, self-hosted multi-cluster Kubernetes management. One binary (Go +… |
+| 2026-10-26 14:22:41 | [mo-platform-tests](https://artifacthub.io/packages/helm/mogenius/mo-platform-tests) | mogenius | 1.0.0 | The mo-platform-tests operator with its UI. Needs nothing but its own namespace. |
+| 2026-10-26 14:44:57 | [cinny](https://artifacthub.io/packages/helm/spnngl-cinny/cinny) | spnngl-cinny | 0.1.0 | Cinny, a Matrix web client, as a hardened stateless Deployment serving its stat… |
+| 2026-10-26 15:04:33 | [sable-next](https://artifacthub.io/packages/helm/spnngl-sable-next/sable-next) | spnngl-sable-next | 0.1.0 | Sable, a Matrix web client, as a hardened stateless Deployment serving its stat… |
 
 ## Data source
 
