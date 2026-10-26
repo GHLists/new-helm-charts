@@ -14,17 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 15:21 UTC
+## Latest list — 2026-10-26 16:20 UTC
 
-New charts added between 2026-10-26 14:20 UTC and 2026-10-26 15:21 UTC.
+New charts added between 2026-10-26 15:21 UTC and 2026-10-26 16:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-26T15-21-34-424498Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-26T16-20-26-831556Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-26 14:22:41 | [mo-platform-tests](https://artifacthub.io/packages/helm/mogenius/mo-platform-tests) | mogenius | 1.0.0 | The mo-platform-tests operator with its UI. Needs nothing but its own namespace. |
-| 2026-10-26 14:44:57 | [cinny](https://artifacthub.io/packages/helm/spnngl-cinny/cinny) | spnngl-cinny | 0.1.0 | Cinny, a Matrix web client, as a hardened stateless Deployment serving its stat… |
-| 2026-10-26 15:04:33 | [sable-next](https://artifacthub.io/packages/helm/spnngl-sable-next/sable-next) | spnngl-sable-next | 0.1.0 | Sable, a Matrix web client, as a hardened stateless Deployment serving its stat… |
+| 2026-10-26 15:33:30 | [fluffychat](https://artifacthub.io/packages/helm/spnngl-fluffychat/fluffychat) | spnngl-fluffychat | 0.1.0 | FluffyChat, a Matrix web client, as a hardened Deployment serving static files |
+| 2026-10-26 15:33:31 | [mjolnir](https://artifacthub.io/packages/helm/spnngl-mjolnir/mjolnir) | spnngl-mjolnir | 0.1.0 | Mjolnir Matrix moderation bot as a hardened single-replica StatefulSet |
 
 ## Data source
 

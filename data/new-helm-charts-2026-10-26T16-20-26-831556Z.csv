@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-26T15:33:30Z,fluffychat,spnngl-fluffychat,0.1.0,"FluffyChat, a Matrix web client, as a hardened Deployment serving static files"
+2026-10-26T15:33:31Z,mjolnir,spnngl-mjolnir,0.1.0,Mjolnir Matrix moderation bot as a hardened single-replica StatefulSet
