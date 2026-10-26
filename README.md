@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 19:19 UTC
+## Latest list — 2026-10-26 20:21 UTC
 
-New charts added between 2026-10-26 18:22 UTC and 2026-10-26 19:19 UTC.
+New charts added between 2026-10-26 19:19 UTC and 2026-10-26 20:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-26T19-19-08-989445Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-26T20-21-22-143665Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-26 18:31:47 | [workload](https://artifacthub.io/packages/helm/kickr-workload/workload) | kickr-workload | 0.1.0 | Helm library chart for rendering workloads and their related Kubernetes resourc… |
-| 2026-10-26 18:58:19 | [bayplan](https://artifacthub.io/packages/helm/bayplan/bayplan) | bayplan | 0.1.0 | Lightweight, self-hosted multi-cluster Kubernetes management. One binary (Go +… |
+| 2026-10-26 19:58:25 | [bayplan](https://artifacthub.io/packages/helm/bayplan/bayplan) | bayplan | 0.1.0 | Lightweight, self-hosted multi-cluster Kubernetes management. One binary (Go +… |
 
 ## Data source
 

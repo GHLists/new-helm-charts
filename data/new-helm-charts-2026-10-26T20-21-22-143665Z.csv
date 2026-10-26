@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-26T19:58:25Z,bayplan,bayplan,0.1.0,"Lightweight, self-hosted multi-cluster Kubernetes management. One binary (Go + React) plus Postgres."
