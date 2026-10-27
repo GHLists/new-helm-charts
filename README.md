@@ -14,15 +14,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 06:20 UTC
+## Latest list — 2026-10-27 09:21 UTC
 
-New charts added between 2026-10-27 05:19 UTC and 2026-10-27 06:20 UTC.
+New charts added between 2026-10-27 08:20 UTC and 2026-10-27 09:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-27T06-20-38-4602Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-27T09-21-14-159268Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-27 06:15:35 | [rgstroperator](https://artifacthub.io/packages/helm/rgstroperator/rgstroperator) | rgstroperator | 0.2.1 | Kubernetes operator for rgstr, a minimal OCI/Docker container registry |
+| 2026-10-27 08:25:25 | [alert-history-writer](https://artifacthub.io/packages/helm/svtech/alert-history-writer) | svtech | 0.2.0 | Alertmanager webhook receiver that stores alert history in MariaDB via a Redis… |
+| 2026-10-27 08:25:27 | [network-exporter](https://artifacthub.io/packages/helm/svtech/network-exporter) | svtech | 0.2.0 | Prometheus network_exporter (ICMP/MTR/TCP/HTTP probes) |
+| 2026-10-27 08:25:27 | [pnetlab-exporter](https://artifacthub.io/packages/helm/svtech/pnetlab-exporter) | svtech | 0.2.0 | query-exporter for PNETLab lab/node metrics |
+| 2026-10-27 08:25:27 | [pve-exporter](https://artifacthub.io/packages/helm/svtech/pve-exporter) | svtech | 0.2.0 | Prometheus exporter for Proxmox VE |
+| 2026-10-27 08:25:27 | [redfish-exporter](https://artifacthub.io/packages/helm/svtech/redfish-exporter) | svtech | 0.2.0 | Redfish hardware exporter |
+| 2026-10-27 08:25:27 | [vmware-exporter](https://artifacthub.io/packages/helm/svtech/vmware-exporter) | svtech | 0.2.0 | Prometheus exporter for VMware vSphere |
 
 ## Data source
 

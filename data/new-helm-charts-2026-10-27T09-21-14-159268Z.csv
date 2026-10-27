@@ -1,0 +1,7 @@
+created_at,chart,repository,version,description
+2026-10-27T08:25:25Z,alert-history-writer,svtech,0.2.0,Alertmanager webhook receiver that stores alert history in MariaDB via a Redis stream
+2026-10-27T08:25:27Z,network-exporter,svtech,0.2.0,Prometheus network_exporter (ICMP/MTR/TCP/HTTP probes)
+2026-10-27T08:25:27Z,pnetlab-exporter,svtech,0.2.0,query-exporter for PNETLab lab/node metrics
+2026-10-27T08:25:27Z,pve-exporter,svtech,0.2.0,Prometheus exporter for Proxmox VE
+2026-10-27T08:25:27Z,redfish-exporter,svtech,0.2.0,Redfish hardware exporter
+2026-10-27T08:25:27Z,vmware-exporter,svtech,0.2.0,Prometheus exporter for VMware vSphere
