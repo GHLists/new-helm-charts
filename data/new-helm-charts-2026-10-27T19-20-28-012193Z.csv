@@ -1,0 +1,8 @@
+created_at,chart,repository,version,description
+2026-10-27T19:10:15Z,bazarr,spnngl-bazarr,0.1.0,"Bazarr subtitle manager for Sonarr and Radarr as a hardened single-replica StatefulSet, with SQLite or an external PostgreSQL"
+2026-10-27T19:10:15Z,configarr,spnngl-configarr,0.1.0,"Configarr as a hardened CronJob that syncs TRaSH-Guides profiles and settings as code into Sonarr, Radarr and Prowlarr"
+2026-10-27T19:10:16Z,prowlarr,spnngl-prowlarr,0.1.0,"Prowlarr indexer manager for the Servarr apps as a hardened single-replica StatefulSet, with SQLite or an external PostgreSQL"
+2026-10-27T19:10:16Z,radarr,spnngl-radarr,0.1.0,"Radarr movie collection manager as a hardened single-replica StatefulSet, with SQLite or an external PostgreSQL"
+2026-10-27T19:10:16Z,sabnzbd,spnngl-sabnzbd,0.1.0,"SABnzbd Usenet downloader as a hardened single-replica StatefulSet, with settings as code"
+2026-10-27T19:10:16Z,seerr,spnngl-seerr,0.1.0,"Seerr media request manager for Jellyfin, Emby and Plex as a hardened single-replica StatefulSet, with SQLite or an external PostgreSQL"
+2026-10-27T19:10:17Z,sonarr,spnngl-sonarr,0.1.0,"Sonarr TV series collection manager as a hardened single-replica StatefulSet, with SQLite or an external PostgreSQL"

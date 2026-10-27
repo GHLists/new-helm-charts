@@ -14,15 +14,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 17:19 UTC
+## Latest list — 2026-10-27 19:20 UTC
 
-New charts added between 2026-10-27 16:20 UTC and 2026-10-27 17:19 UTC.
+New charts added between 2026-10-27 18:19 UTC and 2026-10-27 19:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-27T17-19-54-846886Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-27T19-20-28-012193Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-27 16:31:04 | [forge](https://artifacthub.io/packages/helm/forge/forge) | forge | 0.29.1 | Forge, an internal developer platform, for your GitHub organization |
+| 2026-10-27 19:10:15 | [bazarr](https://artifacthub.io/packages/helm/spnngl-bazarr/bazarr) | spnngl-bazarr | 0.1.0 | Bazarr subtitle manager for Sonarr and Radarr as a hardened single-replica Stat… |
+| 2026-10-27 19:10:15 | [configarr](https://artifacthub.io/packages/helm/spnngl-configarr/configarr) | spnngl-configarr | 0.1.0 | Configarr as a hardened CronJob that syncs TRaSH-Guides profiles and settings a… |
+| 2026-10-27 19:10:16 | [prowlarr](https://artifacthub.io/packages/helm/spnngl-prowlarr/prowlarr) | spnngl-prowlarr | 0.1.0 | Prowlarr indexer manager for the Servarr apps as a hardened single-replica Stat… |
+| 2026-10-27 19:10:16 | [radarr](https://artifacthub.io/packages/helm/spnngl-radarr/radarr) | spnngl-radarr | 0.1.0 | Radarr movie collection manager as a hardened single-replica StatefulSet, with… |
+| 2026-10-27 19:10:16 | [sabnzbd](https://artifacthub.io/packages/helm/spnngl-sabnzbd/sabnzbd) | spnngl-sabnzbd | 0.1.0 | SABnzbd Usenet downloader as a hardened single-replica StatefulSet, with settin… |
+| 2026-10-27 19:10:16 | [seerr](https://artifacthub.io/packages/helm/spnngl-seerr/seerr) | spnngl-seerr | 0.1.0 | Seerr media request manager for Jellyfin, Emby and Plex as a hardened single-re… |
+| 2026-10-27 19:10:17 | [sonarr](https://artifacthub.io/packages/helm/spnngl-sonarr/sonarr) | spnngl-sonarr | 0.1.0 | Sonarr TV series collection manager as a hardened single-replica StatefulSet, w… |
 
 ## Data source
 
