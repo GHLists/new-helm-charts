@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 05:19 UTC
+## Latest list — 2026-10-27 06:20 UTC
 
-New charts added between 2026-10-27 04:19 UTC and 2026-10-27 05:19 UTC.
+New charts added between 2026-10-27 05:19 UTC and 2026-10-27 06:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-27T05-19-13-975455Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-27T06-20-38-4602Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-27 04:35:39 | [flyte-devbox](https://artifacthub.io/packages/helm/flyte/flyte-devbox) | flyte | 0.1.0 | A Helm chart for the Flyte local demo cluster |
+| 2026-10-27 06:15:35 | [rgstroperator](https://artifacthub.io/packages/helm/rgstroperator/rgstroperator) | rgstroperator | 0.2.1 | Kubernetes operator for rgstr, a minimal OCI/Docker container registry |
 
 ## Data source
 

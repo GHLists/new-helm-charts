@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-27T06:15:35Z,rgstroperator,rgstroperator,0.2.1,"Kubernetes operator for rgstr, a minimal OCI/Docker container registry"
