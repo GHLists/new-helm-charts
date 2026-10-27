@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-27T04:35:39Z,flyte-devbox,flyte,0.1.0,A Helm chart for the Flyte local demo cluster

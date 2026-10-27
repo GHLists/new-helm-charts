@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 00:21 UTC
+## Latest list — 2026-10-27 05:19 UTC
 
-New charts added between 2026-10-26 23:20 UTC and 2026-10-27 00:21 UTC.
+New charts added between 2026-10-27 04:19 UTC and 2026-10-27 05:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-27T00-21-24-566565Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-27T05-19-13-975455Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-27 00:01:13 | [solr](https://artifacthub.io/packages/helm/apache-solr-cloud/solr) | apache-solr-cloud | 0.8.1 | A SolrCloud cluster running on Kubernetes via the Solr Operator |
-| 2026-10-27 00:01:13 | [solr-operator](https://artifacthub.io/packages/helm/apache-solr-operator/solr-operator) | apache-solr-operator | 0.9.1 | The Solr Operator enables easy management of Solr resources within Kubernetes. |
+| 2026-10-27 04:35:39 | [flyte-devbox](https://artifacthub.io/packages/helm/flyte/flyte-devbox) | flyte | 0.1.0 | A Helm chart for the Flyte local demo cluster |
 
 ## Data source
 
