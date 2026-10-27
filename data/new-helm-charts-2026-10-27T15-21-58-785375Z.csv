@@ -1,0 +1,12 @@
+created_at,chart,repository,version,description
+2026-10-27T14:24:21Z,backend,cookielab,0.1.0,A Helm chart for Kubernetes
+2026-10-27T14:24:21Z,complex,cookielab,0.10.0,For deploying applications with consumers and cronjobs
+2026-10-27T14:24:21Z,frontend,cookielab,0.1.0,A Helm chart for Kubernetes
+2026-10-27T14:24:21Z,jiva-talos,cookielab,3.6.0,Fixed Jiva for TALOS Linux. Helm chart for OpenEBS Jiva Operator. Jiva provides highly available replication block volumes to Kubernetes stateful workloads using the local storage available on the Kubernetes nodes.
+2026-10-27T14:24:21Z,lib-datadog,cookielab,0.1.0,"Annotations, Labels and ENVs for DataDog"
+2026-10-27T14:24:21Z,lib-gitlab,cookielab,0.1.0,Annotations for GitLab
+2026-10-27T14:24:21Z,lib-kubernetes,cookielab,0.1.0,Annotations and Labels for Kubernetes
+2026-10-27T14:24:21Z,lib-prometheus,cookielab,0.1.0,Prometheus library object components
+2026-10-27T14:24:21Z,localpv-provisioner,cookielab,3.5.0,"Helm chart for OpenEBS Dynamic Local PV. For instructions to install OpenEBS Dynamic Local PV using helm chart, refer to https://openebs.github.io/dynamic-localpv-provisioner/."
+2026-10-27T14:24:21Z,nfs-subdir-external-provisioner,cookielab,4.0.18,"nfs-subdir-external-provisioner is an automatic provisioner that used your *already configured* NFS server, automatically creating Persistent Volumes."
+2026-10-27T14:24:21Z,prometheus-rules,cookielab,0.0.1,For deploying separated Prometheus Rules for global definitions
