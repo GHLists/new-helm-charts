@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 10:20 UTC
+## Latest list — 2026-10-27 12:20 UTC
 
-New charts added between 2026-10-27 09:21 UTC and 2026-10-27 10:20 UTC.
+New charts added between 2026-10-27 11:21 UTC and 2026-10-27 12:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-27T10-20-00-937198Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-27T12-20-54-995428Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-27 09:57:38 | [stunner-dev](https://artifacthub.io/packages/helm/stunner/stunner-dev) | stunner | 1.2.1 | STUNner Kubernetes Gateway Operator |
+| 2026-10-27 11:49:23 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
 
 ## Data source
 
