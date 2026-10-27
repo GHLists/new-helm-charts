@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 22:19 UTC
+## Latest list — 2026-10-27 00:21 UTC
 
-New charts added between 2026-10-26 21:19 UTC and 2026-10-26 22:19 UTC.
+New charts added between 2026-10-26 23:20 UTC and 2026-10-27 00:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-26T22-19-47-911716Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-27T00-21-24-566565Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-26 21:32:08 | [observecraft](https://artifacthub.io/packages/helm/observecraft/observecraft) | observecraft | 0.2.0 | ObserveCraft, a self-hosted observability platform (logs, APM, metrics, Kuberne… |
+| 2026-10-27 00:01:13 | [solr](https://artifacthub.io/packages/helm/apache-solr-cloud/solr) | apache-solr-cloud | 0.8.1 | A SolrCloud cluster running on Kubernetes via the Solr Operator |
+| 2026-10-27 00:01:13 | [solr-operator](https://artifacthub.io/packages/helm/apache-solr-operator/solr-operator) | apache-solr-operator | 0.9.1 | The Solr Operator enables easy management of Solr resources within Kubernetes. |
 
 ## Data source
 

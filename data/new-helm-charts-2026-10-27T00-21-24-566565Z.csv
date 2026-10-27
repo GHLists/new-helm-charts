@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-27T00:01:13Z,solr,apache-solr-cloud,0.8.1,A SolrCloud cluster running on Kubernetes via the Solr Operator
+2026-10-27T00:01:13Z,solr-operator,apache-solr-operator,0.9.1,The Solr Operator enables easy management of Solr resources within Kubernetes.
