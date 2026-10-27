@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 22:18 UTC
+## Latest list — 2026-10-27 23:20 UTC
 
-New charts added between 2026-10-27 21:19 UTC and 2026-10-27 22:18 UTC.
+New charts added between 2026-10-27 22:18 UTC and 2026-10-27 23:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-27T22-18-56-735544Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-27T23-20-38-314287Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-27 21:33:58 | [well-known](https://artifacthub.io/packages/helm/well-known-files/well-known) | well-known-files | 0.2.3 | Easily hosts simple files on multiple domains/paths - ideal for /.well-known/. |
+| 2026-10-27 23:02:15 | [grc-lake](https://artifacthub.io/packages/helm/grc-lake/grc-lake) | grc-lake | 0.3.17 | GRC Lake — open, self-hosted GRC for cloud and AI. Ships the API and GRC Lake C… |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-27T23:02:15Z,grc-lake,grc-lake,0.3.17,"GRC Lake — open, self-hosted GRC for cloud and AI. Ships the API and GRC Lake Console in one OCI image with a persistent local JSONL evidence lake and SQLite mart. Includes optional DuckDB, Parquet, and Iceberg REST export commands. Catalogs and remote storage require separate provisioning; egress…"
