@@ -1,0 +1,13 @@
+created_at,chart,repository,version,description
+2026-10-28T06:30:14Z,generic_service,loeken-at-home,1.0.0,a helm chart to install sinusbot
+2026-10-28T06:30:14Z,home-assistant,loeken-at-home,2026.9.2,home-assistant - a free and open-source software for home automation designed to be a central control system for smart home devices with a focus on local control and privacy
+2026-10-28T06:30:14Z,jellyfin,loeken-at-home,10.11.8,a helm chart to install jellyfin
+2026-10-28T06:30:14Z,jellyseerr,loeken-at-home,3.1.0,a helm chart to install jellyseer
+2026-10-28T06:30:14Z,nzbget,loeken-at-home,26.1.0-ls241,nzbget - efficient usenet downloader.
+2026-10-28T06:30:14Z,prowlarr,loeken-at-home,1.37.0,prowlarr - Prowlarr is an indexer manager/proxy built on the popular *arr software
+2026-10-28T06:30:14Z,radarr,loeken-at-home,5.27.0-nightly,a helm chart to install radarr
+2026-10-28T06:30:14Z,sinusbot,loeken-at-home,2.3.0,a helm chart to install sinusbot
+2026-10-28T06:30:14Z,sonarr,loeken-at-home,4.0.19,sonarr - an internet PVR for Usenet and Torrents.
+2026-10-28T06:30:14Z,uptime-kuma,loeken-at-home,2.3.2,a helm chart to install uptime-kuma
+2026-10-28T06:30:14Z,vaultwarden,loeken-at-home,1.37.3-alpine,"vaultwarden - unofficial bitwarden compatible server written in rust, formerly known as bitwarden_rs"
+2026-10-28T07:15:48Z,smtprelay,smtprelay,1.0.0,Inofficial community-maintained Helm chart for [grafana/smtprelay](https://github.com/grafana/smtprelay)
