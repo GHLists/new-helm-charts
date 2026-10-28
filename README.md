@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 10:19 UTC
+## Latest list — 2026-10-28 14:19 UTC
 
-New charts added between 2026-10-28 09:18 UTC and 2026-10-28 10:19 UTC.
+New charts added between 2026-10-28 13:20 UTC and 2026-10-28 14:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-28T10-19-33-447983Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-28T14-19-13-857982Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-28 09:51:24 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-10-28 13:29:47 | [jupyter-imagepuller](https://artifacthub.io/packages/helm/jupyter-jsc/jupyter-imagepuller) | jupyter-jsc | 1.0.0 | A Helm chart for Kubernetes |
+| 2026-10-28 14:13:14 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
 
 ## Data source
 
