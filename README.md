@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 23:20 UTC
+## Latest list — 2026-10-28 05:20 UTC
 
-New charts added between 2026-10-27 22:18 UTC and 2026-10-27 23:20 UTC.
+New charts added between 2026-10-28 04:18 UTC and 2026-10-28 05:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-27T23-20-38-314287Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-28T05-20-49-738124Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-27 23:02:15 | [grc-lake](https://artifacthub.io/packages/helm/grc-lake/grc-lake) | grc-lake | 0.3.17 | GRC Lake — open, self-hosted GRC for cloud and AI. Ships the API and GRC Lake C… |
+| 2026-10-28 04:36:00 | [elk8-dev](https://artifacthub.io/packages/helm/elk8-dev/elk8-dev) | elk8-dev | 0.1.1 | A fast, resource-efficient ELK Stack derived from the official charts at https:… |
+| 2026-10-28 04:44:28 | [rental-operator](https://artifacthub.io/packages/helm/rental-operator/rental-operator) | rental-operator | 0.1.0-rc.1 | Official Kubernetes operator for Hyperbolic on-demand GPUs |
 
 ## Data source
 
