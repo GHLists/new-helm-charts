@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 09:18 UTC
+## Latest list — 2026-10-28 10:19 UTC
 
-New charts added between 2026-10-28 08:19 UTC and 2026-10-28 09:18 UTC.
+New charts added between 2026-10-28 09:18 UTC and 2026-10-28 10:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-28T09-18-55-777374Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-28T10-19-33-447983Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-28 08:51:15 | [m11s-common](https://artifacthub.io/packages/helm/m11s/m11s-common) | m11s | 0.1.0 | Shared template helpers for m11s application charts |
+| 2026-10-28 09:51:24 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
 
 ## Data source
 
