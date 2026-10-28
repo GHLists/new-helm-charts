@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-28T20:30:04Z,agent-bom,agent-bom,0.109.0,"Open security scanner and graph for AI supply chain and infrastructure — discover agents and MCP, map blast radius, and inspect runtime."
+2026-10-28T21:04:21Z,spark-connect,spark-connect,1.0.0,"Apache Spark Connect server on Kubernetes, with executor pods started by the driver"
