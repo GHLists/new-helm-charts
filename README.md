@@ -14,15 +14,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 15:21 UTC
+## Latest list — 2026-10-28 16:19 UTC
 
-New charts added between 2026-10-28 14:19 UTC and 2026-10-28 15:21 UTC.
+New charts added between 2026-10-28 15:21 UTC and 2026-10-28 16:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-28T15-21-06-077494Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-28T16-19-57-393026Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-28 14:40:41 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-10-28 15:24:27 | [cluster-percona](https://artifacthub.io/packages/helm/startx/cluster-percona) | startx | 21.3.309 | Helm chart used to configure highly available PostgreSQL clusters using the Per… |
+| 2026-10-28 15:33:47 | [brickie](https://artifacthub.io/packages/helm/hatchet/brickie) | hatchet | 0.1.0 | Hatchet sandbox provider. Runs agent sandboxes as Hatchet tasks on Kubernetes,… |
+| 2026-10-28 15:35:44 | [common](https://artifacthub.io/packages/helm/criblio/common) | criblio | 1.0.0 | Common templates for Cribl Helm Charts |
+| 2026-10-28 15:35:44 | [pod-killer](https://artifacthub.io/packages/helm/criblio/pod-killer) | criblio | 1.0.0 | A Simple Cron Job that deletes pods based on pod name on a schedule defined in… |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,chart,repository,version,description
+2026-10-28T15:24:27Z,cluster-percona,startx,21.3.309,"Helm chart used to configure highly available PostgreSQL clusters using the Percona Operator for PostgreSQL (certified operator), with pgBackRest S3 backups, restore, PMM monitoring and network policies"
+2026-10-28T15:33:47Z,brickie,hatchet,0.1.0,"Hatchet sandbox provider. Runs agent sandboxes as Hatchet tasks on Kubernetes, one isolated pod per sandbox, with agent-sandbox and Kata Containers bundled."
+2026-10-28T15:35:44Z,common,criblio,1.0.0,Common templates for Cribl Helm Charts
+2026-10-28T15:35:44Z,pod-killer,criblio,1.0.0,A Simple Cron Job that deletes pods based on pod name on a schedule defined in annotations.
