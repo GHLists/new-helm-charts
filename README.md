@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 21:21 UTC
+## Latest list — 2026-10-29 02:21 UTC
 
-New charts added between 2026-10-28 20:21 UTC and 2026-10-28 21:21 UTC.
+New charts added between 2026-10-29 01:21 UTC and 2026-10-29 02:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-28T21-21-11-636553Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-29T02-21-50-784396Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-28 20:30:04 | [agent-bom](https://artifacthub.io/packages/helm/agent-bom/agent-bom) | agent-bom | 0.109.0 | Open security scanner and graph for AI supply chain and infrastructure — discov… |
-| 2026-10-28 21:04:21 | [spark-connect](https://artifacthub.io/packages/helm/spark-connect/spark-connect) | spark-connect | 1.0.0 | Apache Spark Connect server on Kubernetes, with executor pods started by the dr… |
+| 2026-10-29 02:15:57 | [s3-orchestrator](https://artifacthub.io/packages/helm/s3-orchestrator/s3-orchestrator) | s3-orchestrator | 0.178.0 | Unified S3-compatible storage across multiple backends, with quotas, replicatio… |
 
 ## Data source
 
