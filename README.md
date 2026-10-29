@@ -14,18 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 21:20 UTC
+## Latest list — 2026-10-29 22:21 UTC
 
-New charts added between 2026-10-29 20:21 UTC and 2026-10-29 21:20 UTC.
+New charts added between 2026-10-29 21:20 UTC and 2026-10-29 22:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-29T21-20-26-897049Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-29T22-21-20-901883Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-29 20:31:50 | [waf](https://artifacthub.io/packages/helm/light-waf/waf) | light-waf | 1.0.2 | Light WAF data plane (`waf-enterprise`) — a reverse-proxy Deployment that prote… |
-| 2026-10-29 20:31:50 | [waf-controlplane](https://artifacthub.io/packages/helm/light-waf-controlplane/waf-controlplane) | light-waf-controlplane | 1.0.2 | Light WAF control plane — dashboard/API over the WAF telemetry (observability,… |
-| 2026-10-29 21:01:53 | [elitea](https://artifacthub.io/packages/helm/elitea/elitea) | elitea | 7.1.0 | EliteA, as one chart. Installs the whole first-party platform — API, web, sched… |
-| 2026-10-29 21:01:53 | [elitea-sandbox-runtime](https://artifacthub.io/packages/helm/elitea-sandbox-runtime/elitea-sandbox-runtime) | elitea-sandbox-runtime | 4.71.0 | Optional node-level installer for the sandbox runtime the EliteA cloud executor… |
+| 2026-10-29 21:30:36 | [cert-manager-webhook-hostinger](https://artifacthub.io/packages/helm/cert-manager-webhook-hostinger/cert-manager-webhook-hostinger) | cert-manager-webhook-ho… | 0.1.0 | cert-manager ACME DNS01 solver webhook for Hostinger DNS |
 
 ## Data source
 
