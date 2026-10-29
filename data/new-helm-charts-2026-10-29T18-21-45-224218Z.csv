@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-29T17:30:56Z,docx-to-pdf,docx-to-pdf,0.1.0-rc.6,"An HTTP service that converts DOCX, DOC, ODT and RTF documents to PDF with LibreOffice."

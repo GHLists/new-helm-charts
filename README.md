@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 17:21 UTC
+## Latest list — 2026-10-29 18:21 UTC
 
-New charts added between 2026-10-29 16:21 UTC and 2026-10-29 17:21 UTC.
+New charts added between 2026-10-29 17:21 UTC and 2026-10-29 18:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-29T17-21-50-99836Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-29T18-21-45-224218Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-29 16:45:08 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-10-29 17:30:56 | [docx-to-pdf](https://artifacthub.io/packages/helm/docx-to-pdf/docx-to-pdf) | docx-to-pdf | 0.1.0-rc.6 | An HTTP service that converts DOCX, DOC, ODT and RTF documents to PDF with Libr… |
 
 ## Data source
 
