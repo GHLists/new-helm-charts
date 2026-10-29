@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-29T10:51:07Z,vernemq,ict-platform,1.0.0,"Deploys a clusterable VerneMQ MQTT broker StatefulSet with optional MQTT, MQTTS and/or WebSocket listeners."
