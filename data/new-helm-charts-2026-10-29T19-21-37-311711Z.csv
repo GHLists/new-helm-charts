@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-29T18:31:44Z,k-watch,k-watch,0.1.1,Read-only Kubernetes dashboard that maps how resources in a namespace connect and shows Pod changes live
+2026-10-29T19:01:47Z,cosmos-dashboard,cosmos-dashboard,1.0.2,A Kubernetes cluster inventory and image security dashboard

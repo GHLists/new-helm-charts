@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 18:21 UTC
+## Latest list — 2026-10-29 19:21 UTC
 
-New charts added between 2026-10-29 17:21 UTC and 2026-10-29 18:21 UTC.
+New charts added between 2026-10-29 18:21 UTC and 2026-10-29 19:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-29T18-21-45-224218Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-29T19-21-37-311711Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-29 17:30:56 | [docx-to-pdf](https://artifacthub.io/packages/helm/docx-to-pdf/docx-to-pdf) | docx-to-pdf | 0.1.0-rc.6 | An HTTP service that converts DOCX, DOC, ODT and RTF documents to PDF with Libr… |
+| 2026-10-29 18:31:44 | [k-watch](https://artifacthub.io/packages/helm/k-watch/k-watch) | k-watch | 0.1.1 | Read-only Kubernetes dashboard that maps how resources in a namespace connect a… |
+| 2026-10-29 19:01:47 | [cosmos-dashboard](https://artifacthub.io/packages/helm/cosmos-dashboard/cosmos-dashboard) | cosmos-dashboard | 1.0.2 | A Kubernetes cluster inventory and image security dashboard |
 
 ## Data source
 
