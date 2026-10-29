@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 13:21 UTC
+## Latest list — 2026-10-29 14:20 UTC
 
-New charts added between 2026-10-29 12:21 UTC and 2026-10-29 13:21 UTC.
+New charts added between 2026-10-29 13:21 UTC and 2026-10-29 14:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-29T13-21-09-397382Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-29T14-20-27-220943Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-29 12:30:45 | [visa-k8s-provider](https://artifacthub.io/packages/helm/alba-visa-helm-charts/visa-k8s-provider) | alba-visa-helm-charts | 1.0.6 | A Helm chart for deploying VISA's kubernetes cloud provider controller |
+| 2026-10-29 13:35:30 | [gateway-api-crds](https://artifacthub.io/packages/helm/wikimedia/gateway-api-crds) | wikimedia | 0.0.1 | Kubernetes Gateway API CRDs (standard channel) |
+| 2026-10-29 14:02:29 | [hermes-agent-operator](https://artifacthub.io/packages/helm/hermes-agent-operator-by-hermeum/hermes-agent-operator) | hermes-agent-operator-b… | 0.2.0 | A Helm chart to distribute hermes-agent-operator |
+| 2026-10-29 14:02:29 | [hermeum](https://artifacthub.io/packages/helm/hermeum/hermeum) | hermeum | 0.1.0 | Hermeum — control plane for HermesAgent custom resources. |
 
 ## Data source
 
