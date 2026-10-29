@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 02:21 UTC
+## Latest list — 2026-10-29 03:20 UTC
 
-New charts added between 2026-10-29 01:21 UTC and 2026-10-29 02:21 UTC.
+New charts added between 2026-10-29 02:21 UTC and 2026-10-29 03:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-29T02-21-50-784396Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-29T03-20-33-696196Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-29 02:15:57 | [s3-orchestrator](https://artifacthub.io/packages/helm/s3-orchestrator/s3-orchestrator) | s3-orchestrator | 0.178.0 | Unified S3-compatible storage across multiple backends, with quotas, replicatio… |
+| 2026-10-29 02:30:36 | [bookwyrm](https://artifacthub.io/packages/helm/bookwyrm/bookwyrm) | bookwyrm | 1.0.0 | Unofficial experimental BookWyrm deployment with S3 storage and optional testin… |
 
 ## Data source
 

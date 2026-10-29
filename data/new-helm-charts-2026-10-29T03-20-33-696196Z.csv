@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-29T02:30:36Z,bookwyrm,bookwyrm,1.0.0,Unofficial experimental BookWyrm deployment with S3 storage and optional testing-only dependencies
