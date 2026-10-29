@@ -14,17 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 14:20 UTC
+## Latest list — 2026-10-29 17:21 UTC
 
-New charts added between 2026-10-29 13:21 UTC and 2026-10-29 14:20 UTC.
+New charts added between 2026-10-29 16:21 UTC and 2026-10-29 17:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-29T14-20-27-220943Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-29T17-21-50-99836Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-29 13:35:30 | [gateway-api-crds](https://artifacthub.io/packages/helm/wikimedia/gateway-api-crds) | wikimedia | 0.0.1 | Kubernetes Gateway API CRDs (standard channel) |
-| 2026-10-29 14:02:29 | [hermes-agent-operator](https://artifacthub.io/packages/helm/hermes-agent-operator-by-hermeum/hermes-agent-operator) | hermes-agent-operator-b… | 0.2.0 | A Helm chart to distribute hermes-agent-operator |
-| 2026-10-29 14:02:29 | [hermeum](https://artifacthub.io/packages/helm/hermeum/hermeum) | hermeum | 0.1.0 | Hermeum — control plane for HermesAgent custom resources. |
+| 2026-10-29 16:45:08 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
 
 ## Data source
 
