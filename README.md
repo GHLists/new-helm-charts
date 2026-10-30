@@ -14,16 +14,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 05:20 UTC
+## Latest list — 2026-10-30 07:21 UTC
 
-New charts added between 2026-10-30 04:19 UTC and 2026-10-30 05:20 UTC.
+New charts added between 2026-10-30 06:20 UTC and 2026-10-30 07:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-30T05-20-14-937203Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-30T07-21-08-686279Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-30 04:24:36 | [emqx](https://artifacthub.io/packages/helm/svtech/emqx) | svtech | 0.2.0 | A Helm chart to deploy EMQX through EMQX Operator |
-| 2026-10-30 04:24:38 | [speedtest](https://artifacthub.io/packages/helm/svtech/speedtest) | svtech | 0.2.0 | A Helm chart to deploy Speedtest app |
+| 2026-10-30 06:24:24 | [generic_service](https://artifacthub.io/packages/helm/loeken-at-home/generic_service) | loeken-at-home | 1.0.0 | a helm chart to install sinusbot |
+| 2026-10-30 06:24:24 | [home-assistant](https://artifacthub.io/packages/helm/loeken-at-home/home-assistant) | loeken-at-home | 2026.9.2 | home-assistant - a free and open-source software for home automation designed t… |
+| 2026-10-30 06:24:24 | [jellyfin](https://artifacthub.io/packages/helm/loeken-at-home/jellyfin) | loeken-at-home | 10.11.8 | a helm chart to install jellyfin |
+| 2026-10-30 06:24:24 | [jellyseerr](https://artifacthub.io/packages/helm/loeken-at-home/jellyseerr) | loeken-at-home | 3.1.0 | a helm chart to install jellyseer |
+| 2026-10-30 06:24:24 | [nzbget](https://artifacthub.io/packages/helm/loeken-at-home/nzbget) | loeken-at-home | 26.1.0-ls241 | nzbget - efficient usenet downloader. |
+| 2026-10-30 06:24:24 | [prowlarr](https://artifacthub.io/packages/helm/loeken-at-home/prowlarr) | loeken-at-home | 1.37.0 | prowlarr - Prowlarr is an indexer manager/proxy built on the popular *arr softw… |
+| 2026-10-30 06:24:24 | [radarr](https://artifacthub.io/packages/helm/loeken-at-home/radarr) | loeken-at-home | 5.27.0-nightly | a helm chart to install radarr |
+| 2026-10-30 06:24:24 | [sinusbot](https://artifacthub.io/packages/helm/loeken-at-home/sinusbot) | loeken-at-home | 2.3.0 | a helm chart to install sinusbot |
+| 2026-10-30 06:24:24 | [sonarr](https://artifacthub.io/packages/helm/loeken-at-home/sonarr) | loeken-at-home | 4.0.19 | sonarr - an internet PVR for Usenet and Torrents. |
+| 2026-10-30 06:24:24 | [uptime-kuma](https://artifacthub.io/packages/helm/loeken-at-home/uptime-kuma) | loeken-at-home | 2.3.2 | a helm chart to install uptime-kuma |
+| 2026-10-30 06:24:24 | [vaultwarden](https://artifacthub.io/packages/helm/loeken-at-home/vaultwarden) | loeken-at-home | 1.37.3-alpine | vaultwarden - unofficial bitwarden compatible server written in rust, formerly… |
 
 ## Data source
 
