@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 16:20 UTC
+## Latest list — 2026-10-30 17:22 UTC
 
-New charts added between 2026-10-30 15:21 UTC and 2026-10-30 16:20 UTC.
+New charts added between 2026-10-30 16:20 UTC and 2026-10-30 17:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-30T16-20-29-890818Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-30T17-22-09-77632Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-30 15:26:23 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-10-30 16:46:03 | [zammad](https://artifacthub.io/packages/helm/zammad/zammad) | zammad | 8.0.3 | Zammad is a web based open source helpdesk/customer support system with many fe… |
 
 ## Data source
 
