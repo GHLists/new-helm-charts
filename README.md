@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 08:20 UTC
+## Latest list — 2026-10-30 12:21 UTC
 
-New charts added between 2026-10-30 07:21 UTC and 2026-10-30 08:20 UTC.
+New charts added between 2026-10-30 11:21 UTC and 2026-10-30 12:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-30T08-20-30-966277Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-30T12-21-09-516456Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-30 07:33:12 | [ingress-nginx](https://artifacthub.io/packages/helm/rvvg-ingress-nginx/ingress-nginx) | rvvg-ingress-nginx | 4.15.1-nginx-1.31.8 | Ingress controller for Kubernetes using NGINX as a reverse proxy and load balan… |
+| 2026-10-30 11:44:17 | [visa-k8s-provider](https://artifacthub.io/packages/helm/alba-visa-helm-charts/visa-k8s-provider) | alba-visa-helm-charts | 1.0.6 | A Helm chart for deploying VISA's kubernetes cloud provider controller |
+| 2026-10-30 11:55:28 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-10-30 12:10:40 | [vault-secrets-reloader](https://artifacthub.io/packages/helm/vault-secrets-reloader-fork/vault-secrets-reloader) | vault-secrets-reloader-… | 0.5.0-operator-test… | A Kubernetes Controller that reloads workloads on a referenced secret change in… |
 
 ## Data source
 
