@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 15:21 UTC
+## Latest list — 2026-10-30 16:20 UTC
 
-New charts added between 2026-10-30 14:19 UTC and 2026-10-30 15:21 UTC.
+New charts added between 2026-10-30 15:21 UTC and 2026-10-30 16:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-30T15-21-01-204495Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-30T16-20-29-890818Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-30 15:02:17 | [hexdb](https://artifacthub.io/packages/helm/hexdb/hexdb) | hexdb | 2.2.0 | HexDB, an encrypted, replicated document and file database in one binary, as a… |
+| 2026-10-30 15:26:23 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
 
 ## Data source
 
