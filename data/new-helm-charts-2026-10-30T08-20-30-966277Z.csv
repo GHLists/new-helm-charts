@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-30T07:33:12Z,ingress-nginx,rvvg-ingress-nginx,4.15.1-nginx-1.31.8,Ingress controller for Kubernetes using NGINX as a reverse proxy and load balancer
