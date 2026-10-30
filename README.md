@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 22:21 UTC
+## Latest list — 2026-10-30 05:20 UTC
 
-New charts added between 2026-10-29 21:20 UTC and 2026-10-29 22:21 UTC.
+New charts added between 2026-10-30 04:19 UTC and 2026-10-30 05:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-29T22-21-20-901883Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-30T05-20-14-937203Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-29 21:30:36 | [cert-manager-webhook-hostinger](https://artifacthub.io/packages/helm/cert-manager-webhook-hostinger/cert-manager-webhook-hostinger) | cert-manager-webhook-ho… | 0.1.0 | cert-manager ACME DNS01 solver webhook for Hostinger DNS |
+| 2026-10-30 04:24:36 | [emqx](https://artifacthub.io/packages/helm/svtech/emqx) | svtech | 0.2.0 | A Helm chart to deploy EMQX through EMQX Operator |
+| 2026-10-30 04:24:38 | [speedtest](https://artifacthub.io/packages/helm/svtech/speedtest) | svtech | 0.2.0 | A Helm chart to deploy Speedtest app |
 
 ## Data source
 
