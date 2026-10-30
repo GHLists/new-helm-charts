@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-10-30T22:21:41Z,mo-backup-mysql,mogenius,1.0.29,This is the mogenius backup script.
+2026-10-30T22:58:23Z,kamaji-crds,clastix,0.0.0+latest,Kamaji is the Hosted Control Plane Manager for Kubernetes.
