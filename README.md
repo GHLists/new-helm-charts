@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 04:19 UTC
+## Latest list — 2026-10-31 05:20 UTC
 
-New charts added between 2026-10-31 03:18 UTC and 2026-10-31 04:19 UTC.
+New charts added between 2026-10-31 04:19 UTC and 2026-10-31 05:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-31T04-19-04-234631Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-31T05-20-42-483649Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-31 04:03:04 | [derbent](https://artifacthub.io/packages/helm/openshift/derbent) | openshift | 0.1.2 | Denegra Derbent AI gateway (LiteLLM with Denegra's masking and checks) for Open… |
+| 2026-10-31 04:30:33 | [cert-orchestrator](https://artifacthub.io/packages/helm/cert-orchestrator/cert-orchestrator) | cert-orchestrator | 0.1.1 | Automatic TLS certificate failover for Kubernetes. |
 
 ## Data source
 
