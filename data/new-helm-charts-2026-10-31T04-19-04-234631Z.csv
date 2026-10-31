@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-31T04:03:04Z,derbent,openshift,0.1.2,Denegra Derbent AI gateway (LiteLLM with Denegra's masking and checks) for OpenShift and Kubernetes

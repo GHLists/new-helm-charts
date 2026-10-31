@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 01:19 UTC
+## Latest list — 2026-10-31 04:19 UTC
 
-New charts added between 2026-10-31 00:20 UTC and 2026-10-31 01:19 UTC.
+New charts added between 2026-10-31 03:18 UTC and 2026-10-31 04:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-31T01-19-59-392329Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-31T04-19-04-234631Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-31 00:42:17 | [cloudflare-operator](https://artifacthub.io/packages/helm/ankra-charts/cloudflare-operator) | ankra-charts | 0.2.0 | Helm chart for the community Cloudflare Operator (adyanth/cloudflare-operator)… |
-| 2026-10-31 00:42:17 | [isms-builder](https://artifacthub.io/packages/helm/ankra-charts/isms-builder) | ankra-charts | 0.1.0 | ISMS Builder on Kubernetes - the open-source ISO 27001 / NIS2 ISMS template bui… |
+| 2026-10-31 04:03:04 | [derbent](https://artifacthub.io/packages/helm/openshift/derbent) | openshift | 0.1.2 | Denegra Derbent AI gateway (LiteLLM with Denegra's masking and checks) for Open… |
 
 ## Data source
 
