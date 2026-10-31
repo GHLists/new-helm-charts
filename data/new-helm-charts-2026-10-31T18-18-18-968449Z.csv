@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-31T17:34:22Z,fineract,upstreamyard,0.1.0,"Apache Fineract Helm chart for Kubernetes. Open-source core banking platform (loans, savings, accounting) with database migrations in a Job, scalable write, read and batch instances, generated admin password instead of mifos/password, TLS with cert-manager, Prometheus metrics, PostgreSQL or MariaDB…"

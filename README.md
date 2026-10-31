@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 17:20 UTC
+## Latest list — 2026-10-31 18:18 UTC
 
-New charts added between 2026-10-31 16:20 UTC and 2026-10-31 17:20 UTC.
+New charts added between 2026-10-31 17:20 UTC and 2026-10-31 18:18 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-31T17-20-20-847705Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-31T18-18-18-968449Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-31 16:53:19 | [reporting](https://artifacthub.io/packages/helm/labs64io-helm-charts/reporting) | labs64io-helm-charts | 0.1.0 | Labs64.IO :: Reporting - read-only reports over the events stored by AuditFlow… |
+| 2026-10-31 17:34:22 | [fineract](https://artifacthub.io/packages/helm/upstreamyard/fineract) | upstreamyard | 0.1.0 | Apache Fineract Helm chart for Kubernetes. Open-source core banking platform (l… |
 
 ## Data source
 
