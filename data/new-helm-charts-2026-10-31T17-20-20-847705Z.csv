@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-31T16:53:19Z,reporting,labs64io-helm-charts,0.1.0,Labs64.IO :: Reporting - read-only reports over the events stored by AuditFlow sinks
