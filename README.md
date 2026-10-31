@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 23:20 UTC
+## Latest list — 2026-10-31 01:19 UTC
 
-New charts added between 2026-10-30 22:20 UTC and 2026-10-30 23:20 UTC.
+New charts added between 2026-10-31 00:20 UTC and 2026-10-31 01:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-30T23-20-12-18133Z.csv)
+[Full CSV](data/new-helm-charts-2026-10-31T01-19-59-392329Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-30 22:21:41 | [mo-backup-mysql](https://artifacthub.io/packages/helm/mogenius/mo-backup-mysql) | mogenius | 1.0.29 | This is the mogenius backup script. |
-| 2026-10-30 22:58:23 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
+| 2026-10-31 00:42:17 | [cloudflare-operator](https://artifacthub.io/packages/helm/ankra-charts/cloudflare-operator) | ankra-charts | 0.2.0 | Helm chart for the community Cloudflare Operator (adyanth/cloudflare-operator)… |
+| 2026-10-31 00:42:17 | [isms-builder](https://artifacthub.io/packages/helm/ankra-charts/isms-builder) | ankra-charts | 0.1.0 | ISMS Builder on Kubernetes - the open-source ISO 27001 / NIS2 ISMS template bui… |
 
 ## Data source
 
