@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-10-31T15:33:00Z,clamav-operator,solucteam-clamav-operator,0.5.1,"Kubernetes Operator for ClamAV antivirus scanning on cluster nodes. Supports standalone (embedded binary) and remote (clamd) scan modes, incremental/smart scanning strategies, multi-CRD lifecycle management, Prometheus metrics, and Slack/Email/Webhook notifications."
