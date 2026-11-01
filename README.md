@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 09:20 UTC
+## Latest list — 2026-11-01 11:20 UTC
 
-New charts added between 2026-11-01 08:19 UTC and 2026-11-01 09:20 UTC.
+New charts added between 2026-11-01 10:20 UTC and 2026-11-01 11:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-01T09-20-00-081232Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-01T11-20-38-600594Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-01 09:01:10 | [argocd-cost-intelligence](https://artifacthub.io/packages/helm/argocd-cost-intelligence/argocd-cost-intelligence) | argocd-cost-intelligence | 0.1.0 | Post-sync cost measurement for Argo CD applications using OpenCost |
+| 2026-11-01 10:54:05 | [llm-serving-observability](https://artifacthub.io/packages/helm/oreonit/llm-serving-observability) | oreonit | 0.1.0 | Alerts, recording rules and Grafana dashboards for self-hosted LLM serving on K… |
 
 ## Data source
 

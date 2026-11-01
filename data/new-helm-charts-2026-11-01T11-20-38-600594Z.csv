@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-01T10:54:05Z,llm-serving-observability,oreonit,0.1.0,"Alerts, recording rules and Grafana dashboards for self-hosted LLM serving on Kubernetes - vLLM (queue, KV cache, preemptions, errors, time to first token, inter-token latency, tokens per second, prefix cache) and NVIDIA GPUs via DCGM (XID errors, temperature, memory, row remap failures, GPUs assig…"
