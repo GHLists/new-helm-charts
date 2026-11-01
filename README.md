@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 13:18 UTC
+## Latest list — 2026-11-01 19:21 UTC
 
-New charts added between 2026-11-01 12:20 UTC and 2026-11-01 13:18 UTC.
+New charts added between 2026-11-01 18:19 UTC and 2026-11-01 19:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-01T13-18-53-340734Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-01T19-21-04-280653Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-01 13:00:12 | [evolution](https://artifacthub.io/packages/helm/oreonit/evolution) | oreonit | 0.2.0 | Evolution API (WhatsApp via Baileys or the Cloud API) for Kubernetes - migratio… |
+| 2026-11-01 19:02:48 | [mautic](https://artifacthub.io/packages/helm/mautic/mautic) | mautic | 0.1.0 | Hardened, always up-to-date Mautic for Kubernetes — web, queue workers, cron jo… |
 
 ## Data source
 
