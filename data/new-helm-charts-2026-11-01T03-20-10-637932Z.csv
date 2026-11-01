@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-01T02:24:59Z,kcalibre,moreillon,0.7.0,"A Helm chart to deploy Kcalibre, a calorie and macro tracking application"

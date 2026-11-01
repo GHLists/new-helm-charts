@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 23:19 UTC
+## Latest list — 2026-11-01 03:20 UTC
 
-New charts added between 2026-10-31 22:20 UTC and 2026-10-31 23:19 UTC.
+New charts added between 2026-11-01 02:21 UTC and 2026-11-01 03:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-10-31T23-19-40-64945Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-01T03-20-10-637932Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-10-31 22:23:48 | [mo-backup](https://artifacthub.io/packages/helm/mogenius/mo-backup) | mogenius | 1.0.29 | This is the mogenius backup script. |
-| 2026-10-31 22:23:48 | [mo-backup-mysql](https://artifacthub.io/packages/helm/mogenius/mo-backup-mysql) | mogenius | 1.0.29 | This is the mogenius backup script. |
+| 2026-11-01 02:24:59 | [kcalibre](https://artifacthub.io/packages/helm/moreillon/kcalibre) | moreillon | 0.7.0 | A Helm chart to deploy Kcalibre, a calorie and macro tracking application |
 
 ## Data source
 
