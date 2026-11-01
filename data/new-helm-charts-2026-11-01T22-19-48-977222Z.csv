@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-01T21:58:38Z,freescout,l4g,0.1.0,A Helm chart for Kubernetes
+2026-11-01T21:58:38Z,inbox-zero,l4g,0.1.0,"Helm chart for Inbox Zero — an open-source AI email assistant (web, BullMQ worker, CronJobs, optional bundled Postgres / Redis)"
