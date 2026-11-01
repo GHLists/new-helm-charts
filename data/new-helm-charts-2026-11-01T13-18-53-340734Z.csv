@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-01T13:00:12Z,evolution,oreonit,0.2.0,"Evolution API (WhatsApp via Baileys or the Cloud API) for Kubernetes - migrations in an init container, Node as PID 1 with a heap cap sized from the memory limit, non-root and read-only, probes that do not call WhatsApp, Redis-backed sessions without a volume, generated API key, Ingress or Gateway…"
