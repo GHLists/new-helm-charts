@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-01T09:01:10Z,argocd-cost-intelligence,argocd-cost-intelligence,0.1.0,Post-sync cost measurement for Argo CD applications using OpenCost

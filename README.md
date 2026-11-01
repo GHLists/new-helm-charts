@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 03:20 UTC
+## Latest list — 2026-11-01 09:20 UTC
 
-New charts added between 2026-11-01 02:21 UTC and 2026-11-01 03:20 UTC.
+New charts added between 2026-11-01 08:19 UTC and 2026-11-01 09:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-01T03-20-10-637932Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-01T09-20-00-081232Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-01 02:24:59 | [kcalibre](https://artifacthub.io/packages/helm/moreillon/kcalibre) | moreillon | 0.7.0 | A Helm chart to deploy Kcalibre, a calorie and macro tracking application |
+| 2026-11-01 09:01:10 | [argocd-cost-intelligence](https://artifacthub.io/packages/helm/argocd-cost-intelligence/argocd-cost-intelligence) | argocd-cost-intelligence | 0.1.0 | Post-sync cost measurement for Argo CD applications using OpenCost |
 
 ## Data source
 
