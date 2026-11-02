@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 09:20 UTC
+## Latest list — 2026-11-02 10:22 UTC
 
-New charts added between 2026-11-02 08:18 UTC and 2026-11-02 09:20 UTC.
+New charts added between 2026-11-02 09:20 UTC and 2026-11-02 10:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-02T09-20-16-485079Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-02T10-22-26-133133Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-02 08:36:50 | [visa-k8s-provider](https://artifacthub.io/packages/helm/alba-visa-helm-charts/visa-k8s-provider) | alba-visa-helm-charts | 1.0.6 | A Helm chart for deploying VISA's kubernetes cloud provider controller |
-| 2026-11-02 09:00:22 | [medcom-sdn-dns-cert-manager-webhook](https://artifacthub.io/packages/helm/kvalitetsit/medcom-sdn-dns-cert-manager-webhook) | kvalitetsit | 0.0.1 | Helm chart for the SDN cert-manager ACME DNS01 webhook solver |
+| 2026-11-02 10:04:15 | [teleport](https://artifacthub.io/packages/helm/quench-teleport/teleport) | quench-teleport | 0.0.1 | Identity-based access plane for SSH, Kubernetes, databases, apps and desktops (… |
 
 ## Data source
 

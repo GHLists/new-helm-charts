@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-02T10:04:15Z,teleport,quench-teleport,0.0.1,"Identity-based access plane for SSH, Kubernetes, databases, apps and desktops (Teleport AGPL community build). Hardened by QuenchWorks: built from source, nonroot, 0-CVE, cosign-signed and pinned by digest."
