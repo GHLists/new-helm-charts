@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-02T11:24:54Z,castai-publish-example-github,castai,0.2.0,Example chart for publishing charts built in castai/helm-charts
+2026-11-02T11:31:10Z,git-v2-azuredevops-proxy,git-v2-azuredevops-proxy,2.1.0,Git protocol v2 proxy for Azure DevOps - serves v2 clones and fetches from a mirror and forwards pushes
+2026-11-02T11:31:49Z,mailpit,mailpit,1.0.1,"Mailpit - email & SMTP testing tool with web UI and API. Secure-by-default, dependency-free chart covering every Mailpit option: restricted Pod Security, NetworkPolicy, oauth2-proxy SSO, SMTP/UI/POP3 TLS, relay, Prometheus, Gateway API."

@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 10:22 UTC
+## Latest list — 2026-11-02 12:19 UTC
 
-New charts added between 2026-11-02 09:20 UTC and 2026-11-02 10:22 UTC.
+New charts added between 2026-11-02 11:20 UTC and 2026-11-02 12:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-02T10-22-26-133133Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-02T12-19-17-565361Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-02 10:04:15 | [teleport](https://artifacthub.io/packages/helm/quench-teleport/teleport) | quench-teleport | 0.0.1 | Identity-based access plane for SSH, Kubernetes, databases, apps and desktops (… |
+| 2026-11-02 11:24:54 | [castai-publish-example-github](https://artifacthub.io/packages/helm/castai/castai-publish-example-github) | castai | 0.2.0 | Example chart for publishing charts built in castai/helm-charts |
+| 2026-11-02 11:31:10 | [git-v2-azuredevops-proxy](https://artifacthub.io/packages/helm/git-v2-azuredevops-proxy/git-v2-azuredevops-proxy) | git-v2-azuredevops-proxy | 2.1.0 | Git protocol v2 proxy for Azure DevOps - serves v2 clones and fetches from a mi… |
+| 2026-11-02 11:31:49 | [mailpit](https://artifacthub.io/packages/helm/mailpit/mailpit) | mailpit | 1.0.1 | Mailpit - email & SMTP testing tool with web UI and API. Secure-by-default, dep… |
 
 ## Data source
 
