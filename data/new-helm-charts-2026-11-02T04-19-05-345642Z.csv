@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-02T03:32:09Z,varek,openshift,1.36.1,"VAREK on Kubernetes: the Warden's node agent, NRI plugin and launcher on each node (a DaemonSet), the VarekPolicy resource and its admission webhook. Each container of a pod that names a policy (the annotation varek.dev/policy) runs with the Warden deciding its calls under that policy, or does not…"
