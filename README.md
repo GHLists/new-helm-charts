@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 17:21 UTC
+## Latest list — 2026-11-02 18:19 UTC
 
-New charts added between 2026-11-02 16:22 UTC and 2026-11-02 17:21 UTC.
+New charts added between 2026-11-02 17:21 UTC and 2026-11-02 18:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-02T17-21-50-347129Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-02T18-19-26-960912Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-02 16:24:12 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-11-02 17:28:08 | [openunison-k8s-cluster-management-by-group](https://artifacthub.io/packages/helm/tremolo/openunison-k8s-cluster-management-by-group) | tremolo | 0.1.0 | A Helm chart for Kubernetes |
+| 2026-11-02 17:28:08 | [openunison-vcluster-admins](https://artifacthub.io/packages/helm/tremolo/openunison-vcluster-admins) | tremolo | 0.1.0 | Generates cluster-admins for vclusters |
 
 ## Data source
 
