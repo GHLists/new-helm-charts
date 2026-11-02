@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 15:21 UTC
+## Latest list — 2026-11-02 16:22 UTC
 
-New charts added between 2026-11-02 14:20 UTC and 2026-11-02 15:21 UTC.
+New charts added between 2026-11-02 15:21 UTC and 2026-11-02 16:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-02T15-21-44-493408Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-02T16-22-19-859404Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-02 14:41:35 | [kure](https://artifacthub.io/packages/helm/kure-monitor/kure) | kure-monitor | 2.6.0 | Kubernetes AI observability platform with proactive AI Advice, security scannin… |
+| 2026-11-02 15:34:15 | [kure](https://artifacthub.io/packages/helm/kure-monitor/kure) | kure-monitor | 2.6.0 | Kubernetes AI observability platform with proactive AI Advice, security scannin… |
 
 ## Data source
 
