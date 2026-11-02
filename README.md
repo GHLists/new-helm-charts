@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 04:19 UTC
+## Latest list — 2026-11-02 07:20 UTC
 
-New charts added between 2026-11-02 03:21 UTC and 2026-11-02 04:19 UTC.
+New charts added between 2026-11-02 06:19 UTC and 2026-11-02 07:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-02T04-19-05-345642Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-02T07-20-15-179507Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-02 03:32:09 | [varek](https://artifacthub.io/packages/helm/openshift/varek) | openshift | 1.36.1 | VAREK on Kubernetes: the Warden's node agent, NRI plugin and launcher on each n… |
+| 2026-11-02 06:25:34 | [lib-datadog](https://artifacthub.io/packages/helm/cookielab/lib-datadog) | cookielab | 0.1.0 | Annotations, Labels and ENVs for DataDog |
+| 2026-11-02 06:25:34 | [lib-gitlab](https://artifacthub.io/packages/helm/cookielab/lib-gitlab) | cookielab | 0.1.0 | Annotations for GitLab |
+| 2026-11-02 06:31:16 | [hello-kubernetes](https://artifacthub.io/packages/helm/hello-kubernetes/hello-kubernetes) | hello-kubernetes | 1.11.0 | A demo application for a Kubernetes cluster. It shows a message, the pod and no… |
 
 ## Data source
 
