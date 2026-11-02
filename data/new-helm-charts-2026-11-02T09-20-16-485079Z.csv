@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-02T08:36:50Z,visa-k8s-provider,alba-visa-helm-charts,1.0.6,A Helm chart for deploying VISA's kubernetes cloud provider controller
+2026-11-02T09:00:22Z,medcom-sdn-dns-cert-manager-webhook,kvalitetsit,0.0.1,Helm chart for the SDN cert-manager ACME DNS01 webhook solver
