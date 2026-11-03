@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 17:19 UTC
+## Latest list — 2026-11-03 18:21 UTC
 
-New charts added between 2026-11-03 16:20 UTC and 2026-11-03 17:19 UTC.
+New charts added between 2026-11-03 17:19 UTC and 2026-11-03 18:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-03T17-19-49-394951Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-03T18-21-03-658684Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-03 17:02:44 | [jasmin](https://artifacthub.io/packages/helm/jasmin/jasmin) | jasmin | 0.2.1 | An unofficial production-ready Helm chart for Jasmin SMS Gateway on Kubernetes |
+| 2026-11-03 17:30:14 | [azimuth-capi-operator](https://artifacthub.io/packages/helm/azimuth-capi-operator/azimuth-capi-operator) | azimuth-capi-operator | 0.26.1 | Helm chart for deploying the Azimuth CAPI operator. |
 
 ## Data source
 
