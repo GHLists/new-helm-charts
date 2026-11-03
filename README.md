@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 22:18 UTC
+## Latest list — 2026-11-03 00:18 UTC
 
-New charts added between 2026-11-02 21:18 UTC and 2026-11-02 22:18 UTC.
+New charts added between 2026-11-02 23:20 UTC and 2026-11-03 00:18 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-02T22-18-24-994366Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-03T00-18-28-872256Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-02 21:24:00 | [cloudflare-operator](https://artifacthub.io/packages/helm/ankra-charts/cloudflare-operator) | ankra-charts | 0.2.0 | Helm chart for the community Cloudflare Operator (adyanth/cloudflare-operator)… |
-| 2026-11-02 21:24:00 | [isms-builder](https://artifacthub.io/packages/helm/ankra-charts/isms-builder) | ankra-charts | 0.1.0 | ISMS Builder on Kubernetes - the open-source ISO 27001 / NIS2 ISMS template bui… |
+| 2026-11-02 23:21:14 | [llamacpp](https://artifacthub.io/packages/helm/sebtiz13-charts/llamacpp) | sebtiz13-charts | 0.1.0 | A Helm chart for llama.cpp server (llama-server) deployment |
 
 ## Data source
 
