@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 15:21 UTC
+## Latest list — 2026-11-03 16:20 UTC
 
-New charts added between 2026-11-03 14:20 UTC and 2026-11-03 15:21 UTC.
+New charts added between 2026-11-03 15:21 UTC and 2026-11-03 16:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-03T15-21-38-801741Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-03T16-20-40-049482Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-03 15:08:03 | [tumogroup-monitor](https://artifacthub.io/packages/helm/tumogroup/tumogroup-monitor) | tumogroup | 0.1.0 | Next.js status page and refresh CronJob for tumogroup-monitor |
+| 2026-11-03 15:42:43 | [openfga-operator](https://artifacthub.io/packages/helm/openfga/openfga-operator) | openfga | 0.1.0 | Helm chart for the OpenFGA Kubernetes operator. |
 
 ## Data source
 

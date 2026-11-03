@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-03T15:42:43Z,openfga-operator,openfga,0.1.0,Helm chart for the OpenFGA Kubernetes operator.
