@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-03T03:03:26Z,aidaptiv-mw-console,openshift,0.1.4,"aiDAPTIV-MW-Console: a web UI for the models Red Hat OpenShift AI serves with KServe (LLMInferenceService). List, test, deploy and edit models and see their performance; users log in with their OpenShift account and act with their own permissions."
