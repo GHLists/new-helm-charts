@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-03T18:43:06Z,domain-locker,domain-locker,0.3.6,A Helm chart for deploying Domain Locker
+2026-11-03T19:04:12Z,lastwords,lastwords,0.1.1,"Saves what a container was doing right before Kubernetes killed it. Memory snapshots before OOM kills, crash logs, core dumps, evictions. Queryable by kubectl and by AI agents over MCP."

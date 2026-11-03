@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 18:21 UTC
+## Latest list — 2026-11-03 19:21 UTC
 
-New charts added between 2026-11-03 17:19 UTC and 2026-11-03 18:21 UTC.
+New charts added between 2026-11-03 18:21 UTC and 2026-11-03 19:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-03T18-21-03-658684Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-03T19-21-22-145092Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-03 17:30:14 | [azimuth-capi-operator](https://artifacthub.io/packages/helm/azimuth-capi-operator/azimuth-capi-operator) | azimuth-capi-operator | 0.26.1 | Helm chart for deploying the Azimuth CAPI operator. |
+| 2026-11-03 18:43:06 | [domain-locker](https://artifacthub.io/packages/helm/domain-locker/domain-locker) | domain-locker | 0.3.6 | A Helm chart for deploying Domain Locker |
+| 2026-11-03 19:04:12 | [lastwords](https://artifacthub.io/packages/helm/lastwords/lastwords) | lastwords | 0.1.1 | Saves what a container was doing right before Kubernetes killed it. Memory snap… |
 
 ## Data source
 
