@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-03T17:02:44Z,jasmin,jasmin,0.2.1,An unofficial production-ready Helm chart for Jasmin SMS Gateway on Kubernetes

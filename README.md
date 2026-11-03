@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 16:20 UTC
+## Latest list — 2026-11-03 17:19 UTC
 
-New charts added between 2026-11-03 15:21 UTC and 2026-11-03 16:20 UTC.
+New charts added between 2026-11-03 16:20 UTC and 2026-11-03 17:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-03T16-20-40-049482Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-03T17-19-49-394951Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-03 15:42:43 | [openfga-operator](https://artifacthub.io/packages/helm/openfga/openfga-operator) | openfga | 0.1.0 | Helm chart for the OpenFGA Kubernetes operator. |
+| 2026-11-03 17:02:44 | [jasmin](https://artifacthub.io/packages/helm/jasmin/jasmin) | jasmin | 0.2.1 | An unofficial production-ready Helm chart for Jasmin SMS Gateway on Kubernetes |
 
 ## Data source
 
