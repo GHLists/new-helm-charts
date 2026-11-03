@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-03T05:02:20Z,heym,heym,0.1.2,"Community Helm chart for Heym, the AI workflow platform. Runs every sandbox (Python tools, skills, Code node, MCP stdio, Playwright, Codex, OpenCode) as its own restricted pod, with no Docker socket."

@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 03:21 UTC
+## Latest list — 2026-11-03 05:21 UTC
 
-New charts added between 2026-11-03 02:19 UTC and 2026-11-03 03:21 UTC.
+New charts added between 2026-11-03 04:20 UTC and 2026-11-03 05:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-03T03-21-28-672882Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-03T05-21-15-573661Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-03 03:03:26 | [aidaptiv-mw-console](https://artifacthub.io/packages/helm/openshift/aidaptiv-mw-console) | openshift | 0.1.4 | aiDAPTIV-MW-Console: a web UI for the models Red Hat OpenShift AI serves with K… |
+| 2026-11-03 05:02:20 | [heym](https://artifacthub.io/packages/helm/heym/heym) | heym | 0.1.2 | Community Helm chart for Heym, the AI workflow platform. Runs every sandbox (Py… |
 
 ## Data source
 
