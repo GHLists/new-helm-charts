@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 00:18 UTC
+## Latest list — 2026-11-03 02:19 UTC
 
-New charts added between 2026-11-02 23:20 UTC and 2026-11-03 00:18 UTC.
+New charts added between 2026-11-03 01:19 UTC and 2026-11-03 02:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-03T00-18-28-872256Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-03T02-19-31-174259Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-02 23:21:14 | [llamacpp](https://artifacthub.io/packages/helm/sebtiz13-charts/llamacpp) | sebtiz13-charts | 0.1.0 | A Helm chart for llama.cpp server (llama-server) deployment |
+| 2026-11-03 02:03:21 | [phison-vllm-stack](https://artifacthub.io/packages/helm/openshift/phison-vllm-stack) | openshift | 0.2.4 | One model on upstream vLLM (UBI 9 image), served by Red Hat OpenShift AI's KSer… |
 
 ## Data source
 

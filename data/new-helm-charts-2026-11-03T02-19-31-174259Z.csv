@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-03T02:03:21Z,phison-vllm-stack,openshift,0.2.4,"One model on upstream vLLM (UBI 9 image), served by Red Hat OpenShift AI's KServe as an LLMInferenceService. OpenShift AI provides the router, the scheduler, the Gateway route and authentication; the chart only sets the model, the vLLM image and its resources."
