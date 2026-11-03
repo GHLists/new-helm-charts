@@ -1,0 +1,5 @@
+created_at,chart,repository,version,description
+2026-11-03T13:32:23Z,node-cleanup-controller,sig-storage-local-static-provisioner,2.10.0,Helm chart for the SIG Storage Local Volume Node Cleanup Controller
+2026-11-03T13:45:17Z,searxng,oreonit,0.1.0,"SearXNG metasearch on Kubernetes as the search backend for LLM tools and agents (Firecrawl, Open WebUI, Perplexica, LangChain) or as a public instance - JSON API mode, a curated engine set instead of 120 default engines, stable secret key across replicas, rate limiter with Valkey sidecar or externa…"
+2026-11-03T13:45:18Z,text-embeddings-inference,oreonit,0.1.0,"Hugging Face Text Embeddings Inference on Kubernetes - several embedding, reranker and classifier models per release on CPU or NVIDIA GPUs (image variant picked from the accelerator), model cache kept across restarts (StatefulSet PVCs or a shared volume), generated API key, non-root and read-only,…"
+2026-11-03T14:03:12Z,ncache-helm,ncache-helm,5.3.8,"NCache distributed cache cluster for Kubernetes (on-premises, AKS, EKS)"

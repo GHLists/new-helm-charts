@@ -14,16 +14,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 13:20 UTC
+## Latest list — 2026-11-03 14:20 UTC
 
-New charts added between 2026-11-03 12:21 UTC and 2026-11-03 13:20 UTC.
+New charts added between 2026-11-03 13:20 UTC and 2026-11-03 14:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-03T13-20-42-555258Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-03T14-20-57-290478Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-03 12:53:20 | [electric-mail](https://artifacthub.io/packages/helm/cryptexlabs/electric-mail) | cryptexlabs | 0.0.1 | User email with audit trail |
-| 2026-11-03 12:53:20 | [purple-pie](https://artifacthub.io/packages/helm/cryptexlabs/purple-pie) | cryptexlabs | 0.0.1 | Protected personal information server |
+| 2026-11-03 13:32:23 | [node-cleanup-controller](https://artifacthub.io/packages/helm/sig-storage-local-static-provisioner/node-cleanup-controller) | sig-storage-local-stati… | 2.10.0 | Helm chart for the SIG Storage Local Volume Node Cleanup Controller |
+| 2026-11-03 13:45:17 | [searxng](https://artifacthub.io/packages/helm/oreonit/searxng) | oreonit | 0.1.0 | SearXNG metasearch on Kubernetes as the search backend for LLM tools and agents… |
+| 2026-11-03 13:45:18 | [text-embeddings-inference](https://artifacthub.io/packages/helm/oreonit/text-embeddings-inference) | oreonit | 0.1.0 | Hugging Face Text Embeddings Inference on Kubernetes - several embedding, reran… |
+| 2026-11-03 14:03:12 | [ncache-helm](https://artifacthub.io/packages/helm/ncache-helm/ncache-helm) | ncache-helm | 5.3.8 | NCache distributed cache cluster for Kubernetes (on-premises, AKS, EKS) |
 
 ## Data source
 
