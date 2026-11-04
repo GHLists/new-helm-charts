@@ -14,16 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 10:18 UTC
+## Latest list — 2026-11-04 12:21 UTC
 
-New charts added between 2026-11-04 09:19 UTC and 2026-11-04 10:18 UTC.
+New charts added between 2026-11-04 10:18 UTC and 2026-11-04 12:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-04T10-18-58-802404Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-04T12-21-34-713761Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-04 09:31:30 | [k8s-borg](https://artifacthub.io/packages/helm/k8s-borg/k8s-borg) | k8s-borg | 1.0.7-0 | Backup for Kubernetes clusters with BorgBackup. Deploys a node-backup DaemonSet… |
-| 2026-11-04 10:01:39 | [cluster-api-janitor-openstack](https://artifacthub.io/packages/helm/cluster-api-janitor-openstack/cluster-api-janitor-openstack) | cluster-api-janitor-ope… | 0.1.0-rc.1 | Helm chart for deploying the Cluster API Janitor for OpenStack |
+| 2026-11-04 11:03:43 | [prometheus-mcp-server](https://artifacthub.io/packages/helm/prometheus-mcp-server/prometheus-mcp-server) | prometheus-mcp-server | 1.1.1 | A Helm chart for deploying the Prometheus MCP Server to Kubernetes |
+| 2026-11-04 11:04:58 | [panopticum](https://artifacthub.io/packages/helm/panopticum/panopticum) | panopticum | 1.0.13 | A tool for developers and QA — web interface for viewing and managing database… |
+| 2026-11-04 11:30:11 | [arkeep](https://artifacthub.io/packages/helm/arkeep/arkeep) | arkeep | 0.10.0 | Centralized backup management for self-hosted infrastructure |
 
 ## Data source
 

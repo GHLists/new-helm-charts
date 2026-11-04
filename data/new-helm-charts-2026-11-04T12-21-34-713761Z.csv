@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-04T11:03:43Z,prometheus-mcp-server,prometheus-mcp-server,1.1.1,A Helm chart for deploying the Prometheus MCP Server to Kubernetes
+2026-11-04T11:04:58Z,panopticum,panopticum,1.0.13,A tool for developers and QA — web interface for viewing and managing database connections
+2026-11-04T11:30:11Z,arkeep,arkeep,0.10.0,Centralized backup management for self-hosted infrastructure
