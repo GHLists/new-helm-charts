@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 09:19 UTC
+## Latest list — 2026-11-04 10:18 UTC
 
-New charts added between 2026-11-04 08:19 UTC and 2026-11-04 09:19 UTC.
+New charts added between 2026-11-04 09:19 UTC and 2026-11-04 10:18 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-04T09-19-40-06016Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-04T10-18-58-802404Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-04 08:28:43 | [mta-sts](https://artifacthub.io/packages/helm/dmarc-examiner/mta-sts) | dmarc-examiner | 0.1.0 | Serve MTA-STS policies (RFC 8461) for one or many domains, with TLS-RPT and DNS… |
+| 2026-11-04 09:31:30 | [k8s-borg](https://artifacthub.io/packages/helm/k8s-borg/k8s-borg) | k8s-borg | 1.0.7-0 | Backup for Kubernetes clusters with BorgBackup. Deploys a node-backup DaemonSet… |
+| 2026-11-04 10:01:39 | [cluster-api-janitor-openstack](https://artifacthub.io/packages/helm/cluster-api-janitor-openstack/cluster-api-janitor-openstack) | cluster-api-janitor-ope… | 0.1.0-rc.1 | Helm chart for deploying the Cluster API Janitor for OpenStack |
 
 ## Data source
 

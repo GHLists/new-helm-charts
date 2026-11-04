@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-04T09:31:30Z,k8s-borg,k8s-borg,1.0.7-0,"Backup for Kubernetes clusters with BorgBackup. Deploys a node-backup DaemonSet, a cluster-data-backup CronJob, and a console StatefulSet, each talking to its own Borg repository. Optional Borg UI server with managed agents, and an optional Borg 1/Borg 2 repository server."
+2026-11-04T10:01:39Z,cluster-api-janitor-openstack,cluster-api-janitor-openstack,0.1.0-rc.1,Helm chart for deploying the Cluster API Janitor for OpenStack
