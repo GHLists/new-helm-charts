@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-04T12:41:40Z,inrun,inrun,0.1.0,"Inrun is the intent runner for Kubernetes. Callers send an intent through the gateway; Inrun turns it into a custom resource, reconciles it, and returns a view. Deploys the runtime, the gateway and the console."
+2026-11-04T12:52:55Z,cwv,cwv,0.1.1,CronJob that runs the cwv CLI and prints CoworkingView Price Index rates.

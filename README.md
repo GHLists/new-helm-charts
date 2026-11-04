@@ -14,17 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 12:21 UTC
+## Latest list — 2026-11-04 13:19 UTC
 
-New charts added between 2026-11-04 10:18 UTC and 2026-11-04 12:21 UTC.
+New charts added between 2026-11-04 12:21 UTC and 2026-11-04 13:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-04T12-21-34-713761Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-04T13-19-29-810334Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-04 11:03:43 | [prometheus-mcp-server](https://artifacthub.io/packages/helm/prometheus-mcp-server/prometheus-mcp-server) | prometheus-mcp-server | 1.1.1 | A Helm chart for deploying the Prometheus MCP Server to Kubernetes |
-| 2026-11-04 11:04:58 | [panopticum](https://artifacthub.io/packages/helm/panopticum/panopticum) | panopticum | 1.0.13 | A tool for developers and QA — web interface for viewing and managing database… |
-| 2026-11-04 11:30:11 | [arkeep](https://artifacthub.io/packages/helm/arkeep/arkeep) | arkeep | 0.10.0 | Centralized backup management for self-hosted infrastructure |
+| 2026-11-04 12:41:40 | [inrun](https://artifacthub.io/packages/helm/inrun/inrun) | inrun | 0.1.0 | Inrun is the intent runner for Kubernetes. Callers send an intent through the g… |
+| 2026-11-04 12:52:55 | [cwv](https://artifacthub.io/packages/helm/cwv/cwv) | cwv | 0.1.1 | CronJob that runs the cwv CLI and prints CoworkingView Price Index rates. |
 
 ## Data source
 
