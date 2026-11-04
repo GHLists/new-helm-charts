@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 00:20 UTC
+## Latest list — 2026-11-04 07:21 UTC
 
-New charts added between 2026-11-03 23:21 UTC and 2026-11-04 00:20 UTC.
+New charts added between 2026-11-04 06:20 UTC and 2026-11-04 07:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-04T00-20-18-014498Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-04T07-21-17-428023Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-03 23:22:10 | [ryni](https://artifacthub.io/packages/helm/ryni/ryni) | ryni | 0.0.1-rc1 | RÝNI — privacy-preserving web analytics (PocketBase + SolidJS frontend) |
+| 2026-11-04 06:52:12 | [discourse](https://artifacthub.io/packages/helm/helmforge/discourse) | helmforge | 1.0.0 | Experimental Discourse community platform deployment using the official upstrea… |
 
 ## Data source
 
