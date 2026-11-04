@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 07:21 UTC
+## Latest list — 2026-11-04 09:19 UTC
 
-New charts added between 2026-11-04 06:20 UTC and 2026-11-04 07:21 UTC.
+New charts added between 2026-11-04 08:19 UTC and 2026-11-04 09:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-04T07-21-17-428023Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-04T09-19-40-06016Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-04 06:52:12 | [discourse](https://artifacthub.io/packages/helm/helmforge/discourse) | helmforge | 1.0.0 | Experimental Discourse community platform deployment using the official upstrea… |
+| 2026-11-04 08:28:43 | [mta-sts](https://artifacthub.io/packages/helm/dmarc-examiner/mta-sts) | dmarc-examiner | 0.1.0 | Serve MTA-STS policies (RFC 8461) for one or many domains, with TLS-RPT and DNS… |
 
 ## Data source
 

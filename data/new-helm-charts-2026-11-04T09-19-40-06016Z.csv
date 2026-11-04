@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-04T08:28:43Z,mta-sts,dmarc-examiner,0.1.0,"Serve MTA-STS policies (RFC 8461) for one or many domains, with TLS-RPT and DNS records through external-dns."
