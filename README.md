@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 19:21 UTC
+## Latest list — 2026-11-04 00:20 UTC
 
-New charts added between 2026-11-03 18:21 UTC and 2026-11-03 19:21 UTC.
+New charts added between 2026-11-03 23:21 UTC and 2026-11-04 00:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-03T19-21-22-145092Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-04T00-20-18-014498Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-03 18:43:06 | [domain-locker](https://artifacthub.io/packages/helm/domain-locker/domain-locker) | domain-locker | 0.3.6 | A Helm chart for deploying Domain Locker |
-| 2026-11-03 19:04:12 | [lastwords](https://artifacthub.io/packages/helm/lastwords/lastwords) | lastwords | 0.1.1 | Saves what a container was doing right before Kubernetes killed it. Memory snap… |
+| 2026-11-03 23:22:10 | [ryni](https://artifacthub.io/packages/helm/ryni/ryni) | ryni | 0.0.1-rc1 | RÝNI — privacy-preserving web analytics (PocketBase + SolidJS frontend) |
 
 ## Data source
 
