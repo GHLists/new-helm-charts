@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 13:19 UTC
+## Latest list — 2026-11-04 14:19 UTC
 
-New charts added between 2026-11-04 12:21 UTC and 2026-11-04 13:19 UTC.
+New charts added between 2026-11-04 13:19 UTC and 2026-11-04 14:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-04T13-19-29-810334Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-04T14-19-00-733783Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-04 12:41:40 | [inrun](https://artifacthub.io/packages/helm/inrun/inrun) | inrun | 0.1.0 | Inrun is the intent runner for Kubernetes. Callers send an intent through the g… |
-| 2026-11-04 12:52:55 | [cwv](https://artifacthub.io/packages/helm/cwv/cwv) | cwv | 0.1.1 | CronJob that runs the cwv CLI and prints CoworkingView Price Index rates. |
+| 2026-11-04 13:46:56 | [k3s-fleet](https://artifacthub.io/packages/helm/loafoe/k3s-fleet) | loafoe | 0.1.0 | Fleet API for k3s-on-ec2 clusters - HTTP API (OIDC) and Pulumi job workers, bac… |
 
 ## Data source
 

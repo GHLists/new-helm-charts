@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-04T13:46:56Z,k3s-fleet,loafoe,0.1.0,"Fleet API for k3s-on-ec2 clusters - HTTP API (OIDC) and Pulumi job workers, backed by PostgreSQL (CloudNativePG)"
