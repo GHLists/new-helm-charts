@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-05T22:44:52Z,ignition-converter,spnngl-ignition-converter,0.1.0,"Admission webhook converting the Ignition 2.x user data of Cluster API bootstrap Secrets to spec 3.0 for Fedora CoreOS, running as a hardened, highly available Deployment"

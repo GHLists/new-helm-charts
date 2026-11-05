@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 17:19 UTC
+## Latest list — 2026-11-05 23:25 UTC
 
-New charts added between 2026-11-05 16:20 UTC and 2026-11-05 17:19 UTC.
+New charts added between 2026-11-05 22:21 UTC and 2026-11-05 23:25 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-05T17-19-48-27547Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-05T23-25-23-246402Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-05 16:31:46 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
-| 2026-11-05 17:16:37 | [wordpress-nginx](https://artifacthub.io/packages/helm/wordpress-nginx/wordpress-nginx) | wordpress-nginx | 7.1.408 | WordPress with NGINX for Kubernetes. Supports internal or external MariaDB, Dra… |
+| 2026-11-05 22:44:52 | [ignition-converter](https://artifacthub.io/packages/helm/spnngl-ignition-converter/ignition-converter) | spnngl-ignition-convert… | 0.1.0 | Admission webhook converting the Ignition 2.x user data of Cluster API bootstra… |
 
 ## Data source
 
