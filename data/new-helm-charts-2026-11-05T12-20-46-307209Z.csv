@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-05T11:30:14Z,azimuth-identity-operator,azimuth-identity-operator,0.14.2,Helm chart for deploying the Azimuth identity operator.
+2026-11-05T11:30:41Z,cost-intelligence-argocd,cost-intelligence-argocd,0.2.0,Post-sync cost measurement for Argo CD applications using OpenCost

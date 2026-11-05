@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 10:19 UTC
+## Latest list — 2026-11-05 12:20 UTC
 
-New charts added between 2026-11-05 09:22 UTC and 2026-11-05 10:19 UTC.
+New charts added between 2026-11-05 11:21 UTC and 2026-11-05 12:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-05T10-19-38-892062Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-05T12-20-46-307209Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-05 10:01:33 | [cert-manager-webhook-contabo](https://artifacthub.io/packages/helm/cert-manager-webhook-contabo/cert-manager-webhook-contabo) | cert-manager-webhook-co… | 0.1.0 | cert-manager DNS-01 webhook for Contabo DNS. Get Let's Encrypt certificates, in… |
+| 2026-11-05 11:30:14 | [azimuth-identity-operator](https://artifacthub.io/packages/helm/azimuth-identity-operator/azimuth-identity-operator) | azimuth-identity-operat… | 0.14.2 | Helm chart for deploying the Azimuth identity operator. |
+| 2026-11-05 11:30:41 | [cost-intelligence-argocd](https://artifacthub.io/packages/helm/cost-intelligence-argocd/cost-intelligence-argocd) | cost-intelligence-argocd | 0.2.0 | Post-sync cost measurement for Argo CD applications using OpenCost |
 
 ## Data source
 
