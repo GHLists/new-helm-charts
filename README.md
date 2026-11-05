@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 08:20 UTC
+## Latest list — 2026-11-05 10:19 UTC
 
-New charts added between 2026-11-05 07:27 UTC and 2026-11-05 08:20 UTC.
+New charts added between 2026-11-05 09:22 UTC and 2026-11-05 10:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-05T08-20-48-321514Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-05T10-19-38-892062Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-05 08:01:47 | [cyclops](https://artifacthub.io/packages/helm/cyclop/cyclops) | cyclop | 0.1.0-beta.2 | Daily backstop report for cert-manager renewals that silently fail |
+| 2026-11-05 10:01:33 | [cert-manager-webhook-contabo](https://artifacthub.io/packages/helm/cert-manager-webhook-contabo/cert-manager-webhook-contabo) | cert-manager-webhook-co… | 0.1.0 | cert-manager DNS-01 webhook for Contabo DNS. Get Let's Encrypt certificates, in… |
 
 ## Data source
 
