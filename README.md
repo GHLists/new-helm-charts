@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 13:21 UTC
+## Latest list — 2026-11-05 16:20 UTC
 
-New charts added between 2026-11-05 12:20 UTC and 2026-11-05 13:21 UTC.
+New charts added between 2026-11-05 15:20 UTC and 2026-11-05 16:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-05T13-21-11-763155Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-05T16-20-33-583512Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-05 12:35:16 | [inrun](https://artifacthub.io/packages/helm/inrun/inrun) | inrun | 0.1.0 | Inrun is the intent runner for Kubernetes. Callers send an intent through the g… |
-| 2026-11-05 13:02:27 | [kausa](https://artifacthub.io/packages/helm/kausa/kausa) | kausa | 0.6.0 | A tiny Kubernetes controller that explains failing workloads with an LLM |
+| 2026-11-05 15:22:58 | [netbird-ee](https://artifacthub.io/packages/helm/netbird/netbird-ee) | netbird | 0.1.0-rc.1 | NetBird enterprise, single instance, on the netbird chart |
 
 ## Data source
 
