@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-05T12:35:16Z,inrun,inrun,0.1.0,"Inrun is the intent runner for Kubernetes. Callers send an intent through the gateway; Inrun turns it into a custom resource, reconciles it, and returns a view. Deploys the runtime, the gateway and the console."
+2026-11-05T13:02:27Z,kausa,kausa,0.6.0,A tiny Kubernetes controller that explains failing workloads with an LLM

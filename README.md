@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 12:20 UTC
+## Latest list — 2026-11-05 13:21 UTC
 
-New charts added between 2026-11-05 11:21 UTC and 2026-11-05 12:20 UTC.
+New charts added between 2026-11-05 12:20 UTC and 2026-11-05 13:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-05T12-20-46-307209Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-05T13-21-11-763155Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-05 11:30:14 | [azimuth-identity-operator](https://artifacthub.io/packages/helm/azimuth-identity-operator/azimuth-identity-operator) | azimuth-identity-operat… | 0.14.2 | Helm chart for deploying the Azimuth identity operator. |
-| 2026-11-05 11:30:41 | [cost-intelligence-argocd](https://artifacthub.io/packages/helm/cost-intelligence-argocd/cost-intelligence-argocd) | cost-intelligence-argocd | 0.2.0 | Post-sync cost measurement for Argo CD applications using OpenCost |
+| 2026-11-05 12:35:16 | [inrun](https://artifacthub.io/packages/helm/inrun/inrun) | inrun | 0.1.0 | Inrun is the intent runner for Kubernetes. Callers send an intent through the g… |
+| 2026-11-05 13:02:27 | [kausa](https://artifacthub.io/packages/helm/kausa/kausa) | kausa | 0.6.0 | A tiny Kubernetes controller that explains failing workloads with an LLM |
 
 ## Data source
 
