@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 14:19 UTC
+## Latest list — 2026-11-05 00:19 UTC
 
-New charts added between 2026-11-04 13:19 UTC and 2026-11-04 14:19 UTC.
+New charts added between 2026-11-04 23:19 UTC and 2026-11-05 00:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-04T14-19-00-733783Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-05T00-19-58-079517Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-04 13:46:56 | [k3s-fleet](https://artifacthub.io/packages/helm/loafoe/k3s-fleet) | loafoe | 0.1.0 | Fleet API for k3s-on-ec2 clusters - HTTP API (OIDC) and Pulumi job workers, bac… |
+| 2026-11-04 23:38:54 | [shadewright](https://artifacthub.io/packages/helm/shadewright/shadewright) | shadewright | 0.2.0 | A Kubernetes operations agent that diagnoses incidents with an LLM and proposes… |
 
 ## Data source
 

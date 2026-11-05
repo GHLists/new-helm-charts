@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-04T23:38:54Z,shadewright,shadewright,0.2.0,A Kubernetes operations agent that diagnoses incidents with an LLM and proposes fixes only as GitOps pull requests
