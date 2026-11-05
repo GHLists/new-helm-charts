@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-05T16:31:46Z,kratix,syntasso,0.0.1,A Helm chart for installing Kratix (https://kratix.io)
+2026-11-05T17:16:37Z,wordpress-nginx,wordpress-nginx,7.1.408,"WordPress with NGINX for Kubernetes. Supports internal or external MariaDB, Dragonfly (Redis/Memcached) caching, and an optional FlexSearch sidecar (wordpress-idx) for full-text search."
