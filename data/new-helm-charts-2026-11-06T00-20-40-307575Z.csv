@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-05T23:51:44Z,nktp,gpu-operator,0.1.0,"A scalable, OpenTelemetry pipeline for collecting, processing, and exporting Kubernetes metrics, logs, and traces."

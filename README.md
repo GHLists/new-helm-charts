@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 23:25 UTC
+## Latest list — 2026-11-06 00:20 UTC
 
-New charts added between 2026-11-05 22:21 UTC and 2026-11-05 23:25 UTC.
+New charts added between 2026-11-05 23:25 UTC and 2026-11-06 00:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-05T23-25-23-246402Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-06T00-20-40-307575Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-05 22:44:52 | [ignition-converter](https://artifacthub.io/packages/helm/spnngl-ignition-converter/ignition-converter) | spnngl-ignition-convert… | 0.1.0 | Admission webhook converting the Ignition 2.x user data of Cluster API bootstra… |
+| 2026-11-05 23:51:44 | [nktp](https://artifacthub.io/packages/helm/gpu-operator/nktp) | gpu-operator | 0.1.0 | A scalable, OpenTelemetry pipeline for collecting, processing, and exporting Ku… |
 
 ## Data source
 
