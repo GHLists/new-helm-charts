@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 17:22 UTC
+## Latest list — 2026-11-06 21:21 UTC
 
-New charts added between 2026-11-06 16:21 UTC and 2026-11-06 17:22 UTC.
+New charts added between 2026-11-06 20:21 UTC and 2026-11-06 21:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-06T17-22-05-709137Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-06T21-21-29-257098Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-06 16:28:50 | [lago-data-agent](https://artifacthub.io/packages/helm/lago/lago-data-agent) | lago | 0.5.7 | A Helm chart for Kubernetes |
+| 2026-11-06 21:02:28 | [kerf](https://artifacthub.io/packages/helm/kerf/kerf) | kerf | 0.1.0-rc.1 | Kerf: self-hosted Kubernetes rightsizing. Recommends CPU and memory requests an… |
 
 ## Data source
 
