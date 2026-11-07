@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-07T02:39:44Z,akp-installer,appscode,2026.10.30,AKP Installer
+2026-11-07T02:39:44Z,akp-installer-certified,appscode,2026.10.30,AKP Installer
+2026-11-07T02:39:44Z,akp-installer-certified-crds,appscode,2026.10.30,Chart containing only CRDs from akp-installer chart

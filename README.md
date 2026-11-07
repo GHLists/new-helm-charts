@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 02:19 UTC
+## Latest list — 2026-11-07 03:21 UTC
 
-New charts added between 2026-11-07 01:20 UTC and 2026-11-07 02:19 UTC.
+New charts added between 2026-11-07 02:19 UTC and 2026-11-07 03:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-07T02-19-54-593898Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-07T03-21-23-618633Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-07 01:30:30 | [bymorning](https://artifacthub.io/packages/helm/bymorning/bymorning) | bymorning | 1.3.3 | ByMorning, an open source, self-hosted MCP and model gateway: one Gateway pod w… |
+| 2026-11-07 02:39:44 | [akp-installer](https://artifacthub.io/packages/helm/appscode/akp-installer) | appscode | 2026.10.30 | AKP Installer |
+| 2026-11-07 02:39:44 | [akp-installer-certified](https://artifacthub.io/packages/helm/appscode/akp-installer-certified) | appscode | 2026.10.30 | AKP Installer |
+| 2026-11-07 02:39:44 | [akp-installer-certified-crds](https://artifacthub.io/packages/helm/appscode/akp-installer-certified-crds) | appscode | 2026.10.30 | Chart containing only CRDs from akp-installer chart |
 
 ## Data source
 
