@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-06T23:31:23Z,kerf,kerf,0.1.0,"Kerf: self-hosted Kubernetes rightsizing. Recommends CPU and memory requests and limits from Prometheus or VictoriaMetrics history, prices the savings per node type, and applies changes with in-place resize or rollout, guardrails, maintenance windows and automatic rollback. One chart: global.mode h…"

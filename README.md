@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 23:19 UTC
+## Latest list — 2026-11-07 00:21 UTC
 
-New charts added between 2026-11-06 22:21 UTC and 2026-11-06 23:19 UTC.
+New charts added between 2026-11-06 23:19 UTC and 2026-11-07 00:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-06T23-19-49-547432Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-07T00-21-41-935276Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-06 22:29:30 | [mo-backup](https://artifacthub.io/packages/helm/mogenius/mo-backup) | mogenius | 1.0.29 | This is the mogenius backup script. |
-| 2026-11-06 22:29:30 | [mo-backup-mysql](https://artifacthub.io/packages/helm/mogenius/mo-backup-mysql) | mogenius | 1.0.29 | This is the mogenius backup script. |
+| 2026-11-06 23:31:23 | [kerf](https://artifacthub.io/packages/helm/kerf/kerf) | kerf | 0.1.0 | Kerf: self-hosted Kubernetes rightsizing. Recommends CPU and memory requests an… |
 
 ## Data source
 
