@@ -1,0 +1,6 @@
+created_at,chart,repository,version,description
+2026-11-07T08:22:02Z,matterjs-server,egeback,1.0.0,"Open Home Foundation Matter Server (matter.js) for Home Assistant, the successor of python-matter-server"
+2026-11-07T08:22:21Z,zwave-js-ui,egeback,1.0.0,Z-Wave control panel and Z-Wave JS server for Home Assistant
+2026-11-07T08:22:37Z,go2rtc,egeback,1.0.0,"Camera streaming application (RTSP, WebRTC, HomeKit, MSE) for Home Assistant and Frigate"
+2026-11-07T08:22:54Z,ha-tn-reporter,egeback,1.0.0,Reports Home Assistant temperature sensors to temperatur.nu
+2026-11-07T08:23:16Z,teslamate-abrp,egeback,1.0.0,Sends TeslaMate data from MQTT to A Better Route Planner (ABRP)
