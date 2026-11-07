@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 21:20 UTC
+## Latest list — 2026-11-07 23:20 UTC
 
-New charts added between 2026-11-07 20:19 UTC and 2026-11-07 21:20 UTC.
+New charts added between 2026-11-07 22:18 UTC and 2026-11-07 23:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-07T21-20-30-61894Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-07T23-20-55-969624Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-07 21:02:47 | [mmx](https://artifacthub.io/packages/helm/mmx/mmx) | mmx | 0.1.0-rc.1 | A self-hosted order book for game economies |
-| 2026-11-07 21:03:22 | [pacboard](https://artifacthub.io/packages/helm/pacboard/pacboard) | pacboard | 0.2.0 | Dashboard for Tekton Pipelines-as-Code runs. Repositories, PR-linked runs, task… |
+| 2026-11-07 22:20:36 | [mo-backup](https://artifacthub.io/packages/helm/mogenius/mo-backup) | mogenius | 1.0.29 | This is the mogenius backup script. |
+| 2026-11-07 22:20:36 | [mo-backup-mysql](https://artifacthub.io/packages/helm/mogenius/mo-backup-mysql) | mogenius | 1.0.29 | This is the mogenius backup script. |
 
 ## Data source
 
