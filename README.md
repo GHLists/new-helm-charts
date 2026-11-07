@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 14:20 UTC
+## Latest list — 2026-11-07 17:20 UTC
 
-New charts added between 2026-11-07 13:19 UTC and 2026-11-07 14:20 UTC.
+New charts added between 2026-11-07 16:21 UTC and 2026-11-07 17:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-07T14-20-57-526332Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-07T17-20-48-50241Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-07 13:31:37 | [mcp-server](https://artifacthub.io/packages/helm/mcp-server/mcp-server) | mcp-server | 1.0.0 | Generic Helm chart for HTTP-transport MCP (Model Context Protocol) servers |
+| 2026-11-07 17:00:52 | [runner](https://artifacthub.io/packages/helm/runwhen-contrib/runner) | runwhen-contrib | 0.1.0 | The RunWhen Runner Helm Chart - a private runner and its OpenTelemetry collecto… |
 
 ## Data source
 
