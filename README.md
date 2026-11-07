@@ -14,19 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 09:19 UTC
+## Latest list — 2026-11-07 12:19 UTC
 
-New charts added between 2026-11-07 08:19 UTC and 2026-11-07 09:19 UTC.
+New charts added between 2026-11-07 11:20 UTC and 2026-11-07 12:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-07T09-19-49-250216Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-07T12-19-27-004345Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-07 08:22:02 | [matterjs-server](https://artifacthub.io/packages/helm/egeback/matterjs-server) | egeback | 1.0.0 | Open Home Foundation Matter Server (matter.js) for Home Assistant, the successo… |
-| 2026-11-07 08:22:21 | [zwave-js-ui](https://artifacthub.io/packages/helm/egeback/zwave-js-ui) | egeback | 1.0.0 | Z-Wave control panel and Z-Wave JS server for Home Assistant |
-| 2026-11-07 08:22:37 | [go2rtc](https://artifacthub.io/packages/helm/egeback/go2rtc) | egeback | 1.0.0 | Camera streaming application (RTSP, WebRTC, HomeKit, MSE) for Home Assistant an… |
-| 2026-11-07 08:22:54 | [ha-tn-reporter](https://artifacthub.io/packages/helm/egeback/ha-tn-reporter) | egeback | 1.0.0 | Reports Home Assistant temperature sensors to temperatur.nu |
-| 2026-11-07 08:23:16 | [teslamate-abrp](https://artifacthub.io/packages/helm/egeback/teslamate-abrp) | egeback | 1.0.0 | Sends TeslaMate data from MQTT to A Better Route Planner (ABRP) |
+| 2026-11-07 11:32:51 | [qdrant-operator](https://artifacthub.io/packages/helm/keiailab/qdrant-operator) | keiailab | 0.10.3 | A Kubernetes Operator for the Qdrant vector database — declarative QdrantCluste… |
 
 ## Data source
 

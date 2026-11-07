@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-07T11:32:51Z,qdrant-operator,keiailab,0.10.3,"A Kubernetes Operator for the Qdrant vector database — declarative QdrantCluster/QdrantCollection management, distributed (Raft) clusters, automatic shard rebalancing, replication-factor repair, and drain-based scale-in. MIT licensed."
