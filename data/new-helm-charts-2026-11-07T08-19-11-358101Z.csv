@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-07T08:03:29Z,pgbench-metric-server,pgbench-metric-server,0.1.0,Runs pgbench on a schedule and exposes the results as Prometheus metrics
