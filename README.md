@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 00:21 UTC
+## Latest list — 2026-11-07 02:19 UTC
 
-New charts added between 2026-11-06 23:19 UTC and 2026-11-07 00:21 UTC.
+New charts added between 2026-11-07 01:20 UTC and 2026-11-07 02:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-07T00-21-41-935276Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-07T02-19-54-593898Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-06 23:31:23 | [kerf](https://artifacthub.io/packages/helm/kerf/kerf) | kerf | 0.1.0 | Kerf: self-hosted Kubernetes rightsizing. Recommends CPU and memory requests an… |
+| 2026-11-07 01:30:30 | [bymorning](https://artifacthub.io/packages/helm/bymorning/bymorning) | bymorning | 1.3.3 | ByMorning, an open source, self-hosted MCP and model gateway: one Gateway pod w… |
 
 ## Data source
 
