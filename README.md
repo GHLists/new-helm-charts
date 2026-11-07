@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 17:20 UTC
+## Latest list — 2026-11-07 21:20 UTC
 
-New charts added between 2026-11-07 16:21 UTC and 2026-11-07 17:20 UTC.
+New charts added between 2026-11-07 20:19 UTC and 2026-11-07 21:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-07T17-20-48-50241Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-07T21-20-30-61894Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-07 17:00:52 | [runner](https://artifacthub.io/packages/helm/runwhen-contrib/runner) | runwhen-contrib | 0.1.0 | The RunWhen Runner Helm Chart - a private runner and its OpenTelemetry collecto… |
+| 2026-11-07 21:02:47 | [mmx](https://artifacthub.io/packages/helm/mmx/mmx) | mmx | 0.1.0-rc.1 | A self-hosted order book for game economies |
+| 2026-11-07 21:03:22 | [pacboard](https://artifacthub.io/packages/helm/pacboard/pacboard) | pacboard | 0.2.0 | Dashboard for Tekton Pipelines-as-Code runs. Repositories, PR-linked runs, task… |
 
 ## Data source
 
