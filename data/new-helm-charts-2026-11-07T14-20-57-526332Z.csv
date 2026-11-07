@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-07T13:31:37Z,mcp-server,mcp-server,1.0.0,Generic Helm chart for HTTP-transport MCP (Model Context Protocol) servers

@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 12:19 UTC
+## Latest list — 2026-11-07 14:20 UTC
 
-New charts added between 2026-11-07 11:20 UTC and 2026-11-07 12:19 UTC.
+New charts added between 2026-11-07 13:19 UTC and 2026-11-07 14:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-07T12-19-27-004345Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-07T14-20-57-526332Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-07 11:32:51 | [qdrant-operator](https://artifacthub.io/packages/helm/keiailab/qdrant-operator) | keiailab | 0.10.3 | A Kubernetes Operator for the Qdrant vector database — declarative QdrantCluste… |
+| 2026-11-07 13:31:37 | [mcp-server](https://artifacthub.io/packages/helm/mcp-server/mcp-server) | mcp-server | 1.0.0 | Generic Helm chart for HTTP-transport MCP (Model Context Protocol) servers |
 
 ## Data source
 
