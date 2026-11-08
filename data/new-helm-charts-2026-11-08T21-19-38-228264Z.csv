@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-08T20:35:49Z,osc-minio,osc,0.1.1,A Helm chart for Minio
+2026-11-08T20:44:49Z,smb-mount-healer,smb-mount-healer,0.1.0-rc.1,"Kubernetes operator that detects and heals broken SMB/CIFS CSI mounts (csi-driver-smb): per-node worker probes, leader-elected control plane remediation with dry-run mode, and quarantine of data written to dead mounts."
