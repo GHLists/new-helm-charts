@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 23:20 UTC
+## Latest list — 2026-11-08 13:19 UTC
 
-New charts added between 2026-11-07 22:18 UTC and 2026-11-07 23:20 UTC.
+New charts added between 2026-11-08 12:19 UTC and 2026-11-08 13:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-07T23-20-55-969624Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-08T13-19-20-140092Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-07 22:20:36 | [mo-backup](https://artifacthub.io/packages/helm/mogenius/mo-backup) | mogenius | 1.0.29 | This is the mogenius backup script. |
-| 2026-11-07 22:20:36 | [mo-backup-mysql](https://artifacthub.io/packages/helm/mogenius/mo-backup-mysql) | mogenius | 1.0.29 | This is the mogenius backup script. |
+| 2026-11-08 12:43:48 | [panopticum](https://artifacthub.io/packages/helm/panopticum/panopticum) | panopticum | 1.0.15 | A tool for developers and QA — web interface for viewing and managing database… |
 
 ## Data source
 
