@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 17:19 UTC
+## Latest list — 2026-11-08 20:19 UTC
 
-New charts added between 2026-11-08 16:21 UTC and 2026-11-08 17:19 UTC.
+New charts added between 2026-11-08 19:21 UTC and 2026-11-08 20:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-08T17-19-58-6175Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-08T20-19-32-665319Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-08 16:45:00 | [sourcegull](https://artifacthub.io/packages/helm/sourcegull/sourcegull) | sourcegull | 0.2.8 | Sourcegull, a self-hosted code intelligence platform (code search, navigation,… |
+| 2026-11-08 19:23:00 | [osc-minio](https://artifacthub.io/packages/helm/osc/osc-minio) | osc | 0.1.0 | A Helm chart for Minio |
 
 ## Data source
 
