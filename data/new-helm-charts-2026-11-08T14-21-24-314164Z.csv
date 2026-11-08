@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-08T14:04:53Z,vaults3,vaults3,0.2.10,"Lightweight S3-compatible object storage with a built-in dashboard — the maintained, honest alternative to MinIO."

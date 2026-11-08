@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 13:19 UTC
+## Latest list — 2026-11-08 14:21 UTC
 
-New charts added between 2026-11-08 12:19 UTC and 2026-11-08 13:19 UTC.
+New charts added between 2026-11-08 13:19 UTC and 2026-11-08 14:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-08T13-19-20-140092Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-08T14-21-24-314164Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-08 12:43:48 | [panopticum](https://artifacthub.io/packages/helm/panopticum/panopticum) | panopticum | 1.0.15 | A tool for developers and QA — web interface for viewing and managing database… |
+| 2026-11-08 14:04:53 | [vaults3](https://artifacthub.io/packages/helm/vaults3/vaults3) | vaults3 | 0.2.10 | Lightweight S3-compatible object storage with a built-in dashboard — the mainta… |
 
 ## Data source
 
