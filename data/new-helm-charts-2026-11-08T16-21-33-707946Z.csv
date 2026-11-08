@@ -1,0 +1,23 @@
+created_at,chart,repository,version,description
+2026-11-08T15:47:46Z,blobby-server,tumogroup,0.2.0,"Blobby Volley 2 dedicated server for the LAN tournament, on UDP behind a LoadBalancer Service"
+2026-11-08T15:53:18Z,bazarr,lbenicio-community,0.1.0,"Bazarr (Sonarr, Radarr, Prowlarr, Bazarr, etc.)"
+2026-11-08T15:53:18Z,glance,lbenicio-community,0.1.3,A Helm chart for glance
+2026-11-08T15:53:18Z,helm-pilot,lbenicio-community,0.2.4,AI-powered Helm management dashboard for Kubernetes clusters
+2026-11-08T15:53:18Z,homebridge,lbenicio-community,0.1.15,A Helm chart for homebridge
+2026-11-08T15:53:18Z,jellyfin,lbenicio-community,0.1.0,"Jellyfin (Sonarr, Radarr, Prowlarr, Bazarr, etc.)"
+2026-11-08T15:53:18Z,jellyseerr,lbenicio-community,0.1.0,"Jellyseerr (Sonarr, Radarr, Prowlarr, Bazarr, etc.)"
+2026-11-08T15:53:19Z,kubernetes-dashboard,lbenicio-community,7.14.11,General-purpose web UI for Kubernetes clusters
+2026-11-08T15:53:19Z,listmonk,lbenicio-community,0.1.0,Self-hosted newsletter and mailing list manager
+2026-11-08T15:53:19Z,ping,lbenicio-community,0.1.1,Blackbox exporter for probing endpoints
+2026-11-08T15:53:19Z,pod-cleaner,lbenicio-community,0.1.1,CronJob that periodically cleans up completed pods
+2026-11-08T15:53:19Z,prowlarr,lbenicio-community,0.1.0,"Prowlarr (Sonarr, Radarr, Prowlarr, Bazarr, etc.)"
+2026-11-08T15:53:19Z,qbittorrent,lbenicio-community,0.1.0,"Qbittorrent (Sonarr, Radarr, Prowlarr, Bazarr, etc.)"
+2026-11-08T15:53:19Z,radarr,lbenicio-community,0.1.0,"Radarr (Sonarr, Radarr, Prowlarr, Bazarr, etc.)"
+2026-11-08T15:53:19Z,searxng,lbenicio-community,0.1.1,"Privacy-respecting metasearch engine. StatefulSet with a single local-path volume holding both config and cache, and node scheduling support for node-local storage."
+2026-11-08T15:53:19Z,smtp,lbenicio-community,0.1.4,A Helm chart for smtp
+2026-11-08T15:53:19Z,sonarr,lbenicio-community,0.1.0,"Sonarr (Sonarr, Radarr, Prowlarr, Bazarr, etc.)"
+2026-11-08T15:53:19Z,speedtest,lbenicio-community,0.1.0,"Internet performance exporter (speedtest, fast.com)"
+2026-11-08T15:53:19Z,stremio,lbenicio-community,0.1.2,Helm chart for Stremio server + web client
+2026-11-08T15:53:19Z,timemachine,lbenicio-community,0.1.3,Helm chart for Time Machine Samba backup server
+2026-11-08T15:53:19Z,uptime-kuma,lbenicio-community,0.1.1,A self-hosted monitoring tool like Uptime Robot
+2026-11-08T15:53:19Z,whoami,lbenicio-community,0.1.2,A Helm chart for whoami
