@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-09T12:31:39Z,lockstep,lockstep,0.1.0,"Compare, inspect and sync KV secrets across HashiCorp Vault clusters."
+2026-11-09T13:09:41Z,contour,quench-contour,0.0.11,"Project Contour, the CNCF Kubernetes ingress controller that programs an Envoy data plane over xDS. Serves the networking.k8s.io Ingress API plus Contour's own HTTPProxy CRD (delegation, rate limiting, per-route TLS). Hardened by QuenchWorks as minimal, nonroot, 0-CVE images, cosign-signed and pinn…"
+2026-11-09T13:15:45Z,renplay,renplay,4.6.2,Play downloaded Ren'Py visual novels in your browser with server saves
