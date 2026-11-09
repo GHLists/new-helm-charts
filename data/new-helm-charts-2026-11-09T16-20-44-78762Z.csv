@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-09T15:46:36Z,capi-kamaji-vsphere,clastix,0.3.0,A Helm chart for deploying a Kamaji Tenant Cluster on vSphere using Cluster API and Kamaji.

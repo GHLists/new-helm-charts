@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 15:21 UTC
+## Latest list — 2026-11-09 16:20 UTC
 
-New charts added between 2026-11-09 14:21 UTC and 2026-11-09 15:21 UTC.
+New charts added between 2026-11-09 15:21 UTC and 2026-11-09 16:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-09T15-21-35-580742Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-09T16-20-44-78762Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-09 14:45:30 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
+| 2026-11-09 15:46:36 | [capi-kamaji-vsphere](https://artifacthub.io/packages/helm/clastix/capi-kamaji-vsphere) | clastix | 0.3.0 | A Helm chart for deploying a Kamaji Tenant Cluster on vSphere using Cluster API… |
 
 ## Data source
 
