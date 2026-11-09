@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 21:19 UTC
+## Latest list — 2026-11-09 11:21 UTC
 
-New charts added between 2026-11-08 20:19 UTC and 2026-11-08 21:19 UTC.
+New charts added between 2026-11-09 10:21 UTC and 2026-11-09 11:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-08T21-19-38-228264Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-09T11-21-42-589976Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-08 20:35:49 | [osc-minio](https://artifacthub.io/packages/helm/osc/osc-minio) | osc | 0.1.1 | A Helm chart for Minio |
-| 2026-11-08 20:44:49 | [smb-mount-healer](https://artifacthub.io/packages/helm/smb-mount-healer/smb-mount-healer) | smb-mount-healer | 0.1.0-rc.1 | Kubernetes operator that detects and heals broken SMB/CIFS CSI mounts (csi-driv… |
+| 2026-11-09 10:38:49 | [jupyter-imagepuller](https://artifacthub.io/packages/helm/jupyter-jsc/jupyter-imagepuller) | jupyter-jsc | 1.0.0 | A Helm chart for Kubernetes |
+| 2026-11-09 11:02:36 | [immobase](https://artifacthub.io/packages/helm/immobase/immobase) | immobase | 0.1.0 | Helm chart for deploying immobase, a modern real estate management platform for… |
 
 ## Data source
 

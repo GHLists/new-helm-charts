@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-09T10:38:49Z,jupyter-imagepuller,jupyter-jsc,1.0.0,A Helm chart for Kubernetes
+2026-11-09T11:02:36Z,immobase,immobase,0.1.0,"Helm chart for deploying immobase, a modern real estate management platform for property, tenant, and WEG administration."
