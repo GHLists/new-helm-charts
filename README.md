@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 11:21 UTC
+## Latest list — 2026-11-09 12:20 UTC
 
-New charts added between 2026-11-09 10:21 UTC and 2026-11-09 11:21 UTC.
+New charts added between 2026-11-09 11:21 UTC and 2026-11-09 12:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-09T11-21-42-589976Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-09T12-20-23-001661Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-09 10:38:49 | [jupyter-imagepuller](https://artifacthub.io/packages/helm/jupyter-jsc/jupyter-imagepuller) | jupyter-jsc | 1.0.0 | A Helm chart for Kubernetes |
-| 2026-11-09 11:02:36 | [immobase](https://artifacthub.io/packages/helm/immobase/immobase) | immobase | 0.1.0 | Helm chart for deploying immobase, a modern real estate management platform for… |
+| 2026-11-09 11:47:35 | [attic](https://artifacthub.io/packages/helm/cfi2017/attic) | cfi2017 | 0.1.0 | A self-hosted Nix binary cache backed by Attic. |
+| 2026-11-09 12:02:30 | [keda-otel-collector-fleet-scaler](https://artifacthub.io/packages/helm/keda-otel-collector-fleet-scaler/keda-otel-collector-fleet-scaler) | keda-otel-collector-fle… | 0.1.0 | KEDA external scaler for OpenTelemetry collector fleets (TraceID gateway patter… |
 
 ## Data source
 
