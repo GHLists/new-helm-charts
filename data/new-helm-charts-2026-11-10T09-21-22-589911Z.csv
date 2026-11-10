@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-10T08:44:44Z,secobserve,secobserve,1.2.5,"A Helm chart to deploy SecObserve, an open-source vulnerability and license management system designed for software development teams and cloud-native environments. SecObserve helps teams identify, manage, and remediate security vulnerabilities and license compliance issues across their software pr…"
