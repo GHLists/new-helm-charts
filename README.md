@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 11:22 UTC
+## Latest list — 2026-11-10 13:21 UTC
 
-New charts added between 2026-11-10 10:21 UTC and 2026-11-10 11:22 UTC.
+New charts added between 2026-11-10 12:20 UTC and 2026-11-10 13:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-10T11-22-41-735251Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-10T13-21-05-155159Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-10 11:02:25 | [horse](https://artifacthub.io/packages/helm/horse/horse) | horse | 8.3.0 | Horse is an open source general-purpose communication application that is desig… |
+| 2026-11-10 12:51:51 | [clickhouse-alerts](https://artifacthub.io/packages/helm/appscode/clickhouse-alerts) | appscode | 2026.7.14 | A Helm chart for ClickHouse Alert by AppsCode |
+| 2026-11-10 12:51:51 | [weaviate-alerts](https://artifacthub.io/packages/helm/appscode/weaviate-alerts) | appscode | 2026.7.14 | A Helm chart for Weaviate Alert by AppsCode |
 
 ## Data source
 
