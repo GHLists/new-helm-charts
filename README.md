@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 15:21 UTC
+## Latest list — 2026-11-10 16:22 UTC
 
-New charts added between 2026-11-10 14:21 UTC and 2026-11-10 15:21 UTC.
+New charts added between 2026-11-10 15:21 UTC and 2026-11-10 16:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-10T15-21-36-878199Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-10T16-22-17-190185Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-10 14:55:25 | [alerthawk](https://artifacthub.io/packages/helm/alerthawk/alerthawk) | alerthawk | 3.3.46 | AlertHawk Self-Hosted Monitoring Solution |
+| 2026-11-10 15:55:53 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
 
 ## Data source
 
