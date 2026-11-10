@@ -14,20 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 10:21 UTC
+## Latest list — 2026-11-10 11:22 UTC
 
-New charts added between 2026-11-10 09:21 UTC and 2026-11-10 10:21 UTC.
+New charts added between 2026-11-10 10:21 UTC and 2026-11-10 11:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-10T10-21-38-723824Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-10T11-22-41-735251Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-10 09:44:46 | [cluster-cudn](https://artifacthub.io/packages/helm/startx/cluster-cudn) | startx | 21.3.361 | Configure OVN-Kubernetes user-defined networks (ClusterUserDefinedNetwork and U… |
-| 2026-11-10 09:44:46 | [cluster-dell-csm](https://artifacthub.io/packages/helm/startx/cluster-dell-csm) | startx | 21.3.361 | Configure the Dell Container Storage Modules (CSM) operator and a Dell CSI stor… |
-| 2026-11-10 09:44:49 | [cluster-loki](https://artifacthub.io/packages/helm/startx/cluster-loki) | startx | 21.3.361 | Configure the Loki log store (LokiStack) of OpenShift Logging with the Red Hat… |
-| 2026-11-10 09:44:50 | [cluster-network-observability](https://artifacthub.io/packages/helm/startx/cluster-network-observability) | startx | 21.3.361 | Configure the Network Observability operator and its FlowCollector to collect a… |
-| 2026-11-10 09:44:52 | [cluster-unifai](https://artifacthub.io/packages/helm/startx/cluster-unifai) | startx | 21.3.361 | Helm chart used to configure UnifAI multi-agent AI platform at the cluster level |
-| 2026-11-10 10:03:06 | [nginx-static](https://artifacthub.io/packages/helm/nginx-static/nginx-static) | nginx-static | 0.2.1 | Helm chart for deploying a static nginx-served website with optional HPA-driven… |
+| 2026-11-10 11:02:25 | [horse](https://artifacthub.io/packages/helm/horse/horse) | horse | 8.3.0 | Horse is an open source general-purpose communication application that is desig… |
 
 ## Data source
 
