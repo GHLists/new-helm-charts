@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 21:20 UTC
+## Latest list — 2026-11-10 22:19 UTC
 
-New charts added between 2026-11-10 20:22 UTC and 2026-11-10 21:20 UTC.
+New charts added between 2026-11-10 21:20 UTC and 2026-11-10 22:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-10T21-20-12-985622Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-10T22-19-09-408612Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-10 20:39:17 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
+| 2026-11-10 21:26:37 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
+| 2026-11-10 22:03:31 | [pg-regression-radar](https://artifacthub.io/packages/helm/pg-regression-radar/pg-regression-radar) | pg-regression-radar | 1.0.1 | pg-regression-radar — Postgres query performance regression detector correlated… |
 
 ## Data source
 
