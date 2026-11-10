@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-10T17:09:59Z,filebrowser-quantum,quench-filebrowser-quantum,0.0.1,"FileBrowser Quantum, the maintained successor to File Browser: a self-hosted web file manager with users, sharing, search and media previews. Hardened by QuenchWorks: built from source (no MuPDF, no analytics), nonroot, 0-CVE, cosign-signed and pinned by digest."
