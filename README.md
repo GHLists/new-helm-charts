@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 17:21 UTC
+## Latest list — 2026-11-10 19:21 UTC
 
-New charts added between 2026-11-10 16:22 UTC and 2026-11-10 17:21 UTC.
+New charts added between 2026-11-10 18:19 UTC and 2026-11-10 19:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-10T17-21-36-65968Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-10T19-21-30-980172Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-10 17:09:59 | [filebrowser-quantum](https://artifacthub.io/packages/helm/quench-filebrowser-quantum/filebrowser-quantum) | quench-filebrowser-quan… | 0.0.1 | FileBrowser Quantum, the maintained successor to File Browser: a self-hosted we… |
+| 2026-11-10 18:24:22 | [datadog-gpu-benchmark](https://artifacthub.io/packages/helm/datadog/datadog-gpu-benchmark) | datadog | 0.1.0 | Prepares a namespace where Datadog GPU Monitoring runs inference benchmarks, th… |
 
 ## Data source
 

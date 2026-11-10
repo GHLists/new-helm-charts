@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-10T18:24:22Z,datadog-gpu-benchmark,datadog,0.1.0,"Prepares a namespace where Datadog GPU Monitoring runs inference benchmarks, through the Cluster Agent's Private Action Runner"
