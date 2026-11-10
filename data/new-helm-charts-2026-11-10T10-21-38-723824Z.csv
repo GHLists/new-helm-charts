@@ -1,0 +1,7 @@
+created_at,chart,repository,version,description
+2026-11-10T09:44:46Z,cluster-cudn,startx,21.3.361,Configure OVN-Kubernetes user-defined networks (ClusterUserDefinedNetwork and UserDefinedNetwork)
+2026-11-10T09:44:46Z,cluster-dell-csm,startx,21.3.361,Configure the Dell Container Storage Modules (CSM) operator and a Dell CSI storage driver
+2026-11-10T09:44:49Z,cluster-loki,startx,21.3.361,Configure the Loki log store (LokiStack) of OpenShift Logging with the Red Hat Loki operator
+2026-11-10T09:44:50Z,cluster-network-observability,startx,21.3.361,Configure the Network Observability operator and its FlowCollector to collect and visualize network flows
+2026-11-10T09:44:52Z,cluster-unifai,startx,21.3.361,Helm chart used to configure UnifAI multi-agent AI platform at the cluster level
+2026-11-10T10:03:06Z,nginx-static,nginx-static,0.2.1,"Helm chart for deploying a static nginx-served website with optional HPA-driven scaling, a PodDisruptionBudget, a primary ingress, and an optional redirect ingress that maps any number of alias hosts to one permanent-redirect target."
