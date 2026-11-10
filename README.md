@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 21:21 UTC
+## Latest list — 2026-11-10 07:21 UTC
 
-New charts added between 2026-11-09 20:20 UTC and 2026-11-09 21:21 UTC.
+New charts added between 2026-11-10 06:21 UTC and 2026-11-10 07:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-09T21-21-43-999298Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-10T07-21-33-166681Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-09 20:54:47 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
+| 2026-11-10 06:38:16 | [convertigo](https://artifacthub.io/packages/helm/convertigo/convertigo) | convertigo | 8.4.7 | The Convertigo Low Code / No Code Platform running on Kubernetes |
+| 2026-11-10 06:54:28 | [nix-builder](https://artifacthub.io/packages/helm/cfi2017/nix-builder) | cfi2017 | 0.1.0 | An SSH Nix remote builder with connection-triggered scale to zero. |
 
 ## Data source
 
