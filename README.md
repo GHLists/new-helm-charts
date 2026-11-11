@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 14:20 UTC
+## Latest list — 2026-11-11 18:21 UTC
 
-New charts added between 2026-11-11 13:19 UTC and 2026-11-11 14:20 UTC.
+New charts added between 2026-11-11 17:20 UTC and 2026-11-11 18:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-11T14-20-26-762273Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-11T18-21-13-088355Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-11 13:44:45 | [mitmproxy](https://artifacthub.io/packages/helm/quench-mitmproxy/mitmproxy) | quench-mitmproxy | 0.0.1 | mitmproxy, the interactive TLS-intercepting HTTP proxy for debugging and testin… |
-| 2026-11-11 14:16:47 | [openziti](https://artifacthub.io/packages/helm/quench-openziti/openziti) | quench-openziti | 0.0.1 | OpenZiti, a zero-trust overlay network that replaces VPNs and open inbound port… |
+| 2026-11-11 17:44:52 | [nginx-proxy-manager](https://artifacthub.io/packages/helm/quench-nginx-proxy-manager/nginx-proxy-manager) | quench-nginx-proxy-mana… | 0.0.1 | Nginx Proxy Manager, the web UI that manages nginx proxy hosts, redirections, s… |
 
 ## Data source
 
