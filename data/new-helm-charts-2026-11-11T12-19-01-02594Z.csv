@@ -1,0 +1,5 @@
+created_at,chart,repository,version,description
+2026-11-11T11:44:32Z,trafficserver,quench-trafficserver,0.0.2,"Apache Traffic Server, a caching HTTP/1.1, HTTP/2 and TLS reverse proxy. Remap rules from values map hosts or paths to origins, and responses are cached on disk. Hardened by QuenchWorks as a minimal, shell-free, nonroot, CVE-gated image built from source, cosign-signed and pinned by digest."
+2026-11-11T12:03:00Z,myriarch,myriarch,0.2.0,"Myriarch server (myriarchd): OpAMP fleet manager for OpenTelemetry Collectors (HA, external PostgreSQL)"
+2026-11-11T12:03:00Z,myriarch-collector,myriarch-collector,0.2.0,"OpenTelemetry Collector with the OpAMP Supervisor from the unchanged upstream images, managed by the Myriarch server (StatefulSet or DaemonSet)"
+2026-11-11T12:03:47Z,kroxylicious,quench-kroxylicious,0.0.1,"Kroxylicious, a Kafka protocol proxy that sits between Kafka clients and brokers and runs filters (record encryption, schema validation, multi-tenancy). Hardened by QuenchWorks as a minimal, shell-free, nonroot, CVE-gated image, cosign-signed and pinned by digest."
