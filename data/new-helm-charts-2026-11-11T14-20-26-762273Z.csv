@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-11T13:44:45Z,mitmproxy,quench-mitmproxy,0.0.1,"mitmproxy, the interactive TLS-intercepting HTTP proxy for debugging and testing, with the mitmweb UI. Hardened by QuenchWorks as a minimal, nonroot, CVE-gated image (native parts rebuilt from source), cosign-signed and pinned by digest."
+2026-11-11T14:16:47Z,openziti,quench-openziti,0.0.1,"OpenZiti, a zero-trust overlay network that replaces VPNs and open inbound ports: a controller (PKI, edge API) and an integrated edge router in one pod, with persistent state. Hardened by QuenchWorks as a minimal, shell-free, nonroot, CVE-gated image built from source, cosign-signed and pinned by d…"
