@@ -14,15 +14,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 07:19 UTC
+## Latest list — 2026-11-11 08:20 UTC
 
-New charts added between 2026-11-11 06:19 UTC and 2026-11-11 07:19 UTC.
+New charts added between 2026-11-11 07:19 UTC and 2026-11-11 08:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-11T07-19-43-828972Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-11T08-20-32-04895Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-11 07:15:34 | [skipper](https://artifacthub.io/packages/helm/quench-skipper/skipper) | quench-skipper | 0.0.1 | Skipper HTTP router and Kubernetes ingress controller: routes Ingress resources… |
+| 2026-11-11 07:38:36 | [gost](https://artifacthub.io/packages/helm/quench-gost/gost) | quench-gost | 0.0.1 | GOST (GO Simple Tunnel): a multi-protocol forward proxy and tunnel (HTTP, SOCKS… |
+| 2026-11-11 08:03:35 | [cloudflared](https://artifacthub.io/packages/helm/quench-cloudflared/cloudflared) | quench-cloudflared | 0.0.1 | cloudflared, the Cloudflare Tunnel client: publishes in-cluster services throug… |
+| 2026-11-11 08:03:35 | [frp](https://artifacthub.io/packages/helm/quench-frp/frp) | quench-frp | 0.0.1 | frp server (frps): a fast reverse proxy that exposes services behind NAT or a f… |
+| 2026-11-11 08:15:33 | [vouch-proxy](https://artifacthub.io/packages/helm/quench-vouch-proxy/vouch-proxy) | quench-vouch-proxy | 0.0.1 | Vouch Proxy: SSO for nginx auth_request. Logs users in through OIDC or OAuth (G… |
 
 ## Data source
 
