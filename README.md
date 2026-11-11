@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 22:19 UTC
+## Latest list — 2026-11-11 02:21 UTC
 
-New charts added between 2026-11-10 21:20 UTC and 2026-11-10 22:19 UTC.
+New charts added between 2026-11-11 01:19 UTC and 2026-11-11 02:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-10T22-19-09-408612Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-11T02-21-20-650608Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-10 21:26:37 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
-| 2026-11-10 22:03:31 | [pg-regression-radar](https://artifacthub.io/packages/helm/pg-regression-radar/pg-regression-radar) | pg-regression-radar | 1.0.1 | pg-regression-radar — Postgres query performance regression detector correlated… |
+| 2026-11-11 01:21:06 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
+| 2026-11-11 02:03:49 | [cube](https://artifacthub.io/packages/helm/quench-cube/cube) | quench-cube | 0.0.1 | Cube, the semantic layer server: REST, GraphQL and a Postgres-protocol SQL API… |
 
 ## Data source
 

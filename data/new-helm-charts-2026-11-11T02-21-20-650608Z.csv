@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-11T01:21:06Z,kamaji-crds,clastix,0.0.0+latest,Kamaji is the Hosted Control Plane Manager for Kubernetes.
+2026-11-11T02:03:49Z,cube,quench-cube,0.0.1,"Cube, the semantic layer server: REST, GraphQL and a Postgres-protocol SQL API over your database, driven by a data model. Hardened by QuenchWorks: built from source (native addon with cargo auditable), nonroot, CVE-gated, cosign-signed and pinned by digest."
