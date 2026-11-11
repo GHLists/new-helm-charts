@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-11T23:03:42Z,apache-pinot,quench-apache-pinot,0.0.1,"Apache Pinot, the real-time distributed OLAP datastore: controller, broker, server and optional minion on a bundled ZooKeeper. Hardened by QuenchWorks as a minimal, nonroot, CVE-gated image built from source, cosign-signed and pinned by digest."

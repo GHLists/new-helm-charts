@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 22:20 UTC
+## Latest list — 2026-11-11 23:20 UTC
 
-New charts added between 2026-11-11 21:20 UTC and 2026-11-11 22:20 UTC.
+New charts added between 2026-11-11 22:20 UTC and 2026-11-11 23:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-11T22-20-52-271117Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-11T23-20-39-664388Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-11 22:01:05 | [alertigate](https://artifacthub.io/packages/helm/alertigate/alertigate) | alertigate | 1.0.0 | AlertiGate on Kubernetes: the API with the web UI, a data plane's worker, and (… |
+| 2026-11-11 23:03:42 | [apache-pinot](https://artifacthub.io/packages/helm/quench-apache-pinot/apache-pinot) | quench-apache-pinot | 0.0.1 | Apache Pinot, the real-time distributed OLAP datastore: controller, broker, ser… |
 
 ## Data source
 
