@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 09:22 UTC
+## Latest list — 2026-11-11 10:20 UTC
 
-New charts added between 2026-11-11 08:20 UTC and 2026-11-11 09:22 UTC.
+New charts added between 2026-11-11 09:22 UTC and 2026-11-11 10:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-11T09-22-25-229972Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-11T10-20-43-253627Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-11 08:33:27 | [jupyter-imagepuller](https://artifacthub.io/packages/helm/jupyter-jsc/jupyter-imagepuller) | jupyter-jsc | 1.0.0 | A Helm chart for Kubernetes |
-| 2026-11-11 09:04:17 | [odyssey](https://artifacthub.io/packages/helm/quench-odyssey/odyssey) | quench-odyssey | 0.0.1 | Odyssey, Yandex's multi-threaded PostgreSQL connection pooler: session and tran… |
+| 2026-11-11 09:32:41 | [opentodo](https://artifacthub.io/packages/helm/opentodo/opentodo) | opentodo | 0.18.0 | Open-source, local-first task manager. Works offline and syncs every device fro… |
+| 2026-11-11 09:45:41 | [submilli](https://artifacthub.io/packages/helm/submilli/submilli) | submilli | 0.4.4 | Agent-native execution environment — runs a strict TypeScript subset in a WasmG… |
 
 ## Data source
 

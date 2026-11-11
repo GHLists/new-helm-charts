@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-11T09:32:41Z,opentodo,opentodo,0.18.0,"Open-source, local-first task manager. Works offline and syncs every device from one small container."
+2026-11-11T09:45:41Z,submilli,submilli,0.4.4,Agent-native execution environment — runs a strict TypeScript subset in a WasmGC sandbox with capability-based security.
