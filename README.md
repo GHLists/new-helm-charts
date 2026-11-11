@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 18:21 UTC
+## Latest list — 2026-11-11 22:20 UTC
 
-New charts added between 2026-11-11 17:20 UTC and 2026-11-11 18:21 UTC.
+New charts added between 2026-11-11 21:20 UTC and 2026-11-11 22:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-11T18-21-13-088355Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-11T22-20-52-271117Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-11 17:44:52 | [nginx-proxy-manager](https://artifacthub.io/packages/helm/quench-nginx-proxy-manager/nginx-proxy-manager) | quench-nginx-proxy-mana… | 0.0.1 | Nginx Proxy Manager, the web UI that manages nginx proxy hosts, redirections, s… |
+| 2026-11-11 22:01:05 | [alertigate](https://artifacthub.io/packages/helm/alertigate/alertigate) | alertigate | 1.0.0 | AlertiGate on Kubernetes: the API with the web UI, a data plane's worker, and (… |
 
 ## Data source
 
