@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-11T07:15:34Z,skipper,quench-skipper,0.0.1,"Skipper HTTP router and Kubernetes ingress controller: routes Ingress resources and eskip routes through a filter chain (header and path rewrites, rate limits, auth). Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
