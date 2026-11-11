@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-11T08:33:27Z,jupyter-imagepuller,jupyter-jsc,1.0.0,A Helm chart for Kubernetes
+2026-11-11T09:04:17Z,odyssey,quench-odyssey,0.0.1,"Odyssey, Yandex's multi-threaded PostgreSQL connection pooler: session and transaction pooling for high connection counts, an alternative to PgBouncer. Hardened by QuenchWorks: built from C source, nonroot, CVE-gated, cosign-signed and pinned by digest."
