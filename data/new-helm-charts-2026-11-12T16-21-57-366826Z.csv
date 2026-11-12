@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-12T16:03:48Z,glance,quench-glance,0.0.1,"Glance: a self-hosted dashboard that puts feeds, bookmarks, releases, weather and service status on one page. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-12T16:03:50Z,owncast,quench-owncast,0.0.1,"Owncast: self-hosted live video streaming and chat (RTMP in, HLS out, web player, admin UI). Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."

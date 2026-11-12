@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 15:21 UTC
+## Latest list — 2026-11-12 16:21 UTC
 
-New charts added between 2026-11-12 14:22 UTC and 2026-11-12 15:21 UTC.
+New charts added between 2026-11-12 15:21 UTC and 2026-11-12 16:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-12T15-21-37-234834Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-12T16-21-57-366826Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-12 14:44:45 | [umami](https://artifacthub.io/packages/helm/quench-umami/umami) | quench-umami | 0.0.1 | Umami: privacy-focused web analytics without cookies (page views, events, funne… |
-| 2026-11-12 15:04:00 | [syncthing](https://artifacthub.io/packages/helm/quench-syncthing/syncthing) | quench-syncthing | 0.0.1 | Syncthing: continuous peer-to-peer file synchronisation between devices, with a… |
+| 2026-11-12 16:03:48 | [glance](https://artifacthub.io/packages/helm/quench-glance/glance) | quench-glance | 0.0.1 | Glance: a self-hosted dashboard that puts feeds, bookmarks, releases, weather a… |
+| 2026-11-12 16:03:50 | [owncast](https://artifacthub.io/packages/helm/quench-owncast/owncast) | quench-owncast | 0.0.1 | Owncast: self-hosted live video streaming and chat (RTMP in, HLS out, web playe… |
 
 ## Data source
 
