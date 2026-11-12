@@ -14,36 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 01:20 UTC
+## Latest list — 2026-11-12 02:20 UTC
 
-New charts added between 2026-11-12 00:20 UTC and 2026-11-12 01:20 UTC.
+New charts added between 2026-11-12 01:20 UTC and 2026-11-12 02:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-12T01-20-50-196662Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-12T02-20-32-759185Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-12 00:27:01 | [bazarr](https://artifacthub.io/packages/helm/lbenicio-community/bazarr) | lbenicio-community | 0.1.0 | Bazarr (Sonarr, Radarr, Prowlarr, Bazarr, etc.) |
-| 2026-11-12 00:27:01 | [glance](https://artifacthub.io/packages/helm/lbenicio-community/glance) | lbenicio-community | 0.1.3 | A Helm chart for glance |
-| 2026-11-12 00:27:01 | [helm-pilot](https://artifacthub.io/packages/helm/lbenicio-community/helm-pilot) | lbenicio-community | 0.2.4 | AI-powered Helm management dashboard for Kubernetes clusters |
-| 2026-11-12 00:27:01 | [homebridge](https://artifacthub.io/packages/helm/lbenicio-community/homebridge) | lbenicio-community | 0.1.15 | A Helm chart for homebridge |
-| 2026-11-12 00:27:01 | [jellyfin](https://artifacthub.io/packages/helm/lbenicio-community/jellyfin) | lbenicio-community | 0.1.0 | Jellyfin (Sonarr, Radarr, Prowlarr, Bazarr, etc.) |
-| 2026-11-12 00:27:01 | [jellyseerr](https://artifacthub.io/packages/helm/lbenicio-community/jellyseerr) | lbenicio-community | 0.1.0 | Jellyseerr (Sonarr, Radarr, Prowlarr, Bazarr, etc.) |
-| 2026-11-12 00:27:01 | [kubernetes-dashboard](https://artifacthub.io/packages/helm/lbenicio-community/kubernetes-dashboard) | lbenicio-community | 7.14.11 | General-purpose web UI for Kubernetes clusters |
-| 2026-11-12 00:27:01 | [listmonk](https://artifacthub.io/packages/helm/lbenicio-community/listmonk) | lbenicio-community | 0.1.0 | Self-hosted newsletter and mailing list manager |
-| 2026-11-12 00:27:01 | [ping](https://artifacthub.io/packages/helm/lbenicio-community/ping) | lbenicio-community | 0.1.1 | Blackbox exporter for probing endpoints |
-| 2026-11-12 00:27:01 | [pod-cleaner](https://artifacthub.io/packages/helm/lbenicio-community/pod-cleaner) | lbenicio-community | 0.1.1 | CronJob that periodically cleans up completed pods |
-| 2026-11-12 00:27:01 | [prowlarr](https://artifacthub.io/packages/helm/lbenicio-community/prowlarr) | lbenicio-community | 0.1.0 | Prowlarr (Sonarr, Radarr, Prowlarr, Bazarr, etc.) |
-| 2026-11-12 00:27:01 | [qbittorrent](https://artifacthub.io/packages/helm/lbenicio-community/qbittorrent) | lbenicio-community | 0.1.0 | Qbittorrent (Sonarr, Radarr, Prowlarr, Bazarr, etc.) |
-| 2026-11-12 00:27:01 | [radarr](https://artifacthub.io/packages/helm/lbenicio-community/radarr) | lbenicio-community | 0.1.0 | Radarr (Sonarr, Radarr, Prowlarr, Bazarr, etc.) |
-| 2026-11-12 00:27:01 | [searxng](https://artifacthub.io/packages/helm/lbenicio-community/searxng) | lbenicio-community | 0.1.1 | Privacy-respecting metasearch engine. StatefulSet with a single local-path volu… |
-| 2026-11-12 00:27:01 | [smtp](https://artifacthub.io/packages/helm/lbenicio-community/smtp) | lbenicio-community | 0.1.4 | A Helm chart for smtp |
-| 2026-11-12 00:27:01 | [sonarr](https://artifacthub.io/packages/helm/lbenicio-community/sonarr) | lbenicio-community | 0.1.0 | Sonarr (Sonarr, Radarr, Prowlarr, Bazarr, etc.) |
-| 2026-11-12 00:27:01 | [speedtest](https://artifacthub.io/packages/helm/lbenicio-community/speedtest) | lbenicio-community | 0.1.0 | Internet performance exporter (speedtest, fast.com) |
-| 2026-11-12 00:27:01 | [stremio](https://artifacthub.io/packages/helm/lbenicio-community/stremio) | lbenicio-community | 0.1.2 | Helm chart for Stremio server + web client |
-| 2026-11-12 00:27:01 | [timemachine](https://artifacthub.io/packages/helm/lbenicio-community/timemachine) | lbenicio-community | 0.1.3 | Helm chart for Time Machine Samba backup server |
-| 2026-11-12 00:27:01 | [uptime-kuma](https://artifacthub.io/packages/helm/lbenicio-community/uptime-kuma) | lbenicio-community | 0.1.1 | A self-hosted monitoring tool like Uptime Robot |
-| 2026-11-12 00:27:01 | [whoami](https://artifacthub.io/packages/helm/lbenicio-community/whoami) | lbenicio-community | 0.1.2 | A Helm chart for whoami |
-| 2026-11-12 01:09:38 | [dagger](https://artifacthub.io/packages/helm/quench-dagger/dagger) | quench-dagger | 0.0.1 | Dagger, the programmable CI/CD engine that runs pipelines as code in containers… |
+| 2026-11-12 02:15:48 | [sozu](https://artifacthub.io/packages/helm/quench-sozu/sozu) | quench-sozu | 0.0.1 | Sozu: an HTTP/HTTPS reverse proxy in Rust, reconfigured at runtime over its com… |
 
 ## Data source
 
