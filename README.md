@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 14:22 UTC
+## Latest list — 2026-11-12 15:21 UTC
 
-New charts added between 2026-11-12 13:19 UTC and 2026-11-12 14:22 UTC.
+New charts added between 2026-11-12 14:22 UTC and 2026-11-12 15:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-12T14-22-08-842859Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-12T15-21-37-234834Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-12 13:31:35 | [klio-operator-chart](https://artifacthub.io/packages/helm/klio/klio-operator-chart) | klio | 0.0.19 | The Klio operator manages the lifecycle of Klio components in a Kubernetes clus… |
+| 2026-11-12 14:44:45 | [umami](https://artifacthub.io/packages/helm/quench-umami/umami) | quench-umami | 0.0.1 | Umami: privacy-focused web analytics without cookies (page views, events, funne… |
+| 2026-11-12 15:04:00 | [syncthing](https://artifacthub.io/packages/helm/quench-syncthing/syncthing) | quench-syncthing | 0.0.1 | Syncthing: continuous peer-to-peer file synchronisation between devices, with a… |
 
 ## Data source
 
