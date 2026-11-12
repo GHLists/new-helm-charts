@@ -14,16 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 20:19 UTC
+## Latest list — 2026-11-12 22:21 UTC
 
-New charts added between 2026-11-12 19:19 UTC and 2026-11-12 20:19 UTC.
+New charts added between 2026-11-12 21:20 UTC and 2026-11-12 22:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-12T20-19-47-606406Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-12T22-21-18-277476Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-12 19:44:36 | [mealie](https://artifacthub.io/packages/helm/quench-mealie/mealie) | quench-mealie | 0.0.1 | Mealie: a recipe manager and meal planner with recipe import from URLs, shoppin… |
-| 2026-11-12 20:03:46 | [actual](https://artifacthub.io/packages/helm/quench-actual/actual) | quench-actual | 0.0.1 | Actual: local-first personal budgeting with envelope budgeting, bank import and… |
+| 2026-11-12 21:30:31 | [bucket-backup-restore](https://artifacthub.io/packages/helm/bucket-backup-restore/bucket-backup-restore) | bucket-backup-restore | 2.0.0 | Scheduled backups of S3-compatible buckets (or any rclone remote) into encrypte… |
+| 2026-11-12 21:32:25 | [postgresql-backup-restore](https://artifacthub.io/packages/helm/postgresql-backup-restore/postgresql-backup-restore) | postgresql-backup-resto… | 3.0.0 | Scheduled PostgreSQL backups (pg_dump) to S3-compatible storage with encryption… |
+| 2026-11-12 21:32:32 | [bookstack](https://artifacthub.io/packages/helm/quench-bookstack/bookstack) | quench-bookstack | 0.0.1 | BookStack: a wiki and documentation platform (shelves, books, chapters, pages)… |
 
 ## Data source
 

@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-12T21:30:31Z,bucket-backup-restore,bucket-backup-restore,2.0.0,"Scheduled backups of S3-compatible buckets (or any rclone remote) into encrypted archives, with retention and restore"
+2026-11-12T21:32:25Z,postgresql-backup-restore,postgresql-backup-restore,3.0.0,"Scheduled PostgreSQL backups (pg_dump) to S3-compatible storage with encryption, retention and restore"
+2026-11-12T21:32:32Z,bookstack,quench-bookstack,0.0.1,"BookStack: a wiki and documentation platform (shelves, books, chapters, pages) with WYSIWYG and Markdown editors and a REST API, on MariaDB. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
