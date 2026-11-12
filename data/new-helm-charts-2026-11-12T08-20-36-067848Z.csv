@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-12T07:44:33Z,nebula,quench-nebula,0.0.1,"Nebula lighthouse: discovery and relay for a Nebula overlay network of mutually authenticated, encrypted peer-to-peer tunnels. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-12T08:16:02Z,dnscrypt-proxy,quench-dnscrypt-proxy,0.0.1,"dnscrypt-proxy: a DNS proxy that sends queries to upstream resolvers over DNSCrypt, DNS-over-HTTPS or Oblivious DoH, with filtering, cloaking and caching. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-12T08:16:02Z,smokescreen,quench-smokescreen,0.0.1,"Smokescreen: Stripe's egress HTTP and CONNECT proxy that refuses internal and private destinations (SSRF protection) and enforces per-role egress ACLs. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
