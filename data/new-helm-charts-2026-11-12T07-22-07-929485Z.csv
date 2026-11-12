@@ -1,0 +1,14 @@
+created_at,chart,repository,version,description
+2026-11-12T06:29:07Z,generic_service,loeken-at-home,1.0.0,a helm chart to install sinusbot
+2026-11-12T06:29:07Z,home-assistant,loeken-at-home,2026.11.0,home-assistant - a free and open-source software for home automation designed to be a central control system for smart home devices with a focus on local control and privacy
+2026-11-12T06:29:07Z,jellyfin,loeken-at-home,10.11.11,a helm chart to install jellyfin
+2026-11-12T06:29:07Z,jellyseerr,loeken-at-home,3.1.0,a helm chart to install jellyseer
+2026-11-12T06:29:07Z,nzbget,loeken-at-home,26.3.0-ls271,nzbget - efficient usenet downloader.
+2026-11-12T06:29:07Z,prowlarr,loeken-at-home,1.37.0,prowlarr - Prowlarr is an indexer manager/proxy built on the popular *arr software
+2026-11-12T06:29:07Z,radarr,loeken-at-home,5.27.0-nightly,a helm chart to install radarr
+2026-11-12T06:29:07Z,sinusbot,loeken-at-home,2.3.0,a helm chart to install sinusbot
+2026-11-12T06:29:07Z,sonarr,loeken-at-home,4.0.20,sonarr - an internet PVR for Usenet and Torrents.
+2026-11-12T06:29:07Z,uptime-kuma,loeken-at-home,2.5.10,a helm chart to install uptime-kuma
+2026-11-12T06:29:07Z,vaultwarden,loeken-at-home,1.37.5-alpine,"vaultwarden - unofficial bitwarden compatible server written in rust, formerly known as bitwarden_rs"
+2026-11-12T06:30:47Z,cryo,cryo,0.2.1,Cryo Iceberg maintenance platform
+2026-11-12T07:03:46Z,blocky,quench-blocky,0.0.1,"Blocky: a DNS proxy and ad blocker with blocklists, conditional forwarding, DoH/DoT upstreams, caching and Prometheus metrics. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
