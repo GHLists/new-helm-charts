@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-12T13:31:35Z,klio-operator-chart,klio,0.0.19,"The Klio operator manages the lifecycle of Klio components in a Kubernetes cluster. Klio is a cloud-native backup solution for PostgreSQL databases, designed to work seamlessly with CloudNativePG."
