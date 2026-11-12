@@ -14,17 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 10:21 UTC
+## Latest list — 2026-11-12 11:20 UTC
 
-New charts added between 2026-11-12 09:19 UTC and 2026-11-12 10:21 UTC.
+New charts added between 2026-11-12 10:21 UTC and 2026-11-12 11:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-12T10-21-47-646858Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-12T11-20-22-78823Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-12 09:30:48 | [bento](https://artifacthub.io/packages/helm/wikimedia/bento) | wikimedia | 0.1.0 | Bento stream processor |
-| 2026-11-12 09:33:14 | [tusd](https://artifacthub.io/packages/helm/quench-tusd/tusd) | quench-tusd | 0.0.1 | tusd: the reference server for the tus resumable-upload protocol, storing uploa… |
-| 2026-11-12 10:10:15 | [promxy](https://artifacthub.io/packages/helm/quench-promxy/promxy) | quench-promxy | 0.0.1 | Promxy: a Prometheus aggregating proxy, one PromQL endpoint over several Promet… |
+| 2026-11-12 10:45:14 | [sish](https://artifacthub.io/packages/helm/quench-sish/sish) | quench-sish | 0.0.1 | sish: self-hosted HTTP(S), WebSocket and TCP tunnels over plain SSH, an ngrok a… |
+| 2026-11-12 11:15:50 | [gatus](https://artifacthub.io/packages/helm/quench-gatus/gatus) | quench-gatus | 0.0.1 | Gatus: a health dashboard and uptime monitor that checks HTTP, TCP, DNS, ICMP a… |
 
 ## Data source
 

@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-12T10:45:14Z,sish,quench-sish,0.0.1,"sish: self-hosted HTTP(S), WebSocket and TCP tunnels over plain SSH, an ngrok alternative where clients need only ssh -R. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-12T11:15:50Z,gatus,quench-gatus,0.0.1,"Gatus: a health dashboard and uptime monitor that checks HTTP, TCP, DNS, ICMP and TLS endpoints, keeps history, serves a status page and alerts. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
