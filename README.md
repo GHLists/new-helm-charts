@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 04:19 UTC
+## Latest list — 2026-11-12 05:19 UTC
 
-New charts added between 2026-11-12 03:19 UTC and 2026-11-12 04:19 UTC.
+New charts added between 2026-11-12 04:19 UTC and 2026-11-12 05:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-12T04-19-26-237463Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-12T05-19-18-009686Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-12 03:44:26 | [pgdog](https://artifacthub.io/packages/helm/quench-pgdog/pgdog) | quench-pgdog | 0.0.1 | PgDog: a PostgreSQL connection pooler, load balancer and sharding proxy in Rust… |
-| 2026-11-12 04:03:46 | [zoraxy](https://artifacthub.io/packages/helm/quench-zoraxy/zoraxy) | quench-zoraxy | 0.0.1 | Zoraxy: a general-purpose reverse proxy with a web UI (virtual hosts, ACME, str… |
+| 2026-11-12 04:32:31 | [3proxy](https://artifacthub.io/packages/helm/quench-3proxy/3proxy) | quench-3proxy | 0.0.1 | 3proxy: a tiny multi-protocol proxy suite (HTTP and SOCKS4/5 proxies, port mapp… |
+| 2026-11-12 05:03:32 | [chisel](https://artifacthub.io/packages/helm/quench-chisel/chisel) | quench-chisel | 0.0.1 | chisel: a fast TCP/UDP tunnel over HTTP, SSH-encrypted, for reaching services b… |
 
 ## Data source
 
