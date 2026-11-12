@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-12T03:44:26Z,pgdog,quench-pgdog,0.0.1,"PgDog: a PostgreSQL connection pooler, load balancer and sharding proxy in Rust. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-12T04:03:46Z,zoraxy,quench-zoraxy,0.0.1,"Zoraxy: a general-purpose reverse proxy with a web UI (virtual hosts, ACME, stream proxy, uptime monitor). Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."

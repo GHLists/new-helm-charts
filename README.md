@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 02:20 UTC
+## Latest list — 2026-11-12 04:19 UTC
 
-New charts added between 2026-11-12 01:20 UTC and 2026-11-12 02:20 UTC.
+New charts added between 2026-11-12 03:19 UTC and 2026-11-12 04:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-12T02-20-32-759185Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-12T04-19-26-237463Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-12 02:15:48 | [sozu](https://artifacthub.io/packages/helm/quench-sozu/sozu) | quench-sozu | 0.0.1 | Sozu: an HTTP/HTTPS reverse proxy in Rust, reconfigured at runtime over its com… |
+| 2026-11-12 03:44:26 | [pgdog](https://artifacthub.io/packages/helm/quench-pgdog/pgdog) | quench-pgdog | 0.0.1 | PgDog: a PostgreSQL connection pooler, load balancer and sharding proxy in Rust… |
+| 2026-11-12 04:03:46 | [zoraxy](https://artifacthub.io/packages/helm/quench-zoraxy/zoraxy) | quench-zoraxy | 0.0.1 | Zoraxy: a general-purpose reverse proxy with a web UI (virtual hosts, ACME, str… |
 
 ## Data source
 
