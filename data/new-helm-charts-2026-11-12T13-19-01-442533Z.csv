@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-12T12:31:31Z,klio-operator-chart,klio,0.0.19,"The Klio operator manages the lifecycle of Klio components in a Kubernetes cluster. Klio is a cloud-native backup solution for PostgreSQL databases, designed to work seamlessly with CloudNativePG."
+2026-11-12T12:44:41Z,linkding,quench-linkding,0.0.1,"linkding: a self-hosted bookmark manager with tags, full-text search, archived snapshots and a REST API, on SQLite or PostgreSQL. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."

@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 12:19 UTC
+## Latest list — 2026-11-12 13:19 UTC
 
-New charts added between 2026-11-12 11:20 UTC and 2026-11-12 12:19 UTC.
+New charts added between 2026-11-12 12:19 UTC and 2026-11-12 13:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-12T12-19-04-151376Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-12T13-19-01-442533Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-12 11:38:28 | [goaccess](https://artifacthub.io/packages/helm/quench-goaccess/goaccess) | quench-goaccess | 0.0.1 | GoAccess: a real-time web log analyzer serving a live HTML dashboard of an acce… |
+| 2026-11-12 12:31:31 | [klio-operator-chart](https://artifacthub.io/packages/helm/klio/klio-operator-chart) | klio | 0.0.19 | The Klio operator manages the lifecycle of Klio components in a Kubernetes clus… |
+| 2026-11-12 12:44:41 | [linkding](https://artifacthub.io/packages/helm/quench-linkding/linkding) | quench-linkding | 0.0.1 | linkding: a self-hosted bookmark manager with tags, full-text search, archived… |
 
 ## Data source
 
