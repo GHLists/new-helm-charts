@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-12T11:38:28Z,goaccess,quench-goaccess,0.0.1,"GoAccess: a real-time web log analyzer serving a live HTML dashboard of an access log over WebSocket. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."

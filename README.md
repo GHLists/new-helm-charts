@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 11:20 UTC
+## Latest list — 2026-11-12 12:19 UTC
 
-New charts added between 2026-11-12 10:21 UTC and 2026-11-12 11:20 UTC.
+New charts added between 2026-11-12 11:20 UTC and 2026-11-12 12:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-12T11-20-22-78823Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-12T12-19-04-151376Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-12 10:45:14 | [sish](https://artifacthub.io/packages/helm/quench-sish/sish) | quench-sish | 0.0.1 | sish: self-hosted HTTP(S), WebSocket and TCP tunnels over plain SSH, an ngrok a… |
-| 2026-11-12 11:15:50 | [gatus](https://artifacthub.io/packages/helm/quench-gatus/gatus) | quench-gatus | 0.0.1 | Gatus: a health dashboard and uptime monitor that checks HTTP, TCP, DNS, ICMP a… |
+| 2026-11-12 11:38:28 | [goaccess](https://artifacthub.io/packages/helm/quench-goaccess/goaccess) | quench-goaccess | 0.0.1 | GoAccess: a real-time web log analyzer serving a live HTML dashboard of an acce… |
 
 ## Data source
 
