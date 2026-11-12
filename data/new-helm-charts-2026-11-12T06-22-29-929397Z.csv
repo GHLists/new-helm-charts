@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-12T05:32:39Z,ghostunnel,quench-ghostunnel,0.0.1,"ghostunnel: a TLS proxy with mutual authentication that wraps a plaintext service in mTLS. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."

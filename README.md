@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 05:19 UTC
+## Latest list — 2026-11-12 06:22 UTC
 
-New charts added between 2026-11-12 04:19 UTC and 2026-11-12 05:19 UTC.
+New charts added between 2026-11-12 05:19 UTC and 2026-11-12 06:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-12T05-19-18-009686Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-12T06-22-29-929397Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-12 04:32:31 | [3proxy](https://artifacthub.io/packages/helm/quench-3proxy/3proxy) | quench-3proxy | 0.0.1 | 3proxy: a tiny multi-protocol proxy suite (HTTP and SOCKS4/5 proxies, port mapp… |
-| 2026-11-12 05:03:32 | [chisel](https://artifacthub.io/packages/helm/quench-chisel/chisel) | quench-chisel | 0.0.1 | chisel: a fast TCP/UDP tunnel over HTTP, SSH-encrypted, for reaching services b… |
+| 2026-11-12 05:32:39 | [ghostunnel](https://artifacthub.io/packages/helm/quench-ghostunnel/ghostunnel) | quench-ghostunnel | 0.0.1 | ghostunnel: a TLS proxy with mutual authentication that wraps a plaintext servi… |
 
 ## Data source
 
