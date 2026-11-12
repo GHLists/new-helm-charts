@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-12T17:44:39Z,vaultwarden,quench-vaultwarden,0.0.1,"Vaultwarden: a Bitwarden-compatible password manager server for the official clients, with the web vault, on SQLite, PostgreSQL or MySQL. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-12T18:11:36Z,kanboard,quench-kanboard,0.0.1,"Kanboard: Kanban project management with swimlanes, automatic actions, plugins and a JSON-RPC API, on SQLite, PostgreSQL or MySQL. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."

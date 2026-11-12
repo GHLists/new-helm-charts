@@ -14,17 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 17:19 UTC
+## Latest list — 2026-11-12 18:20 UTC
 
-New charts added between 2026-11-12 16:21 UTC and 2026-11-12 17:19 UTC.
+New charts added between 2026-11-12 17:19 UTC and 2026-11-12 18:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-12T17-19-00-330159Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-12T18-20-29-755761Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-12 16:37:34 | [jupyter-imagepuller](https://artifacthub.io/packages/helm/jupyter-jsc/jupyter-imagepuller) | jupyter-jsc | 1.0.0 | A Helm chart for Kubernetes |
-| 2026-11-12 16:45:16 | [chaos-experiments](https://artifacthub.io/packages/helm/ktech-org/chaos-experiments) | ktech-org | 1.0.0 | Self-service Chaos Mesh scenarios (pod-kill, network-latency, memory-stress). R… |
-| 2026-11-12 17:09:39 | [homebox](https://artifacthub.io/packages/helm/quench-homebox/homebox) | quench-homebox | 0.0.1 | Homebox: home inventory and asset tracking (items, tags, locations, attachments… |
+| 2026-11-12 17:44:39 | [vaultwarden](https://artifacthub.io/packages/helm/quench-vaultwarden/vaultwarden) | quench-vaultwarden | 0.0.1 | Vaultwarden: a Bitwarden-compatible password manager server for the official cl… |
+| 2026-11-12 18:11:36 | [kanboard](https://artifacthub.io/packages/helm/quench-kanboard/kanboard) | quench-kanboard | 0.0.1 | Kanboard: Kanban project management with swimlanes, automatic actions, plugins… |
 
 ## Data source
 
