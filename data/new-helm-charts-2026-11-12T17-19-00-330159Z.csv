@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-12T16:37:34Z,jupyter-imagepuller,jupyter-jsc,1.0.0,A Helm chart for Kubernetes
+2026-11-12T16:45:16Z,chaos-experiments,ktech-org,1.0.0,"Self-service Chaos Mesh scenarios (pod-kill, network-latency, memory-stress). Rendered with helm template and applied directly; never installed as a release."
+2026-11-12T17:09:39Z,homebox,quench-homebox,0.0.1,"Homebox: home inventory and asset tracking (items, tags, locations, attachments, warranties) on SQLite or PostgreSQL. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
