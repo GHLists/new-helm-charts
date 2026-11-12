@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-12T09:03:42Z,pushgateway,quench-pushgateway,0.0.1,"Prometheus Pushgateway: accepts metrics pushed by short-lived batch and cron jobs and exposes them for Prometheus to scrape. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-12T09:03:43Z,trickster,quench-trickster,0.0.1,"Trickster: a caching reverse proxy and accelerator for time-series databases (Prometheus, InfluxDB, ClickHouse) and HTTP origins. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
