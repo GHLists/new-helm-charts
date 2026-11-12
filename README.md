@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 18:20 UTC
+## Latest list — 2026-11-12 20:19 UTC
 
-New charts added between 2026-11-12 17:19 UTC and 2026-11-12 18:20 UTC.
+New charts added between 2026-11-12 19:19 UTC and 2026-11-12 20:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-12T18-20-29-755761Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-12T20-19-47-606406Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-12 17:44:39 | [vaultwarden](https://artifacthub.io/packages/helm/quench-vaultwarden/vaultwarden) | quench-vaultwarden | 0.0.1 | Vaultwarden: a Bitwarden-compatible password manager server for the official cl… |
-| 2026-11-12 18:11:36 | [kanboard](https://artifacthub.io/packages/helm/quench-kanboard/kanboard) | quench-kanboard | 0.0.1 | Kanboard: Kanban project management with swimlanes, automatic actions, plugins… |
+| 2026-11-12 19:44:36 | [mealie](https://artifacthub.io/packages/helm/quench-mealie/mealie) | quench-mealie | 0.0.1 | Mealie: a recipe manager and meal planner with recipe import from URLs, shoppin… |
+| 2026-11-12 20:03:46 | [actual](https://artifacthub.io/packages/helm/quench-actual/actual) | quench-actual | 0.0.1 | Actual: local-first personal budgeting with envelope budgeting, bank import and… |
 
 ## Data source
 
