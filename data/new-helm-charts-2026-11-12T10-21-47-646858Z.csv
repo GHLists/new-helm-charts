@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-12T09:30:48Z,bento,wikimedia,0.1.0,Bento stream processor
+2026-11-12T09:33:14Z,tusd,quench-tusd,0.0.1,"tusd: the reference server for the tus resumable-upload protocol, storing uploads on a volume or in S3. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-12T10:10:15Z,promxy,quench-promxy,0.0.1,"Promxy: a Prometheus aggregating proxy, one PromQL endpoint over several Prometheus servers or HA pairs with merged, de-duplicated results. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."

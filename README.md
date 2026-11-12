@@ -14,16 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 09:19 UTC
+## Latest list — 2026-11-12 10:21 UTC
 
-New charts added between 2026-11-12 08:20 UTC and 2026-11-12 09:19 UTC.
+New charts added between 2026-11-12 09:19 UTC and 2026-11-12 10:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-12T09-19-18-546257Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-12T10-21-47-646858Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-12 09:03:42 | [pushgateway](https://artifacthub.io/packages/helm/quench-pushgateway/pushgateway) | quench-pushgateway | 0.0.1 | Prometheus Pushgateway: accepts metrics pushed by short-lived batch and cron jo… |
-| 2026-11-12 09:03:43 | [trickster](https://artifacthub.io/packages/helm/quench-trickster/trickster) | quench-trickster | 0.0.1 | Trickster: a caching reverse proxy and accelerator for time-series databases (P… |
+| 2026-11-12 09:30:48 | [bento](https://artifacthub.io/packages/helm/wikimedia/bento) | wikimedia | 0.1.0 | Bento stream processor |
+| 2026-11-12 09:33:14 | [tusd](https://artifacthub.io/packages/helm/quench-tusd/tusd) | quench-tusd | 0.0.1 | tusd: the reference server for the tus resumable-upload protocol, storing uploa… |
+| 2026-11-12 10:10:15 | [promxy](https://artifacthub.io/packages/helm/quench-promxy/promxy) | quench-promxy | 0.0.1 | Promxy: a Prometheus aggregating proxy, one PromQL endpoint over several Promet… |
 
 ## Data source
 
