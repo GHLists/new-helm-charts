@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 03:22 UTC
+## Latest list — 2026-11-13 04:19 UTC
 
-New charts added between 2026-11-13 02:20 UTC and 2026-11-13 03:22 UTC.
+New charts added between 2026-11-13 03:22 UTC and 2026-11-13 04:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-13T03-22-20-041196Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-13T04-19-32-376845Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-13 03:15:31 | [shlink](https://artifacthub.io/packages/helm/quench-shlink/shlink) | quench-shlink | 0.0.1 | Shlink: the self-hosted URL shortener with custom slugs and domains, visit trac… |
+| 2026-11-13 03:32:30 | [apisix-hybrid-stack](https://artifacthub.io/packages/helm/quench-apisix-hybrid-stack/apisix-hybrid-stack) | quench-apisix-hybrid-st… | 0.0.2 | Apache APISIX in decoupled (hybrid) mode: a control plane that owns the Admin A… |
 
 ## Data source
 
