@@ -14,17 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 22:21 UTC
+## Latest list — 2026-11-13 01:20 UTC
 
-New charts added between 2026-11-12 21:20 UTC and 2026-11-12 22:21 UTC.
+New charts added between 2026-11-13 00:20 UTC and 2026-11-13 01:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-12T22-21-18-277476Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-13T01-20-48-841158Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-12 21:30:31 | [bucket-backup-restore](https://artifacthub.io/packages/helm/bucket-backup-restore/bucket-backup-restore) | bucket-backup-restore | 2.0.0 | Scheduled backups of S3-compatible buckets (or any rclone remote) into encrypte… |
-| 2026-11-12 21:32:25 | [postgresql-backup-restore](https://artifacthub.io/packages/helm/postgresql-backup-restore/postgresql-backup-restore) | postgresql-backup-resto… | 3.0.0 | Scheduled PostgreSQL backups (pg_dump) to S3-compatible storage with encryption… |
-| 2026-11-12 21:32:32 | [bookstack](https://artifacthub.io/packages/helm/quench-bookstack/bookstack) | quench-bookstack | 0.0.1 | BookStack: a wiki and documentation platform (shelves, books, chapters, pages)… |
+| 2026-11-13 01:03:48 | [changedetection](https://artifacthub.io/packages/helm/quench-changedetection/changedetection) | quench-changedetection | 0.0.1 | changedetection.io: watch web pages for changes, with filters, restock and pric… |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-13T01:03:48Z,changedetection,quench-changedetection,0.0.1,"changedetection.io: watch web pages for changes, with filters, restock and price tracking, and notifications to Apprise targets. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
