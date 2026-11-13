@@ -1,0 +1,14 @@
+created_at,chart,repository,version,description
+2026-11-13T06:21:25Z,generic_service,loeken-at-home,1.0.0,a helm chart to install sinusbot
+2026-11-13T06:21:25Z,home-assistant,loeken-at-home,2026.11.1,home-assistant - a free and open-source software for home automation designed to be a central control system for smart home devices with a focus on local control and privacy
+2026-11-13T06:21:25Z,jellyfin,loeken-at-home,10.11.11,a helm chart to install jellyfin
+2026-11-13T06:21:26Z,jellyseerr,loeken-at-home,3.1.0,a helm chart to install jellyseer
+2026-11-13T06:21:26Z,nzbget,loeken-at-home,26.3.0-ls271,nzbget - efficient usenet downloader.
+2026-11-13T06:21:26Z,prowlarr,loeken-at-home,1.37.0,prowlarr - Prowlarr is an indexer manager/proxy built on the popular *arr software
+2026-11-13T06:21:26Z,radarr,loeken-at-home,5.27.0-nightly,a helm chart to install radarr
+2026-11-13T06:21:26Z,sinusbot,loeken-at-home,2.3.0,a helm chart to install sinusbot
+2026-11-13T06:21:26Z,sonarr,loeken-at-home,4.0.20,sonarr - an internet PVR for Usenet and Torrents.
+2026-11-13T06:21:26Z,uptime-kuma,loeken-at-home,2.5.10,a helm chart to install uptime-kuma
+2026-11-13T06:21:26Z,vaultwarden,loeken-at-home,1.37.5-alpine,"vaultwarden - unofficial bitwarden compatible server written in rust, formerly known as bitwarden_rs"
+2026-11-13T06:30:39Z,application,fawzihmouda,1.0.0,"Generic Helm chart for Deployment, StatefulSet, DaemonSet, Job and CronJob"
+2026-11-13T06:44:29Z,kueue,quench-kueue,0.0.1,"Kueue: job queueing and quota management for batch and AI workloads on Kubernetes. ClusterQueues, LocalQueues and ResourceFlavors decide when a Job, JobSet, RayJob or Kubeflow job may start and where. Upstream's release manifest with the eleven CRDs, on the QuenchWorks image: built from source, non…"
