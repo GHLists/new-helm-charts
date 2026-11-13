@@ -14,27 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 07:20 UTC
+## Latest list — 2026-11-13 09:19 UTC
 
-New charts added between 2026-11-13 06:18 UTC and 2026-11-13 07:20 UTC.
+New charts added between 2026-11-13 08:20 UTC and 2026-11-13 09:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-13T07-20-23-099896Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-13T09-19-03-310179Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-13 06:21:25 | [generic_service](https://artifacthub.io/packages/helm/loeken-at-home/generic_service) | loeken-at-home | 1.0.0 | a helm chart to install sinusbot |
-| 2026-11-13 06:21:25 | [home-assistant](https://artifacthub.io/packages/helm/loeken-at-home/home-assistant) | loeken-at-home | 2026.11.1 | home-assistant - a free and open-source software for home automation designed t… |
-| 2026-11-13 06:21:25 | [jellyfin](https://artifacthub.io/packages/helm/loeken-at-home/jellyfin) | loeken-at-home | 10.11.11 | a helm chart to install jellyfin |
-| 2026-11-13 06:21:26 | [jellyseerr](https://artifacthub.io/packages/helm/loeken-at-home/jellyseerr) | loeken-at-home | 3.1.0 | a helm chart to install jellyseer |
-| 2026-11-13 06:21:26 | [nzbget](https://artifacthub.io/packages/helm/loeken-at-home/nzbget) | loeken-at-home | 26.3.0-ls271 | nzbget - efficient usenet downloader. |
-| 2026-11-13 06:21:26 | [prowlarr](https://artifacthub.io/packages/helm/loeken-at-home/prowlarr) | loeken-at-home | 1.37.0 | prowlarr - Prowlarr is an indexer manager/proxy built on the popular *arr softw… |
-| 2026-11-13 06:21:26 | [radarr](https://artifacthub.io/packages/helm/loeken-at-home/radarr) | loeken-at-home | 5.27.0-nightly | a helm chart to install radarr |
-| 2026-11-13 06:21:26 | [sinusbot](https://artifacthub.io/packages/helm/loeken-at-home/sinusbot) | loeken-at-home | 2.3.0 | a helm chart to install sinusbot |
-| 2026-11-13 06:21:26 | [sonarr](https://artifacthub.io/packages/helm/loeken-at-home/sonarr) | loeken-at-home | 4.0.20 | sonarr - an internet PVR for Usenet and Torrents. |
-| 2026-11-13 06:21:26 | [uptime-kuma](https://artifacthub.io/packages/helm/loeken-at-home/uptime-kuma) | loeken-at-home | 2.5.10 | a helm chart to install uptime-kuma |
-| 2026-11-13 06:21:26 | [vaultwarden](https://artifacthub.io/packages/helm/loeken-at-home/vaultwarden) | loeken-at-home | 1.37.5-alpine | vaultwarden - unofficial bitwarden compatible server written in rust, formerly… |
-| 2026-11-13 06:30:39 | [application](https://artifacthub.io/packages/helm/fawzihmouda/application) | fawzihmouda | 1.0.0 | Generic Helm chart for Deployment, StatefulSet, DaemonSet, Job and CronJob |
-| 2026-11-13 06:44:29 | [kueue](https://artifacthub.io/packages/helm/quench-kueue/kueue) | quench-kueue | 0.0.1 | Kueue: job queueing and quota management for batch and AI workloads on Kubernet… |
+| 2026-11-13 09:03:41 | [dragonfly-operator](https://artifacthub.io/packages/helm/quench-dragonfly-operator/dragonfly-operator) | quench-dragonfly-operat… | 0.0.1 | Dragonfly Operator: run Dragonfly, the Redis- and Memcached-compatible in-memor… |
 
 ## Data source
 

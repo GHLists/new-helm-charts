@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-13T09:03:41Z,dragonfly-operator,quench-dragonfly-operator,0.0.1,"Dragonfly Operator: run Dragonfly, the Redis- and Memcached-compatible in-memory store, from Kubernetes Dragonfly resources, with replication and failover, snapshots and TLS. The CRD ships with the chart and Dragonfly pods default to the QuenchWorks dragonfly image. Hardened by QuenchWorks: built f…"
