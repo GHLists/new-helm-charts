@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-13T23:10:02Z,k8ssandra-operator,quench-k8ssandra-operator,0.0.1,"K8ssandra Operator: run Apache Cassandra clusters from K8ssandraCluster resources, with Medusa backups, Reaper repairs and Stargate, on top of cass-operator. Both operators and their CRDs ship with the chart. Hardened by QuenchWorks: the operators are built from source, nonroot, CVE-gated, cosign-s…"

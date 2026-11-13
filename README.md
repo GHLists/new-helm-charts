@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 21:20 UTC
+## Latest list — 2026-11-13 23:19 UTC
 
-New charts added between 2026-11-13 20:20 UTC and 2026-11-13 21:20 UTC.
+New charts added between 2026-11-13 22:19 UTC and 2026-11-13 23:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-13T21-20-29-305379Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-13T23-19-50-860758Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-13 20:31:58 | [meles](https://artifacthub.io/packages/helm/meles/meles) | meles | 0.3.4 | Malware scanner for container images - web UI with scheduled scans, clamd worke… |
+| 2026-11-13 23:10:02 | [k8ssandra-operator](https://artifacthub.io/packages/helm/quench-k8ssandra-operator/k8ssandra-operator) | quench-k8ssandra-operat… | 0.0.1 | K8ssandra Operator: run Apache Cassandra clusters from K8ssandraCluster resourc… |
 
 ## Data source
 
