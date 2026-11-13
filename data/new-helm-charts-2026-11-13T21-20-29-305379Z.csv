@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-13T20:31:58Z,meles,meles,0.3.4,"Malware scanner for container images - web UI with scheduled scans, clamd workers and a ClamAV database mirror"
