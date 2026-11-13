@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 05:18 UTC
+## Latest list — 2026-11-13 06:18 UTC
 
-New charts added between 2026-11-13 04:19 UTC and 2026-11-13 05:18 UTC.
+New charts added between 2026-11-13 05:18 UTC and 2026-11-13 06:18 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-13T05-18-59-057349Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-13T06-18-49-146621Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-13 04:39:09 | [grafana-operator](https://artifacthub.io/packages/helm/quench-grafana-operator/grafana-operator) | quench-grafana-operator | 0.0.1 | Grafana Operator: run Grafana instances and manage their dashboards, datasource… |
-| 2026-11-13 05:15:41 | [victoriametrics-operator](https://artifacthub.io/packages/helm/quench-victoriametrics-operator/victoriametrics-operator) | quench-victoriametrics-… | 0.0.1 | VictoriaMetrics Operator: run VMSingle, VMCluster, VMAgent, VMAlert, VMAuth, Al… |
+| 2026-11-13 05:50:38 | [rabbitmq-cluster-operator](https://artifacthub.io/packages/helm/quench-rabbitmq-cluster-operator/rabbitmq-cluster-operator) | quench-rabbitmq-cluster… | 0.0.1 | RabbitMQ Cluster Operator: provision, scale and upgrade RabbitMQ clusters from… |
+| 2026-11-13 06:09:35 | [clickhouse-operator](https://artifacthub.io/packages/helm/quench-clickhouse-operator/clickhouse-operator) | quench-clickhouse-opera… | 0.0.1 | Altinity ClickHouse Operator: run ClickHouse installations and ClickHouse Keepe… |
 
 ## Data source
 
