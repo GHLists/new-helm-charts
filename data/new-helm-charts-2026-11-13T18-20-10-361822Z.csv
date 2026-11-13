@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-13T18:16:46Z,veridor-gate,veridor,0.1.0,"Runs `veridor run` as a Kubernetes Job so a deployment is gated on the authorization expectations you declared. The Job's exit code is the gate: Argo CD fails the sync (each sync that runs hooks runs a Job of its own, generateName; a selective or Apply Only sync runs none), Helm fails the release,…"

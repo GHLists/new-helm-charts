@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 17:22 UTC
+## Latest list — 2026-11-13 18:20 UTC
 
-New charts added between 2026-11-13 16:21 UTC and 2026-11-13 17:22 UTC.
+New charts added between 2026-11-13 17:22 UTC and 2026-11-13 18:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-13T17-22-23-94Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-13T18-20-10-361822Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-13 16:21:56 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-11-13 18:16:46 | [veridor-gate](https://artifacthub.io/packages/helm/veridor/veridor-gate) | veridor | 0.1.0 | Runs `veridor run` as a Kubernetes Job so a deployment is gated on the authoriz… |
 
 ## Data source
 
