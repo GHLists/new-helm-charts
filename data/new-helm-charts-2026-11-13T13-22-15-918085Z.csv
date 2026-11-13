@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-13T13:07:00Z,kratix,syntasso,0.0.1,A Helm chart for installing Kratix (https://kratix.io)
+2026-11-13T13:15:46Z,vitess-operator,quench-vitess-operator,0.0.2,"Vitess Operator: run Vitess (horizontally sharded MySQL) from VitessCluster resources, with vtgate, vttablet, vtctld, an etcd topology server, resharding and backups. The CRDs ship with the chart. Hardened by QuenchWorks: the operator is built from source, nonroot, CVE-gated, cosign-signed and pinn…"

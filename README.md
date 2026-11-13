@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 11:20 UTC
+## Latest list — 2026-11-13 13:22 UTC
 
-New charts added between 2026-11-13 10:20 UTC and 2026-11-13 11:20 UTC.
+New charts added between 2026-11-13 12:21 UTC and 2026-11-13 13:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-13T11-20-08-969551Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-13T13-22-15-918085Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-13 11:04:04 | [freshrss](https://artifacthub.io/packages/helm/quench-freshrss/freshrss) | quench-freshrss | 0.0.1 | FreshRSS: a self-hosted RSS and Atom aggregator with multi-user accounts and th… |
-| 2026-11-13 11:04:12 | [nats-jetstream-controller](https://artifacthub.io/packages/helm/quench-nats-jetstream-controller/nats-jetstream-controller) | quench-nats-jetstream-c… | 0.0.1 | NATS JetStream Controller (NACK): manage JetStream streams, consumers, key-valu… |
+| 2026-11-13 13:07:00 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-11-13 13:15:46 | [vitess-operator](https://artifacthub.io/packages/helm/quench-vitess-operator/vitess-operator) | quench-vitess-operator | 0.0.2 | Vitess Operator: run Vitess (horizontally sharded MySQL) from VitessCluster res… |
 
 ## Data source
 
