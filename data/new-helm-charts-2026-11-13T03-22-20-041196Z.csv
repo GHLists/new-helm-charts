@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-13T03:15:31Z,shlink,quench-shlink,0.0.1,"Shlink: the self-hosted URL shortener with custom slugs and domains, visit tracking and a REST API, on SQLite, PostgreSQL or MySQL, served by RoadRunner. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
