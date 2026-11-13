@@ -14,17 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 10:20 UTC
+## Latest list — 2026-11-13 11:20 UTC
 
-New charts added between 2026-11-13 09:19 UTC and 2026-11-13 10:20 UTC.
+New charts added between 2026-11-13 10:20 UTC and 2026-11-13 11:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-13T10-20-24-290308Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-13T11-20-08-969551Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-13 09:31:29 | [kadmo-agent-chart](https://artifacthub.io/packages/helm/kadmo/kadmo-agent-chart) | kadmo | 0.1.1 | One self-hosted Kadmo AI agent in a Kubernetes cluster you control - the kadmo-… |
-| 2026-11-13 09:44:33 | [opensearch-operator](https://artifacthub.io/packages/helm/quench-opensearch-operator/opensearch-operator) | quench-opensearch-opera… | 0.0.1 | OpenSearch Operator: run OpenSearch clusters and OpenSearch Dashboards from Ope… |
-| 2026-11-13 10:15:37 | [redis-operator](https://artifacthub.io/packages/helm/quench-redis-operator/redis-operator) | quench-redis-operator | 0.0.1 | Redis Operator (OT-CONTAINER-KIT): run Redis standalone, replication, Sentinel… |
+| 2026-11-13 11:04:04 | [freshrss](https://artifacthub.io/packages/helm/quench-freshrss/freshrss) | quench-freshrss | 0.0.1 | FreshRSS: a self-hosted RSS and Atom aggregator with multi-user accounts and th… |
+| 2026-11-13 11:04:12 | [nats-jetstream-controller](https://artifacthub.io/packages/helm/quench-nats-jetstream-controller/nats-jetstream-controller) | quench-nats-jetstream-c… | 0.0.1 | NATS JetStream Controller (NACK): manage JetStream streams, consumers, key-valu… |
 
 ## Data source
 
