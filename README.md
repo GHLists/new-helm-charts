@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 09:19 UTC
+## Latest list — 2026-11-13 10:20 UTC
 
-New charts added between 2026-11-13 08:20 UTC and 2026-11-13 09:19 UTC.
+New charts added between 2026-11-13 09:19 UTC and 2026-11-13 10:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-13T09-19-03-310179Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-13T10-20-24-290308Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-13 09:03:41 | [dragonfly-operator](https://artifacthub.io/packages/helm/quench-dragonfly-operator/dragonfly-operator) | quench-dragonfly-operat… | 0.0.1 | Dragonfly Operator: run Dragonfly, the Redis- and Memcached-compatible in-memor… |
+| 2026-11-13 09:31:29 | [kadmo-agent-chart](https://artifacthub.io/packages/helm/kadmo/kadmo-agent-chart) | kadmo | 0.1.1 | One self-hosted Kadmo AI agent in a Kubernetes cluster you control - the kadmo-… |
+| 2026-11-13 09:44:33 | [opensearch-operator](https://artifacthub.io/packages/helm/quench-opensearch-operator/opensearch-operator) | quench-opensearch-opera… | 0.0.1 | OpenSearch Operator: run OpenSearch clusters and OpenSearch Dashboards from Ope… |
+| 2026-11-13 10:15:37 | [redis-operator](https://artifacthub.io/packages/helm/quench-redis-operator/redis-operator) | quench-redis-operator | 0.0.1 | Redis Operator (OT-CONTAINER-KIT): run Redis standalone, replication, Sentinel… |
 
 ## Data source
 
