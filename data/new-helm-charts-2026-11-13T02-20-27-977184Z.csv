@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-13T01:50:35Z,prometheus-operator,quench-prometheus-operator,0.0.1,"Prometheus Operator: run Prometheus, Alertmanager and their scrape configuration from Kubernetes custom resources (Prometheus, ServiceMonitor, PodMonitor, PrometheusRule, ...). The ten CRDs ship with the chart and the config-reloader sidecar defaults to the QuenchWorks image. Hardened by QuenchWork…"

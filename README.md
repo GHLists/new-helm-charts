@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 01:20 UTC
+## Latest list — 2026-11-13 02:20 UTC
 
-New charts added between 2026-11-13 00:20 UTC and 2026-11-13 01:20 UTC.
+New charts added between 2026-11-13 01:20 UTC and 2026-11-13 02:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-13T01-20-48-841158Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-13T02-20-27-977184Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-13 01:03:48 | [changedetection](https://artifacthub.io/packages/helm/quench-changedetection/changedetection) | quench-changedetection | 0.0.1 | changedetection.io: watch web pages for changes, with filters, restock and pric… |
+| 2026-11-13 01:50:35 | [prometheus-operator](https://artifacthub.io/packages/helm/quench-prometheus-operator/prometheus-operator) | quench-prometheus-opera… | 0.0.1 | Prometheus Operator: run Prometheus, Alertmanager and their scrape configuratio… |
 
 ## Data source
 
