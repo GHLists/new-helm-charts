@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-14T21:50:37Z,shiori,quench-shiori,0.0.1,"Shiori: a bookmark manager with readable offline archives, a web UI, a REST API and a CLI, on SQLite, PostgreSQL or MySQL. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-14T22:15:28Z,listmonk,quench-listmonk,0.0.1,"listmonk: a self-hosted newsletter and mailing-list manager with campaigns, templates, subscriber lists and an API, on a bundled PostgreSQL, with the schema and first administrator set up at install. Hardened by QuenchWorks, CVE-gated, cosign-signed and pinned by digest."
