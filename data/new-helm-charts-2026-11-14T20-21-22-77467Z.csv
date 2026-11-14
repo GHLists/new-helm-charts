@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-14T19:30:56Z,filex,filex,0.2.53,"Self-hosted file manager - Go backend + Vue/React/Web Component frontend, pluggable storage/auth/DB drivers, sandboxed apps, language packs, end-to-end encrypted folders, reachable over HTTP, S3, SFTP, FTPS, NFS and WebDAV."

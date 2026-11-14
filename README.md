@@ -14,18 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 17:20 UTC
+## Latest list — 2026-11-14 20:21 UTC
 
-New charts added between 2026-11-14 16:19 UTC and 2026-11-14 17:20 UTC.
+New charts added between 2026-11-14 19:21 UTC and 2026-11-14 20:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-14T17-20-07-736884Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-14T20-21-22-77467Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-14 16:32:32 | [cdi-operator](https://artifacthub.io/packages/helm/quench-cdi-operator/cdi-operator) | quench-cdi-operator | 0.0.1 | KubeVirt Containerized Data Importer (CDI) through its operator: DataVolumes im… |
-| 2026-11-14 16:32:36 | [goalert](https://artifacthub.io/packages/helm/quench-goalert/goalert) | quench-goalert | 0.0.1 | GoAlert: on-call scheduling, automated escalations and notifications (SMS, voic… |
-| 2026-11-14 16:32:41 | [node-feature-discovery](https://artifacthub.io/packages/helm/quench-node-feature-discovery/node-feature-discovery) | quench-node-feature-dis… | 0.0.1 | Node Feature Discovery: label Kubernetes nodes with their CPU, kernel, PCI, USB… |
-| 2026-11-14 16:32:46 | [tidb-operator](https://artifacthub.io/packages/helm/quench-tidb-operator/tidb-operator) | quench-tidb-operator | 0.0.1 | TiDB Operator: runs TiDB clusters (PD, TiKV and the MySQL-compatible TiDB serve… |
+| 2026-11-14 19:30:56 | [filex](https://artifacthub.io/packages/helm/filex/filex) | filex | 0.2.53 | Self-hosted file manager - Go backend + Vue/React/Web Component frontend, plugg… |
 
 ## Data source
 
