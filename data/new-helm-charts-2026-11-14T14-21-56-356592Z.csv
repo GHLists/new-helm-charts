@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-14T13:22:08Z,t-rex,t-rex,1.0.1,"Helm chart for t-rex, a web app and API to track working time"
+2026-11-14T13:50:23Z,dev-platform-stack,quench-dev-platform-stack,0.0.1,"Forgejo (Git hosting) with Woodpecker CI, PostgreSQL and Valkey: repositories, pull requests and pipelines in one install, with Forgejo on PostgreSQL and Valkey and the Forgejo OAuth app for Woodpecker created at install. All component images are QuenchWorks-hardened, nonroot, CVE-gated, pinned by…"
+2026-11-14T14:03:37Z,bi-stack,quench-bi-stack,0.0.1,"Metabase (dashboards and questions) with ClickHouse (columnar analytics database) and PostgreSQL (Metabase's application database): Metabase is set up at install with an administrator and ClickHouse as a data source. All component images are QuenchWorks-hardened, nonroot, CVE-gated, pinned by diges…"

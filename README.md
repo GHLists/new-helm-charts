@@ -14,17 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 10:20 UTC
+## Latest list — 2026-11-14 14:21 UTC
 
-New charts added between 2026-11-14 09:21 UTC and 2026-11-14 10:20 UTC.
+New charts added between 2026-11-14 13:19 UTC and 2026-11-14 14:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-14T10-20-38-706911Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-14T14-21-56-356592Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-14 09:21:35 | [data-orchestration-stack](https://artifacthub.io/packages/helm/quench-data-orchestration-stack/data-orchestration-stack) | quench-data-orchestrati… | 0.0.1 | Dagster with PostgreSQL and Garage: data pipelines with run storage in PostgreS… |
-| 2026-11-14 09:21:35 | [status-stack](https://artifacthub.io/packages/helm/quench-status-stack/status-stack) | quench-status-stack | 0.0.1 | Gatus (status page and endpoint checks) with ntfy (push notifications) and Upti… |
-| 2026-11-14 09:50:27 | [zero-trust-access-stack](https://artifacthub.io/packages/helm/quench-zero-trust-access-stack/zero-trust-access-stack) | quench-zero-trust-acces… | 0.0.1 | Headscale (a self-hosted Tailscale control server) with Authentik (identity pro… |
+| 2026-11-14 13:22:08 | [t-rex](https://artifacthub.io/packages/helm/t-rex/t-rex) | t-rex | 1.0.1 | Helm chart for t-rex, a web app and API to track working time |
+| 2026-11-14 13:50:23 | [dev-platform-stack](https://artifacthub.io/packages/helm/quench-dev-platform-stack/dev-platform-stack) | quench-dev-platform-sta… | 0.0.1 | Forgejo (Git hosting) with Woodpecker CI, PostgreSQL and Valkey: repositories,… |
+| 2026-11-14 14:03:37 | [bi-stack](https://artifacthub.io/packages/helm/quench-bi-stack/bi-stack) | quench-bi-stack | 0.0.1 | Metabase (dashboards and questions) with ClickHouse (columnar analytics databas… |
 
 ## Data source
 
