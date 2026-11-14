@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-14T04:21:30Z,volcano,quench-volcano,0.0.1,"Volcano: batch scheduler and job controller for AI, ML and HPC workloads, with gang scheduling, queues, fair share and Job, Queue and PodGroup resources. The scheduler, controllers, admission webhooks and CRDs ship with the chart. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosi…"

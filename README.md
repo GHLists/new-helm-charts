@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 23:19 UTC
+## Latest list — 2026-11-14 05:19 UTC
 
-New charts added between 2026-11-13 22:19 UTC and 2026-11-13 23:19 UTC.
+New charts added between 2026-11-14 04:21 UTC and 2026-11-14 05:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-13T23-19-50-860758Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-14T05-19-57-851891Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-13 23:10:02 | [k8ssandra-operator](https://artifacthub.io/packages/helm/quench-k8ssandra-operator/k8ssandra-operator) | quench-k8ssandra-operat… | 0.0.1 | K8ssandra Operator: run Apache Cassandra clusters from K8ssandraCluster resourc… |
+| 2026-11-14 04:21:30 | [volcano](https://artifacthub.io/packages/helm/quench-volcano/volcano) | quench-volcano | 0.0.1 | Volcano: batch scheduler and job controller for AI, ML and HPC workloads, with… |
 
 ## Data source
 
