@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-14T07:38:31Z,flink-kubernetes-operator,quench-flink-kubernetes-operator,0.0.1,"Apache Flink Kubernetes Operator: runs Flink applications and session clusters from FlinkDeployment and FlinkSessionJob resources, with savepoint-based upgrades and the job autoscaler. Upstream's chart on the QuenchWorks image: built from the Apache source release, nonroot, CVE-gated, cosign-signed…"

@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 07:19 UTC
+## Latest list — 2026-11-14 08:18 UTC
 
-New charts added between 2026-11-14 06:21 UTC and 2026-11-14 07:19 UTC.
+New charts added between 2026-11-14 07:19 UTC and 2026-11-14 08:18 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-14T07-19-46-610256Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-14T08-18-57-289168Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-14 06:29:56 | [hornsignal-reference](https://artifacthub.io/packages/helm/hornsignal-charts/hornsignal-reference) | hornsignal-charts | 0.1.0 | Deploys a tiny static website with the United States railroad train horn signal… |
+| 2026-11-14 07:38:31 | [flink-kubernetes-operator](https://artifacthub.io/packages/helm/quench-flink-kubernetes-operator/flink-kubernetes-operator) | quench-flink-kubernetes… | 0.0.1 | Apache Flink Kubernetes Operator: runs Flink applications and session clusters… |
 
 ## Data source
 
