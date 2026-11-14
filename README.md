@@ -14,17 +14,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 14:21 UTC
+## Latest list — 2026-11-14 17:20 UTC
 
-New charts added between 2026-11-14 13:19 UTC and 2026-11-14 14:21 UTC.
+New charts added between 2026-11-14 16:19 UTC and 2026-11-14 17:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-14T14-21-56-356592Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-14T17-20-07-736884Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-14 13:22:08 | [t-rex](https://artifacthub.io/packages/helm/t-rex/t-rex) | t-rex | 1.0.1 | Helm chart for t-rex, a web app and API to track working time |
-| 2026-11-14 13:50:23 | [dev-platform-stack](https://artifacthub.io/packages/helm/quench-dev-platform-stack/dev-platform-stack) | quench-dev-platform-sta… | 0.0.1 | Forgejo (Git hosting) with Woodpecker CI, PostgreSQL and Valkey: repositories,… |
-| 2026-11-14 14:03:37 | [bi-stack](https://artifacthub.io/packages/helm/quench-bi-stack/bi-stack) | quench-bi-stack | 0.0.1 | Metabase (dashboards and questions) with ClickHouse (columnar analytics databas… |
+| 2026-11-14 16:32:32 | [cdi-operator](https://artifacthub.io/packages/helm/quench-cdi-operator/cdi-operator) | quench-cdi-operator | 0.0.1 | KubeVirt Containerized Data Importer (CDI) through its operator: DataVolumes im… |
+| 2026-11-14 16:32:36 | [goalert](https://artifacthub.io/packages/helm/quench-goalert/goalert) | quench-goalert | 0.0.1 | GoAlert: on-call scheduling, automated escalations and notifications (SMS, voic… |
+| 2026-11-14 16:32:41 | [node-feature-discovery](https://artifacthub.io/packages/helm/quench-node-feature-discovery/node-feature-discovery) | quench-node-feature-dis… | 0.0.1 | Node Feature Discovery: label Kubernetes nodes with their CPU, kernel, PCI, USB… |
+| 2026-11-14 16:32:46 | [tidb-operator](https://artifacthub.io/packages/helm/quench-tidb-operator/tidb-operator) | quench-tidb-operator | 0.0.1 | TiDB Operator: runs TiDB clusters (PD, TiKV and the MySQL-compatible TiDB serve… |
 
 ## Data source
 
