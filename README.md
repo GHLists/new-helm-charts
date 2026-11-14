@@ -14,17 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 09:21 UTC
+## Latest list — 2026-11-14 10:20 UTC
 
-New charts added between 2026-11-14 08:18 UTC and 2026-11-14 09:21 UTC.
+New charts added between 2026-11-14 09:21 UTC and 2026-11-14 10:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-14T09-21-18-670417Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-14T10-20-38-706911Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-14 08:22:12 | [temporal-ui](https://artifacthub.io/packages/helm/quench-temporal-ui/temporal-ui) | quench-temporal-ui | 0.0.1 | Temporal UI: the web UI for a Temporal cluster (workflows and their event histo… |
-| 2026-11-14 08:32:38 | [automation-stack](https://artifacthub.io/packages/helm/quench-automation-stack/automation-stack) | quench-automation-stack | 0.0.1 | n8n in queue mode with PostgreSQL and Valkey: workflow automation that scales o… |
-| 2026-11-14 08:50:37 | [workflow-stack](https://artifacthub.io/packages/helm/quench-workflow-stack/workflow-stack) | quench-workflow-stack | 0.0.1 | Temporal with PostgreSQL and the Temporal UI: durable workflow orchestration wi… |
+| 2026-11-14 09:21:35 | [data-orchestration-stack](https://artifacthub.io/packages/helm/quench-data-orchestration-stack/data-orchestration-stack) | quench-data-orchestrati… | 0.0.1 | Dagster with PostgreSQL and Garage: data pipelines with run storage in PostgreS… |
+| 2026-11-14 09:21:35 | [status-stack](https://artifacthub.io/packages/helm/quench-status-stack/status-stack) | quench-status-stack | 0.0.1 | Gatus (status page and endpoint checks) with ntfy (push notifications) and Upti… |
+| 2026-11-14 09:50:27 | [zero-trust-access-stack](https://artifacthub.io/packages/helm/quench-zero-trust-access-stack/zero-trust-access-stack) | quench-zero-trust-acces… | 0.0.1 | Headscale (a self-hosted Tailscale control server) with Authentik (identity pro… |
 
 ## Data source
 
