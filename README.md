@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 22:20 UTC
+## Latest list — 2026-11-14 23:19 UTC
 
-New charts added between 2026-11-14 21:20 UTC and 2026-11-14 22:20 UTC.
+New charts added between 2026-11-14 22:20 UTC and 2026-11-14 23:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-14T22-20-55-2057Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-14T23-19-41-530772Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-14 21:50:37 | [shiori](https://artifacthub.io/packages/helm/quench-shiori/shiori) | quench-shiori | 0.0.1 | Shiori: a bookmark manager with readable offline archives, a web UI, a REST API… |
-| 2026-11-14 22:15:28 | [listmonk](https://artifacthub.io/packages/helm/quench-listmonk/listmonk) | quench-listmonk | 0.0.1 | listmonk: a self-hosted newsletter and mailing-list manager with campaigns, tem… |
+| 2026-11-14 23:02:44 | [lumastra](https://artifacthub.io/packages/helm/lumastra/lumastra) | lumastra | 0.2.0 | Lumastra, a self-hosted media server: web, worker, optional Live TV stream prox… |
 
 ## Data source
 

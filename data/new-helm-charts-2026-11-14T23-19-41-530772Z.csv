@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-14T23:02:44Z,lumastra,lumastra,0.2.0,"Lumastra, a self-hosted media server: web, worker, optional Live TV stream proxy and sonic-analysis sidecar, with an affinity router for HLS. See README.md."
