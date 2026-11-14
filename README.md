@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 06:21 UTC
+## Latest list — 2026-11-14 07:19 UTC
 
-New charts added between 2026-11-14 05:19 UTC and 2026-11-14 06:21 UTC.
+New charts added between 2026-11-14 06:21 UTC and 2026-11-14 07:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-14T06-21-11-238333Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-14T07-19-46-610256Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-14 05:50:53 | [kubeflow-trainer](https://artifacthub.io/packages/helm/quench-kubeflow-trainer/kubeflow-trainer) | quench-kubeflow-trainer | 0.0.1 | Kubeflow Trainer: distributed training on Kubernetes (PyTorch, JAX, MPI) as Tra… |
-| 2026-11-14 06:15:33 | [knative-operator](https://artifacthub.io/packages/helm/quench-knative-operator/knative-operator) | quench-knative-operator | 0.0.1 | Knative Operator: installs and upgrades Knative Serving (serverless containers… |
+| 2026-11-14 06:29:56 | [hornsignal-reference](https://artifacthub.io/packages/helm/hornsignal-charts/hornsignal-reference) | hornsignal-charts | 0.1.0 | Deploys a tiny static website with the United States railroad train horn signal… |
 
 ## Data source
 
