@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-15T12:28:04Z,signoz-mcp-server,signoz,0.0.1-rc.1,Helm chart for the SigNoz MCP server
+2026-11-15T12:32:30Z,adguardhome,quench-adguardhome,0.0.1,"AdGuard Home: a network-wide ad and tracker blocking DNS server with a web UI, with the admin seeded at install and DNS on port 53 from a nonroot pod. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-15T12:40:31Z,domain-locker,domain-locker,0.3.8,A Helm chart for deploying Domain Locker

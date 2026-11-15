@@ -14,17 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 12:20 UTC
+## Latest list — 2026-11-15 13:20 UTC
 
-New charts added between 2026-11-15 11:20 UTC and 2026-11-15 12:20 UTC.
+New charts added between 2026-11-15 12:20 UTC and 2026-11-15 13:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-15T12-20-49-62607Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-15T13-20-55-513457Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-15 11:34:01 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
-| 2026-11-15 11:34:48 | [kanidm](https://artifacthub.io/packages/helm/quench-kanidm/kanidm) | quench-kanidm | 0.0.1 | Kanidm: an identity management server with users, groups, OAuth2/OIDC, LDAPS, p… |
-| 2026-11-15 12:15:44 | [semaphore](https://artifacthub.io/packages/helm/quench-semaphore/semaphore) | quench-semaphore | 0.0.1 | Semaphore UI: a web UI and API for running Ansible, Terraform/OpenTofu and shel… |
+| 2026-11-15 12:28:04 | [signoz-mcp-server](https://artifacthub.io/packages/helm/signoz/signoz-mcp-server) | signoz | 0.0.1-rc.1 | Helm chart for the SigNoz MCP server |
+| 2026-11-15 12:32:30 | [adguardhome](https://artifacthub.io/packages/helm/quench-adguardhome/adguardhome) | quench-adguardhome | 0.0.1 | AdGuard Home: a network-wide ad and tracker blocking DNS server with a web UI,… |
+| 2026-11-15 12:40:31 | [domain-locker](https://artifacthub.io/packages/helm/domain-locker/domain-locker) | domain-locker | 0.3.8 | A Helm chart for deploying Domain Locker |
 
 ## Data source
 
