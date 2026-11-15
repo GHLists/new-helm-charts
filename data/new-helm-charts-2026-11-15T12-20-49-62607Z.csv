@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-15T11:34:01Z,kamaji-crds,clastix,0.0.0+latest,Kamaji is the Hosted Control Plane Manager for Kubernetes.
+2026-11-15T11:34:48Z,kanidm,quench-kanidm,0.0.1,"Kanidm: an identity management server with users, groups, OAuth2/OIDC, LDAPS, passkeys and a web UI, always on TLS. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-15T12:15:44Z,semaphore,quench-semaphore,0.0.1,"Semaphore UI: a web UI and API for running Ansible, Terraform/OpenTofu and shell tasks, with the admin and encryption keys generated at install. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
