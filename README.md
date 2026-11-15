@@ -14,17 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 16:21 UTC
+## Latest list — 2026-11-15 17:19 UTC
 
-New charts added between 2026-11-15 15:22 UTC and 2026-11-15 16:21 UTC.
+New charts added between 2026-11-15 16:21 UTC and 2026-11-15 17:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-15T16-21-02-871503Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-15T17-19-49-782192Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-15 15:30:38 | [cnpg-restore-check](https://artifacthub.io/packages/helm/cnpg-restore-check/cnpg-restore-check) | cnpg-restore-check | 0.1.0 | Scheduled restore checks for CloudNativePG backups made with plugin-barman-cloud |
-| 2026-11-15 15:44:29 | [mercure](https://artifacthub.io/packages/helm/quench-mercure/mercure) | quench-mercure | 0.0.1 | Mercure: a real-time push hub (server-sent events) with JWT-authorised publishi… |
-| 2026-11-15 15:52:26 | [openbao-config-operator](https://artifacthub.io/packages/helm/openbao-config-operator/openbao-config-operator) | openbao-config-operator | 0.1.1 | Manage the configuration of an existing OpenBao server through Kubernetes custo… |
+| 2026-11-15 16:50:27 | [thelounge](https://artifacthub.io/packages/helm/quench-thelounge/thelounge) | quench-thelounge | 0.0.1 | The Lounge: a self-hosted web IRC client that stays connected, with history, pu… |
 
 ## Data source
 

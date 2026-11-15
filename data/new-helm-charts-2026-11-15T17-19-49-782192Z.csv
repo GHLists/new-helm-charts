@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-15T16:50:27Z,thelounge,quench-thelounge,0.0.1,"The Lounge: a self-hosted web IRC client that stays connected, with history, push notifications and file uploads, an admin account generated at install and native TLS. Hardened by QuenchWorks: CVE-gated, nonroot, cosign-signed and pinned by digest."
