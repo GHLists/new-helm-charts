@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 18:19 UTC
+## Latest list — 2026-11-15 19:19 UTC
 
-New charts added between 2026-11-15 17:19 UTC and 2026-11-15 18:19 UTC.
+New charts added between 2026-11-15 18:19 UTC and 2026-11-15 19:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-15T18-19-04-666275Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-15T19-19-18-018321Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-15 17:21:30 | [soju](https://artifacthub.io/packages/helm/quench-soju/soju) | quench-soju | 0.0.1 | soju: an IRC bouncer that keeps users connected to their networks and plays bac… |
-| 2026-11-15 17:38:30 | [go-httpbin](https://artifacthub.io/packages/helm/quench-go-httpbin/go-httpbin) | quench-go-httpbin | 0.0.1 | go-httpbin: httpbin in one Go binary, an HTTP request and response test service… |
+| 2026-11-15 18:21:39 | [cyberchef](https://artifacthub.io/packages/helm/quench-cyberchef/cyberchef) | quench-cyberchef | 0.0.1 | CyberChef: GCHQ's web app for encoding, decoding, encryption, compression and d… |
+| 2026-11-15 19:03:36 | [atuin-server](https://artifacthub.io/packages/helm/quench-atuin-server/atuin-server) | quench-atuin-server | 0.0.1 | Atuin server: the self-hosted sync server for Atuin shell history, end-to-end e… |
 
 ## Data source
 

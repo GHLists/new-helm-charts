@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-15T18:21:39Z,cyberchef,quench-cyberchef,0.0.1,"CyberChef: GCHQ's web app for encoding, decoding, encryption, compression and data analysis, running entirely in the browser, served by nginx with native TLS. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-15T19:03:36Z,atuin-server,quench-atuin-server,0.0.1,"Atuin server: the self-hosted sync server for Atuin shell history, end-to-end encrypted, with an account generated at install and the database on a volume. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
