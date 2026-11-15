@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-15T00:50:31Z,pocket-id,quench-pocket-id,0.0.1,"Pocket ID: a simple OIDC provider whose users sign in with passkeys only, with an admin UI and API, on SQLite or PostgreSQL, with native TLS. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-15T01:03:35Z,beszel,quench-beszel,0.0.1,"Beszel: lightweight server monitoring, a hub (PocketBase plus a web UI) with the first admin created at install and an optional agent DaemonSet from the same image. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-15T01:15:32Z,opengist,quench-opengist,0.0.1,"Opengist: a self-hosted pastebin backed by Git, with a web UI, search and git over HTTP and SSH, on SQLite, PostgreSQL or MySQL, with the admin seeded at install. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
