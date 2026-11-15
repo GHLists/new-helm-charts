@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-15T19:44:26Z,grocy,quench-grocy,0.0.1,"Grocy: groceries and household management (stock and expiry, shopping lists, recipes, chores) with the first user generated at install, SQLite on a volume and native TLS. Hardened by QuenchWorks: nonroot, CVE-gated, cosign-signed and pinned by digest."

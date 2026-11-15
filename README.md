@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 19:19 UTC
+## Latest list — 2026-11-15 20:21 UTC
 
-New charts added between 2026-11-15 18:19 UTC and 2026-11-15 19:19 UTC.
+New charts added between 2026-11-15 19:19 UTC and 2026-11-15 20:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-15T19-19-18-018321Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-15T20-21-08-263783Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-15 18:21:39 | [cyberchef](https://artifacthub.io/packages/helm/quench-cyberchef/cyberchef) | quench-cyberchef | 0.0.1 | CyberChef: GCHQ's web app for encoding, decoding, encryption, compression and d… |
-| 2026-11-15 19:03:36 | [atuin-server](https://artifacthub.io/packages/helm/quench-atuin-server/atuin-server) | quench-atuin-server | 0.0.1 | Atuin server: the self-hosted sync server for Atuin shell history, end-to-end e… |
+| 2026-11-15 19:44:26 | [grocy](https://artifacthub.io/packages/helm/quench-grocy/grocy) | quench-grocy | 0.0.1 | Grocy: groceries and household management (stock and expiry, shopping lists, re… |
 
 ## Data source
 
