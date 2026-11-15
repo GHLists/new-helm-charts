@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 07:20 UTC
+## Latest list — 2026-11-15 10:22 UTC
 
-New charts added between 2026-11-15 06:21 UTC and 2026-11-15 07:20 UTC.
+New charts added between 2026-11-15 09:19 UTC and 2026-11-15 10:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-15T07-20-57-847013Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-15T10-22-09-191656Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-15 06:44:24 | [kopia](https://artifacthub.io/packages/helm/quench-kopia/kopia) | quench-kopia | 0.0.1 | Kopia: fast, encrypted, deduplicated backups, here as a repository server on a… |
+| 2026-11-15 09:50:26 | [dufs](https://artifacthub.io/packages/helm/quench-dufs/dufs) | quench-dufs | 0.0.1 | dufs: a small file server with a web UI for upload, download, search, zip downl… |
 
 ## Data source
 

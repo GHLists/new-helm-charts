@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-15T09:50:26Z,dufs,quench-dufs,0.0.1,"dufs: a small file server with a web UI for upload, download, search, zip download and WebDAV, with an account generated at install. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
