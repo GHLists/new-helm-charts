@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-15T15:30:38Z,cnpg-restore-check,cnpg-restore-check,0.1.0,Scheduled restore checks for CloudNativePG backups made with plugin-barman-cloud
+2026-11-15T15:44:29Z,mercure,quench-mercure,0.0.1,"Mercure: a real-time push hub (server-sent events) with JWT-authorised publishing, built on Caddy, with generated keys and native TLS. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-15T15:52:26Z,openbao-config-operator,openbao-config-operator,0.1.1,Manage the configuration of an existing OpenBao server through Kubernetes custom resources.

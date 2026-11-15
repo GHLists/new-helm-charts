@@ -14,16 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 15:22 UTC
+## Latest list — 2026-11-15 16:21 UTC
 
-New charts added between 2026-11-15 14:20 UTC and 2026-11-15 15:22 UTC.
+New charts added between 2026-11-15 15:22 UTC and 2026-11-15 16:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-15T15-22-34-731977Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-15T16-21-02-871503Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-15 14:38:37 | [gonic](https://artifacthub.io/packages/helm/quench-gonic/gonic) | quench-gonic | 0.0.1 | gonic: a lightweight music streaming server with a Subsonic API, podcasts, play… |
-| 2026-11-15 15:15:28 | [maddy](https://artifacthub.io/packages/helm/quench-maddy/maddy) | quench-maddy | 0.0.1 | Maddy: an all-in-one mail server (SMTP MX and submission, IMAP, DKIM, SPF, DMAR… |
+| 2026-11-15 15:30:38 | [cnpg-restore-check](https://artifacthub.io/packages/helm/cnpg-restore-check/cnpg-restore-check) | cnpg-restore-check | 0.1.0 | Scheduled restore checks for CloudNativePG backups made with plugin-barman-cloud |
+| 2026-11-15 15:44:29 | [mercure](https://artifacthub.io/packages/helm/quench-mercure/mercure) | quench-mercure | 0.0.1 | Mercure: a real-time push hub (server-sent events) with JWT-authorised publishi… |
+| 2026-11-15 15:52:26 | [openbao-config-operator](https://artifacthub.io/packages/helm/openbao-config-operator/openbao-config-operator) | openbao-config-operator | 0.1.1 | Manage the configuration of an existing OpenBao server through Kubernetes custo… |
 
 ## Data source
 
