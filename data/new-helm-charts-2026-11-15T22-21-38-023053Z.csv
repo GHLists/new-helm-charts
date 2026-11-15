@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-15T21:21:49Z,wstunnel,quench-wstunnel,0.0.1,"wstunnel: a tunnel server for TCP, UDP and SOCKS5 over WebSocket or HTTP/2, with a generated path-prefix secret, a target allowlist and native TLS. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-15T21:23:24Z,acme-dns,acme-dns,0.1.0,Unofficial Helm chart for ACME-DNS - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.
