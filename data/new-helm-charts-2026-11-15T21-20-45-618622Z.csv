@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-15T20:30:57Z,generated-secrets-operator,generated-secrets-operator,0.2.0,Kubernetes operator that generates and rotates Secrets from GeneratedSecret resources.
+2026-11-15T20:44:25Z,gotosocial,quench-gotosocial,0.0.1,"GoToSocial: a lightweight ActivityPub server for the fediverse with a Mastodon-compatible API, an admin account generated at install, SQLite on a volume and native TLS. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
