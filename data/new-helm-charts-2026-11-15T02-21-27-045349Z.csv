@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-15T01:50:26Z,wakapi,quench-wakapi,0.0.1,"Wakapi: a self-hosted, WakaTime-compatible backend for coding statistics with a web UI and API, on SQLite, with the admin signed up at install. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
