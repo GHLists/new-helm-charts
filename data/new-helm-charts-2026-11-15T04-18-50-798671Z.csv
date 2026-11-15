@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-15T03:31:14Z,honeybeepf-llm,honeybeepf-llm,0.3.2,"Count LLM API tokens and USD cost per Kubernetes pod and workload with eBPF, with no gateway or SDK"
+2026-11-15T03:50:31Z,yarr,quench-yarr,0.0.1,"yarr: a self-hosted RSS and Atom reader with a web UI and a Fever API for mobile clients, on SQLite, with the login generated at install. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-15T04:09:32Z,gokapi,quench-gokapi,0.0.1,"Gokapi: lightweight self-hosted file sharing with expiring links, download limits and optional end-to-end encryption, on SQLite, with the admin configured at install. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
