@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 17:19 UTC
+## Latest list — 2026-11-15 18:19 UTC
 
-New charts added between 2026-11-15 16:21 UTC and 2026-11-15 17:19 UTC.
+New charts added between 2026-11-15 17:19 UTC and 2026-11-15 18:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-15T17-19-49-782192Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-15T18-19-04-666275Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-15 16:50:27 | [thelounge](https://artifacthub.io/packages/helm/quench-thelounge/thelounge) | quench-thelounge | 0.0.1 | The Lounge: a self-hosted web IRC client that stays connected, with history, pu… |
+| 2026-11-15 17:21:30 | [soju](https://artifacthub.io/packages/helm/quench-soju/soju) | quench-soju | 0.0.1 | soju: an IRC bouncer that keeps users connected to their networks and plays bac… |
+| 2026-11-15 17:38:30 | [go-httpbin](https://artifacthub.io/packages/helm/quench-go-httpbin/go-httpbin) | quench-go-httpbin | 0.0.1 | go-httpbin: httpbin in one Go binary, an HTTP request and response test service… |
 
 ## Data source
 

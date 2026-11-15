@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-15T17:21:30Z,soju,quench-soju,0.0.1,"soju: an IRC bouncer that keeps users connected to their networks and plays back history to every client, with an admin user generated at install and IRC over TLS. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-15T17:38:30Z,go-httpbin,quench-go-httpbin,0.0.1,"go-httpbin: httpbin in one Go binary, an HTTP request and response test service (echo, status codes, delays, redirects, auth, streaming) with native TLS. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
