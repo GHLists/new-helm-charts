@@ -14,17 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 04:18 UTC
+## Latest list — 2026-11-15 05:18 UTC
 
-New charts added between 2026-11-15 03:21 UTC and 2026-11-15 04:18 UTC.
+New charts added between 2026-11-15 04:18 UTC and 2026-11-15 05:18 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-15T04-18-50-798671Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-15T05-18-50-190168Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-15 03:31:14 | [honeybeepf-llm](https://artifacthub.io/packages/helm/honeybeepf-llm/honeybeepf-llm) | honeybeepf-llm | 0.3.2 | Count LLM API tokens and USD cost per Kubernetes pod and workload with eBPF, wi… |
-| 2026-11-15 03:50:31 | [yarr](https://artifacthub.io/packages/helm/quench-yarr/yarr) | quench-yarr | 0.0.1 | yarr: a self-hosted RSS and Atom reader with a web UI and a Fever API for mobil… |
-| 2026-11-15 04:09:32 | [gokapi](https://artifacthub.io/packages/helm/quench-gokapi/gokapi) | quench-gokapi | 0.0.1 | Gokapi: lightweight self-hosted file sharing with expiring links, download limi… |
+| 2026-11-15 04:50:24 | [croc](https://artifacthub.io/packages/helm/quench-croc/croc) | quench-croc | 0.0.1 | croc relay: a self-hosted relay for croc, which sends files between two compute… |
+| 2026-11-15 04:50:24 | [privatebin](https://artifacthub.io/packages/helm/quench-privatebin/privatebin) | quench-privatebin | 0.0.1 | PrivateBin: a minimalist pastebin where the server has zero knowledge of the da… |
+| 2026-11-15 05:15:29 | [inbucket](https://artifacthub.io/packages/helm/quench-inbucket/inbucket) | quench-inbucket | 0.0.1 | Inbucket: a disposable-email testing server that accepts mail for any address o… |
 
 ## Data source
 
