@@ -14,17 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 13:20 UTC
+## Latest list — 2026-11-15 14:20 UTC
 
-New charts added between 2026-11-15 12:20 UTC and 2026-11-15 13:20 UTC.
+New charts added between 2026-11-15 13:20 UTC and 2026-11-15 14:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-15T13-20-55-513457Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-15T14-20-21-836154Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-15 12:28:04 | [signoz-mcp-server](https://artifacthub.io/packages/helm/signoz/signoz-mcp-server) | signoz | 0.0.1-rc.1 | Helm chart for the SigNoz MCP server |
-| 2026-11-15 12:32:30 | [adguardhome](https://artifacthub.io/packages/helm/quench-adguardhome/adguardhome) | quench-adguardhome | 0.0.1 | AdGuard Home: a network-wide ad and tracker blocking DNS server with a web UI,… |
-| 2026-11-15 12:40:31 | [domain-locker](https://artifacthub.io/packages/helm/domain-locker/domain-locker) | domain-locker | 0.3.8 | A Helm chart for deploying Domain Locker |
+| 2026-11-15 13:32:40 | [cloudreve](https://artifacthub.io/packages/helm/quench-cloudreve/cloudreve) | quench-cloudreve | 0.0.1 | Cloudreve: self-hosted file management and sharing with a web UI, storage polic… |
+| 2026-11-15 14:09:30 | [ezbookkeeping](https://artifacthub.io/packages/helm/quench-ezbookkeeping/ezbookkeeping) | quench-ezbookkeeping | 0.0.1 | ezBookkeeping: self-hosted personal finance and bookkeeping with a web UI and P… |
 
 ## Data source
 

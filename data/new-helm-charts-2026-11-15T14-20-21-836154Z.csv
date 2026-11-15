@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-15T13:32:40Z,cloudreve,quench-cloudreve,0.0.1,"Cloudreve: self-hosted file management and sharing with a web UI, storage policies, WebDAV and share links, with the admin created at install and open registration off. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-15T14:09:30Z,ezbookkeeping,quench-ezbookkeeping,0.0.1,"ezBookkeeping: self-hosted personal finance and bookkeeping with a web UI and PWA, multi-currency, reports and import/export. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
