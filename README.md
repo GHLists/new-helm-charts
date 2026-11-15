@@ -14,17 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 05:18 UTC
+## Latest list — 2026-11-15 06:21 UTC
 
-New charts added between 2026-11-15 04:18 UTC and 2026-11-15 05:18 UTC.
+New charts added between 2026-11-15 05:18 UTC and 2026-11-15 06:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-15T05-18-50-190168Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-15T06-21-27-619124Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-15 04:50:24 | [croc](https://artifacthub.io/packages/helm/quench-croc/croc) | quench-croc | 0.0.1 | croc relay: a self-hosted relay for croc, which sends files between two compute… |
-| 2026-11-15 04:50:24 | [privatebin](https://artifacthub.io/packages/helm/quench-privatebin/privatebin) | quench-privatebin | 0.0.1 | PrivateBin: a minimalist pastebin where the server has zero knowledge of the da… |
-| 2026-11-15 05:15:29 | [inbucket](https://artifacthub.io/packages/helm/quench-inbucket/inbucket) | quench-inbucket | 0.0.1 | Inbucket: a disposable-email testing server that accepts mail for any address o… |
+| 2026-11-15 06:09:26 | [glauth](https://artifacthub.io/packages/helm/quench-glauth/glauth) | quench-glauth | 0.0.1 | GLAuth: a lightweight LDAP server with users and groups from its config, for ap… |
 
 ## Data source
 
