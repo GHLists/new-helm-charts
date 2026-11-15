@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-14T23:44:29Z,memos,quench-memos,0.0.1,"Memos: self-hosted note-taking and micro-journal with Markdown memos, tags, a timeline and an API, on SQLite, PostgreSQL or MySQL, with the admin declared at install. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."

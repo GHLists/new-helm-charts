@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 23:19 UTC
+## Latest list — 2026-11-15 00:21 UTC
 
-New charts added between 2026-11-14 22:20 UTC and 2026-11-14 23:19 UTC.
+New charts added between 2026-11-14 23:19 UTC and 2026-11-15 00:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-14T23-19-41-530772Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-15T00-21-28-777983Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-14 23:02:44 | [lumastra](https://artifacthub.io/packages/helm/lumastra/lumastra) | lumastra | 0.2.0 | Lumastra, a self-hosted media server: web, worker, optional Live TV stream prox… |
+| 2026-11-14 23:44:29 | [memos](https://artifacthub.io/packages/helm/quench-memos/memos) | quench-memos | 0.0.1 | Memos: self-hosted note-taking and micro-journal with Markdown memos, tags, a t… |
 
 ## Data source
 
