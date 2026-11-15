@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 22:21 UTC
+## Latest list — 2026-11-15 23:21 UTC
 
-New charts added between 2026-11-15 21:20 UTC and 2026-11-15 22:21 UTC.
+New charts added between 2026-11-15 22:21 UTC and 2026-11-15 23:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-15T22-21-38-023053Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-15T23-21-13-35459Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-15 21:21:49 | [wstunnel](https://artifacthub.io/packages/helm/quench-wstunnel/wstunnel) | quench-wstunnel | 0.0.1 | wstunnel: a tunnel server for TCP, UDP and SOCKS5 over WebSocket or HTTP/2, wit… |
-| 2026-11-15 21:23:24 | [acme-dns](https://artifacthub.io/packages/helm/acme-dns/acme-dns) | acme-dns | 0.1.0 | Unofficial Helm chart for ACME-DNS - Limited DNS server with RESTful HTTP API t… |
+| 2026-11-15 22:27:58 | [camp-kitchen-planner](https://artifacthub.io/packages/helm/camp-kitchen-charts/camp-kitchen-planner) | camp-kitchen-charts | 0.1.0 | A tiny static web app that estimates how much water and stove fuel to pack for… |
 
 ## Data source
 

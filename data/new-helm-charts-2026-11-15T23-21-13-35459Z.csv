@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-15T22:27:58Z,camp-kitchen-planner,camp-kitchen-charts,0.1.0,"A tiny static web app that estimates how much water and stove fuel to pack for a car-camping trip, served by nginx."
