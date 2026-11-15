@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 06:21 UTC
+## Latest list — 2026-11-15 07:20 UTC
 
-New charts added between 2026-11-15 05:18 UTC and 2026-11-15 06:21 UTC.
+New charts added between 2026-11-15 06:21 UTC and 2026-11-15 07:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-15T06-21-27-619124Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-15T07-20-57-847013Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-15 06:09:26 | [glauth](https://artifacthub.io/packages/helm/quench-glauth/glauth) | quench-glauth | 0.0.1 | GLAuth: a lightweight LDAP server with users and groups from its config, for ap… |
+| 2026-11-15 06:44:24 | [kopia](https://artifacthub.io/packages/helm/quench-kopia/kopia) | quench-kopia | 0.0.1 | Kopia: fast, encrypted, deduplicated backups, here as a repository server on a… |
 
 ## Data source
 

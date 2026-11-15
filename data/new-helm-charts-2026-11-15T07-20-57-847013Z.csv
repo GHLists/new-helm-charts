@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-15T06:44:24Z,kopia,quench-kopia,0.0.1,"Kopia: fast, encrypted, deduplicated backups, here as a repository server on a volume with its web UI, the repository created on first start and generated passwords. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
