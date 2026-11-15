@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 14:20 UTC
+## Latest list — 2026-11-15 15:22 UTC
 
-New charts added between 2026-11-15 13:20 UTC and 2026-11-15 14:20 UTC.
+New charts added between 2026-11-15 14:20 UTC and 2026-11-15 15:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-15T14-20-21-836154Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-15T15-22-34-731977Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-15 13:32:40 | [cloudreve](https://artifacthub.io/packages/helm/quench-cloudreve/cloudreve) | quench-cloudreve | 0.0.1 | Cloudreve: self-hosted file management and sharing with a web UI, storage polic… |
-| 2026-11-15 14:09:30 | [ezbookkeeping](https://artifacthub.io/packages/helm/quench-ezbookkeeping/ezbookkeeping) | quench-ezbookkeeping | 0.0.1 | ezBookkeeping: self-hosted personal finance and bookkeeping with a web UI and P… |
+| 2026-11-15 14:38:37 | [gonic](https://artifacthub.io/packages/helm/quench-gonic/gonic) | quench-gonic | 0.0.1 | gonic: a lightweight music streaming server with a Subsonic API, podcasts, play… |
+| 2026-11-15 15:15:28 | [maddy](https://artifacthub.io/packages/helm/quench-maddy/maddy) | quench-maddy | 0.0.1 | Maddy: an all-in-one mail server (SMTP MX and submission, IMAP, DKIM, SPF, DMAR… |
 
 ## Data source
 

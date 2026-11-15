@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-15T14:38:37Z,gonic,quench-gonic,0.0.1,"gonic: a lightweight music streaming server with a Subsonic API, podcasts, playlists and transcoding, with the admin password set at install and your library mounted read-only. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-15T15:15:28Z,maddy,quench-maddy,0.0.1,"Maddy: an all-in-one mail server (SMTP MX and submission, IMAP, DKIM, SPF, DMARC) with mailboxes on a volume and native TLS. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
