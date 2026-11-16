@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-16T11:23:56Z,rocketmq-dashboard,logic3579,3.0.0,"A Helm chart for RocketMQ Studio 3.x, the Apache RocketMQ management console"
+2026-11-16T11:51:04Z,komga,quench-komga,0.0.1,"Komga: media server for comics, manga, BDs and ebooks with a web reader, OPDS and Kobo/KOReader sync, with the server claimed at install and native TLS. Hardened by QuenchWorks: nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-16T12:21:44Z,rss-bridge,quench-rss-bridge,0.0.1,"RSS-Bridge: Atom, JSON and other feeds for sites that have none, with 400+ bridges, basic auth on by default, an enabled-bridges list and native TLS. Hardened by QuenchWorks: nonroot, CVE-gated, cosign-signed and pinned by digest."
