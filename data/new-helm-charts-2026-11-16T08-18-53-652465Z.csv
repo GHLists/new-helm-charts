@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-16T07:50:33Z,shaarli,quench-shaarli,0.0.1,"Shaarli: a personal, minimalist bookmark manager and link sharing service with tags, feeds and a REST API, with the account and API secret generated at install and the bookmarks on a volume. Hardened by QuenchWorks: nonroot, CVE-gated, cosign-signed and pinned by digest."
