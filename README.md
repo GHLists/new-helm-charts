@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 04:21 UTC
+## Latest list — 2026-11-16 05:21 UTC
 
-New charts added between 2026-11-16 03:19 UTC and 2026-11-16 04:21 UTC.
+New charts added between 2026-11-16 04:21 UTC and 2026-11-16 05:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-16T04-21-39-372058Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-16T05-21-23-429096Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-16 03:50:24 | [copyparty](https://artifacthub.io/packages/helm/quench-copyparty/copyparty) | quench-copyparty | 0.0.1 | copyparty: a portable file server with resumable uploads, deduplication, WebDAV… |
+| 2026-11-16 04:38:27 | [drawio](https://artifacthub.io/packages/helm/quench-drawio/drawio) | quench-drawio | 0.0.1 | draw.io: the diagramming web app (flowcharts, architecture, UML, network diagra… |
+| 2026-11-16 05:09:26 | [firefly-iii](https://artifacthub.io/packages/helm/quench-firefly-iii/firefly-iii) | quench-firefly-iii | 0.0.1 | Firefly III: a self-hosted personal finance manager with budgets, rules, recurr… |
 
 ## Data source
 

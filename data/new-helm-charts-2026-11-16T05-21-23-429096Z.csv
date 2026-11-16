@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-16T04:38:27Z,drawio,quench-drawio,0.0.1,"draw.io: the diagramming web app (flowcharts, architecture, UML, network diagrams), running in the browser, served by nginx with native TLS. Hardened by QuenchWorks: the official release artifact, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-16T05:09:26Z,firefly-iii,quench-firefly-iii,0.0.1,"Firefly III: a self-hosted personal finance manager with budgets, rules, recurring transactions, reports and a REST API, with APP_KEY generated at install and storage on a volume. Hardened by QuenchWorks: nonroot, CVE-gated, cosign-signed and pinned by digest."
