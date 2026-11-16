@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 23:21 UTC
+## Latest list — 2026-11-16 00:19 UTC
 
-New charts added between 2026-11-15 22:21 UTC and 2026-11-15 23:21 UTC.
+New charts added between 2026-11-15 23:21 UTC and 2026-11-16 00:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-15T23-21-13-35459Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-16T00-19-27-399259Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-15 22:27:58 | [camp-kitchen-planner](https://artifacthub.io/packages/helm/camp-kitchen-charts/camp-kitchen-planner) | camp-kitchen-charts | 0.1.0 | A tiny static web app that estimates how much water and stove fuel to pack for… |
+| 2026-11-15 23:21:27 | [writefreely](https://artifacthub.io/packages/helm/quench-writefreely/writefreely) | quench-writefreely | 0.0.1 | WriteFreely: a minimalist federated blogging platform with Markdown and Activit… |
 
 ## Data source
 

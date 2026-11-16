@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-15T23:21:27Z,writefreely,quench-writefreely,0.0.1,"WriteFreely: a minimalist federated blogging platform with Markdown and ActivityPub, an admin generated at install and SQLite on a volume. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
