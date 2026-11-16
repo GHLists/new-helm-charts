@@ -14,16 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 05:21 UTC
+## Latest list — 2026-11-16 07:19 UTC
 
-New charts added between 2026-11-16 04:21 UTC and 2026-11-16 05:21 UTC.
+New charts added between 2026-11-16 06:21 UTC and 2026-11-16 07:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-16T05-21-23-429096Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-16T07-19-50-118535Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-16 04:38:27 | [drawio](https://artifacthub.io/packages/helm/quench-drawio/drawio) | quench-drawio | 0.0.1 | draw.io: the diagramming web app (flowcharts, architecture, UML, network diagra… |
-| 2026-11-16 05:09:26 | [firefly-iii](https://artifacthub.io/packages/helm/quench-firefly-iii/firefly-iii) | quench-firefly-iii | 0.0.1 | Firefly III: a self-hosted personal finance manager with budgets, rules, recurr… |
+| 2026-11-16 06:21:27 | [snipe-it](https://artifacthub.io/packages/helm/quench-snipe-it/snipe-it) | quench-snipe-it | 0.0.1 | Snipe-IT: IT asset management for hardware, licenses, accessories and consumabl… |
+| 2026-11-16 06:50:47 | [koel](https://artifacthub.io/packages/helm/quench-koel/koel) | quench-koel | 0.0.1 | Koel: a personal music streaming server with a web player, playlists, podcasts… |
+| 2026-11-16 07:15:39 | [lychee](https://artifacthub.io/packages/helm/quench-lychee/lychee) | quench-lychee | 0.0.1 | Lychee: photo management with albums, sharing, smart albums, EXIF and map views… |
 
 ## Data source
 
