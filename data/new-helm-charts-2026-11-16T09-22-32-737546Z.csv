@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-16T08:32:39Z,baikal,quench-baikal,0.0.1,"Baikal: a lightweight CalDAV and CardDAV server with a web admin, with the config, database and an optional first user created at install and the data on a volume. Hardened by QuenchWorks: nonroot, CVE-gated, cosign-signed and pinned by digest."

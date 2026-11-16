@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 08:18 UTC
+## Latest list — 2026-11-16 09:22 UTC
 
-New charts added between 2026-11-16 07:19 UTC and 2026-11-16 08:18 UTC.
+New charts added between 2026-11-16 08:18 UTC and 2026-11-16 09:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-16T08-18-53-652465Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-16T09-22-32-737546Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-16 07:50:33 | [shaarli](https://artifacthub.io/packages/helm/quench-shaarli/shaarli) | quench-shaarli | 0.0.1 | Shaarli: a personal, minimalist bookmark manager and link sharing service with… |
+| 2026-11-16 08:32:39 | [baikal](https://artifacthub.io/packages/helm/quench-baikal/baikal) | quench-baikal | 0.0.1 | Baikal: a lightweight CalDAV and CardDAV server with a web admin, with the conf… |
 
 ## Data source
 
