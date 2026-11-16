@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 21:20 UTC
+## Latest list — 2026-11-16 23:21 UTC
 
-New charts added between 2026-11-16 20:21 UTC and 2026-11-16 21:20 UTC.
+New charts added between 2026-11-16 22:19 UTC and 2026-11-16 23:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-16T21-20-20-620731Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-16T23-21-13-908692Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-16 20:38:38 | [trilium](https://artifacthub.io/packages/helm/quench-trilium/trilium) | quench-trilium | 0.0.1 | Trilium Notes: hierarchical note-taking with rich text, code notes, scripting a… |
-| 2026-11-16 21:00:36 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
+| 2026-11-16 22:31:33 | [kubesift](https://artifacthub.io/packages/helm/kubesift/kubesift) | kubesift | 2.1.3 | Evidence-based Kubernetes troubleshooting service (dashboard, API, Alertmanager… |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-16T22:31:33Z,kubesift,kubesift,2.1.3,"Evidence-based Kubernetes troubleshooting service (dashboard, API, Alertmanager receiver, background scans)"
