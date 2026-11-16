@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-16T18:21:50Z,traggo,quench-traggo,0.0.1,"traggo: tag-based time tracking with dashboards and a GraphQL API, with the first admin generated at install (never admin/admin). Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."

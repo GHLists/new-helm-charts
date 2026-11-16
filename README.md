@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 18:19 UTC
+## Latest list — 2026-11-16 19:19 UTC
 
-New charts added between 2026-11-16 17:20 UTC and 2026-11-16 18:19 UTC.
+New charts added between 2026-11-16 18:19 UTC and 2026-11-16 19:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-16T18-19-45-271686Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-16T19-19-37-935599Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-16 17:22:05 | [psitransfer](https://artifacthub.io/packages/helm/quench-psitransfer/psitransfer) | quench-psitransfer | 0.0.1 | PsiTransfer: simple file sharing with resumable uploads, expiring links and pas… |
+| 2026-11-16 18:21:50 | [traggo](https://artifacthub.io/packages/helm/quench-traggo/traggo) | quench-traggo | 0.0.1 | traggo: tag-based time tracking with dashboards and a GraphQL API, with the fir… |
 
 ## Data source
 
