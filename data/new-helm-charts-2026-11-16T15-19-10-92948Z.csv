@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-16T14:30:05Z,alertigate,alertigate,2.1.1,"AlertiGate on Kubernetes: the API with the web UI, a data plane's worker, and (optionally) its PostgreSQL. docs/INSTALL.md, ""On Kubernetes""."
