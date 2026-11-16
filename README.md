@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 10:21 UTC
+## Latest list — 2026-11-16 11:20 UTC
 
-New charts added between 2026-11-16 09:22 UTC and 2026-11-16 10:21 UTC.
+New charts added between 2026-11-16 10:21 UTC and 2026-11-16 11:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-16T10-21-55-814078Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-16T11-20-12-254193Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-16 09:44:32 | [grav](https://artifacthub.io/packages/helm/quench-grav/grav) | quench-grav | 0.0.1 | Grav: a flat-file CMS with a web admin, Markdown pages, themes and plugins, wit… |
-| 2026-11-16 10:21:41 | [yopass](https://artifacthub.io/packages/helm/quench-yopass/yopass) | quench-yopass | 0.0.1 | Yopass: share secrets through one-time links; the browser encrypts with OpenPGP… |
+| 2026-11-16 10:50:31 | [wallos](https://artifacthub.io/packages/helm/quench-wallos/wallos) | quench-wallos | 0.0.1 | Wallos: self-hosted subscription and recurring-cost tracker with currencies, no… |
 
 ## Data source
 

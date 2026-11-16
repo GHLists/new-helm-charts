@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-16T10:50:31Z,wallos,quench-wallos,0.0.1,"Wallos: self-hosted subscription and recurring-cost tracker with currencies, notifications, statistics and TOTP 2FA, on SQLite, with the first account created at install and registration closed. Hardened by QuenchWorks: nonroot, CVE-gated, cosign-signed and pinned by digest."
