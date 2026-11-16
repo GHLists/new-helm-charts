@@ -1,0 +1,5 @@
+created_at,chart,repository,version,description
+2026-11-16T15:21:43Z,zipline,quench-zipline,0.0.1,"Zipline: file and image sharing with ShareX/Flameshot uploads, URL shortening, folders and invites, on the bundled PostgreSQL, with the super-admin created at install. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
+2026-11-16T15:45:37Z,krci-security-operator,epmdedp-dev,0.1.0-SNAPSHOT.2,A Helm chart for the KubeRocketCI Security Operator
+2026-11-16T15:50:38Z,silverbullet,quench-silverbullet,0.0.1,"SilverBullet: Markdown notes and personal knowledge platform with Lua scripting, live queries and an offline-capable web app, with the login and API token generated at install. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
+2026-11-16T16:04:23Z,flatnotes,quench-flatnotes,0.0.1,"flatnotes: database-less Markdown notes on a plain folder of files with full-text search and tags, with password (or TOTP) auth and generated secrets. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."

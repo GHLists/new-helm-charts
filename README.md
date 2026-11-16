@@ -14,15 +14,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 15:19 UTC
+## Latest list — 2026-11-16 16:20 UTC
 
-New charts added between 2026-11-16 14:20 UTC and 2026-11-16 15:19 UTC.
+New charts added between 2026-11-16 15:19 UTC and 2026-11-16 16:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-16T15-19-10-92948Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-16T16-20-20-392566Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-16 14:30:05 | [alertigate](https://artifacthub.io/packages/helm/alertigate/alertigate) | alertigate | 2.1.1 | AlertiGate on Kubernetes: the API with the web UI, a data plane's worker, and (… |
+| 2026-11-16 15:21:43 | [zipline](https://artifacthub.io/packages/helm/quench-zipline/zipline) | quench-zipline | 0.0.1 | Zipline: file and image sharing with ShareX/Flameshot uploads, URL shortening,… |
+| 2026-11-16 15:45:37 | [krci-security-operator](https://artifacthub.io/packages/helm/epmdedp-dev/krci-security-operator) | epmdedp-dev | 0.1.0-SNAPSHOT.2 | A Helm chart for the KubeRocketCI Security Operator |
+| 2026-11-16 15:50:38 | [silverbullet](https://artifacthub.io/packages/helm/quench-silverbullet/silverbullet) | quench-silverbullet | 0.0.1 | SilverBullet: Markdown notes and personal knowledge platform with Lua scripting… |
+| 2026-11-16 16:04:23 | [flatnotes](https://artifacthub.io/packages/helm/quench-flatnotes/flatnotes) | quench-flatnotes | 0.0.1 | flatnotes: database-less Markdown notes on a plain folder of files with full-te… |
 
 ## Data source
 
