@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 00:19 UTC
+## Latest list — 2026-11-16 02:20 UTC
 
-New charts added between 2026-11-15 23:21 UTC and 2026-11-16 00:19 UTC.
+New charts added between 2026-11-16 01:21 UTC and 2026-11-16 02:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-16T00-19-27-399259Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-16T02-20-52-877236Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-15 23:21:27 | [writefreely](https://artifacthub.io/packages/helm/quench-writefreely/writefreely) | quench-writefreely | 0.0.1 | WriteFreely: a minimalist federated blogging platform with Markdown and Activit… |
+| 2026-11-16 01:37:28 | [unifi-os-server](https://artifacthub.io/packages/helm/schichtel/unifi-os-server) | schichtel | 0.1.0 | UniFi OS Server (UniFi OS core, UniFi Network and the UniFi identity services)… |
+| 2026-11-16 01:50:26 | [derper](https://artifacthub.io/packages/helm/quench-derper/derper) | quench-derper | 0.0.1 | derper: Tailscale's DERP relay for tailnets (Tailscale or Headscale), relaying… |
 
 ## Data source
 

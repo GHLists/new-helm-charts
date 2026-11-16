@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-16T01:37:28Z,unifi-os-server,schichtel,0.1.0,"UniFi OS Server (UniFi OS core, UniFi Network and the UniFi identity services) as one pod with one container per service, using external PostgreSQL, MongoDB and RabbitMQ."
+2026-11-16T01:50:26Z,derper,quench-derper,0.0.1,"derper: Tailscale's DERP relay for tailnets (Tailscale or Headscale), relaying traffic between nodes that cannot connect directly, with STUN, TLS on 443 as nonroot. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
