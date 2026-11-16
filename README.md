@@ -14,17 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 12:21 UTC
+## Latest list — 2026-11-16 13:19 UTC
 
-New charts added between 2026-11-16 11:20 UTC and 2026-11-16 12:21 UTC.
+New charts added between 2026-11-16 12:21 UTC and 2026-11-16 13:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-16T12-21-57-355859Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-16T13-19-17-143392Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-16 11:23:56 | [rocketmq-dashboard](https://artifacthub.io/packages/helm/logic3579/rocketmq-dashboard) | logic3579 | 3.0.0 | A Helm chart for RocketMQ Studio 3.x, the Apache RocketMQ management console |
-| 2026-11-16 11:51:04 | [komga](https://artifacthub.io/packages/helm/quench-komga/komga) | quench-komga | 0.0.1 | Komga: media server for comics, manga, BDs and ebooks with a web reader, OPDS a… |
-| 2026-11-16 12:21:44 | [rss-bridge](https://artifacthub.io/packages/helm/quench-rss-bridge/rss-bridge) | quench-rss-bridge | 0.0.1 | RSS-Bridge: Atom, JSON and other feeds for sites that have none, with 400+ brid… |
+| 2026-11-16 12:38:37 | [chhoto-url](https://artifacthub.io/packages/helm/quench-chhoto-url/chhoto-url) | quench-chhoto-url | 0.0.1 | Chhoto URL: a small self-hosted URL shortener with a web UI, API keys, expiring… |
 
 ## Data source
 

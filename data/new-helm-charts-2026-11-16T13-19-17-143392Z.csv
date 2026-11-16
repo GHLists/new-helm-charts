@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-16T12:38:37Z,chhoto-url,quench-chhoto-url,0.0.1,"Chhoto URL: a small self-hosted URL shortener with a web UI, API keys, expiring links and OIDC login, with the password and API key generated at install. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
