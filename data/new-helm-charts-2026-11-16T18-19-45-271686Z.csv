@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-16T17:22:05Z,psitransfer,quench-psitransfer,0.0.1,"PsiTransfer: simple file sharing with resumable uploads, expiring links and password protection, with the upload and admin passwords generated at install and native TLS. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
