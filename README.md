@@ -14,18 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 20:21 UTC
+## Latest list — 2026-11-16 21:20 UTC
 
-New charts added between 2026-11-16 19:19 UTC and 2026-11-16 20:21 UTC.
+New charts added between 2026-11-16 20:21 UTC and 2026-11-16 21:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-16T20-21-31-988397Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-16T21-20-20-620731Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-16 19:21:34 | [apemind-web-access](https://artifacthub.io/packages/helm/kubeblocks/apemind-web-access) | kubeblocks | 0.1.1 | ApeMind web-access service for private deployment: SearxNG web search (port 808… |
-| 2026-11-16 19:21:39 | [rallly](https://artifacthub.io/packages/helm/quench-rallly/rallly) | quench-rallly | 0.0.1 | Rallly: meeting scheduling polls (a self-hosted Doodle alternative) with sign-i… |
-| 2026-11-16 19:27:11 | [apemind-computer](https://artifacthub.io/packages/helm/kubeblocks/apemind-computer) | kubeblocks | 0.2.14 | Multi-tenant hosted dsh (computer-host) gateway, control API, and supervisor. |
-| 2026-11-16 19:32:35 | [convertx](https://artifacthub.io/packages/helm/quench-convertx/convertx) | quench-convertx | 0.0.1 | ConvertX: self-hosted file converter for images, video, audio and office docume… |
+| 2026-11-16 20:38:38 | [trilium](https://artifacthub.io/packages/helm/quench-trilium/trilium) | quench-trilium | 0.0.1 | Trilium Notes: hierarchical note-taking with rich text, code notes, scripting a… |
+| 2026-11-16 21:00:36 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
 
 ## Data source
 
