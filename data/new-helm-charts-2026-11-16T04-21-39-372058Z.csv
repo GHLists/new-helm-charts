@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-16T03:50:24Z,copyparty,quench-copyparty,0.0.1,"copyparty: a portable file server with resumable uploads, deduplication, WebDAV, media indexing and per-volume permissions, with the admin password generated at install and the files on a volume. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."

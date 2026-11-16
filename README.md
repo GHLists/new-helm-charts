@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 03:19 UTC
+## Latest list — 2026-11-16 04:21 UTC
 
-New charts added between 2026-11-16 02:20 UTC and 2026-11-16 03:19 UTC.
+New charts added between 2026-11-16 03:19 UTC and 2026-11-16 04:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-16T03-19-25-839114Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-16T04-21-39-372058Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-16 02:44:27 | [microbin](https://artifacthub.io/packages/helm/quench-microbin/microbin) | quench-microbin | 0.0.1 | MicroBin: a small pastebin and file-sharing server with private, read-only and… |
-| 2026-11-16 03:15:31 | [miniserve](https://artifacthub.io/packages/helm/quench-miniserve/miniserve) | quench-miniserve | 0.0.1 | miniserve: a small file server with directory listing, uploads, archive downloa… |
+| 2026-11-16 03:50:24 | [copyparty](https://artifacthub.io/packages/helm/quench-copyparty/copyparty) | quench-copyparty | 0.0.1 | copyparty: a portable file server with resumable uploads, deduplication, WebDAV… |
 
 ## Data source
 
