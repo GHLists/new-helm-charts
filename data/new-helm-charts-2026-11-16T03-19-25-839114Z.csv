@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-16T02:44:27Z,microbin,quench-microbin,0.0.1,"MicroBin: a small pastebin and file-sharing server with private, read-only and encrypted uploads, expiry and an admin page, with the admin password generated at install and the data on a volume. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-16T03:15:31Z,miniserve,quench-miniserve,0.0.1,"miniserve: a small file server with directory listing, uploads, archive downloads, basic auth with a generated password and native TLS, serving a volume. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."

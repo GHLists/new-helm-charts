@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 02:20 UTC
+## Latest list — 2026-11-16 03:19 UTC
 
-New charts added between 2026-11-16 01:21 UTC and 2026-11-16 02:20 UTC.
+New charts added between 2026-11-16 02:20 UTC and 2026-11-16 03:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-16T02-20-52-877236Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-16T03-19-25-839114Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-16 01:37:28 | [unifi-os-server](https://artifacthub.io/packages/helm/schichtel/unifi-os-server) | schichtel | 0.1.0 | UniFi OS Server (UniFi OS core, UniFi Network and the UniFi identity services)… |
-| 2026-11-16 01:50:26 | [derper](https://artifacthub.io/packages/helm/quench-derper/derper) | quench-derper | 0.0.1 | derper: Tailscale's DERP relay for tailnets (Tailscale or Headscale), relaying… |
+| 2026-11-16 02:44:27 | [microbin](https://artifacthub.io/packages/helm/quench-microbin/microbin) | quench-microbin | 0.0.1 | MicroBin: a small pastebin and file-sharing server with private, read-only and… |
+| 2026-11-16 03:15:31 | [miniserve](https://artifacthub.io/packages/helm/quench-miniserve/miniserve) | quench-miniserve | 0.0.1 | miniserve: a small file server with directory listing, uploads, archive downloa… |
 
 ## Data source
 
