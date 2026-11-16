@@ -1,0 +1,5 @@
+created_at,chart,repository,version,description
+2026-11-16T19:21:34Z,apemind-web-access,kubeblocks,0.1.1,ApeMind web-access service for private deployment: SearxNG web search (port 8080) and Crawl4AI page reading with Chromium (port 11235) in one image. No third-party API key required.
+2026-11-16T19:21:39Z,rallly,quench-rallly,0.0.1,"Rallly: meeting scheduling polls (a self-hosted Doodle alternative) with sign-in by emailed code, on the bundled PostgreSQL. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
+2026-11-16T19:27:11Z,apemind-computer,kubeblocks,0.2.14,"Multi-tenant hosted dsh (computer-host) gateway, control API, and supervisor."
+2026-11-16T19:32:35Z,convertx,quench-convertx,0.0.1,"ConvertX: self-hosted file converter for images, video, audio and office documents, with the first account claimed at install. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."

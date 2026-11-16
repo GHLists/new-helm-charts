@@ -14,15 +14,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 19:19 UTC
+## Latest list — 2026-11-16 20:21 UTC
 
-New charts added between 2026-11-16 18:19 UTC and 2026-11-16 19:19 UTC.
+New charts added between 2026-11-16 19:19 UTC and 2026-11-16 20:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-16T19-19-37-935599Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-16T20-21-31-988397Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-16 18:21:50 | [traggo](https://artifacthub.io/packages/helm/quench-traggo/traggo) | quench-traggo | 0.0.1 | traggo: tag-based time tracking with dashboards and a GraphQL API, with the fir… |
+| 2026-11-16 19:21:34 | [apemind-web-access](https://artifacthub.io/packages/helm/kubeblocks/apemind-web-access) | kubeblocks | 0.1.1 | ApeMind web-access service for private deployment: SearxNG web search (port 808… |
+| 2026-11-16 19:21:39 | [rallly](https://artifacthub.io/packages/helm/quench-rallly/rallly) | quench-rallly | 0.0.1 | Rallly: meeting scheduling polls (a self-hosted Doodle alternative) with sign-i… |
+| 2026-11-16 19:27:11 | [apemind-computer](https://artifacthub.io/packages/helm/kubeblocks/apemind-computer) | kubeblocks | 0.2.14 | Multi-tenant hosted dsh (computer-host) gateway, control API, and supervisor. |
+| 2026-11-16 19:32:35 | [convertx](https://artifacthub.io/packages/helm/quench-convertx/convertx) | quench-convertx | 0.0.1 | ConvertX: self-hosted file converter for images, video, audio and office docume… |
 
 ## Data source
 
