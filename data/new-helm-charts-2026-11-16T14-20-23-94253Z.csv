@@ -1,0 +1,6 @@
+created_at,chart,repository,version,description
+2026-11-16T13:38:42Z,donetick,quench-donetick,0.0.1,"donetick: chore and task manager for households and teams with recurring schedules, assignees, points and notifications, with the JWT secret generated at install and signups switchable. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
+2026-11-16T14:02:32Z,karpenter-crd,karpenter-provider-gcp-crd,0.6.0,Karpenter GCP CRD chart - installs and upgrades Karpenter CustomResourceDefinitions independently
+2026-11-16T14:02:33Z,karpenter,karpenter-provider-gcp,0.1.0-rc.0,Karpenter GCP Cloud Provider — cost-efficient autoscaling for GKE clusters
+2026-11-16T14:03:40Z,apprise-api,quench-apprise-api,0.0.1,"Apprise API: one REST call to notify 100+ services (email, Slack, Discord, Telegram, ntfy, Matrix, webhooks), with stored configs, upstream authentication on by default and generated secrets. Hardened by QuenchWorks: CVE-gated, cosign-signed and pinned by digest."
+2026-11-16T14:03:46Z,rampart,rampart,0.1.0,Rampart Cloud-Native Application Security Posture Management (ASPM) Platform
