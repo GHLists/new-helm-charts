@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-16T09:44:32Z,grav,quench-grav,0.0.1,"Grav: a flat-file CMS with a web admin, Markdown pages, themes and plugins, with the first admin created at install and the site content on a volume. Hardened by QuenchWorks: nonroot, CVE-gated, cosign-signed and pinned by digest."
+2026-11-16T10:21:41Z,yopass,quench-yopass,0.0.1,"Yopass: share secrets through one-time links; the browser encrypts with OpenPGP and the server keeps only ciphertext in Memcached (bundled) or Redis until it expires or is read. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
