@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-17T02:50:40Z,wikijs,quench-wikijs,0.0.1,"Wiki.js: a wiki with Markdown and visual editors, Git sync and many auth providers, on the bundled PostgreSQL, with the first administrator from a generated Secret. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
+2026-11-17T03:03:37Z,calibre-web,quench-calibre-web,0.0.1,"Calibre-Web: browse, read and download an ebook library kept in a Calibre database, with the admin password from a generated Secret (never admin123). Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."

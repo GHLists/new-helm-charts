@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 23:21 UTC
+## Latest list — 2026-11-17 03:19 UTC
 
-New charts added between 2026-11-16 22:19 UTC and 2026-11-16 23:21 UTC.
+New charts added between 2026-11-17 02:19 UTC and 2026-11-17 03:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-16T23-21-13-908692Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-17T03-19-05-435713Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-16 22:31:33 | [kubesift](https://artifacthub.io/packages/helm/kubesift/kubesift) | kubesift | 2.1.3 | Evidence-based Kubernetes troubleshooting service (dashboard, API, Alertmanager… |
+| 2026-11-17 02:50:40 | [wikijs](https://artifacthub.io/packages/helm/quench-wikijs/wikijs) | quench-wikijs | 0.0.1 | Wiki.js: a wiki with Markdown and visual editors, Git sync and many auth provid… |
+| 2026-11-17 03:03:37 | [calibre-web](https://artifacthub.io/packages/helm/quench-calibre-web/calibre-web) | quench-calibre-web | 0.0.1 | Calibre-Web: browse, read and download an ebook library kept in a Calibre datab… |
 
 ## Data source
 
