@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-17T22:31:54Z,natterjack,natterjack,1.0.0-rc.1,"Highly available, zone-aware egress gateways for Kubernetes that replace cloud NAT gateways."

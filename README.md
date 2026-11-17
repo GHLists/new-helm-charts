@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 22:20 UTC
+## Latest list — 2026-11-17 23:19 UTC
 
-New charts added between 2026-11-17 21:19 UTC and 2026-11-17 22:20 UTC.
+New charts added between 2026-11-17 22:20 UTC and 2026-11-17 23:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-17T22-20-02-068719Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-17T23-19-21-533675Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-17 21:50:37 | [warpgate](https://artifacthub.io/packages/helm/quench-warpgate/warpgate) | quench-warpgate | 0.0.1 | Warpgate: a bastion (jump host) for SSH, HTTPS, MySQL and PostgreSQL with singl… |
-| 2026-11-17 22:06:01 | [oscar](https://artifacthub.io/packages/helm/oscar-with-selkies/oscar) | oscar-with-selkies | 1.0.1 | Persistent singleton OSCAR desktop over Selkies |
+| 2026-11-17 22:31:54 | [natterjack](https://artifacthub.io/packages/helm/natterjack/natterjack) | natterjack | 1.0.0-rc.1 | Highly available, zone-aware egress gateways for Kubernetes that replace cloud… |
 
 ## Data source
 
