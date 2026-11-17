@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 10:21 UTC
+## Latest list — 2026-11-17 15:19 UTC
 
-New charts added between 2026-11-17 09:21 UTC and 2026-11-17 10:21 UTC.
+New charts added between 2026-11-17 14:22 UTC and 2026-11-17 15:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-17T10-21-09-905618Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-17T15-19-32-051377Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-17 09:37:45 | [krci-security-operator](https://artifacthub.io/packages/helm/epmdedp/krci-security-operator) | epmdedp | 0.1.0 | A Helm chart for the KubeRocketCI Security Operator |
-| 2026-11-17 09:44:45 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-11-17 14:33:29 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-11-17 15:03:24 | [gcp-pubsub-connector](https://artifacthub.io/packages/helm/openfaas/gcp-pubsub-connector) | openfaas | 0.0.1 | Invoke OpenFaaS functions from Google Cloud Pub/Sub messages. |
 
 ## Data source
 

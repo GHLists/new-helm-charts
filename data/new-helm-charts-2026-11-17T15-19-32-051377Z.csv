@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-17T14:33:29Z,kratix,syntasso,0.0.1,A Helm chart for installing Kratix (https://kratix.io)
+2026-11-17T15:03:24Z,gcp-pubsub-connector,openfaas,0.0.1,Invoke OpenFaaS functions from Google Cloud Pub/Sub messages.
