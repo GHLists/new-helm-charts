@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-17T21:50:37Z,warpgate,quench-warpgate,0.0.1,"Warpgate: a bastion (jump host) for SSH, HTTPS, MySQL and PostgreSQL with single sign-on, per-target access and session recording, no client agent needed. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
+2026-11-17T22:06:01Z,oscar,oscar-with-selkies,1.0.1,Persistent singleton OSCAR desktop over Selkies
