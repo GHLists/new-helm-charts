@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-17T08:30:11Z,krci-cache,epmdedp,0.5.0,"A Helm chart for KubeRocketCI Cache, an HTTP cache for Tekton pipeline artifacts"
+2026-11-17T08:44:44Z,backup-operator,janip81-helm-charts,0.4.0,"Kubernetes operator that backs up PersistentVolume data as versioned, encrypted restic snapshots, with plugins that choose what to keep"
+2026-11-17T09:04:07Z,paperless-ngx,quench-paperless-ngx,0.0.1,"Paperless-ngx: scan, OCR, index and archive your documents, on the bundled PostgreSQL and Valkey. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
