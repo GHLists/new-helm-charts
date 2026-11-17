@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-17T05:04:17Z,ghostfolio,quench-ghostfolio,0.0.1,"Ghostfolio: wealth management and portfolio tracker for stocks, ETFs and crypto, on the bundled PostgreSQL and Valkey. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
