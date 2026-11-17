@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-17T15:34:41Z,cobblerd,cobbler,0.1.0,NOT PRODUCTION READY: A Helm chart to host the Cobbler backend (the cobblerd XML-RPC daemon and its HTTP/XML-RPC API). See the chart README's Known Limitations section before using it.
