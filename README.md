@@ -14,17 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 09:21 UTC
+## Latest list — 2026-11-17 10:21 UTC
 
-New charts added between 2026-11-17 08:21 UTC and 2026-11-17 09:21 UTC.
+New charts added between 2026-11-17 09:21 UTC and 2026-11-17 10:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-17T09-21-27-770498Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-17T10-21-09-905618Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-17 08:30:11 | [krci-cache](https://artifacthub.io/packages/helm/epmdedp/krci-cache) | epmdedp | 0.5.0 | A Helm chart for KubeRocketCI Cache, an HTTP cache for Tekton pipeline artifacts |
-| 2026-11-17 08:44:44 | [backup-operator](https://artifacthub.io/packages/helm/janip81-helm-charts/backup-operator) | janip81-helm-charts | 0.4.0 | Kubernetes operator that backs up PersistentVolume data as versioned, encrypted… |
-| 2026-11-17 09:04:07 | [paperless-ngx](https://artifacthub.io/packages/helm/quench-paperless-ngx/paperless-ngx) | quench-paperless-ngx | 0.0.1 | Paperless-ngx: scan, OCR, index and archive your documents, on the bundled Post… |
+| 2026-11-17 09:37:45 | [krci-security-operator](https://artifacthub.io/packages/helm/epmdedp/krci-security-operator) | epmdedp | 0.1.0 | A Helm chart for the KubeRocketCI Security Operator |
+| 2026-11-17 09:44:45 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
 
 ## Data source
 
