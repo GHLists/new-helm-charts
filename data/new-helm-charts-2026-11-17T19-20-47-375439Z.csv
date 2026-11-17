@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-17T18:50:32Z,netbird,quench-netbird,0.0.1,"NetBird: a WireGuard mesh VPN with SSO, access control and routing peers. Management (with built-in sign-in), signal, relay and the dashboard on the bundled PostgreSQL. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
+2026-11-17T19:15:45Z,vpn-stack,quench-vpn-stack,0.0.1,"A self-hosted VPN: NetBird (WireGuard mesh with single sign-on, access policies and routing peers) on a highly available PostgreSQL (a 3-member Patroni cluster that fails over on its own). All component images are QuenchWorks-hardened, nonroot, CVE-gated, pinned by digest and cosign-signed."

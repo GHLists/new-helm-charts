@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 16:18 UTC
+## Latest list — 2026-11-17 19:20 UTC
 
-New charts added between 2026-11-17 15:19 UTC and 2026-11-17 16:18 UTC.
+New charts added between 2026-11-17 18:19 UTC and 2026-11-17 19:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-17T16-18-58-467817Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-17T19-20-47-375439Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-17 15:34:41 | [cobblerd](https://artifacthub.io/packages/helm/cobbler/cobblerd) | cobbler | 0.1.0 | NOT PRODUCTION READY: A Helm chart to host the Cobbler backend (the cobblerd XM… |
+| 2026-11-17 18:50:32 | [netbird](https://artifacthub.io/packages/helm/quench-netbird/netbird) | quench-netbird | 0.0.1 | NetBird: a WireGuard mesh VPN with SSO, access control and routing peers. Manag… |
+| 2026-11-17 19:15:45 | [vpn-stack](https://artifacthub.io/packages/helm/quench-vpn-stack/vpn-stack) | quench-vpn-stack | 0.0.1 | A self-hosted VPN: NetBird (WireGuard mesh with single sign-on, access policies… |
 
 ## Data source
 
