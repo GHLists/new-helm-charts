@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 11:21 UTC
+## Latest list — 2026-11-18 12:21 UTC
 
-New charts added between 2026-11-18 10:21 UTC and 2026-11-18 11:21 UTC.
+New charts added between 2026-11-18 11:21 UTC and 2026-11-18 12:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-18T11-21-32-092119Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-18T12-21-10-435416Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-18 10:38:35 | [cosmotech-gateway](https://artifacthub.io/packages/helm/cosmotech-api/cosmotech-gateway) | cosmotech-api | 0.1.0 | Cosmo Tech Gateway |
-| 2026-11-18 11:02:06 | [croft](https://artifacthub.io/packages/helm/croft/croft) | croft | 0.3.0 | eBPF collector on every node, and croft scale for the Deployments listed in val… |
+| 2026-11-18 12:03:41 | [prometheus-haproxy-exporter](https://artifacthub.io/packages/helm/prometheus-haproxy-exporter/prometheus-haproxy-exporter) | prometheus-haproxy-expo… | 0.1.8 | A Helm chart to export the metrics from haproxy in Prometheus format. |
+| 2026-11-18 12:03:41 | [prometheus-pve-exporter](https://artifacthub.io/packages/helm/prometheus-pve-exporter/prometheus-pve-exporter) | prometheus-pve-exporter | 0.1.18 | A Helm chart to export the metrics from pve in Prometheus format. |
 
 ## Data source
 
