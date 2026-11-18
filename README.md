@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 23:19 UTC
+## Latest list — 2026-11-18 03:20 UTC
 
-New charts added between 2026-11-17 22:20 UTC and 2026-11-17 23:19 UTC.
+New charts added between 2026-11-18 02:20 UTC and 2026-11-18 03:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-17T23-19-21-533675Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-18T03-20-52-878901Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-17 22:31:54 | [natterjack](https://artifacthub.io/packages/helm/natterjack/natterjack) | natterjack | 1.0.0-rc.1 | Highly available, zone-aware egress gateways for Kubernetes that replace cloud… |
+| 2026-11-18 02:32:51 | [feature-flags-stack](https://artifacthub.io/packages/helm/quench-feature-flags-stack/feature-flags-stack) | quench-feature-flags-st… | 0.0.1 | Unleash with PostgreSQL: feature flags and gradual rollouts, with the API token… |
 
 ## Data source
 

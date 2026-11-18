@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-18T02:32:51Z,feature-flags-stack,quench-feature-flags-stack,0.0.1,"Unleash with PostgreSQL: feature flags and gradual rollouts, with the API tokens your services and front ends use generated at install and kept across upgrades. All component images are QuenchWorks-hardened, nonroot, CVE-gated, pinned by digest and cosign-signed."
