@@ -14,15 +14,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 17:21 UTC
+## Latest list — 2026-11-18 21:19 UTC
 
-New charts added between 2026-11-18 16:22 UTC and 2026-11-18 17:21 UTC.
+New charts added between 2026-11-18 20:21 UTC and 2026-11-18 21:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-18T17-21-09-638933Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-18T21-19-58-622666Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-18 17:16:57 | [speaches](https://artifacthub.io/packages/helm/speaches/speaches) | speaches | 0.1.0 | speaches (OpenAI-compatible speech-to-text with faster-whisper and text-to-spee… |
+| 2026-11-18 20:24:16 | [cluster-rhbk](https://artifacthub.io/packages/helm/startx/cluster-rhbk) | startx | 21.3.370 | Helm chart used to configure Red Hat build of Keycloak (RHBK) at the cluster le… |
+| 2026-11-18 20:30:09 | [allure-docker-service](https://artifacthub.io/packages/helm/allure-docker-service-chart/allure-docker-service) | allure-docker-service-c… | 1.0.1 | Allure Docker Service on Kubernetes, with optional Allure UI, ingress and persi… |
+| 2026-11-18 20:53:43 | [pangolin-cli](https://artifacthub.io/packages/helm/fosrl/pangolin-cli) | fosrl | 0.1.0 | Helm chart to run Pangolin sites with the Pangolin CLI (fosrl/cli) |
+| 2026-11-18 21:04:17 | [rabbitmq-stomp](https://artifacthub.io/packages/helm/rabbitmq-stomp-chart/rabbitmq-stomp) | rabbitmq-stomp-chart | 1.0.0 | Single-node RabbitMQ with the management, STOMP and Web STOMP plugins, using th… |
 
 ## Data source
 

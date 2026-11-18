@@ -1,0 +1,5 @@
+created_at,chart,repository,version,description
+2026-11-18T20:24:16Z,cluster-rhbk,startx,21.3.370,"Helm chart used to configure Red Hat build of Keycloak (RHBK) at the cluster level, with the rhbk-operator, Keycloak instances, realm imports and an OpenShift route"
+2026-11-18T20:30:09Z,allure-docker-service,allure-docker-service-chart,1.0.1,"Allure Docker Service on Kubernetes, with optional Allure UI, ingress and persistent report storage"
+2026-11-18T20:53:43Z,pangolin-cli,fosrl,0.1.0,Helm chart to run Pangolin sites with the Pangolin CLI (fosrl/cli)
+2026-11-18T21:04:17Z,rabbitmq-stomp,rabbitmq-stomp-chart,1.0.0,"Single-node RabbitMQ with the management, STOMP and Web STOMP plugins, using the Think-Cube rabbitmq-stomp image"
