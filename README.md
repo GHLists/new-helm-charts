@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 16:22 UTC
+## Latest list — 2026-11-18 17:21 UTC
 
-New charts added between 2026-11-18 15:19 UTC and 2026-11-18 16:22 UTC.
+New charts added between 2026-11-18 16:22 UTC and 2026-11-18 17:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-18T16-22-29-670393Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-18T17-21-09-638933Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-18 16:02:52 | [oba](https://artifacthub.io/packages/helm/korur/oba) | korur | 0.1.0 | Oba, an open-source work platform: one Spring Boot API and the Kazan, Kaya, Kal… |
-| 2026-11-18 16:03:07 | [mahahe-website](https://artifacthub.io/packages/helm/mahahe-website/mahahe-website) | mahahe-website | 1.0.0 | The MaHaHe website (www.mahahe.it and helm.mahahe.it), a static Hugo site serve… |
+| 2026-11-18 17:16:57 | [speaches](https://artifacthub.io/packages/helm/speaches/speaches) | speaches | 0.1.0 | speaches (OpenAI-compatible speech-to-text with faster-whisper and text-to-spee… |
 
 ## Data source
 

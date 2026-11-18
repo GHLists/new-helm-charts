@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-18T17:16:57Z,speaches,speaches,0.1.0,"speaches (OpenAI-compatible speech-to-text with faster-whisper and text-to-speech with piper) with a CTranslate2 build that also runs on Maxwell GPUs (GTX 750 Ti, compute capability 5.0)."
