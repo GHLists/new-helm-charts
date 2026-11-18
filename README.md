@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 09:20 UTC
+## Latest list — 2026-11-18 11:21 UTC
 
-New charts added between 2026-11-18 08:19 UTC and 2026-11-18 09:20 UTC.
+New charts added between 2026-11-18 10:21 UTC and 2026-11-18 11:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-18T09-20-52-218227Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-18T11-21-32-092119Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-18 08:43:53 | [flyte-devbox](https://artifacthub.io/packages/helm/flyte/flyte-devbox) | flyte | 0.1.0 | A Helm chart for the Flyte local demo cluster |
-| 2026-11-18 08:47:41 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
+| 2026-11-18 10:38:35 | [cosmotech-gateway](https://artifacthub.io/packages/helm/cosmotech-api/cosmotech-gateway) | cosmotech-api | 0.1.0 | Cosmo Tech Gateway |
+| 2026-11-18 11:02:06 | [croft](https://artifacthub.io/packages/helm/croft/croft) | croft | 0.3.0 | eBPF collector on every node, and croft scale for the Deployments listed in val… |
 
 ## Data source
 
