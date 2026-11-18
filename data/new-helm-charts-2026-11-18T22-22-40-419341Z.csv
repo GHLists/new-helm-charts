@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-18T21:50:26Z,sim,quench-sim,0.0.1,"Sim: visual builder for AI agent workflows (a maintained replacement for the archived Flowise), with its realtime collaboration server and scheduled jobs, on the bundled PostgreSQL with pgvector. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
