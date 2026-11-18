@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 22:22 UTC
+## Latest list — 2026-11-18 23:21 UTC
 
-New charts added between 2026-11-18 21:19 UTC and 2026-11-18 22:22 UTC.
+New charts added between 2026-11-18 22:22 UTC and 2026-11-18 23:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-18T22-22-40-419341Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-18T23-21-16-182288Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-18 21:50:26 | [sim](https://artifacthub.io/packages/helm/quench-sim/sim) | quench-sim | 0.0.1 | Sim: visual builder for AI agent workflows (a maintained replacement for the ar… |
+| 2026-11-18 22:43:00 | [mo-backup](https://artifacthub.io/packages/helm/mogenius/mo-backup) | mogenius | 1.0.29 | This is the mogenius backup script. |
+| 2026-11-18 22:43:00 | [mo-backup-mysql](https://artifacthub.io/packages/helm/mogenius/mo-backup-mysql) | mogenius | 1.0.29 | This is the mogenius backup script. |
 
 ## Data source
 
