@@ -1,0 +1,9 @@
+created_at,chart,repository,version,description
+2026-11-18T12:22:45Z,youtrack,youtrack,0.1.12,A Helm chart to install YouTrack in your Kubernetes Cluster
+2026-11-18T12:49:46Z,cluster-eck,startx,21.3.362,Configure the Elastic Cloud on Kubernetes (ECK) operator and the Elasticsearch clusters and Kibana instances it manages
+2026-11-18T12:49:49Z,cluster-metallb,startx,21.3.362,"Configure the MetalLB operator and the load balancer address pools, layer 2 and BGP advertisements of a bare metal cluster"
+2026-11-18T12:49:50Z,cluster-prometheus,startx,21.3.362,"Configure the Cluster Observability Operator and the Prometheus monitoring stacks of the application workloads, in standard namespaces or in user-defined networks"
+2026-11-18T12:49:53Z,unifai,startx,21.3.363,"Deploy the UnifAI multi-agent AI platform on OpenShift or Kubernetes, by installing the UnifAI operator and a UnifaiStack resource"
+2026-11-18T12:52:11Z,castai-config-sync,castai,0.1.0-rc.1,"CAST AI Kubernetes operator for two-way sync of autoscaling policies, node configurations, and node templates."
+2026-11-18T12:59:19Z,openbao-config-operator,openbao-config-operator,1.0.0,Manage existing OpenBao configuration declaratively with Kubernetes custom resources and GitOps.
+2026-11-18T13:03:08Z,foundry-vtt,mahahe-foundry-vtt,0.1.7,Foundry Virtual Tabletop
