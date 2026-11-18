@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 14:20 UTC
+## Latest list — 2026-11-18 15:19 UTC
 
-New charts added between 2026-11-18 13:20 UTC and 2026-11-18 14:20 UTC.
+New charts added between 2026-11-18 14:20 UTC and 2026-11-18 15:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-18T14-20-07-592452Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-18T15-19-22-315445Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-18 13:49:12 | [common](https://artifacthub.io/packages/helm/criblio/common) | criblio | 1.0.0 | Common templates for Cribl Helm Charts |
-| 2026-11-18 13:49:12 | [pod-killer](https://artifacthub.io/packages/helm/criblio/pod-killer) | criblio | 1.0.0 | A Simple Cron Job that deletes pods based on pod name on a schedule defined in… |
+| 2026-11-18 15:03:25 | [oba](https://artifacthub.io/packages/helm/oba/oba) | oba | 0.1.0 | Oba, an open-source work platform: one Spring Boot API and the Kazan, Kaya, Kal… |
 
 ## Data source
 

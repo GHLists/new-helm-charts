@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-18T15:03:25Z,oba,oba,0.1.0,"Oba, an open-source work platform: one Spring Boot API and the Kazan, Kaya, Kalkan, Otak, Admin and Account web apps. The chart runs each component as its own Deployment and Service, with an optional Ingress."
