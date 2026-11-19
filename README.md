@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 20:20 UTC
+## Latest list — 2026-11-19 22:21 UTC
 
-New charts added between 2026-11-19 19:21 UTC and 2026-11-19 20:20 UTC.
+New charts added between 2026-11-19 21:20 UTC and 2026-11-19 22:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-19T20-20-58-191688Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-19T22-21-56-02739Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-19 19:32:36 | [chartdb](https://artifacthub.io/packages/helm/quench-chartdb/chartdb) | quench-chartdb | 0.0.1 | ChartDB: database diagram editor and visualizer: import a schema with one query… |
-| 2026-11-19 19:32:40 | [kimai](https://artifacthub.io/packages/helm/quench-kimai/kimai) | quench-kimai | 0.0.1 | Kimai: open-source time tracking for freelancers and teams, with timesheets, pr… |
+| 2026-11-19 21:32:03 | [aibom-workload-namespace](https://artifacthub.io/packages/helm/openshift/aibom-workload-namespace) | openshift | 1.0.2 | Per-namespace RBAC and scripts ConfigMap for AIBOM-instrumented workload namesp… |
 
 ## Data source
 

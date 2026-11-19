@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-19T21:32:03Z,aibom-workload-namespace,openshift,1.0.2,Per-namespace RBAC and scripts ConfigMap for AIBOM-instrumented workload namespaces
