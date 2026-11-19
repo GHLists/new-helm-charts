@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-19T07:30:27Z,mo-backup,mogenius,1.0.29,This is the mogenius backup script.
+2026-11-19T07:30:27Z,mo-backup-mysql,mogenius,1.0.29,This is the mogenius backup script.
+2026-11-19T08:02:17Z,harbor-resource-operator,harbor-resource-operator,0.1.1,A Helm chart to distribute harbor-resource-operator
