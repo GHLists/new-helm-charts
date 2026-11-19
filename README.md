@@ -14,15 +14,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 10:22 UTC
+## Latest list — 2026-11-19 12:21 UTC
 
-New charts added between 2026-11-19 09:22 UTC and 2026-11-19 10:22 UTC.
+New charts added between 2026-11-19 11:19 UTC and 2026-11-19 12:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-19T10-22-53-797656Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-19T12-21-45-135336Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-19 10:11:56 | [go-site-monitor](https://artifacthub.io/packages/helm/supporttools/go-site-monitor) | supporttools | 6.0.0 | go-site-monitor is a tool monitoring the status of a website and the HTTP acces… |
+| 2026-11-19 11:55:44 | [jupyter-imagepuller](https://artifacthub.io/packages/helm/jupyter-jsc/jupyter-imagepuller) | jupyter-jsc | 1.0.0 | A Helm chart for Kubernetes |
+| 2026-11-19 11:55:44 | [jupyter-tunnel-secrets](https://artifacthub.io/packages/helm/jupyter-jsc/jupyter-tunnel-secrets) | jupyter-jsc | 0.1.0 | ExternalSecrets for the Jupyter tunnel service |
+| 2026-11-19 11:55:44 | [jupyterhub-outpost-secrets](https://artifacthub.io/packages/helm/jupyter-jsc/jupyterhub-outpost-secrets) | jupyter-jsc | 0.1.0 | ExternalSecrets for a JupyterHub outpost |
+| 2026-11-19 11:55:44 | [jupyterhub-secrets](https://artifacthub.io/packages/helm/jupyter-jsc/jupyterhub-secrets) | jupyter-jsc | 0.1.0 | ExternalSecrets for a JupyterHub |
 
 ## Data source
 
