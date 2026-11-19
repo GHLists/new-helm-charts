@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 16:19 UTC
+## Latest list — 2026-11-19 17:21 UTC
 
-New charts added between 2026-11-19 15:20 UTC and 2026-11-19 16:19 UTC.
+New charts added between 2026-11-19 16:19 UTC and 2026-11-19 17:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-19T16-19-54-631264Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-19T17-21-24-314102Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-19 15:28:27 | [kure](https://artifacthub.io/packages/helm/kure-monitor/kure) | kure-monitor | 2.6.2 | Kubernetes AI observability platform with proactive AI Advice, security scannin… |
-| 2026-11-19 16:15:45 | [leantime](https://artifacthub.io/packages/helm/quench-leantime/leantime) | quench-leantime | 0.0.1 | Leantime: project management for non-project-managers, with tasks, kanban, time… |
+| 2026-11-19 16:33:01 | [audiobookshelf](https://artifacthub.io/packages/helm/quench-audiobookshelf/audiobookshelf) | quench-audiobookshelf | 0.0.1 | Audiobookshelf: a self-hosted audiobook and podcast server with progress sync,… |
+| 2026-11-19 17:05:04 | [kutt](https://artifacthub.io/packages/helm/quench-kutt/kutt) | quench-kutt | 0.0.1 | Kutt: a URL shortener with custom domains, link stats, password-protected and e… |
 
 ## Data source
 
