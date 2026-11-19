@@ -1,0 +1,6 @@
+created_at,chart,repository,version,description
+2026-11-19T12:51:01Z,jupyter-imagepuller,jupyter-jsc,1.0.0,A Helm chart for Kubernetes
+2026-11-19T12:51:01Z,jupyter-tunnel-secrets,jupyter-jsc,0.1.0,ExternalSecrets for the Jupyter tunnel service
+2026-11-19T12:51:01Z,jupyterhub-outpost-secrets,jupyter-jsc,0.1.0,ExternalSecrets for a JupyterHub outpost
+2026-11-19T12:51:01Z,jupyterhub-secrets,jupyter-jsc,0.1.0,ExternalSecrets for a JupyterHub
+2026-11-19T13:01:15Z,bardiup,bardiup,0.1.0,"Lightweight, namespace-scoped PVC backups to S3 with Grandfather-Father-Son retention."
