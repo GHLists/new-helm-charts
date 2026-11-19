@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 18:22 UTC
+## Latest list — 2026-11-19 19:21 UTC
 
-New charts added between 2026-11-19 17:21 UTC and 2026-11-19 18:22 UTC.
+New charts added between 2026-11-19 18:22 UTC and 2026-11-19 19:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-19T18-22-00-722451Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-19T19-21-06-755435Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-19 18:00:39 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
-| 2026-11-19 18:21:37 | [seerr](https://artifacthub.io/packages/helm/quench-seerr/seerr) | quench-seerr | 0.0.1 | Seerr (formerly Jellyseerr): media request management for Jellyfin, Emby and Pl… |
+| 2026-11-19 19:02:57 | [llmkube](https://artifacthub.io/packages/helm/llmkube/llmkube) | llmkube | 0.9.18 | A Helm chart for LLMKube - Kubernetes operator for GPU-accelerated LLM inference |
 
 ## Data source
 
