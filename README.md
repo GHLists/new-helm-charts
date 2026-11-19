@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 09:22 UTC
+## Latest list — 2026-11-19 10:22 UTC
 
-New charts added between 2026-11-19 08:20 UTC and 2026-11-19 09:22 UTC.
+New charts added between 2026-11-19 09:22 UTC and 2026-11-19 10:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-19T09-22-49-744434Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-19T10-22-53-797656Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-19 08:57:41 | [hive-metastore](https://artifacthub.io/packages/helm/wikimedia/hive-metastore) | wikimedia | 0.0.1 | A Helm chart to deploy a Hive Metastore to Kubernetes, storing metadata in PG,… |
-| 2026-11-19 08:59:00 | [gcp-pubsub-connector](https://artifacthub.io/packages/helm/openfaas/gcp-pubsub-connector) | openfaas | 0.0.1 | Invoke OpenFaaS functions from Google Cloud Pub/Sub messages. |
+| 2026-11-19 10:11:56 | [go-site-monitor](https://artifacthub.io/packages/helm/supporttools/go-site-monitor) | supporttools | 6.0.0 | go-site-monitor is a tool monitoring the status of a website and the HTTP acces… |
 
 ## Data source
 
