@@ -14,17 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 08:20 UTC
+## Latest list — 2026-11-19 09:22 UTC
 
-New charts added between 2026-11-19 07:19 UTC and 2026-11-19 08:20 UTC.
+New charts added between 2026-11-19 08:20 UTC and 2026-11-19 09:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-19T08-20-02-858796Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-19T09-22-49-744434Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-19 07:30:27 | [mo-backup](https://artifacthub.io/packages/helm/mogenius/mo-backup) | mogenius | 1.0.29 | This is the mogenius backup script. |
-| 2026-11-19 07:30:27 | [mo-backup-mysql](https://artifacthub.io/packages/helm/mogenius/mo-backup-mysql) | mogenius | 1.0.29 | This is the mogenius backup script. |
-| 2026-11-19 08:02:17 | [harbor-resource-operator](https://artifacthub.io/packages/helm/harbor-resource-operator/harbor-resource-operator) | harbor-resource-operator | 0.1.1 | A Helm chart to distribute harbor-resource-operator |
+| 2026-11-19 08:57:41 | [hive-metastore](https://artifacthub.io/packages/helm/wikimedia/hive-metastore) | wikimedia | 0.0.1 | A Helm chart to deploy a Hive Metastore to Kubernetes, storing metadata in PG,… |
+| 2026-11-19 08:59:00 | [gcp-pubsub-connector](https://artifacthub.io/packages/helm/openfaas/gcp-pubsub-connector) | openfaas | 0.0.1 | Invoke OpenFaaS functions from Google Cloud Pub/Sub messages. |
 
 ## Data source
 
