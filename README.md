@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 14:22 UTC
+## Latest list — 2026-11-19 16:19 UTC
 
-New charts added between 2026-11-19 13:20 UTC and 2026-11-19 14:22 UTC.
+New charts added between 2026-11-19 15:20 UTC and 2026-11-19 16:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-19T14-22-23-65914Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-19T16-19-54-631264Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-19 14:10:53 | [gitlab](https://artifacthub.io/packages/helm/quench-gitlab/gitlab) | quench-gitlab | 0.0.1 | GitLab CE: the Git forge, CI/CD and container registry front end, as webservice… |
+| 2026-11-19 15:28:27 | [kure](https://artifacthub.io/packages/helm/kure-monitor/kure) | kure-monitor | 2.6.2 | Kubernetes AI observability platform with proactive AI Advice, security scannin… |
+| 2026-11-19 16:15:45 | [leantime](https://artifacthub.io/packages/helm/quench-leantime/leantime) | quench-leantime | 0.0.1 | Leantime: project management for non-project-managers, with tasks, kanban, time… |
 
 ## Data source
 
