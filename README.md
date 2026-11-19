@@ -14,19 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 13:20 UTC
+## Latest list — 2026-11-19 14:22 UTC
 
-New charts added between 2026-11-19 12:21 UTC and 2026-11-19 13:20 UTC.
+New charts added between 2026-11-19 13:20 UTC and 2026-11-19 14:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-19T13-20-58-531739Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-19T14-22-23-65914Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-19 12:51:01 | [jupyter-imagepuller](https://artifacthub.io/packages/helm/jupyter-jsc/jupyter-imagepuller) | jupyter-jsc | 1.0.0 | A Helm chart for Kubernetes |
-| 2026-11-19 12:51:01 | [jupyter-tunnel-secrets](https://artifacthub.io/packages/helm/jupyter-jsc/jupyter-tunnel-secrets) | jupyter-jsc | 0.1.0 | ExternalSecrets for the Jupyter tunnel service |
-| 2026-11-19 12:51:01 | [jupyterhub-outpost-secrets](https://artifacthub.io/packages/helm/jupyter-jsc/jupyterhub-outpost-secrets) | jupyter-jsc | 0.1.0 | ExternalSecrets for a JupyterHub outpost |
-| 2026-11-19 12:51:01 | [jupyterhub-secrets](https://artifacthub.io/packages/helm/jupyter-jsc/jupyterhub-secrets) | jupyter-jsc | 0.1.0 | ExternalSecrets for a JupyterHub |
-| 2026-11-19 13:01:15 | [bardiup](https://artifacthub.io/packages/helm/bardiup/bardiup) | bardiup | 0.1.0 | Lightweight, namespace-scoped PVC backups to S3 with Grandfather-Father-Son ret… |
+| 2026-11-19 14:10:53 | [gitlab](https://artifacthub.io/packages/helm/quench-gitlab/gitlab) | quench-gitlab | 0.0.1 | GitLab CE: the Git forge, CI/CD and container registry front end, as webservice… |
 
 ## Data source
 

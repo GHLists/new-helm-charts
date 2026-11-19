@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-19T14:10:53Z,gitlab,quench-gitlab,0.0.1,"GitLab CE: the Git forge, CI/CD and container registry front end, as webservice (Puma + Workhorse), Sidekiq, Gitaly and gitlab-shell on QuenchWorks images built from the MIT gitlab-foss source, with the bundled PostgreSQL and Valkey. Hardened by QuenchWorks: CVE-gated, cosign-signed and pinned by d…"
