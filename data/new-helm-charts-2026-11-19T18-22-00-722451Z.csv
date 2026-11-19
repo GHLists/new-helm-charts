@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-19T18:00:39Z,kamaji-crds,clastix,0.0.0+latest,Kamaji is the Hosted Control Plane Manager for Kubernetes.
+2026-11-19T18:21:37Z,seerr,quench-seerr,0.0.1,"Seerr (formerly Jellyseerr): media request management for Jellyfin, Emby and Plex with Sonarr and Radarr integration, user quotas and notifications, with settings and the database on a volume. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
