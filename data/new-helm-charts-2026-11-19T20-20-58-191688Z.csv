@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-19T19:32:36Z,chartdb,quench-chartdb,0.0.1,"ChartDB: database diagram editor and visualizer: import a schema with one query, edit ER diagrams, export DDL; data stays in the browser. Static app with cloud links and analytics off by default. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
+2026-11-19T19:32:40Z,kimai,quench-kimai,0.0.1,"Kimai: open-source time tracking for freelancers and teams, with timesheets, projects, invoices, reports and a REST API, the admin and APP_SECRET generated at install and a bundled MariaDB. Hardened by QuenchWorks: nonroot, CVE-gated, cosign-signed and pinned by digest."

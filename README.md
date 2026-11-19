@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 19:21 UTC
+## Latest list — 2026-11-19 20:20 UTC
 
-New charts added between 2026-11-19 18:22 UTC and 2026-11-19 19:21 UTC.
+New charts added between 2026-11-19 19:21 UTC and 2026-11-19 20:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-19T19-21-06-755435Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-19T20-20-58-191688Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-19 19:02:57 | [llmkube](https://artifacthub.io/packages/helm/llmkube/llmkube) | llmkube | 0.9.18 | A Helm chart for LLMKube - Kubernetes operator for GPU-accelerated LLM inference |
+| 2026-11-19 19:32:36 | [chartdb](https://artifacthub.io/packages/helm/quench-chartdb/chartdb) | quench-chartdb | 0.0.1 | ChartDB: database diagram editor and visualizer: import a schema with one query… |
+| 2026-11-19 19:32:40 | [kimai](https://artifacthub.io/packages/helm/quench-kimai/kimai) | quench-kimai | 0.0.1 | Kimai: open-source time tracking for freelancers and teams, with timesheets, pr… |
 
 ## Data source
 
