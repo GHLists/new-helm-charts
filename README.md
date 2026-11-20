@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 22:21 UTC
+## Latest list — 2026-11-20 08:20 UTC
 
-New charts added between 2026-11-19 21:20 UTC and 2026-11-19 22:21 UTC.
+New charts added between 2026-11-20 07:22 UTC and 2026-11-20 08:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-19T22-21-56-02739Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-20T08-20-35-448948Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-19 21:32:03 | [aibom-workload-namespace](https://artifacthub.io/packages/helm/openshift/aibom-workload-namespace) | openshift | 1.0.2 | Per-namespace RBAC and scripts ConfigMap for AIBOM-instrumented workload namesp… |
+| 2026-11-20 08:07:21 | [rocketmq-dashboard](https://artifacthub.io/packages/helm/logic3579/rocketmq-dashboard) | logic3579 | 3.0.0 | A Helm chart for RocketMQ Studio 3.x, the Apache RocketMQ management console |
 
 ## Data source
 

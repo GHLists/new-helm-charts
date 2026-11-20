@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-20T08:07:21Z,rocketmq-dashboard,logic3579,3.0.0,"A Helm chart for RocketMQ Studio 3.x, the Apache RocketMQ management console"
