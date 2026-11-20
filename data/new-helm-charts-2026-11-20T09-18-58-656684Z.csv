@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-20T08:40:06Z,jupyter-imagepuller,jupyter-jsc,1.0.0,A Helm chart for Kubernetes
+2026-11-20T08:40:06Z,jupyter-tunnel-secrets,jupyter-jsc,0.1.0,ExternalSecrets for the Jupyter tunnel service
