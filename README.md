@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 10:19 UTC
+## Latest list — 2026-11-20 13:19 UTC
 
-New charts added between 2026-11-20 09:18 UTC and 2026-11-20 10:19 UTC.
+New charts added between 2026-11-20 12:20 UTC and 2026-11-20 13:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-20T10-19-06-775263Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-20T13-19-31-7816Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-20 09:42:35 | [jupyter-imagepuller](https://artifacthub.io/packages/helm/jupyter-jsc/jupyter-imagepuller) | jupyter-jsc | 1.0.0 | A Helm chart for Kubernetes |
+| 2026-11-20 12:42:34 | [aks-storage-classes](https://artifacthub.io/packages/helm/evilmartians/aks-storage-classes) | evilmartians | 0.1.0 | Storage classes for AKS |
+| 2026-11-20 12:47:14 | [aks-node-pools](https://artifacthub.io/packages/helm/evilmartians/aks-node-pools) | evilmartians | 0.1.0 | Node Pools for AKS node auto-provisioning |
 
 ## Data source
 
