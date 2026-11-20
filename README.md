@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 21:22 UTC
+## Latest list — 2026-11-20 22:20 UTC
 
-New charts added between 2026-11-20 20:20 UTC and 2026-11-20 21:22 UTC.
+New charts added between 2026-11-20 21:22 UTC and 2026-11-20 22:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-20T21-22-16-433505Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-20T22-20-21-82463Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-20 20:31:30 | [kvrocks](https://artifacthub.io/packages/helm/kvrocks-helm/kvrocks) | kvrocks-helm | 1.0.0 | Apache Kvrocks with replication and automatic failover: one master and its repl… |
+| 2026-11-20 21:31:17 | [harbor](https://artifacthub.io/packages/helm/harbor-8gears/harbor) | harbor-8gears | 1.18.1 | A modern, production-ready Helm chart for [Harbor Next](https://github.com/cont… |
+| 2026-11-20 21:32:01 | [aibom-webhook](https://artifacthub.io/packages/helm/openshift/aibom-webhook) | openshift | 1.0.4 | AIBOM mutating admission webhook and controller for OpenShift. PREREQUISITE: th… |
 
 ## Data source
 

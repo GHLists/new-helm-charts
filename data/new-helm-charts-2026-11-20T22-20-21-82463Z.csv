@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-20T21:31:17Z,harbor,harbor-8gears,1.18.1,"A modern, production-ready Helm chart for [Harbor Next](https://github.com/container-registry/harbor-next) - the cloud-native container registry for Kubernetes."
+2026-11-20T21:32:01Z,aibom-webhook,openshift,1.0.4,"AIBOM mutating admission webhook and controller for OpenShift. PREREQUISITE: the AIBOM CRDs, which this chart does not include. Install them first, see the README."
