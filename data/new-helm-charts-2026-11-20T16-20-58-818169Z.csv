@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-20T15:21:53Z,authgateway,labs64io-helm-charts,0.15.16,Labs64.IO :: Auth Gateway (AuthProxy + Middlewares)
