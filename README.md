@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 09:18 UTC
+## Latest list — 2026-11-20 10:19 UTC
 
-New charts added between 2026-11-20 08:20 UTC and 2026-11-20 09:18 UTC.
+New charts added between 2026-11-20 09:18 UTC and 2026-11-20 10:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-20T09-18-58-656684Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-20T10-19-06-775263Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-20 08:40:06 | [jupyter-imagepuller](https://artifacthub.io/packages/helm/jupyter-jsc/jupyter-imagepuller) | jupyter-jsc | 1.0.0 | A Helm chart for Kubernetes |
-| 2026-11-20 08:40:06 | [jupyter-tunnel-secrets](https://artifacthub.io/packages/helm/jupyter-jsc/jupyter-tunnel-secrets) | jupyter-jsc | 0.1.0 | ExternalSecrets for the Jupyter tunnel service |
+| 2026-11-20 09:42:35 | [jupyter-imagepuller](https://artifacthub.io/packages/helm/jupyter-jsc/jupyter-imagepuller) | jupyter-jsc | 1.0.0 | A Helm chart for Kubernetes |
 
 ## Data source
 
