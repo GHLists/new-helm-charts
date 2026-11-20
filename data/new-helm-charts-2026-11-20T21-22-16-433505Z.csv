@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-20T20:31:30Z,kvrocks,kvrocks-helm,1.0.0,"Apache Kvrocks with replication and automatic failover: one master and its replicas, Sentinel for failover, HAProxy as a write endpoint that follows the master."
