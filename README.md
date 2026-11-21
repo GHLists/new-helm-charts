@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 18:19 UTC
+## Latest list — 2026-11-21 19:21 UTC
 
-New charts added between 2026-11-21 17:19 UTC and 2026-11-21 18:19 UTC.
+New charts added between 2026-11-21 18:19 UTC and 2026-11-21 19:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-21T18-19-04-25956Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-21T19-21-26-358773Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-21 18:03:48 | [pulsimo](https://artifacthub.io/packages/helm/pulsimo/pulsimo) | pulsimo | 0.1.0 | Pulsimo endpoint monitoring: API, database and service checks, incidents, alarm… |
+| 2026-11-21 18:49:39 | [dmarc-report-viewer](https://artifacthub.io/packages/helm/babykart-helm-charts/dmarc-report-viewer) | babykart-helm-charts | 0.1.0 | A Helm chart for dmarc-report-viewer |
 
 ## Data source
 
