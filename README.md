@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 03:20 UTC
+## Latest list — 2026-11-21 12:19 UTC
 
-New charts added between 2026-11-21 02:21 UTC and 2026-11-21 03:20 UTC.
+New charts added between 2026-11-21 11:19 UTC and 2026-11-21 12:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-21T03-20-45-617435Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-21T12-19-06-45216Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-21 02:27:27 | [spartan-alerts](https://artifacthub.io/packages/helm/spartan/spartan-alerts) | spartan | 0.1.0 | Tenant alert rules, Slack routing and optional webhook secret management |
+| 2026-11-21 11:52:11 | [aiops-platform](https://artifacthub.io/packages/helm/infracloud-charts/aiops-platform) | infracloud-charts | 0.3.13 | The AIOps control plane (backend API and UI) with its gateway objects and, opti… |
 
 ## Data source
 

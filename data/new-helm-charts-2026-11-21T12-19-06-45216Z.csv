@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-21T11:52:11Z,aiops-platform,infracloud-charts,0.3.13,"The AIOps control plane (backend API and UI) with its gateway objects and, optionally, Postgres, Keycloak and LiteLLM. Every dependency can be turned off and replaced by an external system (docs/install.md)."
