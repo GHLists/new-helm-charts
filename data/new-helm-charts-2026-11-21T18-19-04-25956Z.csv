@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-21T18:03:48Z,pulsimo,pulsimo,0.1.0,"Pulsimo endpoint monitoring: API, database and service checks, incidents, alarms, metrics, logs, Kubernetes and host monitoring, SLOs and an outage forecast."

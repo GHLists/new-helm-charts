@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 14:21 UTC
+## Latest list — 2026-11-21 18:19 UTC
 
-New charts added between 2026-11-21 13:20 UTC and 2026-11-21 14:21 UTC.
+New charts added between 2026-11-21 17:19 UTC and 2026-11-21 18:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-21T14-21-13-780385Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-21T18-19-04-25956Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-21 13:51:02 | [tikete](https://artifacthub.io/packages/helm/tikete/tikete) | tikete | 0.1.0 | Tikete — self-hosted work tracking and service desk (API, worker, web app, Post… |
-| 2026-11-21 14:15:33 | [questarr](https://artifacthub.io/packages/helm/questarr/questarr) | questarr | 0.1.4 | Questarr — an *Arr-inspired game manager that helps you discover, track, and au… |
+| 2026-11-21 18:03:48 | [pulsimo](https://artifacthub.io/packages/helm/pulsimo/pulsimo) | pulsimo | 0.1.0 | Pulsimo endpoint monitoring: API, database and service checks, incidents, alarm… |
 
 ## Data source
 
