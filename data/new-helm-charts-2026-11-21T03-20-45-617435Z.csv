@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-21T02:27:27Z,spartan-alerts,spartan,0.1.0,"Tenant alert rules, Slack routing and optional webhook secret management"

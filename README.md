@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 23:20 UTC
+## Latest list — 2026-11-21 03:20 UTC
 
-New charts added between 2026-11-20 22:20 UTC and 2026-11-20 23:20 UTC.
+New charts added between 2026-11-21 02:21 UTC and 2026-11-21 03:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-20T23-20-34-534606Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-21T03-20-45-617435Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-20 22:31:39 | [mo-backup-mysql](https://artifacthub.io/packages/helm/mogenius/mo-backup-mysql) | mogenius | 1.0.29 | This is the mogenius backup script. |
-| 2026-11-20 22:32:37 | [mo-backup](https://artifacthub.io/packages/helm/mogenius/mo-backup) | mogenius | 1.0.29 | This is the mogenius backup script. |
+| 2026-11-21 02:27:27 | [spartan-alerts](https://artifacthub.io/packages/helm/spartan/spartan-alerts) | spartan | 0.1.0 | Tenant alert rules, Slack routing and optional webhook secret management |
 
 ## Data source
 
