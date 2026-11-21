@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-21T13:51:02Z,tikete,tikete,0.1.0,"Tikete — self-hosted work tracking and service desk (API, worker, web app, Postgres, Valkey, S3 file store and backups), hardened for production."
+2026-11-21T14:15:33Z,questarr,questarr,0.1.4,"Questarr — an *Arr-inspired game manager that helps you discover, track, and automatically download the games you want."
