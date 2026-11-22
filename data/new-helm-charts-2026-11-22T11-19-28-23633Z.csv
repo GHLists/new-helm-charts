@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-22T10:22:46Z,wxingress,wxingress,2.8.2,"wxingress, the drop-in successor of ingress-nginx, built on NGINX Ingress Controller, with the Gateway API"
