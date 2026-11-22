@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 19:21 UTC
+## Latest list — 2026-11-22 06:20 UTC
 
-New charts added between 2026-11-21 18:19 UTC and 2026-11-21 19:21 UTC.
+New charts added between 2026-11-22 05:20 UTC and 2026-11-22 06:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-21T19-21-26-358773Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-22T06-20-13-176675Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-21 18:49:39 | [dmarc-report-viewer](https://artifacthub.io/packages/helm/babykart-helm-charts/dmarc-report-viewer) | babykart-helm-charts | 0.1.0 | A Helm chart for dmarc-report-viewer |
+| 2026-11-22 05:28:35 | [melodious](https://artifacthub.io/packages/helm/retsamedoc/melodious) | retsamedoc | 26.11.0 | Reverse proxy to a Melodious (Harmony Hub Control) web UI on a rooted Logitech… |
 
 ## Data source
 
