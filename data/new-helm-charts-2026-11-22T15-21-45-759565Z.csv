@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-22T15:03:40Z,kener,quench-kener,0.0.1,"Kener: a status page and incident manager with HTTP, TCP, DNS, ping and SSL monitors, incidents, maintenance windows and badges, on SQLite with the bundled Valkey. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
+2026-11-22T15:03:47Z,readeck,quench-readeck,0.0.1,"Readeck: a read-it-later and bookmark manager that saves full article text and images, with highlights, labels and e-book export, an admin generated at install and native TLS. Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
