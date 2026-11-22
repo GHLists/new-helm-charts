@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 22:20 UTC
+## Latest list — 2026-11-22 23:21 UTC
 
-New charts added between 2026-11-22 21:18 UTC and 2026-11-22 22:20 UTC.
+New charts added between 2026-11-22 22:20 UTC and 2026-11-22 23:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-22T22-20-28-551397Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-22T23-21-39-644589Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-22 21:34:25 | [voimain-relay](https://artifacthub.io/packages/helm/biatec-repo/voimain-relay) | biatec-repo | 5.1.1 | VOI relay node for voimain-1.0 blockchain. |
-| 2026-11-22 22:03:26 | [bloodhound](https://artifacthub.io/packages/helm/quench-bloodhound/bloodhound) | quench-bloodhound | 0.0.1 | BloodHound Community Edition: attack-path analysis for Active Directory and Ent… |
+| 2026-11-22 22:51:06 | [tram](https://artifacthub.io/packages/helm/tram/tram) | tram | 0.2.0 | The TRAM manager, which runs TRAM Engines on Kubernetes as Deployments or State… |
 
 ## Data source
 
