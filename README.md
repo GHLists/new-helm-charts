@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 15:21 UTC
+## Latest list — 2026-11-22 16:19 UTC
 
-New charts added between 2026-11-22 14:19 UTC and 2026-11-22 15:21 UTC.
+New charts added between 2026-11-22 15:21 UTC and 2026-11-22 16:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-22T15-21-45-759565Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-22T16-19-48-109759Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-22 15:03:40 | [kener](https://artifacthub.io/packages/helm/quench-kener/kener) | quench-kener | 0.0.1 | Kener: a status page and incident manager with HTTP, TCP, DNS, ping and SSL mon… |
-| 2026-11-22 15:03:47 | [readeck](https://artifacthub.io/packages/helm/quench-readeck/readeck) | quench-readeck | 0.0.1 | Readeck: a read-it-later and bookmark manager that saves full article text and… |
+| 2026-11-22 15:33:44 | [vulnwatch](https://artifacthub.io/packages/helm/vulnwatch/vulnwatch) | vulnwatch | 0.17.2 | Daily report of new vulnerabilities for the software you run (CronJob, Pushgate… |
 
 ## Data source
 

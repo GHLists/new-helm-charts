@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-22T15:33:44Z,vulnwatch,vulnwatch,0.17.2,"Daily report of new vulnerabilities for the software you run (CronJob, Pushgateway metrics, Grafana dashboard)."
