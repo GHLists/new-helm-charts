@@ -14,17 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 20:20 UTC
+## Latest list — 2026-11-22 21:18 UTC
 
-New charts added between 2026-11-22 19:19 UTC and 2026-11-22 20:20 UTC.
+New charts added between 2026-11-22 20:20 UTC and 2026-11-22 21:18 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-22T20-20-48-889278Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-22T21-18-46-656848Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-22 19:21:29 | [zap](https://artifacthub.io/packages/helm/quench-zap/zap) | quench-zap | 0.0.1 | OWASP ZAP: web application security scanner as an API daemon (spider, passive a… |
-| 2026-11-22 19:32:29 | [etherpad](https://artifacthub.io/packages/helm/quench-etherpad/etherpad) | quench-etherpad | 0.0.2 | Etherpad: real-time collaborative document editing with plugins, an HTTP API an… |
-| 2026-11-22 19:32:36 | [pentagi](https://artifacthub.io/packages/helm/quench-pentagi/pentagi) | quench-pentagi | 0.0.2 | PentAGI: autonomous AI agents for penetration testing, running their tools in c… |
+| 2026-11-22 21:01:09 | [architecture-rehearsal](https://artifacthub.io/packages/helm/architecture-rehearsal/architecture-rehearsal) | architecture-rehearsal | 1.8.3 | Deterministic pre-deploy failure simulation and post-deploy verification contro… |
+| 2026-11-22 21:03:53 | [defectdojo](https://artifacthub.io/packages/helm/quench-defectdojo/defectdojo) | quench-defectdojo | 0.0.1 | DefectDojo: vulnerability management and ASPM. Imports findings from 200+ scann… |
 
 ## Data source
 
