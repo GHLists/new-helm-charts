@@ -14,19 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 19:19 UTC
+## Latest list — 2026-11-22 20:20 UTC
 
-New charts added between 2026-11-22 18:18 UTC and 2026-11-22 19:19 UTC.
+New charts added between 2026-11-22 19:19 UTC and 2026-11-22 20:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-22T19-19-15-410711Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-22T20-20-48-889278Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-22 18:54:02 | [ankra-cloud-cosi](https://artifacthub.io/packages/helm/ankra-charts/ankra-cloud-cosi) | ankra-charts | 0.1.0 | COSI driver cosi.ankra.cloud for Ankra Cloud object storage (S3 buckets from Bu… |
-| 2026-11-22 18:54:02 | [cloudflare-operator](https://artifacthub.io/packages/helm/ankra-charts/cloudflare-operator) | ankra-charts | 0.2.0 | Helm chart for the community Cloudflare Operator (adyanth/cloudflare-operator)… |
-| 2026-11-22 18:54:02 | [gateway-api-crds](https://artifacthub.io/packages/helm/ankra-charts/gateway-api-crds) | ankra-charts | 1.5.1 | Kubernetes Gateway API CRDs (standard channel) as a small Helm chart, vendored… |
-| 2026-11-22 18:54:02 | [isms-builder](https://artifacthub.io/packages/helm/ankra-charts/isms-builder) | ankra-charts | 0.1.0 | ISMS Builder on Kubernetes - the open-source ISO 27001 / NIS2 ISMS template bui… |
-| 2026-11-22 18:54:02 | [kamaji](https://artifacthub.io/packages/helm/ankra-charts/kamaji) | ankra-charts | 26.11.4 | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
+| 2026-11-22 19:21:29 | [zap](https://artifacthub.io/packages/helm/quench-zap/zap) | quench-zap | 0.0.1 | OWASP ZAP: web application security scanner as an API daemon (spider, passive a… |
+| 2026-11-22 19:32:29 | [etherpad](https://artifacthub.io/packages/helm/quench-etherpad/etherpad) | quench-etherpad | 0.0.2 | Etherpad: real-time collaborative document editing with plugins, an HTTP API an… |
+| 2026-11-22 19:32:36 | [pentagi](https://artifacthub.io/packages/helm/quench-pentagi/pentagi) | quench-pentagi | 0.0.2 | PentAGI: autonomous AI agents for penetration testing, running their tools in c… |
 
 ## Data source
 

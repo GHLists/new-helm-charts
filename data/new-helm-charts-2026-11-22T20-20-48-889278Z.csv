@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-22T19:21:29Z,zap,quench-zap,0.0.1,"OWASP ZAP: web application security scanner as an API daemon (spider, passive and active scans, reports) for CI pipelines and automation. Hardened by QuenchWorks: CVE-gated, cosign-signed and pinned by digest."
+2026-11-22T19:32:29Z,etherpad,quench-etherpad,0.0.2,"Etherpad: real-time collaborative document editing with plugins, an HTTP API and an admin UI, on the bundled PostgreSQL. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
+2026-11-22T19:32:36Z,pentagi,quench-pentagi,0.0.2,"PentAGI: autonomous AI agents for penetration testing, running their tools in containers through a Docker API sidecar, on the bundled PostgreSQL with pgvector. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
