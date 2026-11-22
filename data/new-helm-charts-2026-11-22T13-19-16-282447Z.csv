@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-22T13:03:36Z,artex,quench-artex,0.0.1,"ARTEX: an AI pentest orchestrator that plans and drives recon and scanning tools from a web console, for authorized security testing only, on the bundled PostgreSQL. Built from the BaaRai/ARTEX fork. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."

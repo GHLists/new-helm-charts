@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 11:19 UTC
+## Latest list — 2026-11-22 13:19 UTC
 
-New charts added between 2026-11-22 10:20 UTC and 2026-11-22 11:19 UTC.
+New charts added between 2026-11-22 12:21 UTC and 2026-11-22 13:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-22T11-19-28-23633Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-22T13-19-16-282447Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-22 10:22:46 | [wxingress](https://artifacthub.io/packages/helm/wxingress/wxingress) | wxingress | 2.8.2 | wxingress, the drop-in successor of ingress-nginx, built on NGINX Ingress Contr… |
+| 2026-11-22 13:03:36 | [artex](https://artifacthub.io/packages/helm/quench-artex/artex) | quench-artex | 0.0.1 | ARTEX: an AI pentest orchestrator that plans and drives recon and scanning tool… |
 
 ## Data source
 
