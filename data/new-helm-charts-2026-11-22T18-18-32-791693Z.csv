@@ -1,0 +1,7 @@
+created_at,chart,repository,version,description
+2026-11-22T17:25:54Z,ankra-cloud-cosi,ankra-charts,0.1.0,"COSI driver cosi.ankra.cloud for Ankra Cloud object storage (S3 buckets from BucketClaims, keys from BucketAccesses)."
+2026-11-22T17:25:54Z,cloudflare-operator,ankra-charts,0.2.0,"Helm chart for the community Cloudflare Operator (adyanth/cloudflare-operator) that reconciles Tunnel, ClusterTunnel, AccessTunnel and TunnelBinding CRDs against Cloudflare Zero Trust / Cloudflare Tunnel. Optionally renders a ClusterOriginIssuer for use with the cert-manager origin-ca-issuer."
+2026-11-22T17:25:54Z,gateway-api-crds,ankra-charts,1.5.1,"Kubernetes Gateway API CRDs (standard channel) as a small Helm chart, vendored unchanged from the upstream release. Kept on uninstall, so removing the release never deletes a route."
+2026-11-22T17:25:54Z,isms-builder,ankra-charts,0.1.0,"ISMS Builder on Kubernetes - the open-source ISO 27001 / NIS2 ISMS template builder, digest-pinned, non-root, persistent, network-restricted by default, with managed-secret guardrails."
+2026-11-22T17:25:54Z,kamaji,ankra-charts,26.11.4,Kamaji is the Hosted Control Plane Manager for Kubernetes.
+2026-11-22T18:01:31Z,cert-manager-webhook-desec,cert-manager-webhook-desec,0.1.0,A Helm chart for cert manager webhook solver for ACME DNS01 challenge via deSEC
