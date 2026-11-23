@@ -14,17 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 16:18 UTC
+## Latest list — 2026-11-23 17:20 UTC
 
-New charts added between 2026-11-23 15:22 UTC and 2026-11-23 16:18 UTC.
+New charts added between 2026-11-23 16:18 UTC and 2026-11-23 17:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-23T16-18-43-611898Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-23T17-20-52-95646Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-23 15:32:55 | [it-tools-sharevb](https://artifacthub.io/packages/helm/quench-it-tools-sharevb/it-tools-sharevb) | quench-it-tools-sharevb | 0.0.1 | IT-Tools, sharevb fork: the actively maintained IT-Tools with many more develop… |
-| 2026-11-23 15:43:07 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
-| 2026-11-23 15:51:08 | [kure](https://artifacthub.io/packages/helm/kure-monitor/kure) | kure-monitor | 2.6.3 | Kubernetes AI observability platform with proactive AI Advice, security scannin… |
+| 2026-11-23 16:32:56 | [weaviate-otel-collector](https://artifacthub.io/packages/helm/weaviate/weaviate-otel-collector) | weaviate | 17.9.0 | Pushes aggregate Weaviate metrics to Weaviate Cloud (OSS "Cloud Connect"). |
+| 2026-11-23 16:52:47 | [cvedetector](https://artifacthub.io/packages/helm/huseyinbabal/cvedetector) | huseyinbabal | 0.3.1 | Maps running container images to known CVEs using a published feed. No image sc… |
 
 ## Data source
 

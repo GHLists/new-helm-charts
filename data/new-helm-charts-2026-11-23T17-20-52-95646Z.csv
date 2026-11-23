@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-23T16:32:56Z,weaviate-otel-collector,weaviate,17.9.0,"Pushes aggregate Weaviate metrics to Weaviate Cloud (OSS ""Cloud Connect"")."
+2026-11-23T16:52:47Z,cvedetector,huseyinbabal,0.3.1,"Maps running container images to known CVEs using a published feed. No image scanning. Agent, API (PostgreSQL) and UI."
