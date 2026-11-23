@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 03:19 UTC
+## Latest list — 2026-11-23 05:19 UTC
 
-New charts added between 2026-11-23 02:18 UTC and 2026-11-23 03:19 UTC.
+New charts added between 2026-11-23 04:20 UTC and 2026-11-23 05:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-23T03-19-53-86066Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-23T05-19-48-34389Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-23 02:21:32 | [netbox](https://artifacthub.io/packages/helm/quench-netbox/netbox) | quench-netbox | 0.0.1 | NetBox: the source of truth for network and data-center infrastructure (IPAM, D… |
+| 2026-11-23 04:21:30 | [nautobot](https://artifacthub.io/packages/helm/quench-nautobot/nautobot) | quench-nautobot | 0.0.1 | Nautobot: the network source of truth and automation platform (Jobs, GraphQL, G… |
+| 2026-11-23 04:50:21 | [mox](https://artifacthub.io/packages/helm/quench-mox/mox) | quench-mox | 0.0.1 | mox: a modern full-featured mail server (SMTP with SPF/DKIM/DMARC/MTA-STS, IMAP… |
 
 ## Data source
 

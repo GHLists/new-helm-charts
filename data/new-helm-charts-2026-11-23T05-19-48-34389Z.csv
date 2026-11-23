@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-23T04:21:30Z,nautobot,quench-nautobot,0.0.1,"Nautobot: the network source of truth and automation platform (Jobs, GraphQL, Git-backed data), with Celery and the bundled PostgreSQL and Valkey. Hardened by QuenchWorks: built from the release wheel, CVE-gated, cosign-signed and pinned by digest."
+2026-11-23T04:50:21Z,mox,quench-mox,0.0.1,"mox: a modern full-featured mail server (SMTP with SPF/DKIM/DMARC/MTA-STS, IMAP4, webmail, admin and account web UIs). Hardened by QuenchWorks: built from source, nonroot, CVE-gated, cosign-signed and pinned by digest."
