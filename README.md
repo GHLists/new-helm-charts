@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 08:21 UTC
+## Latest list — 2026-11-23 09:19 UTC
 
-New charts added between 2026-11-23 07:18 UTC and 2026-11-23 08:21 UTC.
+New charts added between 2026-11-23 08:21 UTC and 2026-11-23 09:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-23T08-21-06-381335Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-23T09-19-09-207587Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-23 07:51:14 | [pairdrop](https://artifacthub.io/packages/helm/quench-pairdrop/pairdrop) | quench-pairdrop | 0.0.1 | PairDrop: local file sharing in the browser (an AirDrop alternative) over WebRT… |
+| 2026-11-23 08:22:03 | [soft-serve](https://artifacthub.io/packages/helm/quench-soft-serve/soft-serve) | quench-soft-serve | 0.0.1 | Soft Serve: a self-hostable Git server (Git over SSH, HTTP and the git daemon,… |
+| 2026-11-23 08:50:58 | [homer](https://artifacthub.io/packages/helm/quench-homer/homer) | quench-homer | 0.0.1 | Homer: a static start page listing your services and links, configured from one… |
 
 ## Data source
 
