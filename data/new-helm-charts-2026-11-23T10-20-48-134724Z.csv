@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-23T09:22:53Z,treebind,treebind,0.0.1-alpha.3,Kubernetes operator that keeps a Git repository and an application's files in sync through a shared PVC
+2026-11-23T09:31:25Z,kubedelos,kubedelos,0.1.0,Kubernetes image vulnerability scanner with a web UI and scheduled sweeps (kubedelos serve)
+2026-11-23T10:03:57Z,caldera,quench-caldera,0.0.1,"MITRE Caldera: adversary emulation for red and purple teams (ATT&CK-mapped abilities run by agents) with the magma web UI. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest. For authorized testing only."
