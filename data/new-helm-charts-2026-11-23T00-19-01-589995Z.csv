@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-22T23:22:00Z,scylla-operator,quench-scylla-operator,0.0.1,"ScyllaDB Operator: runs ScyllaDB clusters on Kubernetes from ScyllaCluster resources, with its CRDs and admission webhook. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."

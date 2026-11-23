@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 23:21 UTC
+## Latest list — 2026-11-23 00:19 UTC
 
-New charts added between 2026-11-22 22:20 UTC and 2026-11-22 23:21 UTC.
+New charts added between 2026-11-22 23:21 UTC and 2026-11-23 00:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-22T23-21-39-644589Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-23T00-19-01-589995Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-22 22:51:06 | [tram](https://artifacthub.io/packages/helm/tram/tram) | tram | 0.2.0 | The TRAM manager, which runs TRAM Engines on Kubernetes as Deployments or State… |
+| 2026-11-22 23:22:00 | [scylla-operator](https://artifacthub.io/packages/helm/quench-scylla-operator/scylla-operator) | quench-scylla-operator | 0.0.1 | ScyllaDB Operator: runs ScyllaDB clusters on Kubernetes from ScyllaCluster reso… |
 
 ## Data source
 
