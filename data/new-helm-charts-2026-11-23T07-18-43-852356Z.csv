@@ -1,0 +1,14 @@
+created_at,chart,repository,version,description
+2026-11-23T06:36:02Z,generic_service,loeken-at-home,1.0.0,a helm chart to install sinusbot
+2026-11-23T06:36:02Z,home-assistant,loeken-at-home,2026.11.2,home-assistant - a free and open-source software for home automation designed to be a central control system for smart home devices with a focus on local control and privacy
+2026-11-23T06:36:02Z,jellyfin,loeken-at-home,10.11.11,a helm chart to install jellyfin
+2026-11-23T06:36:02Z,jellyseerr,loeken-at-home,3.1.0,a helm chart to install jellyseer
+2026-11-23T06:36:02Z,nzbget,loeken-at-home,26.3.0-ls273,nzbget - efficient usenet downloader.
+2026-11-23T06:36:02Z,prowlarr,loeken-at-home,1.37.0,prowlarr - Prowlarr is an indexer manager/proxy built on the popular *arr software
+2026-11-23T06:36:02Z,radarr,loeken-at-home,5.27.0-nightly,a helm chart to install radarr
+2026-11-23T06:36:02Z,sinusbot,loeken-at-home,2.3.0,a helm chart to install sinusbot
+2026-11-23T06:36:02Z,sonarr,loeken-at-home,4.0.20,sonarr - an internet PVR for Usenet and Torrents.
+2026-11-23T06:36:02Z,uptime-kuma,loeken-at-home,2.5.12,a helm chart to install uptime-kuma
+2026-11-23T06:36:02Z,vaultwarden,loeken-at-home,1.37.5-alpine,"vaultwarden - unofficial bitwarden compatible server written in rust, formerly known as bitwarden_rs"
+2026-11-23T06:44:21Z,glances,quench-glances,0.0.1,"Glances: cross-platform system monitoring (CPU, memory, disks, network, sensors, processes) with a web UI and a REST API, one per node. Hardened by QuenchWorks: CVE-gated, cosign-signed and pinned by digest."
+2026-11-23T07:15:26Z,librespeed,quench-librespeed,0.0.1,"LibreSpeed: a self-hosted network speed test (download, upload, ping, jitter) with a web UI, optional results telemetry. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
