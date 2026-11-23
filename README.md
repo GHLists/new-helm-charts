@@ -14,16 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 15:22 UTC
+## Latest list — 2026-11-23 16:18 UTC
 
-New charts added between 2026-11-23 14:22 UTC and 2026-11-23 15:22 UTC.
+New charts added between 2026-11-23 15:22 UTC and 2026-11-23 16:18 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-23T15-22-05-911085Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-23T16-18-43-611898Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-23 14:33:22 | [traccar](https://artifacthub.io/packages/helm/quench-traccar/traccar) | quench-traccar | 0.0.1 | Traccar: a GPS tracking server for 200+ device protocols with live maps, geofen… |
-| 2026-11-23 15:04:24 | [it-tools](https://artifacthub.io/packages/helm/quench-it-tools/it-tools) | quench-it-tools | 0.0.1 | IT-Tools: developer utilities in one web app (encoders, converters, generators,… |
+| 2026-11-23 15:32:55 | [it-tools-sharevb](https://artifacthub.io/packages/helm/quench-it-tools-sharevb/it-tools-sharevb) | quench-it-tools-sharevb | 0.0.1 | IT-Tools, sharevb fork: the actively maintained IT-Tools with many more develop… |
+| 2026-11-23 15:43:07 | [kratix](https://artifacthub.io/packages/helm/syntasso/kratix) | syntasso | 0.0.1 | A Helm chart for installing Kratix (https://kratix.io) |
+| 2026-11-23 15:51:08 | [kure](https://artifacthub.io/packages/helm/kure-monitor/kure) | kure-monitor | 2.6.3 | Kubernetes AI observability platform with proactive AI Advice, security scannin… |
 
 ## Data source
 

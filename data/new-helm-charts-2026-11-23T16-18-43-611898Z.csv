@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-23T15:32:55Z,it-tools-sharevb,quench-it-tools-sharevb,0.0.1,"IT-Tools, sharevb fork: the actively maintained IT-Tools with many more developer utilities, served as a static SPA. Hardened by QuenchWorks as a minimal, nonroot, CVE-gated image, cosign-signed and pinned by digest."
+2026-11-23T15:43:07Z,kratix,syntasso,0.0.1,A Helm chart for installing Kratix (https://kratix.io)
+2026-11-23T15:51:08Z,kure,kure-monitor,2.6.3,"Kubernetes AI observability platform with proactive AI Advice, security scanning, topology diagrams, and pod failure diagnosis."
