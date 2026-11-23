@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-23T02:21:32Z,netbox,quench-netbox,0.0.1,"NetBox: the source of truth for network and data-center infrastructure (IPAM, DCIM, circuits, REST and GraphQL API), with the bundled PostgreSQL and Valkey. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."

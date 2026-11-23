@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 01:20 UTC
+## Latest list — 2026-11-23 03:19 UTC
 
-New charts added between 2026-11-23 00:19 UTC and 2026-11-23 01:20 UTC.
+New charts added between 2026-11-23 02:18 UTC and 2026-11-23 03:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-23T01-20-44-291959Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-23T03-19-53-86066Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-23 01:09:26 | [ejbca](https://artifacthub.io/packages/helm/quench-ejbca/ejbca) | quench-ejbca | 0.0.1 | EJBCA Community Edition: open-source PKI with certificate authorities, registra… |
+| 2026-11-23 02:21:32 | [netbox](https://artifacthub.io/packages/helm/quench-netbox/netbox) | quench-netbox | 0.0.1 | NetBox: the source of truth for network and data-center infrastructure (IPAM, D… |
 
 ## Data source
 
