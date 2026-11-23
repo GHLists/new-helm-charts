@@ -14,17 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 10:20 UTC
+## Latest list — 2026-11-23 11:21 UTC
 
-New charts added between 2026-11-23 09:19 UTC and 2026-11-23 10:20 UTC.
+New charts added between 2026-11-23 10:20 UTC and 2026-11-23 11:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-23T10-20-48-134724Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-23T11-21-54-885741Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-23 09:22:53 | [treebind](https://artifacthub.io/packages/helm/treebind/treebind) | treebind | 0.0.1-alpha.3 | Kubernetes operator that keeps a Git repository and an application's files in s… |
-| 2026-11-23 09:31:25 | [kubedelos](https://artifacthub.io/packages/helm/kubedelos/kubedelos) | kubedelos | 0.1.0 | Kubernetes image vulnerability scanner with a web UI and scheduled sweeps (kube… |
-| 2026-11-23 10:03:57 | [caldera](https://artifacthub.io/packages/helm/quench-caldera/caldera) | quench-caldera | 0.0.1 | MITRE Caldera: adversary emulation for red and purple teams (ATT&CK-mapped abil… |
+| 2026-11-23 10:25:06 | [steadybit-extension-kubernetes](https://artifacthub.io/packages/helm/steadybit-extension-kubernetes/steadybit-extension-kubernetes) | steadybit-extension-kub… | 1.6.44 | Steadybit Kubernetes extension Helm chart for Kubernetes. |
 
 ## Data source
 
