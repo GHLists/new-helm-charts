@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-23T07:51:14Z,pairdrop,quench-pairdrop,0.0.1,"PairDrop: local file sharing in the browser (an AirDrop alternative) over WebRTC, with the Node signaling server. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
