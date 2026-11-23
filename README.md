@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 00:19 UTC
+## Latest list — 2026-11-23 01:20 UTC
 
-New charts added between 2026-11-22 23:21 UTC and 2026-11-23 00:19 UTC.
+New charts added between 2026-11-23 00:19 UTC and 2026-11-23 01:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-23T00-19-01-589995Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-23T01-20-44-291959Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-22 23:22:00 | [scylla-operator](https://artifacthub.io/packages/helm/quench-scylla-operator/scylla-operator) | quench-scylla-operator | 0.0.1 | ScyllaDB Operator: runs ScyllaDB clusters on Kubernetes from ScyllaCluster reso… |
+| 2026-11-23 01:09:26 | [ejbca](https://artifacthub.io/packages/helm/quench-ejbca/ejbca) | quench-ejbca | 0.0.1 | EJBCA Community Edition: open-source PKI with certificate authorities, registra… |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-23T01:09:26Z,ejbca,quench-ejbca,0.0.1,"EJBCA Community Edition: open-source PKI with certificate authorities, registration, CRL and OCSP, on WildFly with the bundled PostgreSQL. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
