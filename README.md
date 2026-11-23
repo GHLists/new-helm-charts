@@ -14,16 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 05:19 UTC
+## Latest list — 2026-11-23 06:20 UTC
 
-New charts added between 2026-11-23 04:20 UTC and 2026-11-23 05:19 UTC.
+New charts added between 2026-11-23 05:19 UTC and 2026-11-23 06:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-23T05-19-48-34389Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-23T06-20-04-417635Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-23 04:21:30 | [nautobot](https://artifacthub.io/packages/helm/quench-nautobot/nautobot) | quench-nautobot | 0.0.1 | Nautobot: the network source of truth and automation platform (Jobs, GraphQL, G… |
-| 2026-11-23 04:50:21 | [mox](https://artifacthub.io/packages/helm/quench-mox/mox) | quench-mox | 0.0.1 | mox: a modern full-featured mail server (SMTP with SPF/DKIM/DMARC/MTA-STS, IMAP… |
+| 2026-11-23 05:39:11 | [model2vec-serve](https://artifacthub.io/packages/helm/it-at-m/model2vec-serve) | it-at-m | 0.7.2 | Lightweight OpenAI/TEI compatible model2vec embeddings server |
+| 2026-11-23 05:50:20 | [commafeed](https://artifacthub.io/packages/helm/quench-commafeed/commafeed) | quench-commafeed | 0.0.1 | CommaFeed: a self-hosted RSS reader inspired by Google Reader, with the bundled… |
+| 2026-11-23 06:15:26 | [kestra](https://artifacthub.io/packages/helm/quench-kestra/kestra) | quench-kestra | 0.0.1 | Kestra: a declarative event-driven orchestration platform (YAML flows, plugins,… |
 
 ## Data source
 

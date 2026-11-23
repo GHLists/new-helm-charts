@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-23T05:39:11Z,model2vec-serve,it-at-m,0.7.2,Lightweight OpenAI/TEI compatible model2vec embeddings server
+2026-11-23T05:50:20Z,commafeed,quench-commafeed,0.0.1,"CommaFeed: a self-hosted RSS reader inspired by Google Reader, with the bundled PostgreSQL. Hardened by QuenchWorks: CVE-gated, cosign-signed and pinned by digest."
+2026-11-23T06:15:26Z,kestra,quench-kestra,0.0.1,"Kestra: a declarative event-driven orchestration platform (YAML flows, plugins, a web UI and an API), with the bundled PostgreSQL. Hardened by QuenchWorks: CVE-gated, cosign-signed and pinned by digest."
