@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-23T13:26:06Z,upgradoor,ethereum-helm-charts,0.1.0,"Per-devnet controller that staggers docker image rolls, package upgrades and reboots across the hosts of an Ethereum devnet, gated on network health."
+2026-11-23T13:44:38Z,langflow,quench-langflow,0.0.1,"Langflow: a visual builder for LLM applications and agent workflows (React UI and REST API), with the bundled PostgreSQL. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
