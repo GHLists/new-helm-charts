@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 14:22 UTC
+## Latest list — 2026-11-23 15:22 UTC
 
-New charts added between 2026-11-23 13:21 UTC and 2026-11-23 14:22 UTC.
+New charts added between 2026-11-23 14:22 UTC and 2026-11-23 15:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-23T14-22-33-001502Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-23T15-22-05-911085Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-23 13:26:06 | [upgradoor](https://artifacthub.io/packages/helm/ethereum-helm-charts/upgradoor) | ethereum-helm-charts | 0.1.0 | Per-devnet controller that staggers docker image rolls, package upgrades and re… |
-| 2026-11-23 13:44:38 | [langflow](https://artifacthub.io/packages/helm/quench-langflow/langflow) | quench-langflow | 0.0.1 | Langflow: a visual builder for LLM applications and agent workflows (React UI a… |
+| 2026-11-23 14:33:22 | [traccar](https://artifacthub.io/packages/helm/quench-traccar/traccar) | quench-traccar | 0.0.1 | Traccar: a GPS tracking server for 200+ device protocols with live maps, geofen… |
+| 2026-11-23 15:04:24 | [it-tools](https://artifacthub.io/packages/helm/quench-it-tools/it-tools) | quench-it-tools | 0.0.1 | IT-Tools: developer utilities in one web app (encoders, converters, generators,… |
 
 ## Data source
 
