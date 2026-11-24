@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-24T15:27:01Z,keda,wikimedia,2.21.0,Event-based autoscaler for workloads on Kubernetes
+2026-11-24T16:01:18Z,amadioha-agent,amadioha-agent,1.0.0-rc.2,"Amadioha's agent on every node of a Kubernetes cluster (a DaemonSet): each node's logins, system and audit logs, packages, CPU, memory and disks, sent to Amadioha's ingest over TLS."
