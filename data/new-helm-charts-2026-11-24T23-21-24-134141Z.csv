@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-24T22:22:17Z,osc-mlflow,osc,0.1.0,A Helm chart for mlflow deployment at OSC
