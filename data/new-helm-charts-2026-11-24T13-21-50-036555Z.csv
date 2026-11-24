@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-24T13:01:41Z,arrchitect,arrchitect,0.3.1,"Kubernetes operator that configures Sonarr, Radarr, Prowlarr, Jellyfin, Plex and other media apps from custom resources"

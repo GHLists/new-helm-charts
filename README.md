@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 10:20 UTC
+## Latest list — 2026-11-24 13:21 UTC
 
-New charts added between 2026-11-24 09:21 UTC and 2026-11-24 10:20 UTC.
+New charts added between 2026-11-24 12:22 UTC and 2026-11-24 13:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-24T10-20-27-554033Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-24T13-21-50-036555Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-24 09:38:45 | [crushmft27](https://artifacthub.io/packages/helm/crushftp/crushmft27) | crushftp | 0.1.1 | CrushMFT 27 on Kubernetes (the program read-only in the image; the server's fol… |
+| 2026-11-24 13:01:41 | [arrchitect](https://artifacthub.io/packages/helm/arrchitect/arrchitect) | arrchitect | 0.3.1 | Kubernetes operator that configures Sonarr, Radarr, Prowlarr, Jellyfin, Plex an… |
 
 ## Data source
 
