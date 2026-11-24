@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 17:20 UTC
+## Latest list — 2026-11-24 04:18 UTC
 
-New charts added between 2026-11-23 16:18 UTC and 2026-11-23 17:20 UTC.
+New charts added between 2026-11-24 03:20 UTC and 2026-11-24 04:18 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-23T17-20-52-95646Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-24T04-18-55-777163Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-23 16:32:56 | [weaviate-otel-collector](https://artifacthub.io/packages/helm/weaviate/weaviate-otel-collector) | weaviate | 17.9.0 | Pushes aggregate Weaviate metrics to Weaviate Cloud (OSS "Cloud Connect"). |
-| 2026-11-23 16:52:47 | [cvedetector](https://artifacthub.io/packages/helm/huseyinbabal/cvedetector) | huseyinbabal | 0.3.1 | Maps running container images to known CVEs using a published feed. No image sc… |
+| 2026-11-24 03:22:33 | [flyte-devbox](https://artifacthub.io/packages/helm/flyte/flyte-devbox) | flyte | 0.1.0 | A Helm chart for the Flyte local demo cluster |
+| 2026-11-24 03:31:14 | [panopticum](https://artifacthub.io/packages/helm/panopticum/panopticum) | panopticum | 1.0.16 | A tool for developers and QA — web interface for viewing and managing database… |
 
 ## Data source
 
