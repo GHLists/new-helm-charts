@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 18:20 UTC
+## Latest list — 2026-11-24 19:20 UTC
 
-New charts added between 2026-11-24 17:19 UTC and 2026-11-24 18:20 UTC.
+New charts added between 2026-11-24 18:20 UTC and 2026-11-24 19:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-24T18-20-18-974332Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-24T19-20-31-457405Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-24 17:23:49 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
-| 2026-11-24 17:37:50 | [osc-silo](https://artifacthub.io/packages/helm/osc/osc-silo) | osc | 0.1.0 | A Helm chart for silo |
+| 2026-11-24 18:24:20 | [osc-mlflow](https://artifacthub.io/packages/helm/osc/osc-mlflow) | osc | 0.1.0 | A Helm chart for mlflow deployment at OSC |
+| 2026-11-24 18:24:20 | [osc-silo](https://artifacthub.io/packages/helm/osc/osc-silo) | osc | 0.1.0 | A Helm chart for silo |
 
 ## Data source
 
