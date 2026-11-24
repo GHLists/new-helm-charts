@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-24T20:01:18Z,azure-pipelines-agent,azure-pipelines-agent-chart,1.0.0,Self-hosted Azure Pipelines agents on Kubernetes that KEDA starts one per queued job

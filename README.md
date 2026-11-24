@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 19:20 UTC
+## Latest list — 2026-11-24 20:20 UTC
 
-New charts added between 2026-11-24 18:20 UTC and 2026-11-24 19:20 UTC.
+New charts added between 2026-11-24 19:20 UTC and 2026-11-24 20:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-24T19-20-31-457405Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-24T20-20-13-104857Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-24 18:24:20 | [osc-mlflow](https://artifacthub.io/packages/helm/osc/osc-mlflow) | osc | 0.1.0 | A Helm chart for mlflow deployment at OSC |
-| 2026-11-24 18:24:20 | [osc-silo](https://artifacthub.io/packages/helm/osc/osc-silo) | osc | 0.1.0 | A Helm chart for silo |
+| 2026-11-24 20:01:18 | [azure-pipelines-agent](https://artifacthub.io/packages/helm/azure-pipelines-agent-chart/azure-pipelines-agent) | azure-pipelines-agent-c… | 1.0.0 | Self-hosted Azure Pipelines agents on Kubernetes that KEDA starts one per queue… |
 
 ## Data source
 
