@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-24T16:27:47Z,pangolin-node,fosrl,0.1.1,"Pangolin remote node (Pangolin Node, Gerbil and Traefik) connected to a managed Pangolin control plane"
+2026-11-24T16:48:58Z,kamaji-crds,clastix,0.0.0+latest,Kamaji is the Hosted Control Plane Manager for Kubernetes.

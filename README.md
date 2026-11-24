@@ -14,16 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 16:20 UTC
+## Latest list — 2026-11-24 17:19 UTC
 
-New charts added between 2026-11-24 15:22 UTC and 2026-11-24 16:20 UTC.
+New charts added between 2026-11-24 16:20 UTC and 2026-11-24 17:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-24T16-20-20-579784Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-24T17-19-03-410972Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-24 15:27:01 | [keda](https://artifacthub.io/packages/helm/wikimedia/keda) | wikimedia | 2.21.0 | Event-based autoscaler for workloads on Kubernetes |
-| 2026-11-24 16:01:18 | [amadioha-agent](https://artifacthub.io/packages/helm/amadioha-agent/amadioha-agent) | amadioha-agent | 1.0.0-rc.2 | Amadioha's agent on every node of a Kubernetes cluster (a DaemonSet): each node… |
+| 2026-11-24 16:27:47 | [pangolin-node](https://artifacthub.io/packages/helm/fosrl/pangolin-node) | fosrl | 0.1.1 | Pangolin remote node (Pangolin Node, Gerbil and Traefik) connected to a managed… |
+| 2026-11-24 16:48:58 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
 
 ## Data source
 
