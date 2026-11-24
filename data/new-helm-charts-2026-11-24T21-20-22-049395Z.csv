@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-24T21:01:07Z,amadioha,amadioha,1.0.0-rc.4,"Amadioha, the security operations platform, on Kubernetes: the indexer (OpenSearch) and the manager (API, ingest, detection, enrichment, scans, Kafka and Postgres) as StatefulSets, and the console as a Deployment."

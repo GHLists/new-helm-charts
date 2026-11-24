@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 20:20 UTC
+## Latest list — 2026-11-24 21:20 UTC
 
-New charts added between 2026-11-24 19:20 UTC and 2026-11-24 20:20 UTC.
+New charts added between 2026-11-24 20:20 UTC and 2026-11-24 21:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-24T20-20-13-104857Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-24T21-20-22-049395Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-24 20:01:18 | [azure-pipelines-agent](https://artifacthub.io/packages/helm/azure-pipelines-agent-chart/azure-pipelines-agent) | azure-pipelines-agent-c… | 1.0.0 | Self-hosted Azure Pipelines agents on Kubernetes that KEDA starts one per queue… |
+| 2026-11-24 21:01:07 | [amadioha](https://artifacthub.io/packages/helm/amadioha/amadioha) | amadioha | 1.0.0-rc.4 | Amadioha, the security operations platform, on Kubernetes: the indexer (OpenSea… |
 
 ## Data source
 
