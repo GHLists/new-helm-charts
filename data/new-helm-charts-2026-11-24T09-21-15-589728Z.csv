@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-24T08:27:31Z,hoppscotch,quench-hoppscotch,0.0.1,"Hoppscotch: an open-source API development platform (REST, GraphQL, WebSocket, team workspaces). The backend, the web app and the admin dashboard on the bundled PostgreSQL. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
