@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-24T09:38:45Z,crushmft27,crushftp,0.1.1,"CrushMFT 27 on Kubernetes (the program read-only in the image; the server's folder, with its data and its signed program, on a volume)"

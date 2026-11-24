@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 09:21 UTC
+## Latest list — 2026-11-24 10:20 UTC
 
-New charts added between 2026-11-24 08:20 UTC and 2026-11-24 09:21 UTC.
+New charts added between 2026-11-24 09:21 UTC and 2026-11-24 10:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-24T09-21-15-589728Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-24T10-20-27-554033Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-24 08:27:31 | [hoppscotch](https://artifacthub.io/packages/helm/quench-hoppscotch/hoppscotch) | quench-hoppscotch | 0.0.1 | Hoppscotch: an open-source API development platform (REST, GraphQL, WebSocket,… |
+| 2026-11-24 09:38:45 | [crushmft27](https://artifacthub.io/packages/helm/crushftp/crushmft27) | crushftp | 0.1.1 | CrushMFT 27 on Kubernetes (the program read-only in the image; the server's fol… |
 
 ## Data source
 
