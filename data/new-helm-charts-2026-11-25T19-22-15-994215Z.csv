@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-25T18:32:55Z,outbound-smtp,devhat,0.1.0,Outbound-only SMTP relay with DKIM signing
