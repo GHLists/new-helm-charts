@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 00:19 UTC
+## Latest list — 2026-11-25 01:20 UTC
 
-New charts added between 2026-11-24 23:21 UTC and 2026-11-25 00:19 UTC.
+New charts added between 2026-11-25 00:19 UTC and 2026-11-25 01:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-25T00-19-29-53674Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-25T01-20-50-876438Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-24 23:31:48 | [neurouter](https://artifacthub.io/packages/helm/neurouter/neurouter) | neurouter | 0.1.2 | Self-hosted, open-source MCP gateway with SSO, per-tool access control, human a… |
-| 2026-11-25 00:09:37 | [falcosidekick](https://artifacthub.io/packages/helm/quench-falcosidekick/falcosidekick) | quench-falcosidekick | 0.0.1 | Falcosidekick: forwards Falco alerts to chat, logs, SIEM, cloud and webhook out… |
+| 2026-11-25 00:50:39 | [plausible](https://artifacthub.io/packages/helm/quench-plausible/plausible) | quench-plausible | 0.0.1 | Plausible Analytics Community Edition: privacy-friendly web analytics without c… |
 
 ## Data source
 

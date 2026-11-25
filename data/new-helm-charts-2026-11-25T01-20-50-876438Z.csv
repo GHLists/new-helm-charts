@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-25T00:50:39Z,plausible,quench-plausible,0.0.1,"Plausible Analytics Community Edition: privacy-friendly web analytics without cookies, on the bundled PostgreSQL and ClickHouse. Hardened by QuenchWorks: built from source without the proprietary extra/ code, CVE-gated, cosign-signed and pinned by digest."
