@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-24T23:31:48Z,neurouter,neurouter,0.1.2,"Self-hosted, open-source MCP gateway with SSO, per-tool access control, human approvals and a tamper-evident audit log"
+2026-11-25T00:09:37Z,falcosidekick,quench-falcosidekick,0.0.1,"Falcosidekick: forwards Falco alerts to chat, logs, SIEM, cloud and webhook outputs (60+), with Prometheus metrics. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."
