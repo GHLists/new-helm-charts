@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 17:21 UTC
+## Latest list — 2026-11-25 18:22 UTC
 
-New charts added between 2026-11-25 15:20 UTC and 2026-11-25 17:21 UTC.
+New charts added between 2026-11-25 17:21 UTC and 2026-11-25 18:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-25T17-21-51-191277Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-25T18-22-33-507599Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-25 15:32:18 | [ella-core](https://artifacthub.io/packages/helm/openshift/ella-core) | openshift | 1.23.0 | Ella Core, a 5G and 4G mobile core network. |
+| 2026-11-25 17:57:18 | [ucm](https://artifacthub.io/packages/helm/ucm/ucm) | ucm | 3.0.0 | Ultimate Certificate Manager, a web-based Certificate Authority and PKI platfor… |
 
 ## Data source
 

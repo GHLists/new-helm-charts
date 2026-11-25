@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-25T17:57:18Z,ucm,ucm,3.0.0,"Ultimate Certificate Manager, a web-based Certificate Authority and PKI platform (ACME, SCEP, EST, OCSP, CRL/CDP) for in-cluster deployment."
