@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-25T07:28:36Z,novacaap,acute,1.0.0,"Flexible chart for deploying apps as Deployment, StatefulSet, Job, or CronJob"
+2026-11-25T07:29:26Z,data-diode-connector-egress,ffutop,1.0.0,A Helm chart for Kubernetes to deploy the Data Diode Connector Egress. Securely receives and processes unidirectional data streams.
+2026-11-25T07:29:26Z,data-diode-connector-ingress,ffutop,1.0.0,"A Helm chart for Kubernetes to deploy the Data Diode Connector Ingress. Designed for secure, unidirectional data transfer in high-security environments."

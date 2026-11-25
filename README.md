@@ -14,27 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 07:20 UTC
+## Latest list — 2026-11-25 08:19 UTC
 
-New charts added between 2026-11-25 06:21 UTC and 2026-11-25 07:20 UTC.
+New charts added between 2026-11-25 07:20 UTC and 2026-11-25 08:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-25T07-20-54-46564Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-25T08-19-04-314289Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-25 06:29:18 | [generic_service](https://artifacthub.io/packages/helm/loeken-at-home/generic_service) | loeken-at-home | 1.0.0 | a helm chart to install sinusbot |
-| 2026-11-25 06:29:18 | [home-assistant](https://artifacthub.io/packages/helm/loeken-at-home/home-assistant) | loeken-at-home | 2026.11.2 | home-assistant - a free and open-source software for home automation designed t… |
-| 2026-11-25 06:29:18 | [jellyfin](https://artifacthub.io/packages/helm/loeken-at-home/jellyfin) | loeken-at-home | 10.11.11 | a helm chart to install jellyfin |
-| 2026-11-25 06:29:18 | [jellyseerr](https://artifacthub.io/packages/helm/loeken-at-home/jellyseerr) | loeken-at-home | 3.1.0 | a helm chart to install jellyseer |
-| 2026-11-25 06:29:18 | [nzbget](https://artifacthub.io/packages/helm/loeken-at-home/nzbget) | loeken-at-home | 26.3.0-ls273 | nzbget - efficient usenet downloader. |
-| 2026-11-25 06:29:18 | [prowlarr](https://artifacthub.io/packages/helm/loeken-at-home/prowlarr) | loeken-at-home | 1.37.0 | prowlarr - Prowlarr is an indexer manager/proxy built on the popular *arr softw… |
-| 2026-11-25 06:29:18 | [radarr](https://artifacthub.io/packages/helm/loeken-at-home/radarr) | loeken-at-home | 5.27.0-nightly | a helm chart to install radarr |
-| 2026-11-25 06:29:18 | [sinusbot](https://artifacthub.io/packages/helm/loeken-at-home/sinusbot) | loeken-at-home | 2.3.0 | a helm chart to install sinusbot |
-| 2026-11-25 06:29:18 | [sonarr](https://artifacthub.io/packages/helm/loeken-at-home/sonarr) | loeken-at-home | 4.0.20 | sonarr - an internet PVR for Usenet and Torrents. |
-| 2026-11-25 06:29:18 | [uptime-kuma](https://artifacthub.io/packages/helm/loeken-at-home/uptime-kuma) | loeken-at-home | 2.5.12 | a helm chart to install uptime-kuma |
-| 2026-11-25 06:29:18 | [vaultwarden](https://artifacthub.io/packages/helm/loeken-at-home/vaultwarden) | loeken-at-home | 1.37.5-alpine | vaultwarden - unofficial bitwarden compatible server written in rust, formerly… |
-| 2026-11-25 06:30:46 | [dx-delivery-operator](https://artifacthub.io/packages/helm/dx-delivery-operator/dx-delivery-operator) | dx-delivery-operator | 0.16.0 | DX Delivery Operator (formerly HCL DX Script Application operator): delivers HC… |
-| 2026-11-25 06:32:12 | [hcl-dx-orbita](https://artifacthub.io/packages/helm/orbita/hcl-dx-orbita) | orbita | 4.0.0 | ÓRBITA, intranet suite for HCL DX Compose: six Script Applications (time tracki… |
+| 2026-11-25 07:28:36 | [novacaap](https://artifacthub.io/packages/helm/acute/novacaap) | acute | 1.0.0 | Flexible chart for deploying apps as Deployment, StatefulSet, Job, or CronJob |
+| 2026-11-25 07:29:26 | [data-diode-connector-egress](https://artifacthub.io/packages/helm/ffutop/data-diode-connector-egress) | ffutop | 1.0.0 | A Helm chart for Kubernetes to deploy the Data Diode Connector Egress. Securely… |
+| 2026-11-25 07:29:26 | [data-diode-connector-ingress](https://artifacthub.io/packages/helm/ffutop/data-diode-connector-ingress) | ffutop | 1.0.0 | A Helm chart for Kubernetes to deploy the Data Diode Connector Ingress. Designe… |
 
 ## Data source
 
