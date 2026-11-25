@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 15:20 UTC
+## Latest list — 2026-11-25 17:21 UTC
 
-New charts added between 2026-11-25 14:21 UTC and 2026-11-25 15:20 UTC.
+New charts added between 2026-11-25 15:20 UTC and 2026-11-25 17:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-25T15-20-24-601625Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-25T17-21-51-191277Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-25 14:52:02 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
+| 2026-11-25 15:32:18 | [ella-core](https://artifacthub.io/packages/helm/openshift/ella-core) | openshift | 1.23.0 | Ella Core, a 5G and 4G mobile core network. |
 
 ## Data source
 
