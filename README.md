@@ -14,18 +14,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 03:19 UTC
+## Latest list — 2026-11-25 06:21 UTC
 
-New charts added between 2026-11-25 02:20 UTC and 2026-11-25 03:19 UTC.
+New charts added between 2026-11-25 05:22 UTC and 2026-11-25 06:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-25T03-19-37-673421Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-25T06-21-31-125153Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-25 03:03:32 | [dashy](https://artifacthub.io/packages/helm/quench-dashy/dashy) | quench-dashy | 0.0.1 | Dashy: a self-hosted start page and dashboard with widgets, status checks, them… |
-| 2026-11-25 03:03:41 | [pgadmin4](https://artifacthub.io/packages/helm/quench-pgadmin4/pgadmin4) | quench-pgadmin4 | 0.0.1 | pgAdmin 4: the web administration and development platform for PostgreSQL (quer… |
-| 2026-11-25 03:03:41 | [postgres-operator](https://artifacthub.io/packages/helm/quench-postgres-operator/postgres-operator) | quench-postgres-operator | 0.0.1 | Zalando Postgres Operator: highly available PostgreSQL clusters on Patroni from… |
-| 2026-11-25 03:03:42 | [radicale](https://artifacthub.io/packages/helm/quench-radicale/radicale) | quench-radicale | 0.0.1 | Radicale: a small CalDAV and CardDAV server for calendars, task lists and conta… |
+| 2026-11-25 05:27:18 | [tinyproxy](https://artifacthub.io/packages/helm/quench-tinyproxy/tinyproxy) | quench-tinyproxy | 0.0.1 | Tinyproxy: a small HTTP and HTTPS (CONNECT) forward proxy with ACLs, filtering… |
+| 2026-11-25 05:38:29 | [crowdsec](https://artifacthub.io/packages/helm/quench-crowdsec/crowdsec) | quench-crowdsec | 0.0.1 | CrowdSec: log-based attack detection with community scenarios; the Local API se… |
+| 2026-11-25 05:56:24 | [haproxy-kubernetes-ingress](https://artifacthub.io/packages/helm/quench-haproxy-kubernetes-ingress/haproxy-kubernetes-ingress) | quench-haproxy-kubernet… | 0.0.1 | HAProxy Kubernetes Ingress Controller: Ingress through HAProxy with rate limiti… |
+| 2026-11-25 06:21:24 | [coraza-spoa](https://artifacthub.io/packages/helm/quench-coraza-spoa/coraza-spoa) | quench-coraza-spoa | 0.0.1 | Coraza SPOA: the OWASP Coraza web application firewall as an HAProxy SPOE agent… |
 
 ## Data source
 
