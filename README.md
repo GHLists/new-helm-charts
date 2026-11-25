@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 11:19 UTC
+## Latest list — 2026-11-25 13:21 UTC
 
-New charts added between 2026-11-25 10:21 UTC and 2026-11-25 11:19 UTC.
+New charts added between 2026-11-25 12:21 UTC and 2026-11-25 13:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-25T11-19-39-722195Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-25T13-21-37-939096Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-25 10:32:36 | [protem](https://artifacthub.io/packages/helm/protem/protem) | protem | 0.1.1 | Just-in-time privileged access management for Kubernetes, with time-bound, appr… |
+| 2026-11-25 12:36:48 | [garage](https://artifacthub.io/packages/helm/kvalitetsit/garage) | kvalitetsit | 0.10.4 | S3-compatible object store for small self-hosted geo-distributed deployments |
 
 ## Data source
 
