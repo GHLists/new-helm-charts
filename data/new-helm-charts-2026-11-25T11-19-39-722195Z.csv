@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-25T10:32:36Z,protem,protem,0.1.1,"Just-in-time privileged access management for Kubernetes, with time-bound, approval-gated access across every cluster."
