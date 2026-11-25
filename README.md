@@ -14,18 +14,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 06:21 UTC
+## Latest list — 2026-11-25 07:20 UTC
 
-New charts added between 2026-11-25 05:22 UTC and 2026-11-25 06:21 UTC.
+New charts added between 2026-11-25 06:21 UTC and 2026-11-25 07:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-25T06-21-31-125153Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-25T07-20-54-46564Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-25 05:27:18 | [tinyproxy](https://artifacthub.io/packages/helm/quench-tinyproxy/tinyproxy) | quench-tinyproxy | 0.0.1 | Tinyproxy: a small HTTP and HTTPS (CONNECT) forward proxy with ACLs, filtering… |
-| 2026-11-25 05:38:29 | [crowdsec](https://artifacthub.io/packages/helm/quench-crowdsec/crowdsec) | quench-crowdsec | 0.0.1 | CrowdSec: log-based attack detection with community scenarios; the Local API se… |
-| 2026-11-25 05:56:24 | [haproxy-kubernetes-ingress](https://artifacthub.io/packages/helm/quench-haproxy-kubernetes-ingress/haproxy-kubernetes-ingress) | quench-haproxy-kubernet… | 0.0.1 | HAProxy Kubernetes Ingress Controller: Ingress through HAProxy with rate limiti… |
-| 2026-11-25 06:21:24 | [coraza-spoa](https://artifacthub.io/packages/helm/quench-coraza-spoa/coraza-spoa) | quench-coraza-spoa | 0.0.1 | Coraza SPOA: the OWASP Coraza web application firewall as an HAProxy SPOE agent… |
+| 2026-11-25 06:29:18 | [generic_service](https://artifacthub.io/packages/helm/loeken-at-home/generic_service) | loeken-at-home | 1.0.0 | a helm chart to install sinusbot |
+| 2026-11-25 06:29:18 | [home-assistant](https://artifacthub.io/packages/helm/loeken-at-home/home-assistant) | loeken-at-home | 2026.11.2 | home-assistant - a free and open-source software for home automation designed t… |
+| 2026-11-25 06:29:18 | [jellyfin](https://artifacthub.io/packages/helm/loeken-at-home/jellyfin) | loeken-at-home | 10.11.11 | a helm chart to install jellyfin |
+| 2026-11-25 06:29:18 | [jellyseerr](https://artifacthub.io/packages/helm/loeken-at-home/jellyseerr) | loeken-at-home | 3.1.0 | a helm chart to install jellyseer |
+| 2026-11-25 06:29:18 | [nzbget](https://artifacthub.io/packages/helm/loeken-at-home/nzbget) | loeken-at-home | 26.3.0-ls273 | nzbget - efficient usenet downloader. |
+| 2026-11-25 06:29:18 | [prowlarr](https://artifacthub.io/packages/helm/loeken-at-home/prowlarr) | loeken-at-home | 1.37.0 | prowlarr - Prowlarr is an indexer manager/proxy built on the popular *arr softw… |
+| 2026-11-25 06:29:18 | [radarr](https://artifacthub.io/packages/helm/loeken-at-home/radarr) | loeken-at-home | 5.27.0-nightly | a helm chart to install radarr |
+| 2026-11-25 06:29:18 | [sinusbot](https://artifacthub.io/packages/helm/loeken-at-home/sinusbot) | loeken-at-home | 2.3.0 | a helm chart to install sinusbot |
+| 2026-11-25 06:29:18 | [sonarr](https://artifacthub.io/packages/helm/loeken-at-home/sonarr) | loeken-at-home | 4.0.20 | sonarr - an internet PVR for Usenet and Torrents. |
+| 2026-11-25 06:29:18 | [uptime-kuma](https://artifacthub.io/packages/helm/loeken-at-home/uptime-kuma) | loeken-at-home | 2.5.12 | a helm chart to install uptime-kuma |
+| 2026-11-25 06:29:18 | [vaultwarden](https://artifacthub.io/packages/helm/loeken-at-home/vaultwarden) | loeken-at-home | 1.37.5-alpine | vaultwarden - unofficial bitwarden compatible server written in rust, formerly… |
+| 2026-11-25 06:30:46 | [dx-delivery-operator](https://artifacthub.io/packages/helm/dx-delivery-operator/dx-delivery-operator) | dx-delivery-operator | 0.16.0 | DX Delivery Operator (formerly HCL DX Script Application operator): delivers HC… |
+| 2026-11-25 06:32:12 | [hcl-dx-orbita](https://artifacthub.io/packages/helm/orbita/hcl-dx-orbita) | orbita | 4.0.0 | ÓRBITA, intranet suite for HCL DX Compose: six Script Applications (time tracki… |
 
 ## Data source
 
