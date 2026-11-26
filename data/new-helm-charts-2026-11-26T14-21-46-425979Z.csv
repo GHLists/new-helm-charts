@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-26T13:37:13Z,mysql-innodbcluster,mysql-operator,2.3.2,MySQL InnoDB Cluster Helm Chart for deploying MySQL InnoDB Cluster in Kubernetes
+2026-11-26T13:37:13Z,mysql-operator,mysql-operator,2.3.2,MySQL Operator Helm Chart for deploying MySQL InnoDB Cluster in Kubernetes
+2026-11-26T13:53:11Z,castai-karpenter,castai,0.1.0,"Karpenter for EKS, installed and upgraded by the CAST AI castware operator. Wraps the upstream karpenter and karpenter-crd charts at pinned versions."
