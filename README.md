@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 16:20 UTC
+## Latest list — 2026-11-26 17:22 UTC
 
-New charts added between 2026-11-26 15:19 UTC and 2026-11-26 16:20 UTC.
+New charts added between 2026-11-26 16:20 UTC and 2026-11-26 17:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-26T16-20-27-624744Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-26T17-22-33-072055Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-26 16:01:46 | [cert-manager-webhook-noderings](https://artifacthub.io/packages/helm/cert-manager-webhook-noderings/cert-manager-webhook-noderings) | cert-manager-webhook-no… | 0.1.0 | cert-manager ACME DNS-01 solver for NodeRings DNS |
+| 2026-11-26 17:02:03 | [garage](https://artifacthub.io/packages/helm/garage/garage) | garage | 0.10.4 | S3-compatible object store for small self-hosted geo-distributed deployments |
+| 2026-11-26 17:02:08 | [gridpin](https://artifacthub.io/packages/helm/gridpin/gridpin) | gridpin | 0.2.0 | Offline geocoding server for Kubernetes, addresses to points and back without a… |
+| 2026-11-26 17:02:31 | [kube-memlens](https://artifacthub.io/packages/helm/kubememlens/kube-memlens) | kubememlens | 0.0.1-alpha.1 | Terminal-first Kubernetes memory inspector components |
 
 ## Data source
 

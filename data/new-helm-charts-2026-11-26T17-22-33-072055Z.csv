@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-26T17:02:03Z,garage,garage,0.10.4,S3-compatible object store for small self-hosted geo-distributed deployments
+2026-11-26T17:02:08Z,gridpin,gridpin,0.2.0,"Offline geocoding server for Kubernetes, addresses to points and back without a network; one Deployment per country"
+2026-11-26T17:02:31Z,kube-memlens,kubememlens,0.0.1-alpha.1,Terminal-first Kubernetes memory inspector components
