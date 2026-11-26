@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 20:20 UTC
+## Latest list — 2026-11-26 22:19 UTC
 
-New charts added between 2026-11-26 19:22 UTC and 2026-11-26 20:20 UTC.
+New charts added between 2026-11-26 21:21 UTC and 2026-11-26 22:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-26T20-20-00-36995Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-26T22-19-28-309887Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-26 19:30:56 | [openserp](https://artifacthub.io/packages/helm/leprechaun-charts/openserp) | leprechaun-charts | 0.1.1 | Self-hosted web search REST API (Google, Bing, Yandex, Baidu, DuckDuckGo, Ecosi… |
+| 2026-11-26 21:32:14 | [open-revoke](https://artifacthub.io/packages/helm/open-revoke/open-revoke) | open-revoke | 0.1.0-rc.2 | Self-hosted panel for a company's SaaS tools: who has an account where, what ea… |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-26T21:32:14Z,open-revoke,open-revoke,0.1.0-rc.2,"Self-hosted panel for a company's SaaS tools: who has an account where, what each tool costs, and offboarding that removes a leaver's accounts, also through a browser in apps without an API."
