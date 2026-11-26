@@ -14,17 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 14:21 UTC
+## Latest list — 2026-11-26 16:20 UTC
 
-New charts added between 2026-11-26 13:21 UTC and 2026-11-26 14:21 UTC.
+New charts added between 2026-11-26 15:19 UTC and 2026-11-26 16:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-26T14-21-46-425979Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-26T16-20-27-624744Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-26 13:37:13 | [mysql-innodbcluster](https://artifacthub.io/packages/helm/mysql-operator/mysql-innodbcluster) | mysql-operator | 2.3.2 | MySQL InnoDB Cluster Helm Chart for deploying MySQL InnoDB Cluster in Kubernetes |
-| 2026-11-26 13:37:13 | [mysql-operator](https://artifacthub.io/packages/helm/mysql-operator/mysql-operator) | mysql-operator | 2.3.2 | MySQL Operator Helm Chart for deploying MySQL InnoDB Cluster in Kubernetes |
-| 2026-11-26 13:53:11 | [castai-karpenter](https://artifacthub.io/packages/helm/castai/castai-karpenter) | castai | 0.1.0 | Karpenter for EKS, installed and upgraded by the CAST AI castware operator. Wra… |
+| 2026-11-26 16:01:46 | [cert-manager-webhook-noderings](https://artifacthub.io/packages/helm/cert-manager-webhook-noderings/cert-manager-webhook-noderings) | cert-manager-webhook-no… | 0.1.0 | cert-manager ACME DNS-01 solver for NodeRings DNS |
 
 ## Data source
 
