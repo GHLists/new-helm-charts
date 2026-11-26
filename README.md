@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 12:19 UTC
+## Latest list — 2026-11-26 13:21 UTC
 
-New charts added between 2026-11-26 11:21 UTC and 2026-11-26 12:19 UTC.
+New charts added between 2026-11-26 12:19 UTC and 2026-11-26 13:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-26T12-19-45-945096Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-26T13-21-32-677419Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-26 11:32:18 | [neurouter-core](https://artifacthub.io/packages/helm/neurouter-core/neurouter-core) | neurouter-core | 0.1.1 | Neurouter turns an OpenAPI or GraphQL API into a governed MCP server with code… |
+| 2026-11-26 12:51:25 | [aws-annual-chart](https://artifacthub.io/packages/helm/factorhouse/aws-annual-chart) | factorhouse | 1.0.84 | Run Kpow Annual from the AWS Marketplace in Kubernetes |
 
 ## Data source
 
