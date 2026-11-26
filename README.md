@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 01:19 UTC
+## Latest list — 2026-11-26 02:21 UTC
 
-New charts added between 2026-11-26 00:18 UTC and 2026-11-26 01:19 UTC.
+New charts added between 2026-11-26 01:19 UTC and 2026-11-26 02:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-26T01-19-57-680277Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-26T02-21-09-520384Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-26 01:03:57 | [ots](https://artifacthub.io/packages/helm/quench-ots/ots) | quench-ots | 0.0.1 | OTS: one-time secret sharing (encrypted in the browser, the link self-destructs… |
+| 2026-11-26 02:02:52 | [neurouter-hub](https://artifacthub.io/packages/helm/neurouter-hub/neurouter-hub) | neurouter-hub | 0.2.0 | Neurouter Hub, the self-hosted, open-source MCP gateway with SSO, per-tool acce… |
 
 ## Data source
 
