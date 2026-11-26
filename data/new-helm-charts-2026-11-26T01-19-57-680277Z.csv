@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-26T01:03:57Z,ots,quench-ots,0.0.1,"OTS: one-time secret sharing (encrypted in the browser, the link self-destructs after one read), in memory or on the bundled Valkey. Hardened by QuenchWorks: built from source, CVE-gated, cosign-signed and pinned by digest."

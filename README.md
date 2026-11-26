@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 23:18 UTC
+## Latest list — 2026-11-26 01:19 UTC
 
-New charts added between 2026-11-25 22:19 UTC and 2026-11-25 23:18 UTC.
+New charts added between 2026-11-26 00:18 UTC and 2026-11-26 01:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-25T23-18-52-708868Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-26T01-19-57-680277Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-25 22:59:50 | [dynamo](https://artifacthub.io/packages/helm/osc/dynamo) | osc | 0.1.0 | A Helm chart to deploy Dynamo resources at OSC |
+| 2026-11-26 01:03:57 | [ots](https://artifacthub.io/packages/helm/quench-ots/ots) | quench-ots | 0.0.1 | OTS: one-time secret sharing (encrypted in the browser, the link self-destructs… |
 
 ## Data source
 
