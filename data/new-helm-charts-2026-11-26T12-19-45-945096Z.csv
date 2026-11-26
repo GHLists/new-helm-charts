@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-26T11:32:18Z,neurouter-core,neurouter-core,0.1.1,"Neurouter turns an OpenAPI or GraphQL API into a governed MCP server with code mode, ops tools and evals"

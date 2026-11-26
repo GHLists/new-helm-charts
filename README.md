@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 11:21 UTC
+## Latest list — 2026-11-26 12:19 UTC
 
-New charts added between 2026-11-26 10:19 UTC and 2026-11-26 11:21 UTC.
+New charts added between 2026-11-26 11:21 UTC and 2026-11-26 12:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-26T11-21-02-731334Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-26T12-19-45-945096Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-26 10:30:50 | [enterplace](https://artifacthub.io/packages/helm/enterplace/enterplace) | enterplace | 0.2.0 | Enterplace, the open source self-hosted AI gateway and MCP gateway. Each replic… |
+| 2026-11-26 11:32:18 | [neurouter-core](https://artifacthub.io/packages/helm/neurouter-core/neurouter-core) | neurouter-core | 0.1.1 | Neurouter turns an OpenAPI or GraphQL API into a governed MCP server with code… |
 
 ## Data source
 
