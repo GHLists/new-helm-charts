@@ -14,17 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 17:22 UTC
+## Latest list — 2026-11-26 20:20 UTC
 
-New charts added between 2026-11-26 16:20 UTC and 2026-11-26 17:22 UTC.
+New charts added between 2026-11-26 19:22 UTC and 2026-11-26 20:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-26T17-22-33-072055Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-26T20-20-00-36995Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-26 17:02:03 | [garage](https://artifacthub.io/packages/helm/garage/garage) | garage | 0.10.4 | S3-compatible object store for small self-hosted geo-distributed deployments |
-| 2026-11-26 17:02:08 | [gridpin](https://artifacthub.io/packages/helm/gridpin/gridpin) | gridpin | 0.2.0 | Offline geocoding server for Kubernetes, addresses to points and back without a… |
-| 2026-11-26 17:02:31 | [kube-memlens](https://artifacthub.io/packages/helm/kubememlens/kube-memlens) | kubememlens | 0.0.1-alpha.1 | Terminal-first Kubernetes memory inspector components |
+| 2026-11-26 19:30:56 | [openserp](https://artifacthub.io/packages/helm/leprechaun-charts/openserp) | leprechaun-charts | 0.1.1 | Self-hosted web search REST API (Google, Bing, Yandex, Baidu, DuckDuckGo, Ecosi… |
 
 ## Data source
 
