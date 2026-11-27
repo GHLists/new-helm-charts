@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-27T22:38:21Z,rpi4-v4l2-device-plugin,lbenicio-community,0.1.0,Allocate Raspberry Pi 4 V4L2 H.264 decoder and encoder devices to Kubernetes workloads.
