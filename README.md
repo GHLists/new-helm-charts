@@ -14,17 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 14:18 UTC
+## Latest list — 2026-11-27 16:19 UTC
 
-New charts added between 2026-11-27 13:19 UTC and 2026-11-27 14:18 UTC.
+New charts added between 2026-11-27 15:19 UTC and 2026-11-27 16:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-27T14-18-56-788485Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-27T16-19-37-758023Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-27 13:40:02 | [lib-datadog](https://artifacthub.io/packages/helm/cookielab/lib-datadog) | cookielab | 0.1.0 | Annotations, Labels and ENVs for DataDog |
-| 2026-11-27 13:40:02 | [lib-gitlab](https://artifacthub.io/packages/helm/cookielab/lib-gitlab) | cookielab | 0.1.0 | Annotations for GitLab |
-| 2026-11-27 14:02:18 | [ha-enoceanmqtt](https://artifacthub.io/packages/helm/ha-enoceanmqtt/ha-enoceanmqtt) | ha-enoceanmqtt | 1.0.1-dev.459787644… | Helmchart for enoceanmqtt-addon |
+| 2026-11-27 15:26:26 | [kure](https://artifacthub.io/packages/helm/kure-monitor/kure) | kure-monitor | 2.6.3 | Kubernetes AI observability platform with proactive AI Advice, security scannin… |
+| 2026-11-27 15:59:48 | [kamaji-crds](https://artifacthub.io/packages/helm/clastix/kamaji-crds) | clastix | 0.0.0+latest | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
 
 ## Data source
 
