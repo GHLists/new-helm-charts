@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 09:19 UTC
+## Latest list — 2026-11-27 10:19 UTC
 
-New charts added between 2026-11-27 08:22 UTC and 2026-11-27 09:19 UTC.
+New charts added between 2026-11-27 09:19 UTC and 2026-11-27 10:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-27T09-19-24-593761Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-27T10-19-17-71164Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-27 08:59:04 | [krci-substrate](https://artifacthub.io/packages/helm/epmdedp-dev/krci-substrate) | epmdedp-dev | 0.5.0-SNAPSHOT.1 | A Helm chart for upstream Agent Substrate, matching the upstream ate-setup inst… |
+| 2026-11-27 10:00:08 | [artifact-registry](https://artifacthub.io/packages/helm/gitlab/artifact-registry) | gitlab | 3.192.0 | Helm chart for artifact-registry. |
 
 ## Data source
 
