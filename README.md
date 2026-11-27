@@ -14,16 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 13:19 UTC
+## Latest list — 2026-11-27 14:18 UTC
 
-New charts added between 2026-11-27 12:19 UTC and 2026-11-27 13:19 UTC.
+New charts added between 2026-11-27 13:19 UTC and 2026-11-27 14:18 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-27T13-19-25-217602Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-27T14-18-56-788485Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-27 12:32:01 | [openrevoke](https://artifacthub.io/packages/helm/open-revoke/openrevoke) | open-revoke | 0.3.0 | Self-hosted panel for a company's SaaS tools: who has an account where, what ea… |
-| 2026-11-27 12:54:11 | [kure](https://artifacthub.io/packages/helm/kure-monitor/kure) | kure-monitor | 2.6.3 | Kubernetes AI observability platform with proactive AI Advice, security scannin… |
+| 2026-11-27 13:40:02 | [lib-datadog](https://artifacthub.io/packages/helm/cookielab/lib-datadog) | cookielab | 0.1.0 | Annotations, Labels and ENVs for DataDog |
+| 2026-11-27 13:40:02 | [lib-gitlab](https://artifacthub.io/packages/helm/cookielab/lib-gitlab) | cookielab | 0.1.0 | Annotations for GitLab |
+| 2026-11-27 14:02:18 | [ha-enoceanmqtt](https://artifacthub.io/packages/helm/ha-enoceanmqtt/ha-enoceanmqtt) | ha-enoceanmqtt | 1.0.1-dev.459787644… | Helmchart for enoceanmqtt-addon |
 
 ## Data source
 
