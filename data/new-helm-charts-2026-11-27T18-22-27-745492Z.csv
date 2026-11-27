@@ -1,0 +1,3 @@
+created_at,chart,repository,version,description
+2026-11-27T17:57:16Z,speculaire,spnngl-speculaire,0.1.0,"Spéculaire node agent (registry mirror, P2P image distribution and NRI image-verification gate) and its reflectors, as two DaemonSets"
+2026-11-27T18:09:42Z,spiffefs,spiffe,0.1.1,"A Helm chart to install spiffefs, a FUSE filesystem that delivers SPIFFE X.509 credentials to workloads as files."

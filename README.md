@@ -14,15 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 17:19 UTC
+## Latest list — 2026-11-27 18:22 UTC
 
-New charts added between 2026-11-27 16:19 UTC and 2026-11-27 17:19 UTC.
+New charts added between 2026-11-27 17:19 UTC and 2026-11-27 18:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-27T17-19-25-462748Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-27T18-22-27-745492Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-27 17:03:31 | [spatiumddi](https://artifacthub.io/packages/helm/openshift/spatiumddi) | openshift | 1.0.1 | SpatiumDDI — all-in-one DDI (DNS, DHCP, IPAM) control plane + optional managed… |
+| 2026-11-27 17:57:16 | [speculaire](https://artifacthub.io/packages/helm/spnngl-speculaire/speculaire) | spnngl-speculaire | 0.1.0 | Spéculaire node agent (registry mirror, P2P image distribution and NRI image-ve… |
+| 2026-11-27 18:09:42 | [spiffefs](https://artifacthub.io/packages/helm/spiffe/spiffefs) | spiffe | 0.1.1 | A Helm chart to install spiffefs, a FUSE filesystem that delivers SPIFFE X.509… |
 
 ## Data source
 
