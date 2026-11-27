@@ -14,16 +14,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 23:21 UTC
+## Latest list — 2026-11-27 04:19 UTC
 
-New charts added between 2026-11-26 22:19 UTC and 2026-11-26 23:21 UTC.
+New charts added between 2026-11-27 03:21 UTC and 2026-11-27 04:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-26T23-21-50-54028Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-27T04-19-42-743092Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-26 22:48:05 | [mo-backup](https://artifacthub.io/packages/helm/mogenius/mo-backup) | mogenius | 1.0.29 | This is the mogenius backup script. |
-| 2026-11-26 22:49:51 | [mo-backup-mysql](https://artifacthub.io/packages/helm/mogenius/mo-backup-mysql) | mogenius | 1.0.29 | This is the mogenius backup script. |
+| 2026-11-27 03:26:04 | [ankra-cloud-cosi](https://artifacthub.io/packages/helm/ankra-charts/ankra-cloud-cosi) | ankra-charts | 0.1.0 | COSI driver cosi.ankra.cloud for Ankra Cloud object storage (S3 buckets from Bu… |
+| 2026-11-27 03:26:04 | [cloudflare-operator](https://artifacthub.io/packages/helm/ankra-charts/cloudflare-operator) | ankra-charts | 0.2.0 | Helm chart for the community Cloudflare Operator (adyanth/cloudflare-operator)… |
+| 2026-11-27 03:26:04 | [gateway-api-crds](https://artifacthub.io/packages/helm/ankra-charts/gateway-api-crds) | ankra-charts | 1.5.1 | Kubernetes Gateway API CRDs (standard channel) as a small Helm chart, vendored… |
+| 2026-11-27 03:26:04 | [isms-builder](https://artifacthub.io/packages/helm/ankra-charts/isms-builder) | ankra-charts | 0.1.0 | ISMS Builder on Kubernetes - the open-source ISO 27001 / NIS2 ISMS template bui… |
+| 2026-11-27 03:26:04 | [kamaji](https://artifacthub.io/packages/helm/ankra-charts/kamaji) | ankra-charts | 26.11.4 | Kamaji is the Hosted Control Plane Manager for Kubernetes. |
 
 ## Data source
 
