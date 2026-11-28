@@ -14,16 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 01:21 UTC
+## Latest list — 2026-11-28 05:21 UTC
 
-New charts added between 2026-11-28 00:20 UTC and 2026-11-28 01:21 UTC.
+New charts added between 2026-11-28 04:19 UTC and 2026-11-28 05:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-28T01-21-35-979761Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-28T05-21-49-795907Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-28 00:28:14 | [proxy-helm](https://artifacthub.io/packages/helm/uyuni-proxy/proxy-helm) | uyuni-proxy | 2026.11.0 | Uyuni proxy containers. |
-| 2026-11-28 00:28:14 | [server-helm](https://artifacthub.io/packages/helm/uyuni-server/server-helm) | uyuni-server | 2026.11.0 | Uyuni server |
+| 2026-11-28 04:26:29 | [gtm-tool-finder-snapshot](https://artifacthub.io/packages/helm/gtm-tool-finder/gtm-tool-finder-snapshot) | gtm-tool-finder | 1.0.0 | A CronJob that keeps a ConfigMap up to date with the public OneGTMLab GTM tool… |
 
 ## Data source
 

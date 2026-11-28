@@ -1,0 +1,2 @@
+created_at,chart,repository,version,description
+2026-11-28T04:26:29Z,gtm-tool-finder-snapshot,gtm-tool-finder,1.0.0,"A CronJob that keeps a ConfigMap up to date with the public OneGTMLab GTM tool directory (tool reviews, comparisons and glossary), read from the free GTM Tool Finder API."
