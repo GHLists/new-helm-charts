@@ -1,0 +1,4 @@
+created_at,chart,repository,version,description
+2026-11-27T23:58:00Z,minio-storage,lbenicio-community,0.1.0,Single-instance MinIO using the cluster's custom OIDC-aware image and storage-node data path
+2026-11-27T23:58:00Z,postgres-cnpg,lbenicio-community,0.1.0,CloudNativePG single-instance cluster and stable service for the local storage node
+2026-11-27T23:58:00Z,rke2-multus,lbenicio-community,4.3.118-lbenicio.1,Multus Helm chart for Kubernetes

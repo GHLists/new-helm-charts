@@ -14,15 +14,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 23:20 UTC
+## Latest list — 2026-11-28 00:20 UTC
 
-New charts added between 2026-11-27 22:19 UTC and 2026-11-27 23:20 UTC.
+New charts added between 2026-11-27 23:20 UTC and 2026-11-28 00:20 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-27T23-20-02-137572Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-28T00-20-05-182498Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-27 22:38:21 | [rpi4-v4l2-device-plugin](https://artifacthub.io/packages/helm/lbenicio-community/rpi4-v4l2-device-plugin) | lbenicio-community | 0.1.0 | Allocate Raspberry Pi 4 V4L2 H.264 decoder and encoder devices to Kubernetes wo… |
+| 2026-11-27 23:58:00 | [minio-storage](https://artifacthub.io/packages/helm/lbenicio-community/minio-storage) | lbenicio-community | 0.1.0 | Single-instance MinIO using the cluster's custom OIDC-aware image and storage-n… |
+| 2026-11-27 23:58:00 | [postgres-cnpg](https://artifacthub.io/packages/helm/lbenicio-community/postgres-cnpg) | lbenicio-community | 0.1.0 | CloudNativePG single-instance cluster and stable service for the local storage… |
+| 2026-11-27 23:58:00 | [rke2-multus](https://artifacthub.io/packages/helm/lbenicio-community/rke2-multus) | lbenicio-community | 4.3.118-lbenicio.1 | Multus Helm chart for Kubernetes |
 
 ## Data source
 
