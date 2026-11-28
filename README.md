@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 05:21 UTC
+## Latest list — 2026-11-28 08:19 UTC
 
-New charts added between 2026-11-28 04:19 UTC and 2026-11-28 05:21 UTC.
+New charts added between 2026-11-28 07:20 UTC and 2026-11-28 08:19 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-28T05-21-49-795907Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-28T08-19-50-172857Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-28 04:26:29 | [gtm-tool-finder-snapshot](https://artifacthub.io/packages/helm/gtm-tool-finder/gtm-tool-finder-snapshot) | gtm-tool-finder | 1.0.0 | A CronJob that keeps a ConfigMap up to date with the public OneGTMLab GTM tool… |
+| 2026-11-28 07:30:45 | [ea-hub](https://artifacthub.io/packages/helm/ea-hub/ea-hub) | ea-hub | 1.0.0 | EA-Hub (self-hosted) — web app + PostgreSQL, no Supabase or Vercel needed |
 
 ## Data source
 
