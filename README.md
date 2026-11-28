@@ -14,15 +14,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 08:19 UTC
+## Latest list — 2026-11-28 13:22 UTC
 
-New charts added between 2026-11-28 07:20 UTC and 2026-11-28 08:19 UTC.
+New charts added between 2026-11-28 12:19 UTC and 2026-11-28 13:22 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-28T08-19-50-172857Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-28T13-22-18-239961Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-28 07:30:45 | [ea-hub](https://artifacthub.io/packages/helm/ea-hub/ea-hub) | ea-hub | 1.0.0 | EA-Hub (self-hosted) — web app + PostgreSQL, no Supabase or Vercel needed |
+| 2026-11-28 13:03:02 | [netatlas](https://artifacthub.io/packages/helm/netatlas/netatlas) | netatlas | 0.1.0 | See the network policies of several Kubernetes clusters from one place. |
 
 ## Data source
 
