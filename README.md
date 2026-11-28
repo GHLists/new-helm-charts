@@ -14,17 +14,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 00:20 UTC
+## Latest list — 2026-11-28 01:21 UTC
 
-New charts added between 2026-11-27 23:20 UTC and 2026-11-28 00:20 UTC.
+New charts added between 2026-11-28 00:20 UTC and 2026-11-28 01:21 UTC.
 
-[Full CSV](data/new-helm-charts-2026-11-28T00-20-05-182498Z.csv)
+[Full CSV](data/new-helm-charts-2026-11-28T01-21-35-979761Z.csv)
 
 | Created (UTC) | Chart | Repository | Version | Description |
 | :------------ | :---- | :--------- | :------ | :---------- |
-| 2026-11-27 23:58:00 | [minio-storage](https://artifacthub.io/packages/helm/lbenicio-community/minio-storage) | lbenicio-community | 0.1.0 | Single-instance MinIO using the cluster's custom OIDC-aware image and storage-n… |
-| 2026-11-27 23:58:00 | [postgres-cnpg](https://artifacthub.io/packages/helm/lbenicio-community/postgres-cnpg) | lbenicio-community | 0.1.0 | CloudNativePG single-instance cluster and stable service for the local storage… |
-| 2026-11-27 23:58:00 | [rke2-multus](https://artifacthub.io/packages/helm/lbenicio-community/rke2-multus) | lbenicio-community | 4.3.118-lbenicio.1 | Multus Helm chart for Kubernetes |
+| 2026-11-28 00:28:14 | [proxy-helm](https://artifacthub.io/packages/helm/uyuni-proxy/proxy-helm) | uyuni-proxy | 2026.11.0 | Uyuni proxy containers. |
+| 2026-11-28 00:28:14 | [server-helm](https://artifacthub.io/packages/helm/uyuni-server/server-helm) | uyuni-server | 2026.11.0 | Uyuni server |
 
 ## Data source
 
